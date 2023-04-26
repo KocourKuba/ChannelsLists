@@ -1,0 +1,3648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv_info>
+	<version_info>
+		<list_version>5</list_version>
+	</version_info>
+	<tv_categories>
+		<tv_category>
+			<id>1</id>
+			<caption>1.Основные</caption>
+			<icon_url>plugin_file://icons/1.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>2</id>
+			<caption>2.Информационные</caption>
+			<icon_url>plugin_file://icons/4.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>3</id>
+			<caption>3.Развлекательный</caption>
+			<icon_url>plugin_file://icons/8.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>4</id>
+			<caption>4.Кино каналы</caption>
+			<icon_url>plugin_file://icons/2.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>5</id>
+			<caption>5.Спортивные</caption>
+			<icon_url>plugin_file://icons/6.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>6</id>
+			<caption>6.Для детей</caption>
+			<icon_url>plugin_file://icons/7.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>7</id>
+			<caption>7.Познавательные</caption>
+			<icon_url>plugin_file://icons/22.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>8</id>
+			<caption>8.Музыкальные</caption>
+			<icon_url>plugin_file://icons/3.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>9</id>
+			<caption>Региональные</caption>
+			<icon_url>plugin_file://icons/20.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>10</id>
+			<caption>Для взрослых</caption>
+			<icon_url>plugin_file://icons/33.png</icon_url>
+		</tv_category>
+	</tv_categories>
+	<tv_channels>
+		<tv_channel>
+			<caption>Первый HD</caption>
+			<channel_id>1</channel_id>
+			<epg_id>Iptvx:pervy</epg_id>
+			<tvg_id>Iptvx:pervy</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Perviy_hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия HD</caption>
+			<channel_id>2</channel_id>
+			<epg_id>Iptvx:rossia1</epg_id>
+			<tvg_id>Iptvx:rossia1</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Rossiya_HD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 1</caption>
+			<channel_id>3</channel_id>
+			<epg_id>Iptvx:rossia1</epg_id>
+			<tvg_id>Iptvx:rossia1</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Rossiya1.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ</caption>
+			<channel_id>4</channel_id>
+			<epg_id>Iptvx:ntv</epg_id>
+			<tvg_id>Iptvx:ntv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/ntv_HD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ HD </caption>
+			<channel_id>467</channel_id>
+			<epg_id>Iptvx:ntv</epg_id>
+			<tvg_id>Iptvx:ntv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/ntv_HD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый канал</caption>
+			<channel_id>6</channel_id>
+			<epg_id>Iptvx:pervy</epg_id>
+			<tvg_id>Iptvx:pervy</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Perviy ORT.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Культура</caption>
+			<channel_id>131</channel_id>
+			<epg_id>Iptvx:kultura</epg_id>
+			<tvg_id>Iptvx:kultura</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Rossiya Kultura.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ОТР</caption>
+			<channel_id>10010</channel_id>
+			<epg_id>Iptvx:otr</epg_id>
+			<tvg_id>Iptvx:otr</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/otr.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВЦ</caption>
+			<channel_id>11</channel_id>
+			<epg_id>Iptvx:tvcentr</epg_id>
+			<tvg_id>Iptvx:tvcentr</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/TVC.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВЦ HD</caption>
+			<channel_id>33</channel_id>
+			<epg_id>Iptvx:tvcentr</epg_id>
+			<tvg_id>Iptvx:tvcentr</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/TVC.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний</caption>
+			<channel_id>16</channel_id>
+			<epg_id>Iptvx:domashny</epg_id>
+			<tvg_id>Iptvx:domashny</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Domashniy.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний HD</caption>
+			<channel_id>827</channel_id>
+			<epg_id>Iptvx:domashny</epg_id>
+			<tvg_id>Iptvx:domashny</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Domashniy.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звезда</caption>
+			<channel_id>18</channel_id>
+			<epg_id>Iptvx:zvezda</epg_id>
+			<tvg_id>Iptvx:zvezda</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Zvezda.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Рен ТВ</caption>
+			<channel_id>20</channel_id>
+			<epg_id>Iptvx:rentv</epg_id>
+			<tvg_id>Iptvx:rentv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/RenTV.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Рен тв HD</caption>
+			<channel_id>94</channel_id>
+			<epg_id>Iptvx:rentv</epg_id>
+			<tvg_id>Iptvx:rentv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/RenTV.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>РТР-Планета</caption>
+			<channel_id>21</channel_id>
+			<epg_id>Iptvx:rtr-planeta-ua</epg_id>
+			<tvg_id>Iptvx:rtr-planeta-ua</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/RTR Planeta.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир</caption>
+			<channel_id>10023</channel_id>
+			<epg_id>Iptvx:mir</epg_id>
+			<tvg_id>Iptvx:mir</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Mir.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир HD</caption>
+			<channel_id>830</channel_id>
+			<epg_id>Iptvx:mir</epg_id>
+			<tvg_id>Iptvx:mir</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Mir.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый Крымский</caption>
+			<channel_id>162</channel_id>
+			<epg_id>Iptvx:pervy-krymsky</epg_id>
+			<tvg_id>Iptvx:pervy-krymsky</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1krym[1].jpg</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звезда Плюс HD</caption>
+			<channel_id>74</channel_id>
+			<epg_id>Iptvx:zvezda-plus</epg_id>
+			<tvg_id>Iptvx:zvezda-plus</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/zvezda-plus[1].png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятый канал</caption>
+			<channel_id>30</channel_id>
+			<epg_id>Iptvx:5kanal-ru</epg_id>
+			<tvg_id>Iptvx:5kanal-ru</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/5 kanal rossia.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>360</caption>
+			<channel_id>32</channel_id>
+			<epg_id>Iptvx:360-podmoskovie</epg_id>
+			<tvg_id>Iptvx:360-podmoskovie</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Podmoskovie.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Мир</caption>
+			<channel_id>41</channel_id>
+			<epg_id>Iptvx:ntv-mir</epg_id>
+			<tvg_id>Iptvx:ntv-mir</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/NTV Mir.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Право</caption>
+			<channel_id>192</channel_id>
+			<epg_id>Iptvx:ntv-pravo</epg_id>
+			<tvg_id>Iptvx:ntv-pravo</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/NTVPRAVO.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Сериал</caption>
+			<channel_id>199</channel_id>
+			<epg_id>Iptvx:ntv-serial</epg_id>
+			<tvg_id>Iptvx:ntv-serial</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/NTVSERIAL.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Стиль</caption>
+			<channel_id>230</channel_id>
+			<epg_id>Iptvx:ntv-style</epg_id>
+			<tvg_id>Iptvx:ntv-style</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/ntvstil.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ ХИТ</caption>
+			<channel_id>611</channel_id>
+			<epg_id>Iptvx:ntv-xit</epg_id>
+			<tvg_id>Iptvx:ntv-xit</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/0480300001514653463[1].png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 1</caption>
+			<channel_id>413</channel_id>
+			<epg_id>Iptvx:belarus1</epg_id>
+			<tvg_id>Iptvx:belarus1</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/belarus1.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 2</caption>
+			<channel_id>415</channel_id>
+			<epg_id>Iptvx:belarus2</epg_id>
+			<tvg_id>Iptvx:belarus2</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/belarus2.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 3</caption>
+			<channel_id>416</channel_id>
+			<epg_id>Iptvx:belarus3</epg_id>
+			<tvg_id>Iptvx:belarus3</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/belarus3.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ОНТ</caption>
+			<channel_id>417</channel_id>
+			<epg_id>Iptvx:ont-by</epg_id>
+			<tvg_id>Iptvx:ont-by</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/ont-by[1].png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТВ</caption>
+			<channel_id>419</channel_id>
+			<epg_id>Iptvx:stv-by</epg_id>
+			<tvg_id>Iptvx:stv-by</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/stv-by[1].png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый Канал (+2)</caption>
+			<channel_id>28</channel_id>
+			<epg_id>Первый Канал (+2)</epg_id>
+			<tvg_id>Первый Канал (+2)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Perviy ORT.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый Канал (+4)</caption>
+			<channel_id>121</channel_id>
+			<epg_id>Первый Канал (+4)</epg_id>
+			<tvg_id>Первый Канал (+4)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Perviy ORT.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый Канал (+6)</caption>
+			<channel_id>751</channel_id>
+			<epg_id>Первый Канал (+6)</epg_id>
+			<tvg_id>Первый Канал (+6)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Perviy ORT.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый Канал (+8)</caption>
+			<channel_id>212</channel_id>
+			<epg_id>Первый Канал (+8)</epg_id>
+			<tvg_id>Первый Канал (+8)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Perviy ORT.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ (+2)</caption>
+			<channel_id>392</channel_id>
+			<epg_id>НТВ (+2)</epg_id>
+			<tvg_id>НТВ (+2)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/NTV.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ (+4)</caption>
+			<channel_id>1000226</channel_id>
+			<epg_id>НТВ (+4)</epg_id>
+			<tvg_id>НТВ (+4)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/NTV.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ (+7)</caption>
+			<channel_id>108</channel_id>
+			<epg_id>НТВ (+7)</epg_id>
+			<tvg_id>НТВ (+7)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/NTV.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 1 (+2)</caption>
+			<channel_id>211</channel_id>
+			<epg_id>Россия 1 (+2)</epg_id>
+			<tvg_id>Россия 1 (+2)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Rossiya1.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 1 (+4)</caption>
+			<channel_id>421</channel_id>
+			<epg_id>Россия 1 (+4)</epg_id>
+			<tvg_id>Россия 1 (+4)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Rossiya1.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 1 (+6)</caption>
+			<channel_id>213</channel_id>
+			<epg_id>Россия 1 (+6)</epg_id>
+			<tvg_id>Россия 1 (+6)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Rossiya1.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 1 (+8)</caption>
+			<channel_id>215</channel_id>
+			<epg_id>Россия 1 (+8)</epg_id>
+			<tvg_id>Россия 1 (+8)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Rossiya1.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Центральное телевидение</caption>
+			<channel_id>634</channel_id>
+			<epg_id>Центральное телевидение</epg_id>
+			<tvg_id>Центральное телевидение</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/CT.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 24</caption>
+			<channel_id>5</channel_id>
+			<epg_id>Iptvx:rossia-24</epg_id>
+			<tvg_id>Iptvx:rossia-24</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Rossiya 24.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир 24</caption>
+			<channel_id>25</channel_id>
+			<epg_id>Iptvx:mir-24</epg_id>
+			<tvg_id>Iptvx:mir-24</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Mir 24.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир 24 HD</caption>
+			<channel_id>831</channel_id>
+			<epg_id>Iptvx:mir-24</epg_id>
+			<tvg_id>Iptvx:mir-24</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Mir 24.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Москва 24</caption>
+			<channel_id>26</channel_id>
+			<epg_id>Iptvx:moskva-24</epg_id>
+			<tvg_id>Iptvx:moskva-24</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Moskva24.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дождь</caption>
+			<channel_id>27</channel_id>
+			<epg_id>Iptvx:dozhd</epg_id>
+			<tvg_id>Iptvx:dozhd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Dozhd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>РБК ТВ</caption>
+			<channel_id>10034</channel_id>
+			<epg_id>Iptvx:rbk</epg_id>
+			<tvg_id>Iptvx:rbk</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/RBK.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RT Д</caption>
+			<channel_id>247</channel_id>
+			<epg_id>Iptvx:rtd-ru</epg_id>
+			<tvg_id>Iptvx:rtd-ru</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/rt-doc[1].png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EN: CGTN</caption>
+			<channel_id>791</channel_id>
+			<epg_id>Iptvx:cgtn</epg_id>
+			<tvg_id>Iptvx:cgtn</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/cgtn[1].png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CN: CCTV-4 HD</caption>
+			<channel_id>779</channel_id>
+			<epg_id>Iptvx:cctv4</epg_id>
+			<tvg_id>Iptvx:cctv4</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/cctv4[1].png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Euronews</caption>
+			<channel_id>781</channel_id>
+			<epg_id>Iptvx:euronews</epg_id>
+			<tvg_id>Iptvx:euronews</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/euronews[1].png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EN: France 24</caption>
+			<channel_id>67</channel_id>
+			<epg_id>Iptvx:france24-en</epg_id>
+			<tvg_id>Iptvx:france24-en</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/france24[1].png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EN: BBC World News</caption>
+			<channel_id>64</channel_id>
+			<epg_id>Iptvx:bbc</epg_id>
+			<tvg_id>Iptvx:bbc</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/bbc[1].png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EN: RT</caption>
+			<channel_id>59</channel_id>
+			<epg_id>Iptvx:rt-news</epg_id>
+			<tvg_id>Iptvx:rt-news</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/russia-today[1].png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 24</caption>
+			<channel_id>1000</channel_id>
+			<epg_id>Iptvx:belarus24</epg_id>
+			<tvg_id>Iptvx:belarus24</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/belarus24[1].png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>DE: DE: Deutsche Welle</caption>
+			<channel_id>404</channel_id>
+			<epg_id>Iptvx:deutsche-welle-de</epg_id>
+			<tvg_id>Iptvx:deutsche-welle-de</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/deutsche-welle-de[1].png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Крик ТВ</caption>
+			<channel_id>610</channel_id>
+			<epg_id>Крик ТВ</epg_id>
+			<tvg_id>Крик ТВ</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/blank.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ-3</caption>
+			<channel_id>12</channel_id>
+			<epg_id>Iptvx:tv3-ru</epg_id>
+			<tvg_id>Iptvx:tv3-ru</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/TV3.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ-3 HD</caption>
+			<channel_id>828</channel_id>
+			<epg_id>Iptvx:tv3-ru</epg_id>
+			<tvg_id>Iptvx:tv3-ru</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/TV3.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ</caption>
+			<channel_id>13</channel_id>
+			<epg_id>Iptvx:tnt</epg_id>
+			<tvg_id>Iptvx:tnt</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/TNT.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ HD</caption>
+			<channel_id>144</channel_id>
+			<epg_id>Iptvx:tnt</epg_id>
+			<tvg_id>Iptvx:tnt</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/TNT.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС</caption>
+			<channel_id>14</channel_id>
+			<epg_id>Iptvx:sts</epg_id>
+			<tvg_id>Iptvx:sts</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Sts.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС HD</caption>
+			<channel_id>543</channel_id>
+			<epg_id>Iptvx:sts</epg_id>
+			<tvg_id>Iptvx:sts</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Sts.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС Love</caption>
+			<channel_id>10015</channel_id>
+			<epg_id>Iptvx:sts-love</epg_id>
+			<tvg_id>Iptvx:sts-love</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/stslove.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Че</caption>
+			<channel_id>17</channel_id>
+			<epg_id>Iptvx:che</epg_id>
+			<tvg_id>Iptvx:che</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/che.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ 4</caption>
+			<channel_id>19</channel_id>
+			<epg_id>Iptvx:tnt4</epg_id>
+			<tvg_id>Iptvx:tnt4</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/tnt4.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ 4 HD</caption>
+			<channel_id>603</channel_id>
+			<epg_id>Iptvx:tnt4</epg_id>
+			<tvg_id>Iptvx:tnt4</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/tnt4.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятница</caption>
+			<channel_id>22</channel_id>
+			<epg_id>Iptvx:piatnica</epg_id>
+			<tvg_id>Iptvx:piatnica</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/patnica.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятница HD</caption>
+			<channel_id>605</channel_id>
+			<epg_id>Iptvx:piatnica</epg_id>
+			<tvg_id>Iptvx:piatnica</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/patnica.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ю</caption>
+			<channel_id>29</channel_id>
+			<epg_id>Iptvx:yu</epg_id>
+			<tvg_id>Iptvx:yu</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/U.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Тайна</caption>
+			<channel_id>105</channel_id>
+			<epg_id>Iptvx:tayna</epg_id>
+			<tvg_id>Iptvx:tayna</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3455[1].png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Insight UHD</caption>
+			<channel_id>486</channel_id>
+			<epg_id>Iptvx:insight-ultra-hd</epg_id>
+			<tvg_id>Iptvx:insight-ultra-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/insight-ultra-hd[1].png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Диалоги о рыбалке</caption>
+			<channel_id>145</channel_id>
+			<epg_id>Iptvx:dialogi-o-rybalke</epg_id>
+			<tvg_id>Iptvx:dialogi-o-rybalke</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3294s[1].png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикая рыбалка HD</caption>
+			<channel_id>480</channel_id>
+			<epg_id>Iptvx:dikaya-rybalka-hd</epg_id>
+			<tvg_id>Iptvx:dikaya-rybalka-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/dikaya-rybalka-hd[1].png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикая охота HD</caption>
+			<channel_id>512</channel_id>
+			<epg_id>Iptvx:dikaya-oxota-hd</epg_id>
+			<tvg_id>Iptvx:dikaya-oxota-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/dikaya-oxota-hd[1].png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Luxury HD</caption>
+			<channel_id>466</channel_id>
+			<epg_id>Iptvx:luxury-hd</epg_id>
+			<tvg_id>Iptvx:luxury-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Luxury.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Home 4k</caption>
+			<channel_id>240</channel_id>
+			<epg_id>Iptvx:home-4k</epg_id>
+			<tvg_id>Iptvx:home-4k</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/home4k[1].png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сарафан ТВ</caption>
+			<channel_id>607</channel_id>
+			<epg_id>Iptvx:sarafan</epg_id>
+			<tvg_id>Iptvx:sarafan</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/sarafan[1].png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КВН ТВ</caption>
+			<channel_id>389</channel_id>
+			<epg_id>Iptvx:kvn-tv</epg_id>
+			<tvg_id>Iptvx:kvn-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/kvn-tv[1].png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Восток ТВ</caption>
+			<channel_id>681</channel_id>
+			<epg_id>Iptvx:vostok-tv</epg_id>
+			<tvg_id>Iptvx:vostok-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/vostok-tv[1].png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ювелирочка</caption>
+			<channel_id>99</channel_id>
+			<epg_id>Iptvx:yuvelirochka</epg_id>
+			<tvg_id>Iptvx:yuvelirochka</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/yuvelirochka[1].png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ВосьМой HD</caption>
+			<channel_id>420</channel_id>
+			<epg_id>Iptvx:8kanal-by</epg_id>
+			<tvg_id>Iptvx:8kanal-by</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/8by[1].png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ (+2)</caption>
+			<channel_id>98</channel_id>
+			<epg_id>ТНТ (+2)</epg_id>
+			<tvg_id>ТНТ (+2)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/TNT.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ (+4)</caption>
+			<channel_id>186</channel_id>
+			<epg_id>ТНТ (+4)</epg_id>
+			<tvg_id>ТНТ (+4)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/TNT.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ (+7)</caption>
+			<channel_id>1000235</channel_id>
+			<epg_id>ТНТ (+7)</epg_id>
+			<tvg_id>ТНТ (+7)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/TNT.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС (+2)</caption>
+			<channel_id>114</channel_id>
+			<epg_id>Iptvx:sts</epg_id>
+			<tvg_id>Iptvx:sts</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Sts.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС (+4)</caption>
+			<channel_id>152</channel_id>
+			<epg_id>СТС (+4)</epg_id>
+			<tvg_id>СТС (+4)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Sts.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС (+7)</caption>
+			<channel_id>62</channel_id>
+			<epg_id>СТС (+7)</epg_id>
+			<tvg_id>СТС (+7)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Sts.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Суббота! +2</caption>
+			<channel_id>651</channel_id>
+			<epg_id>Суббота! +2</epg_id>
+			<tvg_id>Суббота! +2</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/subbota.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Gagsnetwork</caption>
+			<channel_id>660</channel_id>
+			<epg_id>Gagsnetwork</epg_id>
+			<tvg_id>Gagsnetwork</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Gagsnetwork.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Живи Активно HD</caption>
+			<channel_id>657</channel_id>
+			<epg_id>Живи Активно HD</epg_id>
+			<tvg_id>Живи Активно HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/jivi_aktivno.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Зал суда</caption>
+			<channel_id>661</channel_id>
+			<epg_id>Зал суда</epg_id>
+			<tvg_id>Зал суда</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/zal-suda.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EN: FashionBox</caption>
+			<channel_id>682</channel_id>
+			<epg_id>EN: FashionBox</epg_id>
+			<tvg_id>EN: FashionBox</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/fashionbox HD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EN: Fashion One HD</caption>
+			<channel_id>684</channel_id>
+			<epg_id>EN: Fashion One HD</epg_id>
+			<tvg_id>EN: Fashion One HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Fashion One FHD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EN: Fashion TV HD</caption>
+			<channel_id>685</channel_id>
+			<epg_id>EN: Fashion TV HD</epg_id>
+			<tvg_id>EN: Fashion TV HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Fashion TV FHD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше новое кино</caption>
+			<channel_id>7</channel_id>
+			<epg_id>Iptvx:nashe-novoe-kino</epg_id>
+			<tvg_id>Iptvx:nashe-novoe-kino</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/nashe_novoe_kino.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Родное кино</caption>
+			<channel_id>15</channel_id>
+			<epg_id>Iptvx:rodnoe-kino</epg_id>
+			<tvg_id>Iptvx:rodnoe-kino</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/rodnoe_kino.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинохит</caption>
+			<channel_id>23</channel_id>
+			<epg_id>Iptvx:kinoxit</epg_id>
+			<tvg_id>Iptvx:kinoxit</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/kinohit.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киномикс</caption>
+			<channel_id>34</channel_id>
+			<epg_id>Iptvx:kinomiks</epg_id>
+			<tvg_id>Iptvx:kinomiks</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/kinomix.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносемья</caption>
+			<channel_id>60</channel_id>
+			<epg_id>Iptvx:kinosemiya</epg_id>
+			<tvg_id>Iptvx:kinosemiya</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/kinosemja.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносвидание</caption>
+			<channel_id>103</channel_id>
+			<epg_id>Iptvx:kinosvidanie</epg_id>
+			<tvg_id>Iptvx:kinosvidanie</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/kinosvidanie.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинопремьера HD</caption>
+			<channel_id>157</channel_id>
+			<epg_id>Iptvx:kinopremiera-hd</epg_id>
+			<tvg_id>Iptvx:kinopremiera-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/kinopremiera.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV 1000</caption>
+			<channel_id>126</channel_id>
+			<epg_id>Iptvx:tv1000</epg_id>
+			<tvg_id>Iptvx:tv1000</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1016[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV 1000 Русское кино</caption>
+			<channel_id>127</channel_id>
+			<epg_id>Iptvx:tv1000-russkoe-kino</epg_id>
+			<tvg_id>Iptvx:tv1000-russkoe-kino</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3319[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV 1000 Action</caption>
+			<channel_id>128</channel_id>
+			<epg_id>Iptvx:tv1000-action</epg_id>
+			<tvg_id>Iptvx:tv1000-action</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2168[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Иллюзион+</caption>
+			<channel_id>136</channel_id>
+			<epg_id>Iptvx:illuzion-plus</epg_id>
+			<tvg_id>Iptvx:illuzion-plus</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3148[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Иллюзион+ HD</caption>
+			<channel_id>569</channel_id>
+			<epg_id>Iptvx:illuzion-plus</epg_id>
+			<tvg_id>Iptvx:illuzion-plus</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3148[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский иллюзион</caption>
+			<channel_id>129</channel_id>
+			<epg_id>Iptvx:russky-illuzion</epg_id>
+			<tvg_id>Iptvx:russky-illuzion</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1086[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский иллюзион HD</caption>
+			<channel_id>572</channel_id>
+			<epg_id>Iptvx:russky-illuzion</epg_id>
+			<tvg_id>Iptvx:russky-illuzion</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1086[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинокомедия</caption>
+			<channel_id>138</channel_id>
+			<epg_id>Iptvx:kinokomedia</epg_id>
+			<tvg_id>Iptvx:kinokomedia</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/kinokomedia.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>.Red HD</caption>
+			<channel_id>140</channel_id>
+			<epg_id>Iptvx:sony-tv</epg_id>
+			<tvg_id>Iptvx:sony-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/L_rBEYuYIUow1w65zzAz5P2pbJ2vlz2Q7axzBPziWn7GvoeEWKqgfMlRRSbkMgnXk4FWVail9YNg3qhRhAzSCA35[1].jpg</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>.Red</caption>
+			<channel_id>527</channel_id>
+			<epg_id>Iptvx:sony-tv</epg_id>
+			<tvg_id>Iptvx:sony-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/L_rBEYuYIUow1w65zzAz5P2pbJ2vlz2Q7axzBPziWn7GvoeEWKqgfMlRRSbkMgnXk4FWVail9YNg3qhRhAzSCA35[1].jpg</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НСТ</caption>
+			<channel_id>141</channel_id>
+			<epg_id>Iptvx:nst</epg_id>
+			<tvg_id>Iptvx:nst</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/nstbig[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киноужас HD</caption>
+			<channel_id>302</channel_id>
+			<epg_id>Iptvx:kinouzhas</epg_id>
+			<tvg_id>Iptvx:kinouzhas</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1aaa8829850b8717c2bf4d13764f1351[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Страшное HD</caption>
+			<channel_id>87</channel_id>
+			<epg_id>Iptvx:strashnoe-hd</epg_id>
+			<tvg_id>Iptvx:strashnoe-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/strashnoe_hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Шокирующее</caption>
+			<channel_id>195</channel_id>
+			<epg_id>Iptvx:shokiruyushchee-hd</epg_id>
+			<tvg_id>Iptvx:shokiruyushchee-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/shokiruyushchee-hd[2].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SHOT TV</caption>
+			<channel_id>122</channel_id>
+			<epg_id>Iptvx:shot-tv</epg_id>
+			<tvg_id>Iptvx:shot-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/shot-tv[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Trash HD</caption>
+			<channel_id>606</channel_id>
+			<epg_id>Iptvx:trashtv</epg_id>
+			<tvg_id>Iptvx:trashtv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/playlist_trash[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fox</caption>
+			<channel_id>142</channel_id>
+			<epg_id>Iptvx:fox</epg_id>
+			<tvg_id>Iptvx:fox</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2517[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>21</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fox Life</caption>
+			<channel_id>143</channel_id>
+			<epg_id>Iptvx:foxlife</epg_id>
+			<tvg_id>Iptvx:foxlife</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3575[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>21</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sony Sci-Fi</caption>
+			<channel_id>146</channel_id>
+			<epg_id>Iptvx:sony-scifi</epg_id>
+			<tvg_id>Iptvx:sony-scifi</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/sony_sci_fi.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV XXI</caption>
+			<channel_id>147</channel_id>
+			<epg_id>Iptvx:tvxxi</epg_id>
+			<tvg_id>Iptvx:tvxxi</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1003[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еврокино</caption>
+			<channel_id>148</channel_id>
+			<epg_id>Iptvx:evrokino</epg_id>
+			<tvg_id>Iptvx:evrokino</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1133[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дом кино</caption>
+			<channel_id>150</channel_id>
+			<epg_id>Iptvx:domkino</epg_id>
+			<tvg_id>Iptvx:domkino</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1038[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дом кино премиум</caption>
+			<channel_id>61</channel_id>
+			<epg_id>Iptvx:domkino-premium</epg_id>
+			<tvg_id>Iptvx:domkino-premium</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2060[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дом кино премиум HD</caption>
+			<channel_id>107</channel_id>
+			<epg_id>Iptvx:domkino-premium</epg_id>
+			<tvg_id>Iptvx:domkino-premium</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2060[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Индийское кино</caption>
+			<channel_id>149</channel_id>
+			<epg_id>Iptvx:indiyskoe-kino</epg_id>
+			<tvg_id>Iptvx:indiyskoe-kino</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/indiyskoe_kino.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше любимое кино</caption>
+			<channel_id>293</channel_id>
+			<epg_id>Iptvx:lubimoe-kino</epg_id>
+			<tvg_id>Iptvx:lubimoe-kino</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1248[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир сериала</caption>
+			<channel_id>716</channel_id>
+			<epg_id>Iptvx:mir-seriala</epg_id>
+			<tvg_id>Iptvx:mir-seriala</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1279[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносерия</caption>
+			<channel_id>154</channel_id>
+			<epg_id>Iptvx:kinoseria</epg_id>
+			<tvg_id>Iptvx:kinoseria</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1147[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский бестселлер</caption>
+			<channel_id>250</channel_id>
+			<epg_id>Iptvx:russky-bestseller</epg_id>
+			<tvg_id>Iptvx:russky-bestseller</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1428[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский роман</caption>
+			<channel_id>156</channel_id>
+			<epg_id>Iptvx:russky-roman</epg_id>
+			<tvg_id>Iptvx:russky-roman</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1282[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский роман HD</caption>
+			<channel_id>463</channel_id>
+			<epg_id>Iptvx:russky-roman</epg_id>
+			<tvg_id>Iptvx:russky-roman</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1282[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский детектив</caption>
+			<channel_id>202</channel_id>
+			<epg_id>Iptvx:russky-detektiv</epg_id>
+			<tvg_id>Iptvx:russky-detektiv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1774[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Комедия</caption>
+			<channel_id>397</channel_id>
+			<epg_id>Iptvx:russkaya-komedia</epg_id>
+			<tvg_id>Iptvx:russkaya-komedia</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2203[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV Rus</caption>
+			<channel_id>435</channel_id>
+			<epg_id>TV Rus</epg_id>
+			<tvg_id>TV Rus</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/02_TVRUS[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Точка тв</caption>
+			<channel_id>714</channel_id>
+			<epg_id>Iptvx:tochka-tv</epg_id>
+			<tvg_id>Iptvx:tochka-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1928[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Победа</caption>
+			<channel_id>316</channel_id>
+			<epg_id>Iptvx:pobeda</epg_id>
+			<tvg_id>Iptvx:pobeda</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3616[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>День победы</caption>
+			<channel_id>179</channel_id>
+			<epg_id>Iptvx:denpobedy</epg_id>
+			<tvg_id>Iptvx:denpobedy</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/denpobedy[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Megahit</caption>
+			<channel_id>166</channel_id>
+			<epg_id>Iptvx:vip-megahit</epg_id>
+			<tvg_id>Iptvx:vip-megahit</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/hk8[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Comedy</caption>
+			<channel_id>167</channel_id>
+			<epg_id>Iptvx:vip-comedy</epg_id>
+			<tvg_id>Iptvx:vip-comedy</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/ei4[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Premiere</caption>
+			<channel_id>169</channel_id>
+			<epg_id>Iptvx:vip-premiere</epg_id>
+			<tvg_id>Iptvx:vip-premiere</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/svz[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VIP Serial HD</caption>
+			<channel_id>489</channel_id>
+			<epg_id>Iptvx:vip-serial</epg_id>
+			<tvg_id>Iptvx:vip-serial</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3550[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Комедийное</caption>
+			<channel_id>197</channel_id>
+			<epg_id>Iptvx:komedijnoe-hd</epg_id>
+			<tvg_id>Iptvx:komedijnoe-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3173[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Камеди HD</caption>
+			<channel_id>553</channel_id>
+			<epg_id>Iptvx:kamedi</epg_id>
+			<tvg_id>Iptvx:kamedi</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/kamedi[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинопоказ</caption>
+			<channel_id>196</channel_id>
+			<epg_id>Iptvx:kinopokaz</epg_id>
+			<tvg_id>Iptvx:kinopokaz</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/KinoPokaz.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинопоказ HD</caption>
+			<channel_id>609</channel_id>
+			<epg_id>Iptvx:kinopokaz-hd</epg_id>
+			<tvg_id>Iptvx:kinopokaz-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/kinopokaz[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наш Кинопоказ HD</caption>
+			<channel_id>574</channel_id>
+			<epg_id>Iptvx:nash-kinopokaz</epg_id>
+			<tvg_id>Iptvx:nash-kinopokaz</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/nash-kinopokaz[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Блокбастер HD</caption>
+			<channel_id>582</channel_id>
+			<epg_id>Iptvx:blokbaster-hd</epg_id>
+			<tvg_id>Iptvx:blokbaster-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/blokbaster[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Премиальное</caption>
+			<channel_id>203</channel_id>
+			<epg_id>Iptvx:premialnoe-hd</epg_id>
+			<tvg_id>Iptvx:premialnoe-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/4019[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Остросюжетное HD</caption>
+			<channel_id>205</channel_id>
+			<epg_id>Iptvx:ostrosiuzhetnoe-hd</epg_id>
+			<tvg_id>Iptvx:ostrosiuzhetnoe-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/ostrotv[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Душевное HD</caption>
+			<channel_id>206</channel_id>
+			<epg_id>Iptvx:dushevnoe</epg_id>
+			<tvg_id>Iptvx:dushevnoe</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/dushevnoe[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше HD</caption>
+			<channel_id>204</channel_id>
+			<epg_id>Iptvx:nashehd</epg_id>
+			<tvg_id>Iptvx:nashehd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1512bd9d4858bc220f7d3659e9de9239[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше Мужское HD</caption>
+			<channel_id>608</channel_id>
+			<epg_id>Iptvx:nashe-muzhskoe-hd</epg_id>
+			<tvg_id>Iptvx:nashe-muzhskoe-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/nashe-muzhskoe[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Про любовь HD</caption>
+			<channel_id>566</channel_id>
+			<epg_id>Iptvx:pro-lyubov</epg_id>
+			<tvg_id>Iptvx:pro-lyubov</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/pro-lyubov[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Любимое HD</caption>
+			<channel_id>90</channel_id>
+			<epg_id>Iptvx:nashe-lubimoe-hd</epg_id>
+			<tvg_id>Iptvx:nashe-lubimoe-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/6845[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Золотая коллекция</caption>
+			<channel_id>664</channel_id>
+			<epg_id>Iptvx:mosfilm</epg_id>
+			<tvg_id>Iptvx:mosfilm</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/mosfilm.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Amedia 1</caption>
+			<channel_id>175</channel_id>
+			<epg_id>Iptvx:amedia1</epg_id>
+			<tvg_id>Iptvx:amedia1</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1612[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Amedia 2</caption>
+			<channel_id>42</channel_id>
+			<epg_id>Iptvx:amedia2</epg_id>
+			<tvg_id>Iptvx:amedia2</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1694[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>A HOME OF HBO 2 HD</caption>
+			<channel_id>177</channel_id>
+			<epg_id>Iptvx:amedia-premium</epg_id>
+			<tvg_id>Iptvx:amedia-premium</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2436[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>A HOME OF HBO 1</caption>
+			<channel_id>614</channel_id>
+			<epg_id>Iptvx:amedia-hit</epg_id>
+			<tvg_id>Iptvx:amedia-hit</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/amedia-hit[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>21</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>START Air HD</caption>
+			<channel_id>821</channel_id>
+			<epg_id>Iptvx:start-air</epg_id>
+			<tvg_id>Iptvx:start-air</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/start-air[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>START World HD</caption>
+			<channel_id>181</channel_id>
+			<epg_id>Iptvx:start-world</epg_id>
+			<tvg_id>Iptvx:start-world</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/start-world[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Star Family HD</caption>
+			<channel_id>422</channel_id>
+			<epg_id>Iptvx:star-family</epg_id>
+			<tvg_id>Iptvx:star-family</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/star-family[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Star Cinema Россия</caption>
+			<channel_id>594</channel_id>
+			<epg_id>Iptvx:star-cinema</epg_id>
+			<tvg_id>Iptvx:star-cinema</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/star-cinema[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>FilmBox Russia</caption>
+			<channel_id>596</channel_id>
+			<epg_id>Iptvx:filmbox-ru</epg_id>
+			<tvg_id>Iptvx:filmbox-ru</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/filmbox-ru[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Романтичное HD</caption>
+			<channel_id>370</channel_id>
+			<epg_id>Iptvx:romantichnoe-hd</epg_id>
+			<tvg_id>Iptvx:romantichnoe-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/romantichnoe-hd[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>.black</caption>
+			<channel_id>178</channel_id>
+			<epg_id>Iptvx:sony-turbo</epg_id>
+			<tvg_id>Iptvx:sony-turbo</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/sony-turbo[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Hollywood</caption>
+			<channel_id>183</channel_id>
+			<epg_id>Iptvx:hollywood</epg_id>
+			<tvg_id>Iptvx:hollywood</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1440[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Hollywood HD</caption>
+			<channel_id>48</channel_id>
+			<epg_id>Iptvx:hollywood-hd</epg_id>
+			<tvg_id>Iptvx:hollywood-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1440[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мужское кино</caption>
+			<channel_id>573</channel_id>
+			<epg_id>Iptvx:muzhskoe-kino</epg_id>
+			<tvg_id>Iptvx:muzhskoe-kino</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/muzhskoe_kino.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино тв HD</caption>
+			<channel_id>300</channel_id>
+			<epg_id>Iptvx:kino-tv</epg_id>
+			<tvg_id>Iptvx:kino-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Chan_061[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ultra HD Cinema</caption>
+			<channel_id>83</channel_id>
+			<epg_id>Iptvx:ultra-hd-cinema</epg_id>
+			<tvg_id>Iptvx:ultra-hd-cinema</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/ultra-hd-cinema[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cinema</caption>
+			<channel_id>299</channel_id>
+			<epg_id>Iptvx:cinema-ru</epg_id>
+			<tvg_id>Iptvx:cinema-ru</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3756[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Суббота! HD</caption>
+			<channel_id>396</channel_id>
+			<epg_id>Iptvx:super</epg_id>
+			<tvg_id>Iptvx:super</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/subbota[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Хит HD</caption>
+			<channel_id>546</channel_id>
+			<epg_id>Iptvx:khit-hd</epg_id>
+			<tvg_id>Iptvx:khit-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/611[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино UHD</caption>
+			<channel_id>495</channel_id>
+			<epg_id>Iptvx:kino-ultra-hd</epg_id>
+			<tvg_id>Iptvx:kino-ultra-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3856[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сериал UHD</caption>
+			<channel_id>558</channel_id>
+			<epg_id>Iptvx:serial-ultrahd</epg_id>
+			<tvg_id>Iptvx:serial-ultrahd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3847[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Феникс кино</caption>
+			<channel_id>617</channel_id>
+			<epg_id>Iptvx:feniks-plus-kino</epg_id>
+			<tvg_id>Iptvx:feniks-plus-kino</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/feniks-plus-kino[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic VHS</caption>
+			<channel_id>9</channel_id>
+			<epg_id>Iptvx:magic-vhs</epg_id>
+			<tvg_id>Iptvx:magic-vhs</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/magic-vhs[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Karate</caption>
+			<channel_id>70</channel_id>
+			<epg_id>Iptvx:magic-karate</epg_id>
+			<tvg_id>Iptvx:magic-karate</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/magic-karate[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Comedy</caption>
+			<channel_id>132</channel_id>
+			<epg_id>Iptvx:magic-comedy</epg_id>
+			<tvg_id>Iptvx:magic-comedy</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/magic-comedy[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Family</caption>
+			<channel_id>588</channel_id>
+			<epg_id>Iptvx:magic-family</epg_id>
+			<tvg_id>Iptvx:magic-family</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Magic Family HD.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Disney</caption>
+			<channel_id>334</channel_id>
+			<epg_id>Iptvx:magic-disney</epg_id>
+			<tvg_id>Iptvx:magic-disney</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/magic-disney[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Horror</caption>
+			<channel_id>584</channel_id>
+			<epg_id>Iptvx:magic-horror</epg_id>
+			<tvg_id>Iptvx:magic-horror</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/magic-horror[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Galaxy</caption>
+			<channel_id>585</channel_id>
+			<epg_id>Iptvx:magic-galaxy</epg_id>
+			<tvg_id>Iptvx:magic-galaxy</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/magic-galaxy[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Thriller</caption>
+			<channel_id>587</channel_id>
+			<epg_id>Iptvx:magic-thriller</epg_id>
+			<tvg_id>Iptvx:magic-thriller</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/magic-thriller[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Action</caption>
+			<channel_id>586</channel_id>
+			<epg_id>Iptvx:magic-action</epg_id>
+			<tvg_id>Iptvx:magic-action</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/magic-action[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Love</caption>
+			<channel_id>590</channel_id>
+			<epg_id>Iptvx:magic-love</epg_id>
+			<tvg_id>Iptvx:magic-love</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Magic Love HD.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Star Cinema Украина</caption>
+			<channel_id>807</channel_id>
+			<epg_id>Iptvx:star-cinema-ua</epg_id>
+			<tvg_id>Iptvx:star-cinema-ua</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/star-cinema[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Star Family Украина</caption>
+			<channel_id>595</channel_id>
+			<epg_id>Iptvx:star-family-ua</epg_id>
+			<tvg_id>Iptvx:star-family-ua</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/star-family[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bolt Украина</caption>
+			<channel_id>100</channel_id>
+			<epg_id>Iptvx:bolt</epg_id>
+			<tvg_id>Iptvx:bolt</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/bolt[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cinema</caption>
+			<channel_id>554</channel_id>
+			<epg_id>Iptvx:cinema</epg_id>
+			<tvg_id>Iptvx:cinema</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/cosmostv[1].png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч!</caption>
+			<channel_id>8</channel_id>
+			<epg_id>Iptvx:match-tv</epg_id>
+			<tvg_id>Iptvx:match-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! HD</caption>
+			<channel_id>1457</channel_id>
+			<epg_id>Iptvx:match-tv</epg_id>
+			<tvg_id>Iptvx:match-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Премьер HD</caption>
+			<channel_id>251</channel_id>
+			<epg_id>Iptvx:match-premier</epg_id>
+			<tvg_id>Iptvx:match-premier</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1127[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Премьер</caption>
+			<channel_id>252</channel_id>
+			<epg_id>Iptvx:match-premier</epg_id>
+			<tvg_id>Iptvx:match-premier</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1127[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 1</caption>
+			<channel_id>253</channel_id>
+			<epg_id>Iptvx:match-football1</epg_id>
+			<tvg_id>Iptvx:match-football1</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match_futbol1.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 1 HD</caption>
+			<channel_id>254</channel_id>
+			<epg_id>Iptvx:match-football1</epg_id>
+			<tvg_id>Iptvx:match-football1</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match_futbol1.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 2</caption>
+			<channel_id>255</channel_id>
+			<epg_id>Iptvx:match-football2</epg_id>
+			<tvg_id>Iptvx:match-football2</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match_futbol2.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 2 HD</caption>
+			<channel_id>256</channel_id>
+			<epg_id>Iptvx:match-football2</epg_id>
+			<tvg_id>Iptvx:match-football2</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match_futbol2.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 3</caption>
+			<channel_id>277</channel_id>
+			<epg_id>Iptvx:match-football3</epg_id>
+			<tvg_id>Iptvx:match-football3</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match_futbol3.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 3 HD</caption>
+			<channel_id>278</channel_id>
+			<epg_id>Iptvx:match-football3</epg_id>
+			<tvg_id>Iptvx:match-football3</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match_futbol3.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport</caption>
+			<channel_id>260</channel_id>
+			<epg_id>Iptvx:eurosport1</epg_id>
+			<tvg_id>Iptvx:eurosport1</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/noroot[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 1 HD</caption>
+			<channel_id>261</channel_id>
+			<epg_id>Iptvx:eurosport1</epg_id>
+			<tvg_id>Iptvx:eurosport1</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/noroot[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 2 North-East</caption>
+			<channel_id>262</channel_id>
+			<epg_id>Iptvx:eurosport2-ne</epg_id>
+			<tvg_id>Iptvx:eurosport2-ne</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/eurosport-2-logo-768x432[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Моторспорт ТВ HD</caption>
+			<channel_id>398</channel_id>
+			<epg_id>Iptvx:motorsportv-tv</epg_id>
+			<tvg_id>Iptvx:motorsportv-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/motorsportv-tv[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Футбол HD</caption>
+			<channel_id>515</channel_id>
+			<epg_id>Iptvx:football-ru</epg_id>
+			<tvg_id>Iptvx:football-ru</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/football-ru[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Sport Россия</caption>
+			<channel_id>265</channel_id>
+			<epg_id>Iptvx:viasat-sport</epg_id>
+			<tvg_id>Iptvx:viasat-sport</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1120[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Sport HD</caption>
+			<channel_id>269</channel_id>
+			<epg_id>Iptvx:viasat-sport</epg_id>
+			<tvg_id>Iptvx:viasat-sport</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1120[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Extrem Sport</caption>
+			<channel_id>266</channel_id>
+			<epg_id>Iptvx:extreme-sports</epg_id>
+			<tvg_id>Iptvx:extreme-sports</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1019[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>HD REX</caption>
+			<channel_id>267</channel_id>
+			<epg_id>Iptvx:russky-ekstrim</epg_id>
+			<tvg_id>Iptvx:russky-ekstrim</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/rus_extrim_hd[1].jpg</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KHL</caption>
+			<channel_id>270</channel_id>
+			<epg_id>Iptvx:kxl</epg_id>
+			<tvg_id>Iptvx:kxl</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/khl.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KHL PRIME</caption>
+			<channel_id>271</channel_id>
+			<epg_id>Iptvx:kxl-hd</epg_id>
+			<tvg_id>Iptvx:kxl-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/khl.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Хоккейный HD</caption>
+			<channel_id>409</channel_id>
+			<epg_id>Хоккейный HD</epg_id>
+			<tvg_id>Хоккейный HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/22022.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Боец</caption>
+			<channel_id>272</channel_id>
+			<epg_id>Iptvx:match-boets</epg_id>
+			<tvg_id>Iptvx:match-boets</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1156[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Бокс ТВ</caption>
+			<channel_id>304</channel_id>
+			<epg_id>Iptvx:box-tv</epg_id>
+			<tvg_id>Iptvx:box-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Boxtv.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>M-1 Global TV</caption>
+			<channel_id>395</channel_id>
+			<epg_id>Iptvx:m1global</epg_id>
+			<tvg_id>Iptvx:m1global</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/6866[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UDAR</caption>
+			<channel_id>305</channel_id>
+			<epg_id>Iptvx:ufc</epg_id>
+			<tvg_id>Iptvx:ufc</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/ufc[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Страна</caption>
+			<channel_id>275</channel_id>
+			<epg_id>Iptvx:match-nash-sport</epg_id>
+			<tvg_id>Iptvx:match-nash-sport</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match-strana[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Игра HD</caption>
+			<channel_id>268</channel_id>
+			<epg_id>Iptvx:match-igra</epg_id>
+			<tvg_id>Iptvx:match-igra</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match_igra.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Игра</caption>
+			<channel_id>287</channel_id>
+			<epg_id>Iptvx:match-igra</epg_id>
+			<tvg_id>Iptvx:match-igra</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match_igra.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Арена</caption>
+			<channel_id>285</channel_id>
+			<epg_id>Iptvx:match-arena</epg_id>
+			<tvg_id>Iptvx:match-arena</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match_arena.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Арена HD</caption>
+			<channel_id>286</channel_id>
+			<epg_id>Iptvx:match-arena</epg_id>
+			<tvg_id>Iptvx:match-arena</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match_arena.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Планета</caption>
+			<channel_id>502</channel_id>
+			<epg_id>Iptvx:match-planeta</epg_id>
+			<tvg_id>Iptvx:match-planeta</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/match_planeta.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 5 HD</caption>
+			<channel_id>193</channel_id>
+			<epg_id>Iptvx:belarus5</epg_id>
+			<tvg_id>Iptvx:belarus5</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1732[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 1</caption>
+			<channel_id>171</channel_id>
+			<epg_id>Iptvx:setanta-sports</epg_id>
+			<tvg_id>Iptvx:setanta-sports</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1571[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 2</caption>
+			<channel_id>155</channel_id>
+			<epg_id>Iptvx:setanta-sports-plus</epg_id>
+			<tvg_id>Iptvx:setanta-sports-plus</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1571[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports UA</caption>
+			<channel_id>508</channel_id>
+			<epg_id>Iptvx:setanta-ua</epg_id>
+			<tvg_id>Iptvx:setanta-ua</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1571[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТАРТ Live HD</caption>
+			<channel_id>823</channel_id>
+			<epg_id>Iptvx:start</epg_id>
+			<tvg_id>Iptvx:start</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/start[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Живи</caption>
+			<channel_id>601</channel_id>
+			<epg_id>Iptvx:zhivi</epg_id>
+			<tvg_id>Iptvx:zhivi</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/zhivi[1].png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Спортивный HD</caption>
+			<channel_id>659</channel_id>
+			<epg_id>Спортивный HD</epg_id>
+			<tvg_id>Спортивный HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/sportiv.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир Баскетбола</caption>
+			<channel_id>662</channel_id>
+			<epg_id>Мир Баскетбола</epg_id>
+			<tvg_id>Мир Баскетбола</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/mir_basket.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Футбольный HD</caption>
+			<channel_id>658</channel_id>
+			<epg_id>Футбольный HD</epg_id>
+			<tvg_id>Футбольный HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/fut.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>QSport</caption>
+			<channel_id>672</channel_id>
+			<epg_id>QSport</epg_id>
+			<tvg_id>QSport</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/qsport.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Карусель</caption>
+			<channel_id>10009</channel_id>
+			<epg_id>Iptvx:karusel</epg_id>
+			<tvg_id>Iptvx:karusel</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Karusel.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>LV: Nickelodeon HD</caption>
+			<channel_id>411</channel_id>
+			<epg_id>Iptvx:nickelodeon-ru</epg_id>
+			<tvg_id>Iptvx:nickelodeon-ru</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1444[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТипТоп HD</caption>
+			<channel_id>350</channel_id>
+			<epg_id>Iptvx:tiptop</epg_id>
+			<tvg_id>Iptvx:tiptop</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2d34d7864cb22d397291790c285ab728[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nick Jr.</caption>
+			<channel_id>351</channel_id>
+			<epg_id>Iptvx:nick-jr</epg_id>
+			<tvg_id>Iptvx:nick-jr</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3588[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Disney Россия</caption>
+			<channel_id>352</channel_id>
+			<epg_id>Iptvx:disney</epg_id>
+			<tvg_id>Iptvx:disney</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3051[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TiJi</caption>
+			<channel_id>353</channel_id>
+			<epg_id>Iptvx:tiji</epg_id>
+			<tvg_id>Iptvx:tiji</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1148[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>JimJam</caption>
+			<channel_id>354</channel_id>
+			<epg_id>Iptvx:jimjam</epg_id>
+			<tvg_id>Iptvx:jimjam</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1138[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Gulli girl</caption>
+			<channel_id>355</channel_id>
+			<epg_id>Iptvx:gulli-girl</epg_id>
+			<tvg_id>Iptvx:gulli-girl</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1249[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>21</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoon network</caption>
+			<channel_id>356</channel_id>
+			<epg_id>Iptvx:cartoon-network</epg_id>
+			<tvg_id>Iptvx:cartoon-network</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3006[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoon network HD</caption>
+			<channel_id>482</channel_id>
+			<epg_id>Iptvx:cartoon-network</epg_id>
+			<tvg_id>Iptvx:cartoon-network</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3006[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Boomerang</caption>
+			<channel_id>516</channel_id>
+			<epg_id>Iptvx:boomerang</epg_id>
+			<tvg_id>Iptvx:boomerang</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3042[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>2x2</caption>
+			<channel_id>359</channel_id>
+			<epg_id>Iptvx:2na2</epg_id>
+			<tvg_id>Iptvx:2na2</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2x2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС Kids HD</caption>
+			<channel_id>317</channel_id>
+			<epg_id>Iptvx:sts-kids-hd</epg_id>
+			<tvg_id>Iptvx:sts-kids-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/logo_sts_kids[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Уник-ум</caption>
+			<channel_id>294</channel_id>
+			<epg_id>Iptvx:detsky</epg_id>
+			<tvg_id>Iptvx:detsky</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/ynikym[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Детский мир</caption>
+			<channel_id>399</channel_id>
+			<epg_id>Iptvx:detsky-mir</epg_id>
+			<tvg_id>Iptvx:detsky-mir</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1037[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мультиландия</caption>
+			<channel_id>400</channel_id>
+			<epg_id>Iptvx:multimania</epg_id>
+			<tvg_id>Iptvx:multimania</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/multilandia-logo-2020-full[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мульт HD</caption>
+			<channel_id>172</channel_id>
+			<epg_id>Iptvx:mult</epg_id>
+			<tvg_id>Iptvx:mult</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1916[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мульт</caption>
+			<channel_id>414</channel_id>
+			<epg_id>Iptvx:mult</epg_id>
+			<tvg_id>Iptvx:mult</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1916[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>В гостях у сказки</caption>
+			<channel_id>182</channel_id>
+			<epg_id>Iptvx:v-gostiax-u-skazki</epg_id>
+			<tvg_id>Iptvx:v-gostiax-u-skazki</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3164[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ani</caption>
+			<channel_id>249</channel_id>
+			<epg_id>Iptvx:ani</epg_id>
+			<tvg_id>Iptvx:ani</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/ani.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Капитан Фантастика HD</caption>
+			<channel_id>531</channel_id>
+			<epg_id>Капитан Фантастика HD</epg_id>
+			<tvg_id>Капитан Фантастика HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/logo_kapitan-fantastika[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Радость Моя</caption>
+			<channel_id>224</channel_id>
+			<epg_id>Iptvx:radost-moya</epg_id>
+			<tvg_id>Iptvx:radost-moya</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1214[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мульт и музыка</caption>
+			<channel_id>31</channel_id>
+			<epg_id>Iptvx:multimuzyka</epg_id>
+			<tvg_id>Iptvx:multimuzyka</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/d4ce7e944cfd28d8acedc855ca668146[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Смайлик ТВ HD</caption>
+			<channel_id>464</channel_id>
+			<epg_id>Iptvx:smaylik-tv</epg_id>
+			<tvg_id>Iptvx:smaylik-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/smaylik-tv[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Рыжий</caption>
+			<channel_id>622</channel_id>
+			<epg_id>Iptvx:ryzhy</epg_id>
+			<tvg_id>Iptvx:ryzhy</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/220111.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Малятко ТВ</caption>
+			<channel_id>844</channel_id>
+			<epg_id>Iptvx:maliatko-tv</epg_id>
+			<tvg_id>Iptvx:maliatko-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/maliatko-tv[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>LT: LT: Kidzone baltic</caption>
+			<channel_id>697</channel_id>
+			<epg_id>Iptvx:kidzone</epg_id>
+			<tvg_id>Iptvx:kidzone</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/kidzone[1].png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мама</caption>
+			<channel_id>401</channel_id>
+			<epg_id>Iptvx:mama</epg_id>
+			<tvg_id>Iptvx:mama</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1055[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Бобёр</caption>
+			<channel_id>58</channel_id>
+			<epg_id>Iptvx:bobior</epg_id>
+			<tvg_id>Iptvx:bobior</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/bober.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Планета HD</caption>
+			<channel_id>210</channel_id>
+			<epg_id>Iptvx:moya-planeta</epg_id>
+			<tvg_id>Iptvx:moya-planeta</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1807[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый космический</caption>
+			<channel_id>496</channel_id>
+			<epg_id>Iptvx:eureka-hd</epg_id>
+			<tvg_id>Iptvx:eureka-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2255.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>History SD</caption>
+			<channel_id>500</channel_id>
+			<epg_id>Iptvx:history-ru</epg_id>
+			<tvg_id>Iptvx:history-ru</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2918[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>History HD</caption>
+			<channel_id>501</channel_id>
+			<epg_id>Iptvx:history-ru</epg_id>
+			<tvg_id>Iptvx:history-ru</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1770[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>H2</caption>
+			<channel_id>301</channel_id>
+			<epg_id>Iptvx:h2</epg_id>
+			<tvg_id>Iptvx:h2</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2951[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>24 Техно</caption>
+			<channel_id>505</channel_id>
+			<epg_id>Iptvx:texno-24</epg_id>
+			<tvg_id>Iptvx:texno-24</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/24Tehno.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Discovery</caption>
+			<channel_id>506</channel_id>
+			<epg_id>Iptvx:discovery-channel</epg_id>
+			<tvg_id>Iptvx:discovery-channel</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2183[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Discovery HD</caption>
+			<channel_id>507</channel_id>
+			<epg_id>Iptvx:discovery-channel</epg_id>
+			<tvg_id>Iptvx:discovery-channel</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2183[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DTX</caption>
+			<channel_id>510</channel_id>
+			<epg_id>Iptvx:dtx</epg_id>
+			<tvg_id>Iptvx:dtx</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1013[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Discovery Science</caption>
+			<channel_id>511</channel_id>
+			<epg_id>Iptvx:discovery-science</epg_id>
+			<tvg_id>Iptvx:discovery-science</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3211[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Discovery HD Showcase</caption>
+			<channel_id>418</channel_id>
+			<epg_id>Discovery HD Showcase</epg_id>
+			<tvg_id>Discovery HD Showcase</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1186[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TLC</caption>
+			<channel_id>513</channel_id>
+			<epg_id>Iptvx:tlc-panregional</epg_id>
+			<tvg_id>Iptvx:tlc-panregional</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3336[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TLC HD</caption>
+			<channel_id>514</channel_id>
+			<epg_id>Iptvx:tlc-panregional</epg_id>
+			<tvg_id>Iptvx:tlc-panregional</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3336[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ID Xtra</caption>
+			<channel_id>517</channel_id>
+			<epg_id>Iptvx:id-xtra-eu</epg_id>
+			<tvg_id>Iptvx:id-xtra-eu</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/2191[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>National Geographic</caption>
+			<channel_id>518</channel_id>
+			<epg_id>Iptvx:national-geographic</epg_id>
+			<tvg_id>Iptvx:national-geographic</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3586[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>National Geographic HD</caption>
+			<channel_id>519</channel_id>
+			<epg_id>Iptvx:national-geographic</epg_id>
+			<tvg_id>Iptvx:national-geographic</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3586[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Explore</caption>
+			<channel_id>520</channel_id>
+			<epg_id>Iptvx:viasat-explore</epg_id>
+			<tvg_id>Iptvx:viasat-explore</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1014[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat History</caption>
+			<channel_id>521</channel_id>
+			<epg_id>Iptvx:viasat-history</epg_id>
+			<tvg_id>Iptvx:viasat-history</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1015[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Nature</caption>
+			<channel_id>522</channel_id>
+			<epg_id>Iptvx:viasat-nature-cee</epg_id>
+			<tvg_id>Iptvx:viasat-nature-cee</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1261[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Nature/History HD</caption>
+			<channel_id>523</channel_id>
+			<epg_id>Iptvx:viasat-nature-history-hd</epg_id>
+			<tvg_id>Iptvx:viasat-nature-history-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1738[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>HDL</caption>
+			<channel_id>575</channel_id>
+			<epg_id>Iptvx:hd-life</epg_id>
+			<tvg_id>Iptvx:hd-life</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1154[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Animal Planet</caption>
+			<channel_id>524</channel_id>
+			<epg_id>Animal Planet</epg_id>
+			<tvg_id>Animal Planet</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Animal planet.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Animal Planet HD</caption>
+			<channel_id>525</channel_id>
+			<epg_id>Animal Planet HD</epg_id>
+			<tvg_id>Animal Planet HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1184[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>В Мире Животных</caption>
+			<channel_id>497</channel_id>
+			<epg_id>Iptvx:v-mire-zhivotnyx-hd</epg_id>
+			<tvg_id>Iptvx:v-mire-zhivotnyx-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/v_mire_zhivotnyh_na_belom_fone[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nat Geo Wild</caption>
+			<channel_id>526</channel_id>
+			<epg_id>Iptvx:nat-geo-wild</epg_id>
+			<tvg_id>Iptvx:nat-geo-wild</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/nat-geo-wild[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nat Geo Wild HD</caption>
+			<channel_id>498</channel_id>
+			<epg_id>Iptvx:nat-geo-wild</epg_id>
+			<tvg_id>Iptvx:nat-geo-wild</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/nat-geo-wild[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ZooПарк</caption>
+			<channel_id>528</channel_id>
+			<epg_id>Iptvx:zoopark</epg_id>
+			<tvg_id>Iptvx:zoopark</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/3524[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашние животные</caption>
+			<channel_id>529</channel_id>
+			<epg_id>Iptvx:domashnie-zhivotnye</epg_id>
+			<tvg_id>Iptvx:domashnie-zhivotnye</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/domashnie-zhivotnye[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RTG</caption>
+			<channel_id>530</channel_id>
+			<epg_id>Iptvx:rtg-tv</epg_id>
+			<tvg_id>Iptvx:rtg-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/rtg-tv[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RTG HD</caption>
+			<channel_id>329</channel_id>
+			<epg_id>Iptvx:rtg-hd</epg_id>
+			<tvg_id>Iptvx:rtg-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/rtg-hd[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Travel+Adventure HD</caption>
+			<channel_id>66</channel_id>
+			<epg_id>Iptvx:travel-adventure</epg_id>
+			<tvg_id>Iptvx:travel-adventure</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/travel-adventure[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Travel Channel</caption>
+			<channel_id>532</channel_id>
+			<epg_id>Iptvx:travel-channel-eu</epg_id>
+			<tvg_id>Iptvx:travel-channel-eu</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/travel-channel[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Travel Channel HD</caption>
+			<channel_id>615</channel_id>
+			<epg_id>Iptvx:travel-channel-eu</epg_id>
+			<tvg_id>Iptvx:travel-channel-eu</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/travel-channel[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Телепутешествия</caption>
+			<channel_id>533</channel_id>
+			<epg_id>Iptvx:teleputeshestvia</epg_id>
+			<tvg_id>Iptvx:teleputeshestvia</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/teleputeshestvia[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Поехали</caption>
+			<channel_id>635</channel_id>
+			<epg_id>Iptvx:poexali</epg_id>
+			<tvg_id>Iptvx:poexali</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/poexali[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Приключения HD</caption>
+			<channel_id>534</channel_id>
+			<epg_id>Iptvx:prikluchenia-hd</epg_id>
+			<tvg_id>Iptvx:prikluchenia-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/prikluchenia-hd[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>HGTV HD</caption>
+			<channel_id>552</channel_id>
+			<epg_id>Iptvx:hgtv</epg_id>
+			<tvg_id>Iptvx:hgtv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/HGTV HD RU.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>HGTV</caption>
+			<channel_id>84</channel_id>
+			<epg_id>Iptvx:hgtv</epg_id>
+			<tvg_id>Iptvx:hgtv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/HGTV HD RU.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Моя планета</caption>
+			<channel_id>535</channel_id>
+			<epg_id>Iptvx:moya-planeta</epg_id>
+			<tvg_id>Iptvx:moya-planeta</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/МояПланета.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>21</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Живая планета</caption>
+			<channel_id>201</channel_id>
+			<epg_id>Iptvx:zhivaya-planeta</epg_id>
+			<tvg_id>Iptvx:zhivaya-planeta</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Живая Планета.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наука 2.0</caption>
+			<channel_id>557</channel_id>
+			<epg_id>Iptvx:nauka-20</epg_id>
+			<tvg_id>Iptvx:nauka-20</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/nauka-20[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Quadro 4K</caption>
+			<channel_id>537</channel_id>
+			<epg_id>Iptvx:quadro4k</epg_id>
+			<tvg_id>Iptvx:quadro4k</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/quadro4k[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Точка отрыва</caption>
+			<channel_id>538</channel_id>
+			<epg_id>Iptvx:tochka-otryva</epg_id>
+			<tvg_id>Iptvx:tochka-otryva</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/tochka-otryva[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Охотник и рыболов HD</caption>
+			<channel_id>819</channel_id>
+			<epg_id>Iptvx:oxotnik-i-rybolov-hd</epg_id>
+			<tvg_id>Iptvx:oxotnik-i-rybolov-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/oxotnik-i-rybolov-hd[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Охотник и рыболов</caption>
+			<channel_id>540</channel_id>
+			<epg_id>Iptvx:oxotnik-i-rybolov</epg_id>
+			<tvg_id>Iptvx:oxotnik-i-rybolov</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/oxotnik-i-rybolov[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Охота и рыбалка</caption>
+			<channel_id>541</channel_id>
+			<epg_id>Iptvx:oxota-i-rybalka</epg_id>
+			<tvg_id>Iptvx:oxota-i-rybalka</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/oxota-i-rybalka[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ocean TV</caption>
+			<channel_id>542</channel_id>
+			<epg_id>Iptvx:ocean-tv</epg_id>
+			<tvg_id>Iptvx:ocean-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/ocean-tv[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Моя стихия</caption>
+			<channel_id>544</channel_id>
+			<epg_id>Iptvx:morskoy</epg_id>
+			<tvg_id>Iptvx:morskoy</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/morskoy[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Оружие</caption>
+			<channel_id>545</channel_id>
+			<epg_id>Iptvx:oruzhie</epg_id>
+			<tvg_id>Iptvx:oruzhie</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/oruzhie[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Драйв</caption>
+			<channel_id>547</channel_id>
+			<epg_id>Iptvx:drive</epg_id>
+			<tvg_id>Iptvx:drive</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/drive[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Авто плюс</caption>
+			<channel_id>548</channel_id>
+			<epg_id>Iptvx:avto-plus</epg_id>
+			<tvg_id>Iptvx:avto-plus</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/avto-plus[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мужской</caption>
+			<channel_id>549</channel_id>
+			<epg_id>Iptvx:muzhskoy</epg_id>
+			<tvg_id>Iptvx:muzhskoy</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/muzhskoy[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Авто 24</caption>
+			<channel_id>550</channel_id>
+			<epg_id>Iptvx:avto24</epg_id>
+			<tvg_id>Iptvx:avto24</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/avto24[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EN: NASA TV 4K</caption>
+			<channel_id>81</channel_id>
+			<epg_id>Iptvx:nasa4k</epg_id>
+			<tvg_id>Iptvx:nasa4k</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/nasa4k[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Galaxy</caption>
+			<channel_id>632</channel_id>
+			<epg_id>Iptvx:galaxy-tv</epg_id>
+			<tvg_id>Iptvx:galaxy-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/galaxy-tv[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Живая природа</caption>
+			<channel_id>556</channel_id>
+			<epg_id>Iptvx:zhivaya-priroda</epg_id>
+			<tvg_id>Iptvx:zhivaya-priroda</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/zhivaya-priroda[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>DaVinci Learning</caption>
+			<channel_id>560</channel_id>
+			<epg_id>Iptvx:da-vinci</epg_id>
+			<tvg_id>Iptvx:da-vinci</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/da-vinci[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>История</caption>
+			<channel_id>561</channel_id>
+			<epg_id>Iptvx:istoria</epg_id>
+			<tvg_id>Iptvx:istoria</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/istoria[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Доктор</caption>
+			<channel_id>562</channel_id>
+			<epg_id>Iptvx:doktor</epg_id>
+			<tvg_id>Iptvx:doktor</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/doktor[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>21</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>365 дней</caption>
+			<channel_id>563</channel_id>
+			<epg_id>Iptvx:365-dnej</epg_id>
+			<tvg_id>Iptvx:365-dnej</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/365-dnej[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кто есть кто</caption>
+			<channel_id>564</channel_id>
+			<epg_id>Iptvx:kto-est-kto</epg_id>
+			<tvg_id>Iptvx:kto-est-kto</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/kto-est-kto[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Вопросы и ответы</caption>
+			<channel_id>565</channel_id>
+			<epg_id>Iptvx:voprosy-i-otvety</epg_id>
+			<tvg_id>Iptvx:voprosy-i-otvety</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/voprosy-i-otvety[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Психология 21</caption>
+			<channel_id>567</channel_id>
+			<epg_id>Iptvx:psixologia-21</epg_id>
+			<tvg_id>Iptvx:psixologia-21</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/psixologia-21[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ретро</caption>
+			<channel_id>568</channel_id>
+			<epg_id>Iptvx:retro-tv</epg_id>
+			<tvg_id>Iptvx:retro-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/retro-tv[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Время</caption>
+			<channel_id>346</channel_id>
+			<epg_id>Iptvx:vremia</epg_id>
+			<tvg_id>Iptvx:vremia</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/vremia[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ностальгия</caption>
+			<channel_id>570</channel_id>
+			<epg_id>Iptvx:nostalgia</epg_id>
+			<tvg_id>Iptvx:nostalgia</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/nostalgia[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Совершенно секретно</caption>
+			<channel_id>571</channel_id>
+			<epg_id>Iptvx:sovsek</epg_id>
+			<tvg_id>Iptvx:sovsek</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/sovsek[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кухня</caption>
+			<channel_id>576</channel_id>
+			<epg_id>Iptvx:kuxnia-tv</epg_id>
+			<tvg_id>Iptvx:kuxnia-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/kuhnia[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый вегетарианский</caption>
+			<channel_id>189</channel_id>
+			<epg_id>Iptvx:pervy-vegetariansky</epg_id>
+			<tvg_id>Iptvx:pervy-vegetariansky</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/pervy-vegetariansky[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еда</caption>
+			<channel_id>577</channel_id>
+			<epg_id>Iptvx:eda</epg_id>
+			<tvg_id>Iptvx:eda</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/eda[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еда премиум</caption>
+			<channel_id>375</channel_id>
+			<epg_id>Iptvx:eda-hd</epg_id>
+			<tvg_id>Iptvx:eda-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/eda-hd[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Телекафе</caption>
+			<channel_id>578</channel_id>
+			<epg_id>Iptvx:telekafe</epg_id>
+			<tvg_id>Iptvx:telekafe</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/telekafe[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Food Network</caption>
+			<channel_id>579</channel_id>
+			<epg_id>Iptvx:food-network</epg_id>
+			<tvg_id>Iptvx:food-network</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/food-network[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Загородная жизнь</caption>
+			<channel_id>580</channel_id>
+			<epg_id>Iptvx:zagorodnaya-zhizn</epg_id>
+			<tvg_id>Iptvx:zagorodnaya-zhizn</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/zagorodnaya-zhizn[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Усадьба</caption>
+			<channel_id>581</channel_id>
+			<epg_id>Iptvx:usadba</epg_id>
+			<tvg_id>Iptvx:usadba</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/usadba[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Здоровое ТВ</caption>
+			<channel_id>598</channel_id>
+			<epg_id>Iptvx:zdorovoe-tv</epg_id>
+			<tvg_id>Iptvx:zdorovoe-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/zdorovoe-tv[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Танцуй</caption>
+			<channel_id>297</channel_id>
+			<epg_id>Iptvx:tancuj</epg_id>
+			<tvg_id>Iptvx:tancuj</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/tancuj[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EN: English Club TV </caption>
+			<channel_id>655</channel_id>
+			<epg_id>Iptvx:english-club-tv</epg_id>
+			<tvg_id>Iptvx:english-club-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/englishclub[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CGTN-Русский</caption>
+			<channel_id>52</channel_id>
+			<epg_id>Iptvx:cctv-ru</epg_id>
+			<tvg_id>Iptvx:cctv-ru</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/cctv-ru[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Союз</caption>
+			<channel_id>789</channel_id>
+			<epg_id>Iptvx:soyuz</epg_id>
+			<tvg_id>Iptvx:soyuz</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/soyuz[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Фауна</caption>
+			<channel_id>835</channel_id>
+			<epg_id>Iptvx:fauna</epg_id>
+			<tvg_id>Iptvx:fauna</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/fauna[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Quiz TV</caption>
+			<channel_id>836</channel_id>
+			<epg_id>Iptvx:quiz-tv</epg_id>
+			<tvg_id>Iptvx:quiz-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/quiz-tv[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Терра</caption>
+			<channel_id>53</channel_id>
+			<epg_id>Iptvx:terra</epg_id>
+			<tvg_id>Iptvx:terra</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/tera[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наука</caption>
+			<channel_id>902</channel_id>
+			<epg_id>Iptvx:nauka</epg_id>
+			<tvg_id>Iptvx:nauka</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/nauka[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Глазами Туриста 4K</caption>
+			<channel_id>668</channel_id>
+			<epg_id>Глазами Туриста 4K</epg_id>
+			<tvg_id>Глазами Туриста 4K</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/GT_Channel1.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ключ</caption>
+			<channel_id>680</channel_id>
+			<epg_id>Ключ</epg_id>
+			<tvg_id>Ключ</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/klyuch.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ПРНК</caption>
+			<channel_id>674</channel_id>
+			<epg_id>ПРНК</epg_id>
+			<tvg_id>ПРНК</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/415[1].gif</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Docubox</caption>
+			<channel_id>683</channel_id>
+			<epg_id>Docubox</epg_id>
+			<tvg_id>Docubox</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/DocuBox RO.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикий</caption>
+			<channel_id>834</channel_id>
+			<epg_id>Iptvx:dikiy</epg_id>
+			<tvg_id>Iptvx:dikiy</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/dikiy[1].png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>1HD</caption>
+			<channel_id>273</channel_id>
+			<epg_id>Iptvx:1hd</epg_id>
+			<tvg_id>Iptvx:1hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/1hd-music[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>360 TuneBox HD</caption>
+			<channel_id>709</channel_id>
+			<epg_id>Iptvx:360-tunebox</epg_id>
+			<tvg_id>Iptvx:360-tunebox</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/360tunebox[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ACB</caption>
+			<channel_id>679</channel_id>
+			<epg_id>Iptvx:acb-tv</epg_id>
+			<tvg_id>Iptvx:acb-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/9_volna.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Classic</caption>
+			<channel_id>235</channel_id>
+			<epg_id>Iptvx:bridge-tv-classic</epg_id>
+			<tvg_id>Iptvx:bridge-tv-classic</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/bridge-tv-classic[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Deluxe HD</caption>
+			<channel_id>837</channel_id>
+			<epg_id>Iptvx:bridge-hd</epg_id>
+			<tvg_id>Iptvx:bridge-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/bridge-hd[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Fresh</caption>
+			<channel_id>840</channel_id>
+			<epg_id>Iptvx:bridge-tv-fresh</epg_id>
+			<tvg_id>Iptvx:bridge-tv-fresh</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/bridge-tv-fresh[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Hits</caption>
+			<channel_id>320</channel_id>
+			<epg_id>Iptvx:bridge-tv-dance</epg_id>
+			<tvg_id>Iptvx:bridge-tv-dance</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/bridge-tv-dance[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Русский хит</caption>
+			<channel_id>97</channel_id>
+			<epg_id>Iptvx:bridge-tv-ruxit</epg_id>
+			<tvg_id>Iptvx:bridge-tv-ruxit</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/bridge-tv-ruxit[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Шлягер</caption>
+			<channel_id>839</channel_id>
+			<epg_id>Iptvx:bridge-tv-shlager</epg_id>
+			<tvg_id>Iptvx:bridge-tv-shlager</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/bridge-tv-shlager[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BridgeTV</caption>
+			<channel_id>670</channel_id>
+			<epg_id>Iptvx:bridge-tv</epg_id>
+			<tvg_id>Iptvx:bridge-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/bridge-tv[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Classic Music HD</caption>
+			<channel_id>477</channel_id>
+			<epg_id>Iptvx:classic-music</epg_id>
+			<tvg_id>Iptvx:classic-music</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/0f7eeae479e34d5687ecdce08de6bb44[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>DE: DE: Deluxe Music HD</caption>
+			<channel_id>324</channel_id>
+			<epg_id>tvteam:Deluxe Music HD</epg_id>
+			<tvg_id>tvteam:Deluxe Music HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/DeluxeMusic.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EN: MTV Europe</caption>
+			<channel_id>927</channel_id>
+			<epg_id>Iptvx:mtv-europe</epg_id>
+			<tvg_id>Iptvx:mtv-europe</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/mtv-europe[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EN: US: MTV </caption>
+			<channel_id>698</channel_id>
+			<epg_id>EN: US: MTV </epg_id>
+			<tvg_id>EN: US: MTV </tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/mtv-europe[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EU Music</caption>
+			<channel_id>323</channel_id>
+			<epg_id>Iptvx:musicbox-ua-hd</epg_id>
+			<tvg_id>Iptvx:musicbox-ua-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/music-box-ua[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Europa Plus TV</caption>
+			<channel_id>671</channel_id>
+			<epg_id>Iptvx:europa-plus-tv</epg_id>
+			<tvg_id>Iptvx:europa-plus-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/europa-plus-tv[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>M1 HD</caption>
+			<channel_id>851</channel_id>
+			<epg_id>Iptvx:m1-ua</epg_id>
+			<tvg_id>Iptvx:m1-ua</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/m1-ua[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>M2 HD</caption>
+			<channel_id>852</channel_id>
+			<epg_id>Iptvx:m2-ua</epg_id>
+			<tvg_id>Iptvx:m2-ua</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/m2-ua[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MCM Pop</caption>
+			<channel_id>1394</channel_id>
+			<epg_id>MCM Pop</epg_id>
+			<tvg_id>MCM Pop</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/mcm-pop.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MCM Top</caption>
+			<channel_id>959</channel_id>
+			<epg_id>Iptvx:mcm-top</epg_id>
+			<tvg_id>Iptvx:mcm-top</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/mcm-top[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV 00s</caption>
+			<channel_id>793</channel_id>
+			<epg_id>Iptvx:vh1-european</epg_id>
+			<tvg_id>Iptvx:vh1-european</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/vh1-european[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV 90s</caption>
+			<channel_id>711</channel_id>
+			<epg_id>Iptvx:mtv-rocks</epg_id>
+			<tvg_id>Iptvx:mtv-rocks</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/mtv-rocks[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Club</caption>
+			<channel_id>708</channel_id>
+			<epg_id>Iptvx:mtv-dance</epg_id>
+			<tvg_id>Iptvx:mtv-dance</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/mtv-dance[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Hits</caption>
+			<channel_id>706</channel_id>
+			<epg_id>Iptvx:mtv-hits</epg_id>
+			<tvg_id>Iptvx:mtv-hits</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/mtv-hits[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Live HD</caption>
+			<channel_id>710</channel_id>
+			<epg_id>Iptvx:mtv-live-hd</epg_id>
+			<tvg_id>Iptvx:mtv-live-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/mtv-live-hd[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Russia</caption>
+			<channel_id>712</channel_id>
+			<epg_id>Iptvx:mtv-russia</epg_id>
+			<tvg_id>Iptvx:mtv-russia</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/mtv_ru.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Mezzo</caption>
+			<channel_id>676</channel_id>
+			<epg_id>Iptvx:mezzo</epg_id>
+			<tvg_id>Iptvx:mezzo</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/mezzo[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Mezzo Live HD</caption>
+			<channel_id>184</channel_id>
+			<epg_id>Iptvx:mezzo-live-hd</epg_id>
+			<tvg_id>Iptvx:mezzo-live-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/mezzo-live-hd[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Music Box Gold</caption>
+			<channel_id>663</channel_id>
+			<epg_id>Iptvx:musicbox</epg_id>
+			<tvg_id>Iptvx:musicbox</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/musicbox-gold[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OneBY</caption>
+			<channel_id>1023</channel_id>
+			<epg_id>OneBY</epg_id>
+			<tvg_id>OneBY</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/blank.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OneRUS</caption>
+			<channel_id>960</channel_id>
+			<epg_id>OneRUS</epg_id>
+			<tvg_id>OneRUS</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/blank.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RO: RO: HIT Music</caption>
+			<channel_id>1393</channel_id>
+			<epg_id>RO: RO: HIT Music</epg_id>
+			<tvg_id>RO: RO: HIT Music</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/logo[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ru.tv</caption>
+			<channel_id>665</channel_id>
+			<epg_id>Iptvx:ru-tv</epg_id>
+			<tvg_id>Iptvx:ru-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/ru-tv[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Trace Urban HD</caption>
+			<channel_id>1395</channel_id>
+			<epg_id>Iptvx:trace-urban</epg_id>
+			<tvg_id>Iptvx:trace-urban</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/trace-urban[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ВОТ ТВ</caption>
+			<channel_id>429</channel_id>
+			<epg_id>Iptvx:vot-tv</epg_id>
+			<tvg_id>Iptvx:vot-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/vot-tv[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ЖАРА</caption>
+			<channel_id>602</channel_id>
+			<epg_id>Iptvx:zhara</epg_id>
+			<tvg_id>Iptvx:zhara</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/zhara[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ля-Минор</caption>
+			<channel_id>667</channel_id>
+			<epg_id>Iptvx:la-minor</epg_id>
+			<tvg_id>Iptvx:la-minor</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/la-minor[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Муз-ТВ</caption>
+			<channel_id>673</channel_id>
+			<epg_id>Iptvx:muztv</epg_id>
+			<tvg_id>Iptvx:muztv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/muztv[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Музыка первого</caption>
+			<channel_id>678</channel_id>
+			<epg_id>Iptvx:muzyka-pervogo</epg_id>
+			<tvg_id>Iptvx:muzyka-pervogo</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/muzyka-pervogo[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ Music</caption>
+			<channel_id>38</channel_id>
+			<epg_id>Iptvx:tnt-music</epg_id>
+			<tvg_id>Iptvx:tnt-music</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/tnt-music.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Шансон ТВ</caption>
+			<channel_id>666</channel_id>
+			<epg_id>Iptvx:shanson-tv</epg_id>
+			<tvg_id>Iptvx:shanson-tv</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/shanson-tv[1].png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NANO TV</caption>
+			<channel_id>618</channel_id>
+			<epg_id>Iptvx:nano-hd</epg_id>
+			<tvg_id>Iptvx:nano-hd</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/nano-hd[1].png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>8 канал</caption>
+			<channel_id>68</channel_id>
+			<epg_id>Iptvx:8kanal-ru</epg_id>
+			<tvg_id>Iptvx:8kanal-ru</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/8kanal-ru[1].png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Астрахань 24 (not guaranteed)</caption>
+			<channel_id>315</channel_id>
+			<epg_id>Астрахань 24 (not guaranteed)</epg_id>
+			<tvg_id>Астрахань 24 (not guaranteed)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/blank.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Доверие</caption>
+			<channel_id>39</channel_id>
+			<epg_id>Доверие</epg_id>
+			<tvg_id>Доверие</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Moskva Doverie.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Волга</caption>
+			<channel_id>456</channel_id>
+			<epg_id>Волга</epg_id>
+			<tvg_id>Волга</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/blank.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый канал ВС (Европа)</caption>
+			<channel_id>279</channel_id>
+			<epg_id>Первый канал ВС (Европа)</epg_id>
+			<tvg_id>Первый канал ВС (Европа)</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Perviy ORT.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Липецк Time</caption>
+			<channel_id>675</channel_id>
+			<epg_id>Липецк Time</epg_id>
+			<tvg_id>Липецк Time</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/lipeck.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Нефтекамск 24</caption>
+			<channel_id>686</channel_id>
+			<epg_id>Нефтекамск 24</epg_id>
+			<tvg_id>Нефтекамск 24</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/neft.jpg</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Redlight HD</caption>
+			<channel_id>1413</channel_id>
+			<epg_id>Redlight HD</epg_id>
+			<tvg_id>Redlight HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русская ночь</caption>
+			<channel_id>1020</channel_id>
+			<epg_id>Русская ночь</epg_id>
+			<tvg_id>Русская ночь</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Russkaya noch.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Brazzers TV</caption>
+			<channel_id>474</channel_id>
+			<epg_id>Brazzers TV</epg_id>
+			<tvg_id>Brazzers TV</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Babes HD</caption>
+			<channel_id>49</channel_id>
+			<epg_id>Babes HD</epg_id>
+			<tvg_id>Babes HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>HOT</caption>
+			<channel_id>1277</channel_id>
+			<epg_id>HOT</epg_id>
+			<tvg_id>HOT</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>FRENCHLOVER</caption>
+			<channel_id>1414</channel_id>
+			<epg_id>FRENCHLOVER</epg_id>
+			<tvg_id>FRENCHLOVER</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dorcel TV</caption>
+			<channel_id>1298</channel_id>
+			<epg_id>Dorcel TV</epg_id>
+			<tvg_id>Dorcel TV</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Penthouse Gold HD</caption>
+			<channel_id>412</channel_id>
+			<epg_id>Penthouse Gold HD</epg_id>
+			<tvg_id>Penthouse Gold HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Hustler HD</caption>
+			<channel_id>245</channel_id>
+			<epg_id>Hustler HD</epg_id>
+			<tvg_id>Hustler HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Brazzers int</caption>
+			<channel_id>198</channel_id>
+			<epg_id>Brazzers int</epg_id>
+			<tvg_id>Brazzers int</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EXXXOTICA HD</caption>
+			<channel_id>92</channel_id>
+			<epg_id>EXXXOTICA HD</epg_id>
+			<tvg_id>EXXXOTICA HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Penthouse Quickies HD</caption>
+			<channel_id>231</channel_id>
+			<epg_id>Penthouse Quickies HD</epg_id>
+			<tvg_id>Penthouse Quickies HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clikmega</caption>
+			<channel_id>217</channel_id>
+			<epg_id>Clikmega</epg_id>
+			<tvg_id>Clikmega</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>VENUS</caption>
+			<channel_id>135</channel_id>
+			<epg_id>VENUS</epg_id>
+			<tvg_id>VENUS</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>XXL</caption>
+			<channel_id>120</channel_id>
+			<epg_id>XXL</epg_id>
+			<tvg_id>XXL</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vivid Red HD</caption>
+			<channel_id>492</channel_id>
+			<epg_id>Vivid Red HD</epg_id>
+			<tvg_id>Vivid Red HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Private HD</caption>
+			<channel_id>493</channel_id>
+			<epg_id>Private HD</epg_id>
+			<tvg_id>Private HD</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroxx</caption>
+			<channel_id>494</channel_id>
+			<epg_id>Eroxx</epg_id>
+			<tvg_id>Eroxx</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Playboy TV</caption>
+			<channel_id>75</channel_id>
+			<epg_id>Playboy TV</epg_id>
+			<tvg_id>Playboy TV</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nuart TV</caption>
+			<channel_id>125</channel_id>
+			<epg_id>Nuart TV</epg_id>
+			<tvg_id>Nuart TV</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/nuart.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Beate-Uhse.TV</caption>
+			<channel_id>291</channel_id>
+			<epg_id>Beate-Uhse.TV</epg_id>
+			<tvg_id>Beate-Uhse.TV</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>O-LA-LA</caption>
+			<channel_id>93</channel_id>
+			<epg_id>O-LA-LA</epg_id>
+			<tvg_id>O-LA-LA</tvg_id>
+			<icon_url>http://stb.mymagic.tv/images/logo_chanel/Hustler TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+	</tv_channels>
+</tv_info>
+

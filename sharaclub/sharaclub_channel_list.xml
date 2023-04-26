@@ -1,0 +1,3417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv_info>
+	<version_info>
+		<list_version>5</list_version>
+	</version_info>
+	<tv_categories>
+		<tv_category>
+			<id>1</id>
+			<caption>Россия базовые</caption>
+			<icon_url>plugin_file://icons/1.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>2</id>
+			<caption>Познавательные</caption>
+			<icon_url>plugin_file://icons/22.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>3</id>
+			<caption>Кино</caption>
+			<icon_url>plugin_file://icons/2.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>4</id>
+			<caption>Спорт</caption>
+			<icon_url>plugin_file://icons/6.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>5</id>
+			<caption>Музыка</caption>
+			<icon_url>plugin_file://icons/3.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>6</id>
+			<caption>Детские</caption>
+			<icon_url>plugin_file://icons/7.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>7</id>
+			<caption>Новости</caption>
+			<icon_url>plugin_file://icons/4.png</icon_url>
+		</tv_category>
+	</tv_categories>
+	<tv_channels>
+		<tv_channel>
+			<caption>Пеpвый HD</caption>
+			<channel_id>pervyHD</channel_id>
+			<epg_id>pervyhd</epg_id>
+			<tvg_id>pervyhd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/pervyj-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый канaл</caption>
+			<channel_id>pervy</channel_id>
+			<epg_id>pervyhd</epg_id>
+			<tvg_id>pervyhd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/pervyj.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Роccия 1 HD</caption>
+			<channel_id>rossia1HD</channel_id>
+			<epg_id>rossia1</epg_id>
+			<tvg_id>rossia1</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/rossia-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Росcия 1</caption>
+			<channel_id>rossia1</channel_id>
+			<epg_id>rossia1</epg_id>
+			<tvg_id>rossia1</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/rossia1.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НTВ HD</caption>
+			<channel_id>ntvHD</channel_id>
+			<epg_id>ntv</epg_id>
+			<tvg_id>ntv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/ntvhd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НTВ</caption>
+			<channel_id>ntv</channel_id>
+			<epg_id>ntv</epg_id>
+			<tvg_id>ntv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/ntv-white.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Мир</caption>
+			<channel_id>ntv-mir</channel_id>
+			<epg_id>ntv-mir</epg_id>
+			<tvg_id>ntv-mir</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/ntvmir.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТHТ HD</caption>
+			<channel_id>tntHD</channel_id>
+			<epg_id>tnt</epg_id>
+			<tvg_id>tnt</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/tnthd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ</caption>
+			<channel_id>tnt</channel_id>
+			<epg_id>tnt</epg_id>
+			<tvg_id>tnt</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/tnt.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ4</caption>
+			<channel_id>tnt4</channel_id>
+			<epg_id>tnt4</epg_id>
+			<tvg_id>tnt4</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/tnt4.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС</caption>
+			<channel_id>sts</channel_id>
+			<epg_id>sts</epg_id>
+			<tvg_id>sts</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/sts.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС Love</caption>
+			<channel_id>sts-love</channel_id>
+			<epg_id>sts-love</epg_id>
+			<tvg_id>sts-love</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/sts-love.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Рeн ТВ HD</caption>
+			<channel_id>rentvHD</channel_id>
+			<epg_id>rentv</epg_id>
+			<tvg_id>rentv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/rentvHD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Рeн ТВ</caption>
+			<channel_id>rentv</channel_id>
+			<epg_id>rentv</epg_id>
+			<tvg_id>rentv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/rentv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятый канал</caption>
+			<channel_id>5kanal-ru</channel_id>
+			<epg_id>5kanal-ru</epg_id>
+			<tvg_id>5kanal-ru</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/5kanal-ru.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВЦ</caption>
+			<channel_id>tvcentr</channel_id>
+			<epg_id>tvcentr</epg_id>
+			<tvg_id>tvcentr</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/tvcentr.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятница HD</caption>
+			<channel_id>piatnicaHD</channel_id>
+			<epg_id>piatnicahd</epg_id>
+			<tvg_id>piatnicahd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/piatnicaHD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятница</caption>
+			<channel_id>piatnica</channel_id>
+			<epg_id>piatnicahd</epg_id>
+			<tvg_id>piatnicahd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/pyatnica.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ-3 HD</caption>
+			<channel_id>tv3-ru</channel_id>
+			<epg_id>tv3-ru</epg_id>
+			<tvg_id>tv3-ru</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/tv3.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Че</caption>
+			<channel_id>che</channel_id>
+			<epg_id>che</epg_id>
+			<tvg_id>che</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/che.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Суббота! HD</caption>
+			<channel_id>super</channel_id>
+			<epg_id>super</epg_id>
+			<tvg_id>super</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/super.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КВН ТВ</caption>
+			<channel_id>kvn-tv</channel_id>
+			<epg_id>kvn-tv</epg_id>
+			<tvg_id>kvn-tv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/kvn-tv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Твоё ТВ HD</caption>
+			<channel_id>tvoye</channel_id>
+			<epg_id>tvoetv</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/tvoye.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир</caption>
+			<channel_id>mir</channel_id>
+			<epg_id>mir</epg_id>
+			<tvg_id>mir</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/mir.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Роcсия-Культура</caption>
+			<channel_id>rossia-k</channel_id>
+			<epg_id>kultura</epg_id>
+			<tvg_id>kultura</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/rosskult.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звeзда</caption>
+			<channel_id>zvezda</channel_id>
+			<epg_id>zvezda</epg_id>
+			<tvg_id>zvezda</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/zvezda.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ю</caption>
+			<channel_id>yu</channel_id>
+			<epg_id>yu</epg_id>
+			<tvg_id>yu</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/yu.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ОТР</caption>
+			<channel_id>otr</channel_id>
+			<epg_id>otr</epg_id>
+			<tvg_id>otr</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/otr_ru.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний HD</caption>
+			<channel_id>domashny</channel_id>
+			<epg_id>domashny</epg_id>
+			<tvg_id>domashny</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/domashny.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>РТР Планета</caption>
+			<channel_id>rtrpl</channel_id>
+			<epg_id>rtr-planeta-eu</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/rtr-planeta.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний</caption>
+			<channel_id>domsd</channel_id>
+			<epg_id>domashny</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/domsd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Спас</caption>
+			<channel_id>spas</channel_id>
+			<epg_id>spas</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/spas.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Союз</caption>
+			<channel_id>souz</channel_id>
+			<epg_id>soyuz</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/souz.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>History HD</caption>
+			<channel_id>history-hd</channel_id>
+			<epg_id>history-ru</epg_id>
+			<tvg_id>history-ru</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/history_hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju History</caption>
+			<channel_id>viasat-history</channel_id>
+			<epg_id>viasat-history</epg_id>
+			<tvg_id>viasat-history</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/viasathistory.ru.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju+ Planet HD</caption>
+			<channel_id>viasat-nature-history-hd</channel_id>
+			<epg_id>viasat-nature-history-hd</epg_id>
+			<tvg_id>viasat-nature-history-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/viasat-nature-history-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju Nature</caption>
+			<channel_id>viasat-nature</channel_id>
+			<epg_id>viasat-nature</epg_id>
+			<tvg_id>viasat-nature</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/viasatnature.ru.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju Explore</caption>
+			<channel_id>viasat-explore</channel_id>
+			<epg_id>viasat-explore</epg_id>
+			<tvg_id>viasat-explore</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/viasatexplore.ru.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>National Geographic HD</caption>
+			<channel_id>national-geographicHD</channel_id>
+			<epg_id>national-geographic</epg_id>
+			<tvg_id>national-geographic</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/national-geographic-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>National Geographic</caption>
+			<channel_id>national-geographic</channel_id>
+			<epg_id>national-geographic</epg_id>
+			<tvg_id>national-geographic</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/natgeo.ru.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Animal Planet HD</caption>
+			<channel_id>animal-planetHD</channel_id>
+			<epg_id>animal-planet</epg_id>
+			<tvg_id>animal-planet</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/animal-planetHD.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Discovery Channel HD</caption>
+			<channel_id>discovery-channelHD</channel_id>
+			<epg_id>discovery-channel</epg_id>
+			<tvg_id>discovery-channel</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/discovery-channelHD.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Discovery Science HD</caption>
+			<channel_id>discovery-scienceHD</channel_id>
+			<epg_id>discovery-science</epg_id>
+			<tvg_id>discovery-science</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/discovery-science.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Travel+Adventure HD</caption>
+			<channel_id>travel-adventureHD</channel_id>
+			<epg_id>travel-adventure</epg_id>
+			<tvg_id>travel-adventure</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/travel-adventureHD.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Travel+Adventure</caption>
+			<channel_id>travel-adventure</channel_id>
+			<epg_id>travel-adventure</epg_id>
+			<tvg_id>travel-adventure</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/travel-adventure.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TLC HD</caption>
+			<channel_id>tlcHD</channel_id>
+			<epg_id>tlc</epg_id>
+			<tvg_id>tlc</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/tlcHD.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RTG HD</caption>
+			<channel_id>rtg-hd</channel_id>
+			<epg_id>rtg-hd</epg_id>
+			<tvg_id>rtg-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/RTG_hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Food Network HD</caption>
+			<channel_id>food-networkHD</channel_id>
+			<epg_id>food-network</epg_id>
+			<tvg_id>food-network</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/food-network.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еда Премиум</caption>
+			<channel_id>eda-hd</channel_id>
+			<epg_id>eda-hd</epg_id>
+			<tvg_id>eda-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/eda-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый космический</caption>
+			<channel_id>eureka-hd</channel_id>
+			<epg_id>eureka-hd</epg_id>
+			<tvg_id>eureka-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/eureka-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наука</caption>
+			<channel_id>nauka-20</channel_id>
+			<epg_id>nauka-20</epg_id>
+			<tvg_id>nauka-20</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/nauka-20.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Бобёр</caption>
+			<channel_id>bobior</channel_id>
+			<epg_id>bobior</epg_id>
+			<tvg_id>bobior</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/bober.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Авто Плюс</caption>
+			<channel_id>avto-plus</channel_id>
+			<epg_id>avto-plus</epg_id>
+			<tvg_id>avto-plus</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/avto-plus.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Авто 24</caption>
+			<channel_id>avto24</channel_id>
+			<epg_id>avto24</epg_id>
+			<tvg_id>avto24</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/avto24.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Драйв</caption>
+			<channel_id>drive</channel_id>
+			<epg_id>drive</epg_id>
+			<tvg_id>drive</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/drive.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Моя стихия</caption>
+			<channel_id>morskoy</channel_id>
+			<epg_id>morskoy</epg_id>
+			<tvg_id>morskoy</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/morskoy.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Приключения HD</caption>
+			<channel_id>prikluchenia-hd</channel_id>
+			<epg_id>prikluchenia-hd</epg_id>
+			<tvg_id>prikluchenia-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/priklhd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>В мире животных HD</caption>
+			<channel_id>v-mire-zhivotnyx-hd</channel_id>
+			<epg_id>v-mire-zhivotnyx-hd</epg_id>
+			<tvg_id>v-mire-zhivotnyx-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/v-mire-zhivotnyx.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FAN HD</caption>
+			<channel_id>fanhd</channel_id>
+			<epg_id>fanhd</epg_id>
+			<tvg_id>fanhd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/fan.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FAN</caption>
+			<channel_id>fan</channel_id>
+			<epg_id>fanhd</epg_id>
+			<tvg_id>fanhd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/fan.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>E tv</caption>
+			<channel_id>e-tv</channel_id>
+			<epg_id>e-tv</epg_id>
+			<tvg_id>e-tv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/e-tv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Моя планета HD</caption>
+			<channel_id>planeta-hd</channel_id>
+			<epg_id>moya-planeta</epg_id>
+			<tvg_id>moya-planeta</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/planeta-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Моя планета</caption>
+			<channel_id>moya-planeta</channel_id>
+			<epg_id>moya-planeta</epg_id>
+			<tvg_id>moya-planeta</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/moya-planeta.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Охотник и рыболов HD</caption>
+			<channel_id>oxotnik-i-rybolov-hd</channel_id>
+			<epg_id>oxotnik-i-rybolov-hd</epg_id>
+			<tvg_id>oxotnik-i-rybolov-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/ohotnikribolov.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Охота и рыбалка</caption>
+			<channel_id>oxota-i-rybalka</channel_id>
+			<epg_id>oxota-i-rybalka</epg_id>
+			<tvg_id>oxota-i-rybalka</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/ohotaribalka.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикий</caption>
+			<channel_id>dikiy</channel_id>
+			<epg_id>dikiy</epg_id>
+			<tvg_id>dikiy</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/dikiy.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикая охота HD</caption>
+			<channel_id>dikaya-oxota-hd</channel_id>
+			<epg_id>dikaya-oxota-hd</epg_id>
+			<tvg_id>dikaya-oxota-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/dikaya-oxota-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикая рыбалка HD</caption>
+			<channel_id>dikaya-rybalka-hd</channel_id>
+			<epg_id>dikaya-rybalka-hd</epg_id>
+			<tvg_id>dikaya-rybalka-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/dikaya-rybalka-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Арсенал HD</caption>
+			<channel_id>arsenal</channel_id>
+			<epg_id>arsenaltv</epg_id>
+			<tvg_id>arsenaltv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/arsenal.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Стиль</caption>
+			<channel_id>ntv-style</channel_id>
+			<epg_id>ntv-style</epg_id>
+			<tvg_id>ntv-style</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/ntv-style.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Право</caption>
+			<channel_id>ntv-pravo</channel_id>
+			<epg_id>ntv-pravo</epg_id>
+			<tvg_id>ntv-pravo</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/ntv-pravo.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>HDL</caption>
+			<channel_id>hdlife</channel_id>
+			<epg_id>hd-life</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/hdlife.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>365 дней ТВ</caption>
+			<channel_id>365-dnej</channel_id>
+			<epg_id>365-dnej</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/365-dnej.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кухня ТВ</caption>
+			<channel_id>kuhnya</channel_id>
+			<epg_id>kuxnia-tv</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/kuhnia.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Квадро</caption>
+			<channel_id>quadro</channel_id>
+			<epg_id>quadro4k</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/quadro.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju TV 1000</caption>
+			<channel_id>tv1000</channel_id>
+			<epg_id>tv1000</epg_id>
+			<tvg_id>tv1000</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/tv1000.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju TV 1000 Action</caption>
+			<channel_id>tv1000-action</channel_id>
+			<epg_id>tv1000-action</epg_id>
+			<tvg_id>tv1000-action</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/tv1000action.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju TV 1000 Русское</caption>
+			<channel_id>tv1000-russkoe-kino</channel_id>
+			<epg_id>tv1000-russkoe-kino</epg_id>
+			<tvg_id>tv1000-russkoe-kino</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/tv1000ruskino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju+ Comedy</caption>
+			<channel_id>vip-comedy</channel_id>
+			<epg_id>vip-comedy</epg_id>
+			<tvg_id>vip-comedy</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/vip-comedy.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju+ Megahit</caption>
+			<channel_id>vip-megahit</channel_id>
+			<epg_id>vip-megahit</epg_id>
+			<tvg_id>vip-megahit</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/vip-megahit.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju+ Premiere</caption>
+			<channel_id>vip-premiere</channel_id>
+			<epg_id>vip-premiere</epg_id>
+			<tvg_id>vip-premiere</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/vip-premiere.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино ТВ HD</caption>
+			<channel_id>kino-tvhd</channel_id>
+			<epg_id>kino-tv</epg_id>
+			<tvg_id>kino-tv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kino-tvhd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино ТВ</caption>
+			<channel_id>kino-tv</channel_id>
+			<epg_id>kino-tv</epg_id>
+			<tvg_id>kino-tv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/kino-tv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Остросюжетное HD</caption>
+			<channel_id>ostrosiuzhetnoe-hd</channel_id>
+			<epg_id>ostrosiuzhetnoe-hd</epg_id>
+			<tvg_id>ostrosiuzhetnoe-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/ostrosuzet.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Шокирующее</caption>
+			<channel_id>kinopokaz-hd1</channel_id>
+			<epg_id>shokiruyushchee-hd</epg_id>
+			<tvg_id>kinopokaz-hd1</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/shokiruyushchee.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Премиальное HD</caption>
+			<channel_id>kinopremium-hd</channel_id>
+			<epg_id>premialnoe-hd</epg_id>
+			<tvg_id>kinopremium-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/kinopremiumhd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Комедийное HD</caption>
+			<channel_id>kinopokaz-hd2</channel_id>
+			<epg_id>komedijnoe-hd</epg_id>
+			<tvg_id>kinopokaz-hd2</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/komediynoe.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еврокино</caption>
+			<channel_id>evrokino</channel_id>
+			<epg_id>evrokino</epg_id>
+			<tvg_id>evrokino</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/eurokino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Hollywood HD</caption>
+			<channel_id>hollywood-hd</channel_id>
+			<epg_id>hollywood-hd</epg_id>
+			<tvg_id>hollywood-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/hollywood-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SHOT TV</caption>
+			<channel_id>shot-tv</channel_id>
+			<epg_id>shot-tv</epg_id>
+			<tvg_id>shot-tv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/shottv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Страшное HD</caption>
+			<channel_id>strashnoe-hd</channel_id>
+			<epg_id>strashnoe-hd</epg_id>
+			<tvg_id>strashnoe-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/strashnoe-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НСТ</caption>
+			<channel_id>nst</channel_id>
+			<epg_id>nst</epg_id>
+			<tvg_id>nst</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/nst.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fox HD</caption>
+			<channel_id>foxHD</channel_id>
+			<epg_id>fox</epg_id>
+			<tvg_id>fox</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/foxHD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fox</caption>
+			<channel_id>fox</channel_id>
+			<epg_id>fox</epg_id>
+			<tvg_id>fox</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/fox.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FoxLife</caption>
+			<channel_id>foxlife</channel_id>
+			<epg_id>foxlife</epg_id>
+			<tvg_id>foxlife</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/foxlife.ru.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Amedia 1</caption>
+			<channel_id>amedia1</channel_id>
+			<epg_id>amedia1</epg_id>
+			<tvg_id>amedia1</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/amedia1.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Amedia 2</caption>
+			<channel_id>amedia2</channel_id>
+			<epg_id>amedia2</epg_id>
+			<tvg_id>amedia2</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/amedia2.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Amedia Hit</caption>
+			<channel_id>amedia-hit</channel_id>
+			<epg_id>amedia-hit</epg_id>
+			<tvg_id>amedia-hit</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/amedia-hit.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Amedia Premium HD</caption>
+			<channel_id>amedia-premium</channel_id>
+			<epg_id>amedia-premium</epg_id>
+			<tvg_id>amedia-premium</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/amedia-premium.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Red</caption>
+			<channel_id>sony-enter</channel_id>
+			<epg_id>sony-tv</epg_id>
+			<tvg_id>sony-tv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/sonyentertainment.ru.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Black</caption>
+			<channel_id>sony-turbo</channel_id>
+			<epg_id>sony-turbo</epg_id>
+			<tvg_id>sony-turbo</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/sony-turbo.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sci-Fi</caption>
+			<channel_id>sony-scifi</channel_id>
+			<epg_id>sony-scifi</epg_id>
+			<tvg_id>sony-scifi</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/sony-scifi.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский бестселлер</caption>
+			<channel_id>russky-bestseller</channel_id>
+			<epg_id>russky-bestseller</epg_id>
+			<tvg_id>russky-bestseller</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/rusbestseller.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский детектив</caption>
+			<channel_id>russky-detektiv</channel_id>
+			<epg_id>russky-detektiv</epg_id>
+			<tvg_id>russky-detektiv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/rusdetektiv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русская комедия</caption>
+			<channel_id>russkaya-komedia</channel_id>
+			<epg_id>russkaya-komedia</epg_id>
+			<tvg_id>russkaya-komedia</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/ruskomed.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский роман</caption>
+			<channel_id>russky-roman</channel_id>
+			<epg_id>russky-roman</epg_id>
+			<tvg_id>russky-roman</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/russky-roman.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский иллюзион</caption>
+			<channel_id>russky-illuzion</channel_id>
+			<epg_id>russky-illuzion</epg_id>
+			<tvg_id>russky-illuzion</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/rusiluzion.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дом кино</caption>
+			<channel_id>domkino</channel_id>
+			<epg_id>domkino</epg_id>
+			<tvg_id>domkino</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/dom-kino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дом Кино Премиум HD</caption>
+			<channel_id>domkino-premium</channel_id>
+			<epg_id>domkino-premium</epg_id>
+			<tvg_id>domkino-premium</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/dom-kino-premium.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Победа</caption>
+			<channel_id>pobeda</channel_id>
+			<epg_id>pobeda</epg_id>
+			<tvg_id>pobeda</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/pobeda.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше любимое кино</caption>
+			<channel_id>nashe-lubimoe-kino</channel_id>
+			<epg_id>lubimoe-kino</epg_id>
+			<tvg_id>lubimoe-kino</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/nashe-lubimoe-kino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше крутое HD</caption>
+			<channel_id>nash-detektiv</channel_id>
+			<epg_id>nashehd</epg_id>
+			<tvg_id>nash-detektiv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/nashe-krutoe.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Душевное HD</caption>
+			<channel_id>nash-kinoroman</channel_id>
+			<epg_id>nash-kinoroman</epg_id>
+			<tvg_id>nash-kinoroman</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/nashkinoroman.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Сериал</caption>
+			<channel_id>ntv-serial</channel_id>
+			<epg_id>ntv-serial</epg_id>
+			<tvg_id>ntv-serial</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/ntv-serial.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир Сериала</caption>
+			<channel_id>mir-seriala</channel_id>
+			<epg_id>mir-seriala</epg_id>
+			<tvg_id>mir-seriala</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/mir-seriala.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Ultra</caption>
+			<channel_id>bcu_ultra</channel_id>
+			<epg_id>bcu_ultra</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_ultra.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU TruMotion HD</caption>
+			<channel_id>bcu_trumo</channel_id>
+			<epg_id>bcu-turm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_trumo.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Catastrophe HD</caption>
+			<channel_id>bcu_catastr</channel_id>
+			<epg_id>bcu_catastr</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_catastr.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Marvel HD</caption>
+			<channel_id>bcu_marvel</channel_id>
+			<epg_id>bcu_marvel</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_marvel.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Fantastic HD</caption>
+			<channel_id>bcu_fantastic</channel_id>
+			<epg_id>bcu_fantastic</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_fantastic.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Filmystic HD</caption>
+			<channel_id>bcu_filmystic</channel_id>
+			<epg_id>bcu_filmystic</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_filmystic.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Kinozakaz HD</caption>
+			<channel_id>bcu_media</channel_id>
+			<epg_id>bcu-media</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_media.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Stars HD</caption>
+			<channel_id>bcu_stars</channel_id>
+			<epg_id>bcu_stars</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_stars.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Action HD</caption>
+			<channel_id>bcu_action</channel_id>
+			<epg_id>bcu_action</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_action.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Premiere HD</caption>
+			<channel_id>bcu_premiere</channel_id>
+			<epg_id>bcu_premiere</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_premiere.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Kinorating HD</caption>
+			<channel_id>bcu_kinorating</channel_id>
+			<epg_id>bcu_kinorating</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_kinorating.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Criminal HD</caption>
+			<channel_id>bcu_crime</channel_id>
+			<epg_id>bcu_crime</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_crime.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Cinema HD</caption>
+			<channel_id>bcu_cinema</channel_id>
+			<epg_id>bcu_cinema</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_cinema.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Cinema Plus HD</caption>
+			<channel_id>bcu_cinemapl</channel_id>
+			<epg_id>bcu_cinemapl</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_cinemapl.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Comedy HD</caption>
+			<channel_id>bcu_comedy</channel_id>
+			<epg_id>bcu_comedy</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_comedy.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU History HD</caption>
+			<channel_id>bcu_history</channel_id>
+			<epg_id>bcu_history</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_history.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Romantic HD</caption>
+			<channel_id>bcu_romantic</channel_id>
+			<epg_id>bcu_romantic</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_romantic.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Reality HD</caption>
+			<channel_id>bcu_reality</channel_id>
+			<epg_id>bcu-reality</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_reality.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Survival HD</caption>
+			<channel_id>bcu_surv</channel_id>
+			<epg_id>bcu-surv</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_surv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Cosmo HD</caption>
+			<channel_id>bcu_cosmo</channel_id>
+			<epg_id>bcu-cosmo</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_cosmo.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU VHS HD</caption>
+			<channel_id>bcu_vhs</channel_id>
+			<epg_id>bcu_vhs</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_vhs.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU СССР HD</caption>
+			<channel_id>bcu_sssr</channel_id>
+			<epg_id>bcu_sssr</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_sssr.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Russian HD</caption>
+			<channel_id>bcu_russian</channel_id>
+			<epg_id>bcu_russian</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_russian.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU RUSerial HD</caption>
+			<channel_id>bcu_ruserial</channel_id>
+			<epg_id>BCU_ruserial</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_ruserial.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Сваты HD</caption>
+			<channel_id>BCU_svati</channel_id>
+			<epg_id>BCU_svati</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/BCU_svati.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Кинозал PREMIERE 1 HD</caption>
+			<channel_id>bcu_kinop1</channel_id>
+			<epg_id>bcu_kinop1</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_kinop1.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Кинозал PREMIERE 2 HD</caption>
+			<channel_id>bcu_kinop2</channel_id>
+			<epg_id>bcu_kinop2</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_kinop2.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Кинозал PREMIERE 3 HD</caption>
+			<channel_id>bcu_kinop3</channel_id>
+			<epg_id>bcu_kinop3</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_kinop3.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH UHD HDR</caption>
+			<channel_id>sh_uhd_hdr</channel_id>
+			<epg_id>SKYHIGHUHDHDR</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sh_uhd_hdr.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH VHS UHD</caption>
+			<channel_id>sh_vhs_uhd</channel_id>
+			<epg_id>SKYHIGHVHSUHD</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sh_vhs_uhd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Series HD</caption>
+			<channel_id>sh_series</channel_id>
+			<epg_id>SKYHIGHSERIESHD</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sh_series.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Epoch HD</caption>
+			<channel_id>sh_epoch</channel_id>
+			<epg_id>SKYHIGHEPOCHHD</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sh_epoch.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Mix 3D</caption>
+			<channel_id>sh_mix3d</channel_id>
+			<epg_id>SKYHIGH3D</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sh_mix3d.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Spirit HD</caption>
+			<channel_id>sh_spirit</channel_id>
+			<epg_id>SKYHIGHSPIRITHD</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sh_spirit.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Fresh HD</caption>
+			<channel_id>sh_fresh</channel_id>
+			<epg_id>SKYHIGHFRESHHD</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sh_fresh.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Fresh HDR</caption>
+			<channel_id>sh_freshhdr</channel_id>
+			<epg_id>static-16</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sh_freshhdr.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Fresh 60</caption>
+			<channel_id>sh_fresh60</channel_id>
+			<epg_id>SKYHIGHFRESH60</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sh_new60.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Heroes HD</caption>
+			<channel_id>sh_heroes</channel_id>
+			<epg_id>SKYHIGHHEROESHD</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sh_heroes.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Future HD</caption>
+			<channel_id>sh_future</channel_id>
+			<epg_id>SKYHIGHFUTUREHD</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sh_future.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Russian HD</caption>
+			<channel_id>ss_russian</channel_id>
+			<epg_id>SKYHIGHRUSSIANHD</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ss_russian.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MS Prisons HD</caption>
+			<channel_id>ms_prisons</channel_id>
+			<epg_id>static-16</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ms_prisons.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MS Young Blood HD</caption>
+			<channel_id>ms_young_blood</channel_id>
+			<epg_id>young-blood-ms</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ms_young_blood.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Flip UHD</caption>
+			<channel_id>minimax-flip-uhd</channel_id>
+			<epg_id>static-16</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/minimax-flip-uhd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Фантастика HD</caption>
+			<channel_id>fantastika-hd-minimax</channel_id>
+			<epg_id>fantastika-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/fantastika-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM UFO HD</caption>
+			<channel_id>ufo-hd-minimax</channel_id>
+			<epg_id>ufo-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ufo-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Супергерои HD</caption>
+			<channel_id>supergeroi-hd-minimax</channel_id>
+			<epg_id>supergeroi-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/supergeroi-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Мифология HD</caption>
+			<channel_id>mifologija-hd-minimax</channel_id>
+			<epg_id>mifologija-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mifologija-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Катастрофа</caption>
+			<channel_id>katastrofa-hd-minimax</channel_id>
+			<epg_id>katastrofa-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/katastrofa-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Celebrity HD</caption>
+			<channel_id>celebrity-mm</channel_id>
+			<epg_id>celebrity-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mm_celebrity.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Фобия</caption>
+			<channel_id>fobija-hd-minimax</channel_id>
+			<epg_id>fobija-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/fobija-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Стивен Кинг HD</caption>
+			<channel_id>st-king-hd-minimax</channel_id>
+			<epg_id>st-king-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/st-king-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Ужасы</caption>
+			<channel_id>ujasi-hd-minimax</channel_id>
+			<epg_id>ujasi-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ujasi-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Ужастик HD</caption>
+			<channel_id>ujastik-hd-minimax</channel_id>
+			<epg_id>ujastik-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ujastik-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Ужасы classic</caption>
+			<channel_id>ujasi-classic-hd-minimax</channel_id>
+			<epg_id>ujasi-classic-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ujasi-classic-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Триллер</caption>
+			<channel_id>triller-hd-minimax</channel_id>
+			<epg_id>triller-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/triller-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Драма HD</caption>
+			<channel_id>drama-hd-minimax</channel_id>
+			<epg_id>drama-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/drama-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Приключения</caption>
+			<channel_id>prikluchenija-hd-minimax</channel_id>
+			<epg_id>prikluchenija-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/prikluchenija-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Скорость</caption>
+			<channel_id>skorost-hd-minimax</channel_id>
+			<epg_id>skorost-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/skorost-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Спорт</caption>
+			<channel_id>sport-mm</channel_id>
+			<epg_id>sport-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sport-mm.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Киберпанк</caption>
+			<channel_id>kiberpunk-hd-minimax</channel_id>
+			<epg_id>kiberpunk-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kiberpunk-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Погружение</caption>
+			<channel_id>pogrujenie-hd-minimax</channel_id>
+			<epg_id>pogrujenie-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/pogrujenie-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Затмение</caption>
+			<channel_id>zatmenie-hd-minimax</channel_id>
+			<epg_id>zatmenie-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/zatmenie-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Криминал</caption>
+			<channel_id>kriminal-hd-minimax</channel_id>
+			<epg_id>kriminal-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kriminal-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Боевик HD</caption>
+			<channel_id>boevik-hd-minimax</channel_id>
+			<epg_id>boevik-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/boevik-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Боевик classic</caption>
+			<channel_id>boevik-classic-hd-minimax</channel_id>
+			<epg_id>boevik_classic-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/boevik-classic-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM 007 HD</caption>
+			<channel_id>007-mm</channel_id>
+			<epg_id>static-17</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/007-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Семейный 1</caption>
+			<channel_id>family-1-hd-minimax</channel_id>
+			<epg_id>family_1-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/family-1-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Семейный 2</caption>
+			<channel_id>family-2-hd-minimax</channel_id>
+			<epg_id>family2-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/family-2-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Комедия</caption>
+			<channel_id>komediya-hd-minimax</channel_id>
+			<epg_id>comedy-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/komediya-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Комедия classic</caption>
+			<channel_id>komediya-classic-hd-minimax</channel_id>
+			<epg_id>comedy_classic-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/komediya-classic-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Уэс Крэйвен HD</caption>
+			<channel_id>ues-krejven-hd-minimax</channel_id>
+			<epg_id>ues-krejven-hd-minimax</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ues-krejven-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Синематограф</caption>
+			<channel_id>sinematograf-mm</channel_id>
+			<epg_id>sinematograf-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sinematograf-mm.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Ситком</caption>
+			<channel_id>minimax-sitkom</channel_id>
+			<epg_id>sitkom-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/minimax-sitkom.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Нуар HD</caption>
+			<channel_id>nuar-hd-minimax</channel_id>
+			<epg_id>nuar-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/nuar-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Кунг-Фу</caption>
+			<channel_id>kungfu-hd-minimax</channel_id>
+			<epg_id>kung-fu-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kungfu-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Cпорт HD</caption>
+			<channel_id>sport-hd-minimax</channel_id>
+			<epg_id>sport-hd-minimax</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sport-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Вестерн</caption>
+			<channel_id>western-hd-minimax</channel_id>
+			<epg_id>western-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/western-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM История</caption>
+			<channel_id>istoricheskij-hd-minimax</channel_id>
+			<epg_id>istorija-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/istoricheskij-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Агата Кристи</caption>
+			<channel_id>agata-hd-minimax</channel_id>
+			<epg_id>agata-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/agata-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Грайндхаус</caption>
+			<channel_id>minimax-bajki-mitjaja</channel_id>
+			<epg_id>grindhouse-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/minimax-bajki-mitjaja.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Роскино</caption>
+			<channel_id>roskino-hd-minimax</channel_id>
+			<epg_id>roskino-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/roskino-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Classic HD</caption>
+			<channel_id>classic-mm</channel_id>
+			<epg_id>classic-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/classic-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Крутые 90-е</caption>
+			<channel_id>minimax-krutie-90e</channel_id>
+			<epg_id>krutie-90-e-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/minimax-krutie-90e.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM U.S.S.R. Приключения</caption>
+			<channel_id>ussr-prikluchenija-mm</channel_id>
+			<epg_id>ussr-prikluchenija-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ussr-prikluchenija-mm.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM U.S.S.R. Фантастика</caption>
+			<channel_id>ussr-fantastika-minimax</channel_id>
+			<epg_id>ussr-fantastika-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ussr-fantastika-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM U.S.S.R. Комедия</caption>
+			<channel_id>ussr-komedija-minimax</channel_id>
+			<epg_id>ussr-komedija-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ussr-komedija-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM U.S.S.R. Детектив HD</caption>
+			<channel_id>ussr-detektiv-minimax</channel_id>
+			<epg_id>ussr-detektiv-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ussr-detektiv-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM U.S.S.R. 1941-1945</caption>
+			<channel_id>ussr-1941-1945-minimax</channel_id>
+			<epg_id>ussr-1941-1945-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ussr-1941-1945-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Полицейский с Рублёвки HD</caption>
+			<channel_id>minimax-policejskij-s-rublevki</channel_id>
+			<epg_id>police-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/minimax-policejskij-s-rublevki.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Воронины</caption>
+			<channel_id>minimax-voronini</channel_id>
+			<epg_id>voronini-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/minimax-voronini.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Ольга HD</caption>
+			<channel_id>minimax-olga</channel_id>
+			<epg_id>static-18</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/minimax-olga.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Сваты</caption>
+			<channel_id>minimax-svati</channel_id>
+			<epg_id>svati-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/minimax-svati.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Newfilm.ru</caption>
+			<channel_id>newfilm-ru-hd-minimax</channel_id>
+			<epg_id>newfilmru-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/newfilm-ru-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Translation HD</caption>
+			<channel_id>translation-minimax</channel_id>
+			<epg_id>translation-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/translation-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Newfilm 1</caption>
+			<channel_id>newfilm-1-hd-minimax</channel_id>
+			<epg_id>newfilm1-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/newfilm-1-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Newfilm 2</caption>
+			<channel_id>newfilm-2-hd-minimax</channel_id>
+			<epg_id>newfilm2-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/newfilm-2-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Newfilm 3</caption>
+			<channel_id>newfilm-3-hd-minimax</channel_id>
+			<epg_id>newfilm3-mm</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/newfilm-3-hd-minimax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan</caption>
+			<channel_id>cineman</channel_id>
+			<epg_id>cineman</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cineman.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Top</caption>
+			<channel_id>cinetop</channel_id>
+			<epg_id>cineman-top</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinetop.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Marvel</caption>
+			<channel_id>cinemarv</channel_id>
+			<epg_id>cineman-marvel</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinemarv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Action</caption>
+			<channel_id>cineaction</channel_id>
+			<epg_id>cineman-action</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cineaction.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Thriller</caption>
+			<channel_id>cinetril</channel_id>
+			<epg_id>cineman-thriller</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinetril.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Комедия</caption>
+			<channel_id>cinecomed</channel_id>
+			<epg_id>cineman-comedy</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinecomed.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Ужасы</caption>
+			<channel_id>cineujas</channel_id>
+			<epg_id>cineman-uzhasy</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cineujas.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Мелодрама</caption>
+			<channel_id>cinemelodr</channel_id>
+			<epg_id>cineman-melodrama</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinemelodr.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Катастрофы</caption>
+			<channel_id>cinedisas</channel_id>
+			<epg_id>cineman-disasters</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinedisas.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Скорая помощь</caption>
+			<channel_id>cinespom</channel_id>
+			<epg_id>cineman-ER</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinespom.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan VHS</caption>
+			<channel_id>cinevhs</channel_id>
+			<epg_id>cineman-vhs</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinevhs.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan ПёС</caption>
+			<channel_id>cinepes</channel_id>
+			<epg_id>cineman-PES</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinepes.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Лесник</caption>
+			<channel_id>cinelesnik</channel_id>
+			<epg_id>cineman-forester</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinelesnik.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Ментовские войны</caption>
+			<channel_id>cinement</channel_id>
+			<epg_id>cineman-MW</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinement.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan РуКино</caption>
+			<channel_id>cinerukino</channel_id>
+			<epg_id>cineman-rukino</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinerukino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Сваты</caption>
+			<channel_id>cinesvati</channel_id>
+			<epg_id>cineman-svaty</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinesvati.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Channel HD</caption>
+			<channel_id>z_ch</channel_id>
+			<epg_id>Z_Channel</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_ch.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Crime HD</caption>
+			<channel_id>z_crime</channel_id>
+			<epg_id>Z_Crime</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_crime.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Comedy HD</caption>
+			<channel_id>z_comedy</channel_id>
+			<epg_id>Z_Comedy</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_comedy.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Horror HD</caption>
+			<channel_id>z_horror</channel_id>
+			<epg_id>Z_Horror</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_horror.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Sitcom HD</caption>
+			<channel_id>z_sitcom</channel_id>
+			<epg_id>Z_Sitcom</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_sitcom.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Serial HD</caption>
+			<channel_id>z_serial</channel_id>
+			<epg_id>Z_Serial</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_serial.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Premium</caption>
+			<channel_id>kbc_premium</channel_id>
+			<epg_id>35525</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_premium.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC New Film</caption>
+			<channel_id>kbc_newfilm</channel_id>
+			<epg_id>39048</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_newfilm.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Кинотеатр</caption>
+			<channel_id>kbc_kinoteatr</channel_id>
+			<epg_id>39797</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_kinoteatr.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Guy Ritchie &amp; Tarantino</caption>
+			<channel_id>kbc_ritchie_tarantino</channel_id>
+			<epg_id>39819</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_ritchie_tarantino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Шпионское</caption>
+			<channel_id>kbc_shpionskoe</channel_id>
+			<epg_id>39820</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_shpionskoe.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Fantastic</caption>
+			<channel_id>kbc_fantastic</channel_id>
+			<epg_id>39795</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_fantastic.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Family Animation</caption>
+			<channel_id>kbc_family_animation</channel_id>
+			<epg_id>38589</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_family_animation.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Кошмарное</caption>
+			<channel_id>kbc_koshmarnoe</channel_id>
+			<epg_id>36277</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_koshmarnoe.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Драма TIC</caption>
+			<channel_id>kbc_drama_tic</channel_id>
+			<epg_id>36732</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_drama_tic.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Видак</caption>
+			<channel_id>kbc_vidak</channel_id>
+			<epg_id>36251</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_vidak.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Elite Comedys</caption>
+			<channel_id>kbc_elite_comedy</channel_id>
+			<epg_id>35448</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_elite_comedy.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Comics</caption>
+			<channel_id>kbc_comics</channel_id>
+			<epg_id>39800</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_comics.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Russian Комедия</caption>
+			<channel_id>kbc_russian_comedy</channel_id>
+			<epg_id>36168</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_russian_comedy.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC History</caption>
+			<channel_id>kbc_history</channel_id>
+			<epg_id>39796</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_history.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Легендарное HD</caption>
+			<channel_id>kbc_ultra</channel_id>
+			<epg_id>39826</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_ultra.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Страна СССР</caption>
+			<channel_id>kbc_strana_sssr</channel_id>
+			<epg_id>36506</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_strana_sssr.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC В.О.В.</caption>
+			<channel_id>kbc_vov</channel_id>
+			<epg_id>39821</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_vov.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Легенда 4К</caption>
+			<channel_id>lib_legenda</channel_id>
+			<epg_id>LIBERTYLEGENDA</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_legenda.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Marvel 4K</caption>
+			<channel_id>lib_marvel</channel_id>
+			<epg_id>LIBERTYMARVEL</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_marvel.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty DC</caption>
+			<channel_id>lib_dc</channel_id>
+			<epg_id>LIBERTYDC</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_dc.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Комедии</caption>
+			<channel_id>lib_comedy</channel_id>
+			<epg_id>LIBERTYKOMEDII</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_comedy.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Триллеры 4K</caption>
+			<channel_id>lib_triller</channel_id>
+			<epg_id>LIBERTYTRILLERY</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_triller.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Ужасы 4K</caption>
+			<channel_id>lib_uzhas</channel_id>
+			<epg_id>LIBERTYUZHASY</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_uzhas.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Мелодрамы</caption>
+			<channel_id>lib_melod</channel_id>
+			<epg_id>LIBERTYMELODRAMY</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_melod.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Fan</caption>
+			<channel_id>lib_fan</channel_id>
+			<epg_id>LIBERTYFAN</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_fan.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Короткометражный</caption>
+			<channel_id>lib_kormet</channel_id>
+			<epg_id>LIBERTYKOROTKOMETRAZHNOYE</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_kormet.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Сериалы</caption>
+			<channel_id>lib_ser</channel_id>
+			<epg_id>LIBERTYSERIALY</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_ser.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Сваты</caption>
+			<channel_id>lib_svaty</channel_id>
+			<epg_id>LIBERTYSVATY</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_svaty.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Занавес</caption>
+			<channel_id>lib_zanaves</channel_id>
+			<epg_id>LIBERTYZANAVES</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_zanaves.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Anime</caption>
+			<channel_id>lib_anime</channel_id>
+			<epg_id>LIBERTYANIME</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_anime.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty SouthPark</caption>
+			<channel_id>lib_sp</channel_id>
+			<epg_id>LIBERTYSOUTHPARK</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_sp.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Кино Eng 4K</caption>
+			<channel_id>lib_kinoeng</channel_id>
+			<epg_id>LIBERTYKINOENG</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_kinoeng.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Comedy</caption>
+			<channel_id>mag_co</channel_id>
+			<epg_id>mag_co</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mag_co.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Action</caption>
+			<channel_id>mag_ac</channel_id>
+			<epg_id>mag_ac</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mag_ac.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Galaxy</caption>
+			<channel_id>mag_ga</channel_id>
+			<epg_id>mag_ga</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mag_ga.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Karate</caption>
+			<channel_id>mag_ka</channel_id>
+			<epg_id>mag_ka</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mag_ka.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Thriller</caption>
+			<channel_id>mag_tr</channel_id>
+			<epg_id>mag_tr</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mag_tr.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Disney</caption>
+			<channel_id>mag_ds</channel_id>
+			<epg_id>mag_ds</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mag_ds.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Horror</caption>
+			<channel_id>mag_ho</channel_id>
+			<epg_id>mag_ho</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mag_ho.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic VHS</caption>
+			<channel_id>mag_vhs</channel_id>
+			<epg_id>static-21</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mag_vhs.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Family</caption>
+			<channel_id>mag_fa</channel_id>
+			<epg_id>mag_fa</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mag_fa.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Love</caption>
+			<channel_id>mag_lo</channel_id>
+			<epg_id>mag_lo</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mag_lo.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ TV HD</caption>
+			<channel_id>uztvhd</channel_id>
+			<epg_id>static-16</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uztvhd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Кинозал HEVC HD</caption>
+			<channel_id>uzkinozal</channel_id>
+			<epg_id>uzkinozal</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzkinozal.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Кино Новинки HD</caption>
+			<channel_id>uzkinon</channel_id>
+			<epg_id>uzkinon</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzkinon.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Бойцовское кино HD</caption>
+			<channel_id>uzbkino</channel_id>
+			<epg_id>uzbkino</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzbkino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Ужасное HD</caption>
+			<channel_id>uzujas</channel_id>
+			<epg_id>uzujas</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzujas.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Кинокомфорт HD</caption>
+			<channel_id>uzkinok</channel_id>
+			<epg_id>uzkinok</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzkinok.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Боевики HD</caption>
+			<channel_id>uzboevik</channel_id>
+			<epg_id>uzboevik</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzboevik.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Фантастика HD</caption>
+			<channel_id>uzfant</channel_id>
+			<epg_id>uzfant</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzfant.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Приключения HD</caption>
+			<channel_id>uzprikl</channel_id>
+			<epg_id>uzprikl</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzprikl.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Комедия HD</caption>
+			<channel_id>uzkomedy</channel_id>
+			<epg_id>uzkomedy</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzkomedy.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Союз-Фильмы HD</caption>
+			<channel_id>uzsyuzf</channel_id>
+			<epg_id>static-19</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzsyuzf.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Витек ТВ</caption>
+			<channel_id>uzvitek</channel_id>
+			<epg_id>uzvitek</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzvitek.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Кино 1 HD</caption>
+			<channel_id>uzkino1</channel_id>
+			<epg_id>1429</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzkino1.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Кино 2 HD</caption>
+			<channel_id>uzkino2</channel_id>
+			<epg_id>2070</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzkino2.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Кино 3 HD</caption>
+			<channel_id>uzkino3</channel_id>
+			<epg_id>2074</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzkino3.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Кино 4 HD</caption>
+			<channel_id>uzkino4</channel_id>
+			<epg_id>1559</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzkino4.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UZ Кино 5 HD</caption>
+			<channel_id>uzkino5</channel_id>
+			<epg_id>1686</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/uzkino5.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинокомедия</caption>
+			<channel_id>kinokomedia</channel_id>
+			<epg_id>kinokomedia</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/kinokomedia.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинопремьера HD</caption>
+			<channel_id>kinopremiera-hd</channel_id>
+			<epg_id>kinopremiera-hd</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/kinopremiera.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинохит</caption>
+			<channel_id>kinoxit</channel_id>
+			<epg_id>kinoxit</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/kino_xit.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киномикс</caption>
+			<channel_id>kinomiks</channel_id>
+			<epg_id>kinomiks</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/kinomiks.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мужское кино</caption>
+			<channel_id>muzhskoe-kino</channel_id>
+			<epg_id>muzhskoe-kino</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/muzhskoe-kino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносвидание</caption>
+			<channel_id>kinosvidanie</channel_id>
+			<epg_id>kinosvidanie</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/kinosvidanie.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносемья</caption>
+			<channel_id>kinosemiya</channel_id>
+			<epg_id>kinosemiya</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/kinosemia.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Родное кино</caption>
+			<channel_id>rodnoe-kino</channel_id>
+			<epg_id>rodnoe-kino</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/rodnoe-kino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше новое кино</caption>
+			<channel_id>nashe-novoe-kino</channel_id>
+			<epg_id>nashe-novoe-kino</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/nashe-novoe-kino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносерия</caption>
+			<channel_id>kinoseria</channel_id>
+			<epg_id>kinoseria</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/kinoseria.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH CHBU HD</caption>
+			<channel_id>sh_chbu</channel_id>
+			<epg_id>SKYHIGHCHBUHD</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/sh_chbu.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Miniseries</caption>
+			<channel_id>cineminiseri</channel_id>
+			<epg_id>cineman-miniseries</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cineminiseri.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Fantastic HD</caption>
+			<channel_id>z_fantas</channel_id>
+			<epg_id>Z_Fantastic</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_fantas.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Fantasy HD</caption>
+			<channel_id>z_fantasy</channel_id>
+			<epg_id>Z_Fantasy</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_fantasy.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Family HD</caption>
+			<channel_id>z_family</channel_id>
+			<epg_id>Z_Family</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_family.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Biography HD</caption>
+			<channel_id>z_biogr</channel_id>
+			<epg_id>Z_Biography</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_biogr.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Smile HD</caption>
+			<channel_id>z_smile</channel_id>
+			<epg_id>Z_Smile</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_smile.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Military HD</caption>
+			<channel_id>z_mil</channel_id>
+			<epg_id>Z_Military</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_mil.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Thriller HD</caption>
+			<channel_id>z_thril</channel_id>
+			<epg_id>Z_Thriller</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_thril.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Detective HD</caption>
+			<channel_id>z_detect</channel_id>
+			<epg_id>Z_Detective</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_detect.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Adventure HD</caption>
+			<channel_id>z_advent</channel_id>
+			<epg_id>Z_Adventure</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_advent.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Drama HD</caption>
+			<channel_id>z_drama</channel_id>
+			<epg_id>Z_Drama</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_drama.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!History HD</caption>
+			<channel_id>z_history</channel_id>
+			<epg_id>Z_History</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_history.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Russian HD</caption>
+			<channel_id>z_rus</channel_id>
+			<epg_id>Z_Russian</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/z_rus.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Гоблин</caption>
+			<channel_id>kbc_goblin</channel_id>
+			<epg_id>kbc_goblin</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_goblin.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Light сериал RU</caption>
+			<channel_id>kbc_light_serial_ru</channel_id>
+			<epg_id>kbc_light_serial_ru</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_light_serial_ru.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Криминальный Serial</caption>
+			<channel_id>kbc_criminal_serial</channel_id>
+			<epg_id>39822</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_criminal_serial.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Russian</caption>
+			<channel_id>mag_rus</channel_id>
+			<epg_id>mag_rus</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mag_rus.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Adventure</caption>
+			<channel_id>mag_adventure</channel_id>
+			<epg_id>Magicadventure-1</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mag_adventure.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MiTV Сверхъестественное</caption>
+			<channel_id>mi_supernat</channel_id>
+			<epg_id>static-20</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mi_supernat.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MiTV Агент 007</caption>
+			<channel_id>mi_007</channel_id>
+			<epg_id>mi_007</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mi_007.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MiTV Фантастика</caption>
+			<channel_id>mi_fan</channel_id>
+			<epg_id>mi_fan</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mi_fan.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MiTV UFO</caption>
+			<channel_id>mi_ufo</channel_id>
+			<epg_id>mi_ufo</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mi_ufo.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MiTV Секретные материалы</caption>
+			<channel_id>mi_xfiles</channel_id>
+			<epg_id>static-32</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mi_xfiles.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MiTV Фронт</caption>
+			<channel_id>mi_front</channel_id>
+			<epg_id>mi_front</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mi_front.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MiTV Друзья</caption>
+			<channel_id>mi_friends</channel_id>
+			<epg_id>static-33</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/mi_friends.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Plan B HD</caption>
+			<channel_id>planb</channel_id>
+			<epg_id>plan-b</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/planb.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! HD</caption>
+			<channel_id>match-tvhd</channel_id>
+			<epg_id>match-tv</epg_id>
+			<tvg_id>match-tv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч ТВ</caption>
+			<channel_id>match-tv</channel_id>
+			<epg_id>match-tv</epg_id>
+			<tvg_id>match-tv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Планета</caption>
+			<channel_id>match-planeta</channel_id>
+			<epg_id>match-planeta</epg_id>
+			<tvg_id>match-planeta</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-planeta.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Арена HD</caption>
+			<channel_id>match-arenahd</channel_id>
+			<epg_id>match-arena</epg_id>
+			<tvg_id>match-arena</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-arena.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Арена</caption>
+			<channel_id>match-arena</channel_id>
+			<epg_id>match-arena</epg_id>
+			<tvg_id>match-arena</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-arena.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Игра HD</caption>
+			<channel_id>match-igrahd</channel_id>
+			<epg_id>match-igra</epg_id>
+			<tvg_id>match-igra</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-igra.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Игра</caption>
+			<channel_id>match-igra</channel_id>
+			<epg_id>match-igra</epg_id>
+			<tvg_id>match-igra</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-igra.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Страна</caption>
+			<channel_id>match-nash-sport</channel_id>
+			<epg_id>match-nash-sport</epg_id>
+			<tvg_id>match-nash-sport</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-strana.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Боец</caption>
+			<channel_id>match-boets</channel_id>
+			<epg_id>match-boets</epg_id>
+			<tvg_id>match-boets</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-boec.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 1 HD</caption>
+			<channel_id>match-football1hd</channel_id>
+			<epg_id>match-football1</epg_id>
+			<tvg_id>match-football1</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-football-1.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 1</caption>
+			<channel_id>match-football1</channel_id>
+			<epg_id>match-football1</epg_id>
+			<tvg_id>match-football1</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-football-1.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 2 HD</caption>
+			<channel_id>match-football2hd</channel_id>
+			<epg_id>match-football2</epg_id>
+			<tvg_id>match-football2</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-football-2.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 2</caption>
+			<channel_id>match-football2</channel_id>
+			<epg_id>match-football2</epg_id>
+			<tvg_id>match-football2</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-football-2.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 3 HD</caption>
+			<channel_id>match-football3hd</channel_id>
+			<epg_id>match-football3</epg_id>
+			<tvg_id>match-football3</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-football-3.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 3</caption>
+			<channel_id>match-football3</channel_id>
+			<epg_id>match-football3</epg_id>
+			<tvg_id>match-football3</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-football-3.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Премьер HD</caption>
+			<channel_id>match-premierhd</channel_id>
+			<epg_id>match-premier</epg_id>
+			<tvg_id>match-premier</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-premiere.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Премьер</caption>
+			<channel_id>match-premier</channel_id>
+			<epg_id>match-premier</epg_id>
+			<tvg_id>match-premier</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/match-premiere.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Футбол HD</caption>
+			<channel_id>football-ru</channel_id>
+			<epg_id>football-ru</epg_id>
+			<tvg_id>football-ru</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/futbol.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 1 HD</caption>
+			<channel_id>setanta-sports</channel_id>
+			<epg_id>setanta-sports</epg_id>
+			<tvg_id>setanta-sports</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/setanta-sports.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 2 HD</caption>
+			<channel_id>setanta-sports-plus</channel_id>
+			<epg_id>setanta-sports-plus</epg_id>
+			<tvg_id>setanta-sports-plus</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/setanta-sports-plus.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 1 HD</caption>
+			<channel_id>eurosport1hd</channel_id>
+			<epg_id>eurosport1</epg_id>
+			<tvg_id>eurosport1</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/eurosport1hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 2 HD</caption>
+			<channel_id>eurosport2HD</channel_id>
+			<epg_id>eurosport2</epg_id>
+			<tvg_id>eurosport2-ru</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/eurosport2.ru.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>UDAR HD</caption>
+			<channel_id>ufc</channel_id>
+			<epg_id>ufc</epg_id>
+			<tvg_id>ufc</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/ufctv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KHL Prime HD</caption>
+			<channel_id>kxl-hd</channel_id>
+			<epg_id>kxl-hd</epg_id>
+			<tvg_id>kxl-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kxl-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KHL</caption>
+			<channel_id>kxl</channel_id>
+			<epg_id>kxl</epg_id>
+			<tvg_id>kxl</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/khl.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju+ Sport HD</caption>
+			<channel_id>viasat-sporthd</channel_id>
+			<epg_id>viasat-sport</epg_id>
+			<tvg_id>viasat-sport</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/viasatsport.ru.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju+ Sport</caption>
+			<channel_id>viasat-sport</channel_id>
+			<epg_id>viasat-sport</epg_id>
+			<tvg_id>viasat-sport</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/viasatsport.ru.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SD Rex</caption>
+			<channel_id>russky-ekstrim</channel_id>
+			<epg_id>russky-ekstrim</epg_id>
+			<tvg_id>russky-ekstrim</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/sdrex.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Extreme Sport</caption>
+			<channel_id>extreme-sports</channel_id>
+			<epg_id>extreme-sports</epg_id>
+			<tvg_id>extreme-sports</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/extremesports.ru.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Точка отрыва</caption>
+			<channel_id>tochka-otryva</channel_id>
+			<epg_id>tochka-otryva</epg_id>
+			<tvg_id>tochka-otryva</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/tochka-otryva.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Конный мир HD</caption>
+			<channel_id>konny-mir</channel_id>
+			<epg_id>konny-mir</epg_id>
+			<tvg_id>konny-mir</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/konniymir.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>UK: Sky Sport F1</caption>
+			<channel_id>ssportf1</channel_id>
+			<epg_id>sky-sports-f1</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/ssportf1.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL Network HD</caption>
+			<channel_id>nhlhd</channel_id>
+			<epg_id>nhln</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/nhlhd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA TV</caption>
+			<channel_id>bna</channel_id>
+			<epg_id>nbatv</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bna.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Бокс ТВ</caption>
+			<channel_id>box-tv</channel_id>
+			<epg_id>box-tv</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/box-tv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MMA-TV</caption>
+			<channel_id>m1global</channel_id>
+			<epg_id>m1global</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/m-1globaltv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Live HD</caption>
+			<channel_id>mtv-live</channel_id>
+			<epg_id>mtv-live-hd</epg_id>
+			<tvg_id>mtv-live-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/mtv_live_hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV 80s</caption>
+			<channel_id>vh1-classic</channel_id>
+			<epg_id>vh1-classic</epg_id>
+			<tvg_id>vh1-classic</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/vh1-classic.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV 90s</caption>
+			<channel_id>mtv-rocks</channel_id>
+			<epg_id>mtv-rocks</epg_id>
+			<tvg_id>mtv-rocks</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/mtv_rocks.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV 00s</caption>
+			<channel_id>vh1euro</channel_id>
+			<epg_id>static-1</epg_id>
+			<tvg_id>5180</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/vh1euro.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV</caption>
+			<channel_id>bridge-tv</channel_id>
+			<epg_id>bridge-tv</epg_id>
+			<tvg_id>bridge-tv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/bridge-tv.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Hits</caption>
+			<channel_id>bridge-tv-dance</channel_id>
+			<epg_id>bridge-tv-dance</epg_id>
+			<tvg_id>bridge-tv-dance</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/bridge-tv-hits.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Deluxe</caption>
+			<channel_id>bridge-hd</channel_id>
+			<epg_id>bridge-hd</epg_id>
+			<tvg_id>bridge-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/bridgehd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Classic</caption>
+			<channel_id>bridge-tv-classic</channel_id>
+			<epg_id>bridge-tv-classic</epg_id>
+			<tvg_id>bridge-tv-classic</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/bridgetvclassic.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Русский Хит</caption>
+			<channel_id>bridge-tv-ruxit</channel_id>
+			<epg_id>bridge-tv-ruxit</epg_id>
+			<tvg_id>bridge-tv-ruxit</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/bridgetvrusxit.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Музыка первого</caption>
+			<channel_id>muzyka-pervogo</channel_id>
+			<epg_id>muzyka-pervogo</epg_id>
+			<tvg_id>muzyka-pervogo</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/muzyka-pervogo.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RU.TV</caption>
+			<channel_id>ru-tv</channel_id>
+			<epg_id>ru-tv</epg_id>
+			<tvg_id>ru-tv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/rutv.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Жара</caption>
+			<channel_id>zhara</channel_id>
+			<epg_id>zhara</epg_id>
+			<tvg_id>zhara</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/zara.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Муз-ТВ</caption>
+			<channel_id>muztv</channel_id>
+			<epg_id>muztv</epg_id>
+			<tvg_id>muztv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/muztv.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ MUSIC</caption>
+			<channel_id>tnt-music</channel_id>
+			<epg_id>tnt-music</epg_id>
+			<tvg_id>tnt-music</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/tnt-music.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Europa Plus TV</caption>
+			<channel_id>europa-plus-tv</channel_id>
+			<epg_id>europa-plus-tv</epg_id>
+			<tvg_id>europa-plus-tv</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/europaplustv.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MCM Top</caption>
+			<channel_id>mcm-top</channel_id>
+			<epg_id>mcm-top</epg_id>
+			<tvg_id>mcm-top</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/mcm-top.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ля-минор</caption>
+			<channel_id>la-minor</channel_id>
+			<epg_id>la-minor</epg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/laminor.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Шлягер</caption>
+			<channel_id>bridge_shlag</channel_id>
+			<epg_id>bridge-tv-shlager</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bridge_shlag.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Карусель</caption>
+			<channel_id>karusel</channel_id>
+			<epg_id>karusel</epg_id>
+			<tvg_id>karusel</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/karusel.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мульт HD</caption>
+			<channel_id>tlum-hd</channel_id>
+			<epg_id>mult</epg_id>
+			<tvg_id>mult</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/mult.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мульт</caption>
+			<channel_id>mult</channel_id>
+			<epg_id>mult</epg_id>
+			<tvg_id>mult</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/mult.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мультимузыка</caption>
+			<channel_id>multimuzyka</channel_id>
+			<epg_id>multimuzyka</epg_id>
+			<tvg_id>multimuzyka</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/multimuzyka.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Детский мир</caption>
+			<channel_id>detsky-mir</channel_id>
+			<epg_id>detsky-mir</epg_id>
+			<tvg_id>detsky-mir</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/detmir.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС Kids HD</caption>
+			<channel_id>sts-kids-hd</channel_id>
+			<epg_id>sts-kids-hd</epg_id>
+			<tvg_id>sts-kids-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/stskids.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Капитан Фантастика HD</caption>
+			<channel_id>kapitan-fantastika</channel_id>
+			<epg_id>ginger-hd</epg_id>
+			<tvg_id>ginger-hd</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/kapitan_fantastika.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>В гостях у сказки</caption>
+			<channel_id>vgosuskaz</channel_id>
+			<epg_id>v-gostiax-u-skazki</epg_id>
+			<tvg_id>v-gostiax-u-skazki</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/vgosusk.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>O!</caption>
+			<channel_id>o_</channel_id>
+			<epg_id>o_</epg_id>
+			<tvg_id>o_</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/o!.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Солнце ТВ</caption>
+			<channel_id>disney</channel_id>
+			<epg_id>solnce</epg_id>
+			<tvg_id>disney</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/disney_channel.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nick Jr.</caption>
+			<channel_id>nick-jr</channel_id>
+			<epg_id>nick-jr</epg_id>
+			<tvg_id>nick-jr</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/nick-jr.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nick</caption>
+			<channel_id>nickelodeon-ru</channel_id>
+			<epg_id>Nickelodeon HD</epg_id>
+			<tvg_id>nickelodeon-ru</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/nickelodeon-ru.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>2x2</caption>
+			<channel_id>2na2</channel_id>
+			<epg_id>2na2</epg_id>
+			<tvg_id>2na2</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/2x2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Gulli Girl</caption>
+			<channel_id>gulli-girl</channel_id>
+			<epg_id>gulli-girl</epg_id>
+			<tvg_id>gulli-girl</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/gulligirl.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Jim Jam</caption>
+			<channel_id>jimjam</channel_id>
+			<epg_id>jimjam</epg_id>
+			<tvg_id>jimjam</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/jimjam.ru.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Tiji TV</caption>
+			<channel_id>tiji</channel_id>
+			<epg_id>tiji</epg_id>
+			<tvg_id>tiji</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/tiji.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Уникум</caption>
+			<channel_id>detsky</channel_id>
+			<epg_id>detsky</epg_id>
+			<tvg_id>detsky</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/detsky.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мама</caption>
+			<channel_id>mama</channel_id>
+			<epg_id>mama</epg_id>
+			<tvg_id>mama</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/mama.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoons Short</caption>
+			<channel_id>cinecartoon2</channel_id>
+			<epg_id>cartoons-short</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinecartoon2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoons Big</caption>
+			<channel_id>cinecartoon3</channel_id>
+			<epg_id>cartoons-big</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinecartoon3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoons 90</caption>
+			<channel_id>cinecartoon1</channel_id>
+			<epg_id>cartoons-90</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinecartoon1.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Kids+</caption>
+			<channel_id>bcu_kidsp</channel_id>
+			<epg_id>bcu_kidspl</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_kidsp.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Kids</caption>
+			<channel_id>bcu_multzal</channel_id>
+			<epg_id>bcu_multzal</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_multzal.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Мультсериал</caption>
+			<channel_id>bcu_multserial</channel_id>
+			<epg_id>static-29</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/bcu_multserial.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC Союз МУЛЬТZAL</caption>
+			<channel_id>kbc_souzmultzal</channel_id>
+			<epg_id>39798</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/kbc_souzmultzal.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Симпсоны</caption>
+			<channel_id>cinesimps</channel_id>
+			<epg_id>cineman-thesimps</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/cinesimps.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Disney</caption>
+			<channel_id>lib_disney</channel_id>
+			<epg_id>LIBERTYDISNEY</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_disney.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Pixar</caption>
+			<channel_id>lib_piksar</channel_id>
+			<epg_id>LIBERTYPIKSAR</epg_id>
+			<icon_url>http://p.playtv.pro/picons/upl/lib_piksar.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Euronews</caption>
+			<channel_id>euronews</channel_id>
+			<epg_id>euronews</epg_id>
+			<tvg_id>euronews</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/euronews.ru.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Рoсcия-24</caption>
+			<channel_id>rossia-24</channel_id>
+			<epg_id>rossia-24</epg_id>
+			<tvg_id>rossia-24</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/rossia24.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Москвa 24</caption>
+			<channel_id>moskva-24</channel_id>
+			<epg_id>moskva-24</epg_id>
+			<tvg_id>moskva-24</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/moskva24.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RTVi</caption>
+			<channel_id>rtvi</channel_id>
+			<epg_id>rtvi</epg_id>
+			<tvg_id>rtvi</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/rtvi.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>РБK</caption>
+			<channel_id>rbk</channel_id>
+			<epg_id>rbk</epg_id>
+			<tvg_id>rbk</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/rbk.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Телеканал 360°</caption>
+			<channel_id>360-podmoskovie</channel_id>
+			<epg_id>360-podmoskovie</epg_id>
+			<tvg_id>360-podmoskovie</tvg_id>
+			<icon_url>http://p.playtv.pro/picons/ru/360-podmoskovie.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+	</tv_channels>
+</tv_info>
+
