@@ -49,6 +49,17 @@
 			<caption>18+</caption>
 			<icon_url>plugin_file://icons/33.png</icon_url>
 		</tv_category>
+		<tv_category>
+			<id>32798</id>
+			<caption>Избранное</caption>
+			<icon_url>plugin_file://icons/fav.png</icon_url>
+			<favorite>true</favorite>
+		</tv_category>
+		<tv_category>
+			<id>32806</id>
+			<caption>Mediateka</caption>
+			<icon_url>plugin_file://icons/vod.png</icon_url>
+		</tv_category>
 	</tv_categories>
 	<tv_channels>
 		<tv_channel>
@@ -198,7 +209,7 @@
 		<tv_channel>
 			<caption>Рен ТВ int</caption>
 			<channel_id>572</channel_id>
-			<epg_id>1:487</epg_id>
+			<epg_id>1:1180</epg_id>
 			<tvg_id>1:487</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/RENTVINTER200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
@@ -305,7 +316,7 @@
 			<channel_id>224</channel_id>
 			<epg_id>1:34</epg_id>
 			<tvg_id>1:34</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/AMEDIA1200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/2c7ff43d750893813e9a004a5b215a61.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -314,7 +325,7 @@
 			<channel_id>225</channel_id>
 			<epg_id>1:35</epg_id>
 			<tvg_id>1:35</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/AMEDIA2200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/d65f8b8873965a81059bb5c562ca82c4.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -323,7 +334,7 @@
 			<channel_id>226</channel_id>
 			<epg_id>1:675</epg_id>
 			<tvg_id>1:675</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/AHOMEOFHBO1200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/1e159ef43257c3abbcbaf08a567953f0.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -332,12 +343,12 @@
 			<channel_id>342</channel_id>
 			<epg_id>1:36</epg_id>
 			<tvg_id>1:36</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/AHOMEOFHBO2200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/daa10f9b1bcba1f6031cc617e14693f5.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Bolt HD</caption>
+			<caption>Bolt</caption>
 			<channel_id>81</channel_id>
 			<epg_id>1:1826</epg_id>
 			<tvg_id>1:1826</tvg_id>
@@ -366,7 +377,7 @@
 		<tv_channel>
 			<caption>FilmZone</caption>
 			<channel_id>305</channel_id>
-			<epg_id>FilmZone</epg_id>
+			<epg_id>1:2060</epg_id>
 			<tvg_id>FilmZone</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/FILMZONE200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -374,7 +385,7 @@
 		<tv_channel>
 			<caption>FilmZone+ HD</caption>
 			<channel_id>306</channel_id>
-			<epg_id>FilmZone+ HD</epg_id>
+			<epg_id>1:2061</epg_id>
 			<tvg_id>FilmZone+ HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/FILMZONEPLUS200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -438,20 +449,20 @@
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Paramount Channel</caption>
+			<caption>Eurodance 90</caption>
 			<channel_id>118</channel_id>
-			<epg_id>1:184</epg_id>
+			<epg_id>Eurodance 90</epg_id>
 			<tvg_id>1:184</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/PARAMCHANNELHD200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/eurodance_tv.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Paramount Comedy</caption>
+			<caption>Eurodance Retro 80 Disco HD</caption>
 			<channel_id>119</channel_id>
-			<epg_id>1:185</epg_id>
+			<epg_id>Eurodance Retro 80 Disco HD</epg_id>
 			<tvg_id>1:185</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/PARAMCOMEDYHD200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/Euro80.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -485,148 +496,148 @@
 		<tv_channel>
 			<caption>TOP 80&apos;s</caption>
 			<channel_id>243</channel_id>
-			<epg_id>TOP 80&apos;s</epg_id>
+			<epg_id>2:7</epg_id>
 			<tvg_id>TOP 80&apos;s</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOP80200 (1).png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOP 80 S HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TOP Budo HD</caption>
 			<channel_id>244</channel_id>
-			<epg_id>TOP Budo HD</epg_id>
+			<epg_id>2:7</epg_id>
 			<tvg_id>TOP Budo HD</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOPBUDO200 (1).png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOP BUDO HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TOP Cinema HD</caption>
 			<channel_id>245</channel_id>
-			<epg_id>TOP Cinema HD</epg_id>
+			<epg_id>2:5116</epg_id>
 			<tvg_id>TOP Cinema HD</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOPCINEMA200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOP Cinema HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TOP USSR</caption>
 			<channel_id>247</channel_id>
-			<epg_id>TOP USSR</epg_id>
+			<epg_id>2:5117</epg_id>
 			<tvg_id>TOP USSR</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOPSSSR200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOP USSR HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TOP Великолепный Век</caption>
 			<channel_id>246</channel_id>
-			<epg_id>TOP Великолепный Век</epg_id>
+			<epg_id>2:5113</epg_id>
 			<tvg_id>TOP Великолепный Век</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOPVEK200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOP Великолепный Век HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>TV1000</caption>
+			<caption>Viju TV1000</caption>
 			<channel_id>107</channel_id>
 			<epg_id>1:1853</epg_id>
 			<tvg_id>1:1853</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TV1000200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju TV1000.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>TV1000 Action</caption>
+			<caption>Viju TV1000 Action</caption>
 			<channel_id>109</channel_id>
 			<epg_id>1:1852</epg_id>
 			<tvg_id>1:1852</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TV1000ACTION200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju TV1000 action.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>TV1000 Action HD</caption>
+			<caption>Viju TV1000 Action HD</caption>
 			<channel_id>110</channel_id>
 			<epg_id>1:234</epg_id>
 			<tvg_id>1:234</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TV1000ACTION200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju TV1000 action.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>TV1000 HD</caption>
+			<caption>Viju TV1000 HD</caption>
 			<channel_id>108</channel_id>
 			<epg_id>1:237</epg_id>
 			<tvg_id>1:237</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TV1000200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju TV1000.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>TV1000 World Kino</caption>
+			<caption>Viju Kino World</caption>
 			<channel_id>504</channel_id>
 			<epg_id>1:655</epg_id>
 			<tvg_id>1:655</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TV1000WORLDKINO200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/643bd6e31e6359b5fc3bd3efc14fa1f8.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>TV1000 Русское кино</caption>
+			<caption>Viju TV1000 Русское</caption>
 			<channel_id>111</channel_id>
 			<epg_id>1:242</epg_id>
 			<tvg_id>1:242</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TV1000RUSKINO200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju TV1000 русское.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>TV1000 Русское кино HD</caption>
+			<caption>Viju TV1000 Русское HD</caption>
 			<channel_id>112</channel_id>
 			<epg_id>1:242</epg_id>
 			<tvg_id>1:242</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TV1000RUSKINO200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju TV1000 русское.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VIP Comedy HD</caption>
+			<caption>Viju+ Comedy HD</caption>
 			<channel_id>105</channel_id>
 			<epg_id>1:1600</epg_id>
 			<tvg_id>1:1600</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIPCOMEDY200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju+ Comedy.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VIP Megahit HD</caption>
+			<caption>Viju+ Megahit HD</caption>
 			<channel_id>104</channel_id>
 			<epg_id>1:239</epg_id>
 			<tvg_id>1:239</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIPMEGAHIT200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju+ Megahit.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VIP Premiere HD</caption>
+			<caption>Viju+ Premiere HD</caption>
 			<channel_id>103</channel_id>
 			<epg_id>7:1013</epg_id>
 			<tvg_id>7:1013</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIPPREMIERE200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju+ Premiere.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VIP Serial HD</caption>
+			<caption>Viju+ Serial HD</caption>
 			<channel_id>106</channel_id>
 			<epg_id>1:1278</epg_id>
 			<tvg_id>1:1278</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIPSERIAL200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju+ Serial.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ZeeTV</caption>
+			<caption>Индия</caption>
 			<channel_id>521</channel_id>
 			<epg_id>1:266</epg_id>
 			<tvg_id>1:266</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/ZEETVRUS2001.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/330312318f2d9e10ca6ad9455cd2d38f.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -679,7 +690,7 @@
 			<channel_id>53</channel_id>
 			<epg_id>1:1029</epg_id>
 			<tvg_id>1:1029</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/do-ra-ma.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/Дорама.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1067,7 +1078,7 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Победа HD</caption>
+			<caption>Победа</caption>
 			<channel_id>4</channel_id>
 			<epg_id>1:1241</epg_id>
 			<tvg_id>1:1241</tvg_id>
@@ -1260,7 +1271,7 @@
 		<tv_channel>
 			<caption>MS ANIMATED</caption>
 			<channel_id>848</channel_id>
-			<epg_id>2:5592</epg_id>
+			<epg_id>MS ANIMATED</epg_id>
 			<tvg_id>2:5592</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/animated.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1631,7 +1642,7 @@
 		<tv_channel>
 			<caption>Animal Planet</caption>
 			<channel_id>149</channel_id>
-			<epg_id>Animal Planet</epg_id>
+			<epg_id>1:38</epg_id>
 			<tvg_id>Animal Planet</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/ANIMALPLANET200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -1639,7 +1650,7 @@
 		<tv_channel>
 			<caption>Animal Planet  HD</caption>
 			<channel_id>150</channel_id>
-			<epg_id>Animal Planet  HD</epg_id>
+			<epg_id>1:38</epg_id>
 			<tvg_id>Animal Planet  HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/ANIMALPLANETHD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -1665,9 +1676,9 @@
 		<tv_channel>
 			<caption>DTX</caption>
 			<channel_id>175</channel_id>
-			<epg_id>DTX</epg_id>
+			<epg_id>1:1988</epg_id>
 			<tvg_id>DTX</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/DISCDTX200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/DTX-HD-origSD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1675,7 +1686,7 @@
 			<channel_id>176</channel_id>
 			<epg_id>1:725</epg_id>
 			<tvg_id>1:725</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/DISCDTX200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/DTX-HD-orig2.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -1691,7 +1702,7 @@
 		<tv_channel>
 			<caption>Discovery Channel</caption>
 			<channel_id>154</channel_id>
-			<epg_id>Discovery Channel</epg_id>
+			<epg_id>1:1185</epg_id>
 			<tvg_id>Discovery Channel</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/DISCOVERYSD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -1750,7 +1761,7 @@
 		<tv_channel>
 			<caption>Food Network Россия</caption>
 			<channel_id>555</channel_id>
-			<epg_id>Food Network Россия</epg_id>
+			<epg_id>1:1493</epg_id>
 			<tvg_id>Food Network Россия</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/FOODNETWORK200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -1888,7 +1899,7 @@
 		<tv_channel>
 			<caption>TLC</caption>
 			<channel_id>172</channel_id>
-			<epg_id>TLC</epg_id>
+			<epg_id>1:1943</epg_id>
 			<tvg_id>TLC</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TLC200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -1896,7 +1907,7 @@
 		<tv_channel>
 			<caption>TLC HD</caption>
 			<channel_id>173</channel_id>
-			<epg_id>TLC HD</epg_id>
+			<epg_id>1:1943</epg_id>
 			<tvg_id>TLC HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TLCHD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -1905,7 +1916,7 @@
 		<tv_channel>
 			<caption>Travel Channel HD</caption>
 			<channel_id>295</channel_id>
-			<epg_id>Travel Channel HD</epg_id>
+			<epg_id>1:1246</epg_id>
 			<tvg_id>Travel Channel HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TRAVELCHANNEL200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -1923,69 +1934,69 @@
 		<tv_channel>
 			<caption>Univer TV</caption>
 			<channel_id>230</channel_id>
-			<epg_id>Univer TV</epg_id>
+			<epg_id>2:5600</epg_id>
 			<tvg_id>Univer TV</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/UNIVERTV200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat Explore</caption>
+			<caption>Viju Explore</caption>
 			<channel_id>218</channel_id>
 			<epg_id>1:252</epg_id>
 			<tvg_id>1:252</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIASATEXPLORE200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju Explore.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat Explore HD</caption>
+			<caption>Viju Explore HD</caption>
 			<channel_id>219</channel_id>
 			<epg_id>1:252</epg_id>
 			<tvg_id>1:252</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIASATEXPLORE200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju Explore.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat History</caption>
+			<caption>Viju History</caption>
 			<channel_id>216</channel_id>
 			<epg_id>1:1548</epg_id>
 			<tvg_id>1:1548</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIASATHISTORY200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju History.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat History HD</caption>
+			<caption>Viju History HD</caption>
 			<channel_id>294</channel_id>
 			<epg_id>1:1548</epg_id>
 			<tvg_id>1:1548</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIASATHISTORY200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju History.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat Nature</caption>
+			<caption>Viju Nature</caption>
 			<channel_id>217</channel_id>
 			<epg_id>1:256</epg_id>
 			<tvg_id>1:256</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIASATNATURE200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju Nature.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat Nature HD</caption>
+			<caption>Viju Nature HD</caption>
 			<channel_id>293</channel_id>
 			<epg_id>1:256</epg_id>
 			<tvg_id>1:256</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIASATNATURE200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju Nature.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat Nature/History HD</caption>
+			<caption>Viju+ Planet HD</caption>
 			<channel_id>222</channel_id>
 			<epg_id>1:1202</epg_id>
 			<tvg_id>1:1202</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIASATNATHISTHD200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju+ Planet.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2016,7 +2027,7 @@
 		<tv_channel>
 			<caption>Большая Азия</caption>
 			<channel_id>531</channel_id>
-			<epg_id>Большая Азия</epg_id>
+			<epg_id>2:2417</epg_id>
 			<tvg_id>Большая Азия</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/BIGASIA200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -2076,11 +2087,11 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Еда Премиум</caption>
+			<caption>Food Time</caption>
 			<channel_id>65</channel_id>
 			<epg_id>1:1248</epg_id>
 			<tvg_id>1:1248</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/EDAPREMIUM2001.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/Food.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2191,7 +2202,7 @@
 		<tv_channel>
 			<caption>Наша Сибирь HD</caption>
 			<channel_id>262</channel_id>
-			<epg_id>Наша Сибирь HD</epg_id>
+			<epg_id>2:4444</epg_id>
 			<tvg_id>Наша Сибирь HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/NASHASIBIRHD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -2351,7 +2362,7 @@
 			<channel_id>62</channel_id>
 			<epg_id>1:11</epg_id>
 			<tvg_id>1:11</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/2X2TV200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/2X2.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2368,7 +2379,7 @@
 			<channel_id>550</channel_id>
 			<epg_id>E TV</epg_id>
 			<tvg_id>E TV</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/ETV200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/ETV.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2609,7 +2620,7 @@
 		<tv_channel>
 			<caption>4ever Music HD</caption>
 			<channel_id>292</channel_id>
-			<epg_id>1:1204</epg_id>
+			<epg_id>1:2128</epg_id>
 			<tvg_id>1:1204</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/4EVERMUSICUA200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2703,9 +2714,9 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MCM Top HD</caption>
+			<caption>MCM Top</caption>
 			<channel_id>308</channel_id>
-			<epg_id>MCM Top HD</epg_id>
+			<epg_id>2:2276</epg_id>
 			<tvg_id>MCM Top HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/MCMTOP200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2737,7 +2748,7 @@
 		<tv_channel>
 			<caption>MTV HD</caption>
 			<channel_id>237</channel_id>
-			<epg_id>1:159</epg_id>
+			<epg_id>2:1021</epg_id>
 			<tvg_id>1:159</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/MTVHD200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2825,18 +2836,18 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>VH1</caption>
+			<caption>MTV 00&apos;s</caption>
 			<channel_id>284</channel_id>
 			<epg_id>1:249</epg_id>
 			<tvg_id>1:249</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VH1TV200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/mtv_00s.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>VIVA TV</caption>
 			<channel_id>312</channel_id>
-			<epg_id>VIVA TV</epg_id>
+			<epg_id>2:4658</epg_id>
 			<tvg_id>VIVA TV</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIVATV200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2963,11 +2974,11 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Boomerang</caption>
+			<caption>Cartoonito</caption>
 			<channel_id>313</channel_id>
 			<epg_id>1:52</epg_id>
 			<tvg_id>1:52</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/BOOMERANG200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/Cartoonitotv.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2988,11 +2999,11 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Disney</caption>
+			<caption>Солнце</caption>
 			<channel_id>187</channel_id>
 			<epg_id>1:342</epg_id>
 			<tvg_id>1:342</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/DISNEYRUS200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/Solnce.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3023,7 +3034,7 @@
 		<tv_channel>
 			<caption>Nickelodeon</caption>
 			<channel_id>188</channel_id>
-			<epg_id>1:176</epg_id>
+			<epg_id>1:177</epg_id>
 			<tvg_id>1:176</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/NICK200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
@@ -3163,7 +3174,7 @@
 		<tv_channel>
 			<caption>DAZN F1 HD</caption>
 			<channel_id>665</channel_id>
-			<epg_id>DAZN F1 HD</epg_id>
+			<epg_id>2:5088</epg_id>
 			<tvg_id>DAZN F1 HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/DAZN1200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -3172,7 +3183,7 @@
 		<tv_channel>
 			<caption>Eurosport 1 HD</caption>
 			<channel_id>33</channel_id>
-			<epg_id>Eurosport 1 HD</epg_id>
+			<epg_id>1:101</epg_id>
 			<tvg_id>Eurosport 1 HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/EUROSPORT1HD200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -3181,7 +3192,7 @@
 		<tv_channel>
 			<caption>Eurosport 2 HD</caption>
 			<channel_id>148</channel_id>
-			<epg_id>Eurosport 2 HD</epg_id>
+			<epg_id>1:98</epg_id>
 			<tvg_id>Eurosport 2 HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/EUROSPORT2HD200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -3239,7 +3250,7 @@
 		<tv_channel>
 			<caption>Rai Sport+ HD</caption>
 			<channel_id>285</channel_id>
-			<epg_id>Rai Sport+ HD</epg_id>
+			<epg_id>2:6534</epg_id>
 			<tvg_id>Rai Sport+ HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/RAISPORTPLUSHD200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -3316,7 +3327,7 @@
 		<tv_channel>
 			<caption>Udar</caption>
 			<channel_id>282</channel_id>
-			<epg_id>Udar</epg_id>
+			<epg_id>2:2480</epg_id>
 			<tvg_id>Udar</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/udar.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -3325,26 +3336,26 @@
 		<tv_channel>
 			<caption>US ESPN</caption>
 			<channel_id>645</channel_id>
-			<epg_id>US ESPN</epg_id>
+			<epg_id>2:6581</epg_id>
 			<tvg_id>US ESPN</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/ESPN.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat Sport</caption>
+			<caption>viju+ Sport</caption>
 			<channel_id>220</channel_id>
 			<epg_id>1:259</epg_id>
 			<tvg_id>1:259</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIASATSPORT200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju+ Sport.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat Sport HD</caption>
+			<caption>Viju+ Sport HD</caption>
 			<channel_id>221</channel_id>
 			<epg_id>1:259</epg_id>
 			<tvg_id>1:259</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIASATSPORTHD200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju+ Sport.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -3557,7 +3568,7 @@
 		<tv_channel>
 			<caption>Старт</caption>
 			<channel_id>686</channel_id>
-			<epg_id>Старт</epg_id>
+			<epg_id>2:2530</epg_id>
 			<tvg_id>Старт</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/STARTTV200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
