@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>6</list_version>
+		<list_version>7</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -60,6 +60,12 @@
 			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
+		</tv_category>
+		<tv_category>
+			<id>32808</id>
+			<caption>История</caption>
+			<icon_url>plugin_file://icons/history.png</icon_url>
+			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
 	</tv_categories>
 	<tv_channels>

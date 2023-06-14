@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>6</list_version>
+		<list_version>7</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -71,6 +71,12 @@
 			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
+		</tv_category>
+		<tv_category>
+			<id>32808</id>
+			<caption>История</caption>
+			<icon_url>plugin_file://icons/history.png</icon_url>
+			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
 	</tv_categories>
 	<tv_channels>
@@ -449,18 +455,18 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Супер</caption>
+			<caption>Суббота!</caption>
 			<channel_id>56</channel_id>
-			<epg_id>2:super</epg_id>
-			<icon_url>http://dev.smile-tv.live/images/logo_chanel/SUPERTV200.png</icon_url>
+			<epg_id>1:1079</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/Логотип_телеканала_Суббота.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Супер HD</caption>
+			<caption>Суббота! HD</caption>
 			<channel_id>57</channel_id>
-			<epg_id>2:super</epg_id>
-			<icon_url>http://dev.smile-tv.live/images/logo_chanel/SUPERTVHD200.png</icon_url>
+			<epg_id>1:1079</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/Логотип_телеканала_Суббота.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -550,6 +556,13 @@
 			<channel_id>197</channel_id>
 			<epg_id>2:yu</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/YUTV2001.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH standup</caption>
+			<channel_id>622</channel_id>
+			<epg_id>2:skyhigh-standup</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/standup.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -888,14 +901,14 @@
 		<tv_channel>
 			<caption>Animal Planet</caption>
 			<channel_id>149</channel_id>
-			<epg_id>2:animal-planet</epg_id>
+			<epg_id>Animal Planet</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/ANIMALPLANET200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Animal Planet  HD</caption>
 			<channel_id>150</channel_id>
-			<epg_id>2:animal-planet</epg_id>
+			<epg_id>Animal Planet  HD</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/ANIMALPLANETHD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
@@ -933,14 +946,14 @@
 		<tv_channel>
 			<caption>Discovery Channel</caption>
 			<channel_id>154</channel_id>
-			<epg_id>2:discovery-ru</epg_id>
+			<epg_id>Discovery Channel</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/DISCOVERYSD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Discovery Channel HD</caption>
 			<channel_id>155</channel_id>
-			<epg_id>2:discovery-ru</epg_id>
+			<epg_id>Discovery Channel HD</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/DISCOVERYHD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
@@ -963,7 +976,7 @@
 		<tv_channel>
 			<caption>Investigation Discovery HD</caption>
 			<channel_id>159</channel_id>
-			<epg_id>2:id-xtra-ru</epg_id>
+			<epg_id>Investigation Discovery HD</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/DISCIDHD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
@@ -1150,6 +1163,41 @@
 			<channel_id>565</channel_id>
 			<epg_id>1:835</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/EPOQUEUA200.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH MAN</caption>
+			<channel_id>439</channel_id>
+			<epg_id>2:skyhigh-man</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/manhd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH doc</caption>
+			<channel_id>611</channel_id>
+			<epg_id>2:skyhigh-doc</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/blank.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH brain</caption>
+			<channel_id>617</channel_id>
+			<epg_id>2:skyhigh-brain</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/brain.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH nature</caption>
+			<channel_id>620</channel_id>
+			<epg_id>2:skyhigh-nature</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/nature_2.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Бобер ТВ</caption>
+			<channel_id>711</channel_id>
+			<epg_id>1:717</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/bober.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1673,24 +1721,24 @@
 		<tv_channel>
 			<caption>Сиеста HD</caption>
 			<channel_id>453</channel_id>
-			<epg_id>2:siestahd</epg_id>
+			<epg_id>Сиеста HD</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/SIESTAHD200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Paramount Channel HD</caption>
+			<caption>Мосфильм</caption>
 			<channel_id>118</channel_id>
-			<epg_id>1:184</epg_id>
-			<icon_url>http://dev.smile-tv.live/images/logo_chanel/PARAMCHANNELHD200.png</icon_url>
+			<epg_id>1:1804</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Paramount Comedy HD</caption>
+			<caption>HGTV HD</caption>
 			<channel_id>119</channel_id>
-			<epg_id>1:185</epg_id>
-			<icon_url>http://dev.smile-tv.live/images/logo_chanel/PARAMCOMEDYHD200.png</icon_url>
+			<epg_id>1:2156</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -1926,6 +1974,279 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>R1 media</caption>
+			<channel_id>142</channel_id>
+			<epg_id>R1 media</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/blank.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic VHS</caption>
+			<channel_id>143</channel_id>
+			<epg_id>1:2018</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/magic_vhs.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Karate</caption>
+			<channel_id>144</channel_id>
+			<epg_id>1:2015</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/magic_karate.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Comedy</caption>
+			<channel_id>145</channel_id>
+			<epg_id>1:2010</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/magic_comedy.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Horror</caption>
+			<channel_id>167</channel_id>
+			<epg_id>1:2014</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/magic_horror.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Galaxy</caption>
+			<channel_id>207</channel_id>
+			<epg_id>1:2013</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/magic_galaxy.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Action</caption>
+			<channel_id>255</channel_id>
+			<epg_id>1:2009</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/magic_action.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Thriller</caption>
+			<channel_id>278</channel_id>
+			<epg_id>1:2017</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/magic_thriller.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Family</caption>
+			<channel_id>304</channel_id>
+			<epg_id>1:2012</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/magic_family.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Love</caption>
+			<channel_id>307</channel_id>
+			<epg_id>1:2016</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/magic_love.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH EPOCH</caption>
+			<channel_id>326</channel_id>
+			<epg_id>2:skyhigh-epoch</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/epoch.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH heroes</caption>
+			<channel_id>344</channel_id>
+			<epg_id>2:skyhigh-heroes</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/heroes.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH spirit</caption>
+			<channel_id>398</channel_id>
+			<epg_id>2:skyhigh-spirit</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/spirit.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH SERIES</caption>
+			<channel_id>438</channel_id>
+			<epg_id>2:skyhigh-series</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/series.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH fresh HDR</caption>
+			<channel_id>441</channel_id>
+			<epg_id>SKY-HIGH fresh HDR</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/fresh.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH FUTURE</caption>
+			<channel_id>442</channel_id>
+			<epg_id>2:skyhigh-future</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/future.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BUNNY</caption>
+			<channel_id>443</channel_id>
+			<epg_id>2:skyhigh-bunny</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/bunny.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MS ANIMATED</caption>
+			<channel_id>444</channel_id>
+			<epg_id>MS ANIMATED</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/animated.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH fresh</caption>
+			<channel_id>445</channel_id>
+			<epg_id>2:skyhigh-fresh</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/fresh.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH BY SLONKA</caption>
+			<channel_id>450</channel_id>
+			<epg_id>SKY-HIGH BY SLONKA</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/slonka.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH ADULT</caption>
+			<channel_id>496</channel_id>
+			<epg_id>2:skyhigh-adult</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/adult.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH RUSSIAN</caption>
+			<channel_id>524</channel_id>
+			<epg_id>2:skyhigh-russian</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/rissian.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH fresh 60</caption>
+			<channel_id>579</channel_id>
+			<epg_id>2:skyhigh-fresh60</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/fresh60.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH kids USSR</caption>
+			<channel_id>583</channel_id>
+			<epg_id>2:skyhigh-kidsussr</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/kidsussr.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH anime</caption>
+			<channel_id>595</channel_id>
+			<epg_id>2:skyhigh-anime</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/anime.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Cinema</caption>
+			<channel_id>625</channel_id>
+			<epg_id>2:fresh-cinema</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshCinema.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Comedy</caption>
+			<channel_id>627</channel_id>
+			<epg_id>2:fresh-comedy</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshComedy.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Premiere</caption>
+			<channel_id>630</channel_id>
+			<epg_id>2:fresh-premiere</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshPremiere.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Family</caption>
+			<channel_id>634</channel_id>
+			<epg_id>2:fresh-family</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshFamily.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Rating</caption>
+			<channel_id>635</channel_id>
+			<epg_id>2:fresh-rating</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshRating.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh VHS</caption>
+			<channel_id>636</channel_id>
+			<epg_id>2:fresh-vhs</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshVHS.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Fantastic</caption>
+			<channel_id>637</channel_id>
+			<epg_id>2:fresh-fantastic</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshFantastic.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Series</caption>
+			<channel_id>638</channel_id>
+			<epg_id>2:fresh-series</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshSeries.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Horror</caption>
+			<channel_id>639</channel_id>
+			<epg_id>2:fresh-horror</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshHorror.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Adventure</caption>
+			<channel_id>640</channel_id>
+			<epg_id>2:fresh-adventure</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshAdventure.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Romantic</caption>
+			<channel_id>641</channel_id>
+			<epg_id>2:fresh-romatic</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshRomantic.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Russian</caption>
+			<channel_id>642</channel_id>
+			<epg_id>2:fresh-russian</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshRussian.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Thriller</caption>
+			<channel_id>643</channel_id>
+			<epg_id>2:fresh-thriller</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshThriller.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Soviet</caption>
+			<channel_id>644</channel_id>
+			<epg_id>2:fresh-soviet</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshSoviet.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>О!</caption>
 			<channel_id>559</channel_id>
 			<epg_id>1:926</epg_id>
@@ -1965,7 +2286,7 @@
 		<tv_channel>
 			<caption>Nickelodeon</caption>
 			<channel_id>188</channel_id>
-			<epg_id>1:176</epg_id>
+			<epg_id>Nickelodeon</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/NICK200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -2054,6 +2375,20 @@
 			<channel_id>206</channel_id>
 			<epg_id>1:474</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/PLUSPLUSUA2200.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Disney</caption>
+			<channel_id>158</channel_id>
+			<epg_id>1:2011</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/magic_disney.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Kids</caption>
+			<channel_id>626</channel_id>
+			<epg_id>2:fresh-kids</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/FreshKids.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2327,7 +2662,7 @@
 		<tv_channel>
 			<caption>NBA HD</caption>
 			<channel_id>557</channel_id>
-			<epg_id>2:nba-tv</epg_id>
+			<epg_id>NBA HD</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/NBATV200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -2378,9 +2713,16 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>SKY-HIGH FIGHT</caption>
+			<channel_id>417</channel_id>
+			<epg_id>2:skyhigh-fightpl</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/fight+.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>MTV HD</caption>
 			<channel_id>237</channel_id>
-			<epg_id>1:159</epg_id>
+			<epg_id>MTV HD</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/MTVHD200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
@@ -2627,13 +2969,6 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Music Box UA</caption>
-			<channel_id>258</channel_id>
-			<epg_id>1:161</epg_id>
-			<icon_url>http://dev.smile-tv.live/images/logo_chanel/MUSICBOXUA200.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>O-TV</caption>
 			<channel_id>551</channel_id>
 			<epg_id>O-TV</epg_id>
@@ -2643,7 +2978,7 @@
 		<tv_channel>
 			<caption>4ever Music HD</caption>
 			<channel_id>292</channel_id>
-			<epg_id>1:1204</epg_id>
+			<epg_id>4ever Music HD</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/4EVERMUSICUA200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
@@ -2655,17 +2990,38 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>SKY-HIGH CONCERT</caption>
+			<channel_id>440</channel_id>
+			<epg_id>2:skyhigh-concert</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/concert.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH CLASSIC</caption>
+			<channel_id>451</channel_id>
+			<epg_id>SKY-HIGH CLASSIC</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/classic.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH lo-fi</caption>
+			<channel_id>623</channel_id>
+			<epg_id>SKY-HIGH lo-fi</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/lo-fi.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh TV Armenia</caption>
+			<channel_id>645</channel_id>
+			<epg_id>2:freshtv</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/Fresh Armenia.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Russian Extreme Ultra HD</caption>
 			<channel_id>297</channel_id>
 			<epg_id>2:russian-extreme-uhd</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/ULTRAREX200.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Первый музыкальный UHD</caption>
-			<channel_id>613</channel_id>
-			<epg_id>Первый музыкальный UHD</epg_id>
-			<icon_url>http://dev.smile-tv.live/images/logo_chanel/PERVMUZBYHD200.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2682,6 +3038,41 @@
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/CINEMAULTRAHD200.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH dance</caption>
+			<channel_id>349</channel_id>
+			<epg_id>2:skyhigh-dance</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/dance.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH 3D</caption>
+			<channel_id>449</channel_id>
+			<epg_id>2:skyhigh-3d</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/mix3d.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH doc UHD</caption>
+			<channel_id>604</channel_id>
+			<epg_id>2:skyhigh-docu</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/doc_uhd.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY- HIGH UHD HDR</caption>
+			<channel_id>605</channel_id>
+			<epg_id>2:skyhigh-uhdhdr</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/uhd_hdr.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH VHS UHD</caption>
+			<channel_id>606</channel_id>
+			<epg_id>2:skyhigh-vhsuhd</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/vhs_uhd.png</icon_url>
+			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Penthouse Quickies</caption>
@@ -2752,6 +3143,14 @@
 			<channel_id>470</channel_id>
 			<epg_id>1:130</epg_id>
 			<icon_url>http://dev.smile-tv.live/images/logo_chanel/HUSTLERHD18PLUS200.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY-HIGH SEX</caption>
+			<channel_id>624</channel_id>
+			<epg_id>SKY-HIGH SEX</epg_id>
+			<icon_url>http://dev.smile-tv.live/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>

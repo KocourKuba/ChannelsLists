@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>6</list_version>
+		<list_version>7</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -70,6 +70,12 @@
 			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
+		</tv_category>
+		<tv_category>
+			<id>32808</id>
+			<caption>История</caption>
+			<icon_url>plugin_file://icons/history.png</icon_url>
+			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
 	</tv_categories>
 	<tv_channels>
@@ -393,7 +399,7 @@
 			<tvg_id>ch032</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/32.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Amedia Premium HD</caption>
@@ -1223,7 +1229,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Premiumgroup Premiere HD</caption>
+			<caption>Clarity4k КиноФраншизы</caption>
 			<channel_id>ch1272</channel_id>
 			<epg_id>ch1272</epg_id>
 			<tvg_id>ch1272</tvg_id>
@@ -1232,7 +1238,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Premiumgroup Premium HD</caption>
+			<caption>Clarity4K Korean Music</caption>
 			<channel_id>ch128</channel_id>
 			<epg_id>ch128</epg_id>
 			<tvg_id>ch128</tvg_id>
@@ -1241,7 +1247,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Premiumgroup Thriller HD</caption>
+			<caption>Clarity4K Комедия</caption>
 			<channel_id>ch1187</channel_id>
 			<epg_id>ch1187</epg_id>
 			<tvg_id>ch1187</tvg_id>
@@ -1250,7 +1256,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Premiumgroup Paradox HD</caption>
+			<caption>Clarity4k Боевик</caption>
 			<channel_id>ch1179</channel_id>
 			<epg_id>ch1179</epg_id>
 			<tvg_id>ch1179</tvg_id>
@@ -1259,7 +1265,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Premiumgroup РуКино HD</caption>
+			<caption>Clarity4K Фэнтези</caption>
 			<channel_id>ch1196</channel_id>
 			<epg_id>ch1196</epg_id>
 			<tvg_id>ch1196</tvg_id>
@@ -1268,7 +1274,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Premiumgroup Paradise HD</caption>
+			<caption>Clarity4K Gamefilm</caption>
 			<channel_id>ch451</channel_id>
 			<epg_id>ch451</epg_id>
 			<tvg_id>ch451</tvg_id>
@@ -1277,7 +1283,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Premiumgroup Victory HD</caption>
+			<caption>Clarity4K Путешествие</caption>
 			<channel_id>ch1166</channel_id>
 			<epg_id>ch1166</epg_id>
 			<tvg_id>ch1166</tvg_id>
@@ -1286,7 +1292,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Premiumgroup Serial HD</caption>
+			<caption>Clarity4K Мультимир</caption>
 			<channel_id>ch1180</channel_id>
 			<epg_id>ch1180</epg_id>
 			<tvg_id>ch1180</tvg_id>
@@ -1295,7 +1301,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Premiumgroup USSR HD</caption>
+			<caption>Clarity4K Звериный Мир</caption>
 			<channel_id>ch1042</channel_id>
 			<epg_id>ch1042</epg_id>
 			<tvg_id>ch1042</tvg_id>
@@ -1304,7 +1310,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Premiumgroup VHS HD</caption>
+			<caption>Clarity4K Retro Hits Channel</caption>
 			<channel_id>ch496</channel_id>
 			<epg_id>ch496</epg_id>
 			<tvg_id>ch496</tvg_id>
@@ -1313,7 +1319,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Premiumgroup Insomnia HD</caption>
+			<caption>Clarity4K Истории во Времени</caption>
 			<channel_id>ch416</channel_id>
 			<epg_id>ch416</epg_id>
 			<tvg_id>ch416</tvg_id>
@@ -2490,7 +2496,7 @@
 			<tvg_id>ch081</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/81.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Солнце</caption>
@@ -2930,7 +2936,7 @@
 			<tvg_id>ch425</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/425.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Гриффины HD</caption>
@@ -3384,22 +3390,13 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Setanta Sports 1 HD (Uncomp)</caption>
-			<channel_id>ch828</channel_id>
-			<epg_id>ch828</epg_id>
-			<tvg_id>ch828</tvg_id>
-			<icon_url>http://tv.team/images/chIcons/828.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Setanta Sports 2 HD</caption>
 			<channel_id>ch477</channel_id>
 			<epg_id>ch477</epg_id>
 			<tvg_id>ch477</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/477.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>UK: Sky Sports Cricket HD</caption>
@@ -4025,6 +4022,7 @@
 			<tvg_id>ch1993</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1993.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Футбол HD</caption>
