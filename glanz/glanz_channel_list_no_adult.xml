@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>6</list_version>
+		<list_version>7</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -61,6 +61,12 @@
 			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
+		</tv_category>
+		<tv_category>
+			<id>32808</id>
+			<caption>История</caption>
+			<icon_url>plugin_file://icons/history.png</icon_url>
+			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
 	</tv_categories>
 	<tv_channels>
@@ -3155,7 +3161,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>4ever Cinema HD UA</caption>
+			<caption>4ever Cinema HD</caption>
 			<channel_id>9481</channel_id>
 			<int_id>1112</int_id>
 			<epg_id>4ever-cinema</epg_id>
@@ -4805,27 +4811,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Nat Geo Wild HD 50fps</caption>
-			<channel_id>9896</channel_id>
-			<int_id>830</int_id>
-			<epg_id>nat-geo-wild</epg_id>
-			<tvg_id>nat-geo-wild</tvg_id>
-			<icon_url>http://pl.ottg.cc:80/icon/9896.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>National Geographic HD 50fps</caption>
-			<channel_id>2252</channel_id>
-			<int_id>831</int_id>
-			<epg_id>national-geographic</epg_id>
-			<tvg_id>national-geographic</tvg_id>
-			<icon_url>http://pl.ottg.cc:80/icon/2252.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ocean TV</caption>
+			<caption>Океан ТВ</caption>
 			<channel_id>2605</channel_id>
 			<int_id>843</int_id>
 			<epg_id>ocean-tv</epg_id>
@@ -6078,8 +6064,8 @@
 			<caption>Trace Sport Stars HD</caption>
 			<channel_id>8649</channel_id>
 			<int_id>1111</int_id>
-			<epg_id>trace-sport-stars	</epg_id>
-			<tvg_id>trace-sport-stars	</tvg_id>
+			<epg_id>trace-sport-stars</epg_id>
+			<tvg_id>trace-sport-stars</tvg_id>
 			<icon_url>http://pl.ottg.cc:80/icon/8649.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -6185,7 +6171,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>4 Ever music HD</caption>
+			<caption>4ever Music HD</caption>
 			<channel_id>9047</channel_id>
 			<int_id>622</int_id>
 			<epg_id>4ever-music</epg_id>
