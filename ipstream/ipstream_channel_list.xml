@@ -377,10 +377,10 @@
 		<tv_channel>
 			<caption>Настоящее время</caption>
 			<channel_id>nastvr</channel_id>
-			<epg_id>static-38</epg_id>
+			<epg_id>nastoyaschee-vremia</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/nastvr.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>2</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BBC World News</caption>
@@ -582,6 +582,21 @@
 			<channel_id>sarafan</channel_id>
 			<epg_id>sarafan</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/sarafan.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>КВН ТВ</caption>
+			<channel_id>kvn-tv</channel_id>
+			<epg_id>kvn-tv</epg_id>
+			<icon_url>https://static.ipstr.im/picons/ru/kvn-tv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Твоё ТВ Юмор</caption>
+			<channel_id>troetv_humor</channel_id>
+			<epg_id>tvoetv-humor</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -888,6 +903,7 @@
 			<epg_id>MODO-GREEN-WORLD</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/7/modo_gw.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MÖDO Documental</caption>
@@ -895,6 +911,7 @@
 			<epg_id>MODO-DOCUMENTAL</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/7/modo_doc.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>SKY HIGH Nature 4K</caption>
@@ -1210,6 +1227,7 @@
 			<epg_id>crime-ms</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/ms_crime.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Авто Гир</caption>
@@ -1217,6 +1235,7 @@
 			<epg_id>LIBERTYAVTOGIR</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_avtogir.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Планета 360</caption>
@@ -1224,6 +1243,7 @@
 			<epg_id>LIBERTYPLANETA360</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_pl360.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Наука HD</caption>
@@ -1231,6 +1251,7 @@
 			<epg_id>LIBERTYNAUKA</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_nauka.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty BBC</caption>
@@ -1238,6 +1259,7 @@
 			<epg_id>LIBERTYBBC</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_bbc.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Live planet HD</caption>
@@ -1254,7 +1276,7 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ММ Макромир HD</caption>
+			<caption>MM Макромир HD</caption>
 			<channel_id>mm_makromir</channel_id>
 			<epg_id>makromir-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/mm_makromir.png</icon_url>
@@ -1286,6 +1308,29 @@
 			<channel_id>neizvestnaya_rosia</channel_id>
 			<epg_id>neizvestnaya-rosia</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/7/neizvestnaya_rosia.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Man</caption>
+			<channel_id>modo_man</channel_id>
+			<epg_id>MODO-MAN-LIKE</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/7/modo_man.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый космический</caption>
+			<channel_id>eureka-hd</channel_id>
+			<epg_id>eureka-hd</epg_id>
+			<icon_url>https://static.ipstr.im/picons/ru/eureka-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Большая Азия</caption>
+			<channel_id>bol_azia</channel_id>
+			<epg_id>static-44</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/7/bol_azia.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2715,63 +2760,63 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Уэс Крэйвен HD</caption>
+			<caption>MM Уэс Крэйвен</caption>
 			<channel_id>ues-krejven-hd-minimax</channel_id>
 			<epg_id>ues-krejven-hd-minimax</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/ues-krejven-hd-minimax.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Love HD</caption>
+			<caption>MM Love</caption>
 			<channel_id>mm_love</channel_id>
 			<epg_id>love-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/mm_love.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Celebrity HD</caption>
+			<caption>MM Celebrity</caption>
 			<channel_id>celebrity-mm</channel_id>
 			<epg_id>celebrity-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/mm_celebrity.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Cпорт HD</caption>
+			<caption>MM Cпорт</caption>
 			<channel_id>sport-hd-minimax</channel_id>
 			<epg_id>sport-hd-minimax</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/sport-hd-minimax.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM U.S.S.R. Детектив HD</caption>
+			<caption>MM U.S.S.R. Детектив</caption>
 			<channel_id>ussr-detektiv-minimax</channel_id>
 			<epg_id>ussr-detektiv-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/ussr-detektiv-minimax.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Супергерои HD</caption>
+			<caption>MM Супергерои</caption>
 			<channel_id>supergeroi-hd-minimax</channel_id>
 			<epg_id>supergeroi-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/supergeroi-hd-minimax.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Classic HD</caption>
+			<caption>MM Classic</caption>
 			<channel_id>classic-mm</channel_id>
 			<epg_id>classic-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/classic-hd-minimax.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Стивен Кинг HD</caption>
+			<caption>MM Стивен Кинг</caption>
 			<channel_id>st-king-hd-minimax</channel_id>
 			<epg_id>st-king-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/st-king-hd-minimax.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Драма HD</caption>
+			<caption>MM Драма</caption>
 			<channel_id>drama-hd-minimax</channel_id>
 			<epg_id>drama-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/drama-hd-minimax.png</icon_url>
@@ -2785,21 +2830,21 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Нуар HD</caption>
+			<caption>MM Нуар</caption>
 			<channel_id>nuar-hd-minimax</channel_id>
 			<epg_id>nuar-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/nuar-hd-minimax.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Ольга HD</caption>
+			<caption>MM Ситком 2.0</caption>
 			<channel_id>minimax-olga</channel_id>
-			<epg_id>static-18</epg_id>
+			<epg_id>sitkom_2.0-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/minimax-olga.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM UFO HD</caption>
+			<caption>MM UFO</caption>
 			<channel_id>ufo-hd-minimax</channel_id>
 			<epg_id>ufo-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/ufo-hd-minimax.png</icon_url>
@@ -2807,14 +2852,14 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Ужастик HD</caption>
+			<caption>MM Ужастик</caption>
 			<channel_id>ujastik-hd-minimax</channel_id>
 			<epg_id>ujastik-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/ujastik-hd-minimax.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Фантастика HD</caption>
+			<caption>MM Фантастика</caption>
 			<channel_id>fantastika-hd-minimax</channel_id>
 			<epg_id>fantastika-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/fantastika-hd-minimax.png</icon_url>
@@ -2822,14 +2867,14 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Боевик HD</caption>
+			<caption>MM Боевик</caption>
 			<channel_id>boevik-hd-minimax</channel_id>
 			<epg_id>boevik-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/boevik-hd-minimax.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Мифология HD</caption>
+			<caption>MM Мифология</caption>
 			<channel_id>mifologija-hd-minimax</channel_id>
 			<epg_id>mifologija-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/mifologija-hd-minimax.png</icon_url>
@@ -2850,7 +2895,7 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM 007 HD</caption>
+			<caption>MM 007</caption>
 			<channel_id>007-mm</channel_id>
 			<epg_id>static-17</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/007-hd-minimax.png</icon_url>
@@ -2909,7 +2954,7 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM U.S.S.R. Фантастика</caption>
+			<caption>MM U.S.S.R. Драма</caption>
 			<channel_id>ussr-fantastika-minimax</channel_id>
 			<epg_id>ussr-fantastika-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/ussr-fantastika-minimax.png</icon_url>
@@ -3072,13 +3117,6 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Спорт</caption>
-			<channel_id>sport-mm</channel_id>
-			<epg_id>sport-mm</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/sport-mm.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>MM Синематограф</caption>
 			<channel_id>sinematograf-mm</channel_id>
 			<epg_id>sinematograf-mm</epg_id>
@@ -3086,7 +3124,7 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Translation HD</caption>
+			<caption>MM Translation</caption>
 			<channel_id>translation-minimax</channel_id>
 			<epg_id>translation-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/translation-minimax.png</icon_url>
@@ -3955,6 +3993,52 @@
 			<icon_url>https://static.ipstr.im/picons/upl/3/MODO-SNOOP-GUN.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kion ХИТ HD</caption>
+			<channel_id>kion-hit-hd</channel_id>
+			<epg_id>kion-hit-hd</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/kion-hit-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Love Stories</caption>
+			<channel_id>modo_love_st</channel_id>
+			<epg_id>MODO-LOVE-STORIES</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/modo_love_st.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Music Movies</caption>
+			<channel_id>modo_mus_m</channel_id>
+			<epg_id>MODO-MUSIC-MOVIES</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/modo_mus_m.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Village</caption>
+			<channel_id>modo_village</channel_id>
+			<epg_id>MODO-VILLAGE</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/modo_village.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Кинофестиваль</caption>
+			<channel_id>mm_kinofestival</channel_id>
+			<epg_id>kinofestival-mm</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/mm_kinofestival.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Аванпост 4K</caption>
+			<channel_id>lib_avanpost</channel_id>
+			<epg_id>Liberty Аванпост 4K</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/lib_avanpost.png</icon_url>
+			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч ТВ</caption>
