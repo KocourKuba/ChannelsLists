@@ -1166,6 +1166,22 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Curiosity Stream HD</caption>
+			<channel_id>curiosity_stream_HD</channel_id>
+			<epg_id>curiosity-stream</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/poznanie/curiosity_stream.jpg</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Неизвестная Россия HD</caption>
+			<channel_id>unknown_Russia</channel_id>
+			<epg_id>neizvestnaya-rosia</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/poznanie/neizvestnaya-rosia.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>НТВ-Мир</caption>
 			<channel_id>ntv_mir</channel_id>
 			<epg_id>ntv-mir</epg_id>
@@ -1438,6 +1454,13 @@
 			<channel_id>tvperecint</channel_id>
 			<epg_id>perec-int</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/show/perec.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС International</caption>
+			<channel_id>sts_International</channel_id>
+			<epg_id>sts-int</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/show/sts-int.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2438,6 +2461,22 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>FamilyJam HD</caption>
+			<channel_id>FAMILY_JAM</channel_id>
+			<epg_id>familyjam</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/films/familyjam.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Detective Jam HD</caption>
+			<channel_id>DETECTIVE_JAM</channel_id>
+			<epg_id>detectivejam</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/films/detectivejam.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>FAN HD</caption>
 			<channel_id>fan_hd</channel_id>
 			<epg_id>fanhd</epg_id>
@@ -2676,6 +2715,37 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Disney Junior IL</caption>
+			<channel_id>DISNEY_IL_JR</channel_id>
+			<epg_id>no_epg</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KIDS TV HD</caption>
+			<channel_id>KIDS_TV</channel_id>
+			<epg_id>no_epg_mult</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/detskie/kids_tv.jpg</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ducktv HD</caption>
+			<channel_id>ducktv</channel_id>
+			<epg_id>ducktv</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/detskie/ducktv.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Disney Junior</caption>
+			<channel_id>disney_junior</channel_id>
+			<epg_id>disney-jr</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/detskie/disney-jr.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Yosso TV Grand</caption>
 			<channel_id>Y-GRAND</channel_id>
 			<epg_id>grand-yosso</epg_id>
@@ -2884,6 +2954,38 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Yosso TV Disney</caption>
+			<channel_id>Y-DISNEY</channel_id>
+			<epg_id>yossodisney-yosso</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/yosso_tv/yosso-disney.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Yosso TV Netflix</caption>
+			<channel_id>Y-NETFLIX</channel_id>
+			<epg_id>yossonetflix-yosso</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/yosso_tv/yosso-netflix.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Yosso TV BEST 60 FPS</caption>
+			<channel_id>Y-BEST_60FPS</channel_id>
+			<epg_id>c-best60fps-yosso</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/yosso_tv/best_60fps.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>YOSSO TV 4K HDR</caption>
+			<channel_id>Y-4K_HDR</channel_id>
+			<epg_id>yossohdr4k-yosso</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/yosso_tv/yossohdr4k.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>ATV Cineman</caption>
 			<channel_id>ATV_Cineman</channel_id>
 			<epg_id>ATV Cineman</epg_id>
@@ -2921,6 +3023,182 @@
 			<epg_id>tvoyo-tv-hd</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/tvoetv.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Channel</caption>
+			<channel_id>Z_Channel</channel_id>
+			<epg_id>Z_Channel</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/Z!CH1.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Comedy</caption>
+			<channel_id>Z_Comedy</channel_id>
+			<epg_id>Z! Comedy HD</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/zcomedy.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Crime</caption>
+			<channel_id>Z_Crime</channel_id>
+			<epg_id>Z! Crime HD</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/zcrime.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Horror</caption>
+			<channel_id>Z_Horror</channel_id>
+			<epg_id>Z! Horror HD</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/zhorror.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Serial</caption>
+			<channel_id>Z_Serial</channel_id>
+			<epg_id>Z_Serial</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/zserial.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Sitcom</caption>
+			<channel_id>Z_Sitcom</channel_id>
+			<epg_id>Z_Sitcom</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/zsitcom.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Smile</caption>
+			<channel_id>Z_Smile</channel_id>
+			<epg_id>Z_Smile</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/zsmile.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Fun</caption>
+			<channel_id>Z_Fun</channel_id>
+			<epg_id>no_epg_cinema</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/zfun.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Action</caption>
+			<channel_id>Z_Action</channel_id>
+			<epg_id>Z_Action</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/ZAction.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Adventure</caption>
+			<channel_id>Z_Adventure</channel_id>
+			<epg_id>Z_Adventure</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/ZAdventure.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Biography</caption>
+			<channel_id>Z_Biography</channel_id>
+			<epg_id>Z_Biography</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/ZBiography.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Detective</caption>
+			<channel_id>Z_Detective</channel_id>
+			<epg_id>Z_Detective</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/ZDetective.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Drama</caption>
+			<channel_id>Z_Drama</channel_id>
+			<epg_id>Z_Drama</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/ZDrama.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Family</caption>
+			<channel_id>Z_Family</channel_id>
+			<epg_id>Z_Family</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/ZFamily.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Fantastic</caption>
+			<channel_id>Z_Fantastic</channel_id>
+			<epg_id>Z_Fantastic</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/ZFantastic.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Fantasy</caption>
+			<channel_id>Z_Fantasy</channel_id>
+			<epg_id>Z_Fantasy</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/ZFantasy.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! History</caption>
+			<channel_id>Z_History</channel_id>
+			<epg_id>Z_History</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/ZHistory.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Russian</caption>
+			<channel_id>Z_Russian</channel_id>
+			<epg_id>Z_Russian</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/ZRussian.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Thriller</caption>
+			<channel_id>Z_Thriller</channel_id>
+			<epg_id>Z_Thriller</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/ZThriller.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Military</caption>
+			<channel_id>Z_Military</channel_id>
+			<epg_id>Z_Military</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/kinoInt/ZMilitary.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Science</caption>
+			<channel_id>Z_Science</channel_id>
+			<epg_id>Z_Science</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/kinoInt/ZScience.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Travel</caption>
+			<channel_id>Z_Travel</channel_id>
+			<epg_id>Z_Travel</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/kinoInt/ZTravel.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>1HD Music Television HD</caption>
@@ -3370,6 +3648,54 @@
 			<channel_id>babytime</channel_id>
 			<epg_id>baby-time</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/music/baby-time.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Муз ТВ</caption>
+			<channel_id>muztv</channel_id>
+			<epg_id>muztv</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/music/muztv.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV DE HD</caption>
+			<channel_id>MTV_DE_HD</channel_id>
+			<epg_id>no_epg_music</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/music/mtv-russia.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Music</caption>
+			<channel_id>Z_Music</channel_id>
+			<epg_id>no_epg_music</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/music/zmusic.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z! Rock</caption>
+			<channel_id>Z_Rock</channel_id>
+			<epg_id>no_epg_music</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/zrock.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>NickMusic</caption>
+			<channel_id>nickmusic</channel_id>
+			<epg_id>nick-music</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/music/nick-music.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>192 TV NL</caption>
+			<channel_id>192_TV</channel_id>
+			<epg_id>no_epg_music</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/music/192tv.jpg</icon_url>
 			<tv_category_id>11</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -4292,6 +4618,134 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Матч! Премьер HD</caption>
+			<channel_id>M_PREMIER</channel_id>
+			<epg_id>match-premier</epg_id>
+			<icon_url>http://streaming-elbrus.su/img/logos/sport/match-premiere.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport Online 13</caption>
+			<channel_id>PROKOP_SPORT_ONLINE_13</channel_id>
+			<epg_id>no_epg_sport</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport Online 14</caption>
+			<channel_id>PROKOP_SPORT_ONLINE_14</channel_id>
+			<epg_id>no_epg_sport</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport Online 15</caption>
+			<channel_id>PROKOP_SPORT_ONLINE_15</channel_id>
+			<epg_id>no_epg_sport</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport Online 16</caption>
+			<channel_id>PROKOP_SPORT_ONLINE_16</channel_id>
+			<epg_id>no_epg_sport</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport Online 17</caption>
+			<channel_id>PROKOP_SPORT_ONLINE_17</channel_id>
+			<epg_id>no_epg_sport</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport Online 18</caption>
+			<channel_id>PROKOP_SPORT_ONLINE_18</channel_id>
+			<epg_id>no_epg_sport</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport Online 19</caption>
+			<channel_id>PROKOP_SPORT_ONLINE_19</channel_id>
+			<epg_id>no_epg_sport</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport Pimple TV 6</caption>
+			<channel_id>PROKOP_SPORT_ONLINE_20</channel_id>
+			<epg_id>no_epg_sport</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Спорт HD</caption>
+			<channel_id>okko_sport</channel_id>
+			<epg_id>okko-sport</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/sport/sldkfwefsderfgiqS.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports Baltic HD</caption>
+			<channel_id>SETANTA_SPORTS_BALTIC</channel_id>
+			<epg_id>setanta1-lt</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/sport/setanta1-lt.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sport 1 Baltic</caption>
+			<channel_id>SPORTS_1_BALTIC</channel_id>
+			<epg_id>sport1-baltic</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/sport/sport1-baltic.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sport 2 Baltic</caption>
+			<channel_id>SPORTS_2_BALTIC</channel_id>
+			<epg_id>sport2-baltic</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/sport/sport2-baltic.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diema Sport 1 HD</caption>
+			<channel_id>DIEMA_SPORTS_1_HD</channel_id>
+			<epg_id>no_epg_sport</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/sport/diema-sport.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diema Sport 2 HD</caption>
+			<channel_id>DIEMA_SPORTS_2_HD</channel_id>
+			<epg_id>no_epg_sport</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/sport/diema-sport-2.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diema Sport 3 HD</caption>
+			<channel_id>DIEMA_SPORTS_3_HD</channel_id>
+			<epg_id>no_epg_sport</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/sport/diema-sport-3.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>MyZen 4K</caption>
 			<channel_id>myzen_4k</channel_id>
 			<epg_id>myzen-tv</epg_id>
@@ -4405,6 +4859,30 @@
 			<channel_id>MATCH_ULTRA</channel_id>
 			<epg_id>match-tv</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/match-tv.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Museum 4K</caption>
+			<channel_id>museum_4k</channel_id>
+			<epg_id>museum-4k</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/uhd/museum-4k.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Quadro 4K</caption>
+			<channel_id>QUADRO_4K</channel_id>
+			<epg_id>quadro4k</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/uhd/quadro4k.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FUNBOX UHD</caption>
+			<channel_id>FUNBOX_UHD</channel_id>
+			<epg_id>no_epg</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/uhd/funboxuhd.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>

@@ -50,6 +50,11 @@
 			<icon_url>plugin_file://icons/33.png</icon_url>
 		</tv_category>
 		<tv_category>
+			<id>10</id>
+			<caption>Развлекательные</caption>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+		</tv_category>
+		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/fav.png</icon_url>
@@ -234,6 +239,38 @@
 			<channel_id>383</channel_id>
 			<epg_id>383</epg_id>
 			<icon_url>http://ott.watch/images/383.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>UA: Новини HD</caption>
+			<channel_id>438</channel_id>
+			<epg_id>438</epg_id>
+			<icon_url>http://ott.watch/images/438.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ukraine World News HD</caption>
+			<channel_id>441</channel_id>
+			<epg_id>441</epg_id>
+			<icon_url>http://ott.watch/images/441.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ми-Україна</caption>
+			<channel_id>442</channel_id>
+			<epg_id>442</epg_id>
+			<icon_url>http://ott.watch/images/442.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Deutsche Welle HD</caption>
+			<channel_id>440</channel_id>
+			<epg_id>440</epg_id>
+			<icon_url>http://ott.watch/images/440.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -666,14 +703,6 @@
 			<channel_id>132</channel_id>
 			<epg_id>132</epg_id>
 			<icon_url>http://ott.watch/images/132.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Тайны Галактики HD</caption>
-			<channel_id>271</channel_id>
-			<epg_id>271</epg_id>
-			<icon_url>http://ott.watch/images/271.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1214,14 +1243,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Мир сериала HD</caption>
-			<channel_id>159</channel_id>
-			<epg_id>159</epg_id>
-			<icon_url>http://ott.watch/images/159.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Премиальное HD</caption>
 			<channel_id>421</channel_id>
 			<epg_id>421</epg_id>
@@ -1486,6 +1507,14 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Nickelodeon</caption>
+			<channel_id>443</channel_id>
+			<epg_id>443</epg_id>
+			<icon_url>http://ott.watch/images/443.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Stingray iConcerts HD</caption>
 			<channel_id>267</channel_id>
 			<epg_id>267</epg_id>
@@ -1634,14 +1663,6 @@
 			<channel_id>276</channel_id>
 			<epg_id>276</epg_id>
 			<icon_url>http://ott.watch/images/276.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Шансон ТВ</caption>
-			<channel_id>95</channel_id>
-			<epg_id>95</epg_id>
-			<icon_url>http://ott.watch/images/95.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1914,6 +1935,14 @@
 			<channel_id>33</channel_id>
 			<epg_id>33</epg_id>
 			<icon_url>http://ott.watch/images/33.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV 3 Sport HD LT</caption>
+			<channel_id>416</channel_id>
+			<epg_id>416</epg_id>
+			<icon_url>http://ott.watch/images/416.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -2270,14 +2299,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Ночь</caption>
-			<channel_id>54</channel_id>
-			<epg_id>54</epg_id>
-			<icon_url>http://ott.watch/images/54.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Babes TV HD</caption>
 			<channel_id>55</channel_id>
 			<epg_id>55</epg_id>
@@ -2286,26 +2307,10 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Playboy TV</caption>
-			<channel_id>56</channel_id>
-			<epg_id>56</epg_id>
-			<icon_url>http://ott.watch/images/56.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Exxxotica HD</caption>
 			<channel_id>57</channel_id>
 			<epg_id>57</epg_id>
 			<icon_url>http://ott.watch/images/57.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Dorcel HD</caption>
-			<channel_id>50</channel_id>
-			<epg_id>50</epg_id>
-			<icon_url>http://ott.watch/images/50.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -2374,12 +2379,44 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>O-la-la</caption>
-			<channel_id>334</channel_id>
-			<epg_id>334</epg_id>
-			<icon_url>http://ott.watch/images/334.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
+			<caption>ICTV 2 HD</caption>
+			<channel_id>368</channel_id>
+			<epg_id>368</epg_id>
+			<icon_url>http://ott.watch/images/368.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ukraine 1 HD</caption>
+			<channel_id>98</channel_id>
+			<epg_id>98</epg_id>
+			<icon_url>http://ott.watch/images/98.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ukraine 2 HD</caption>
+			<channel_id>99</channel_id>
+			<epg_id>99</epg_id>
+			<icon_url>http://ott.watch/images/99.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>UA: Культура HD</caption>
+			<channel_id>435</channel_id>
+			<epg_id>435</epg_id>
+			<icon_url>http://ott.watch/images/435.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>NLO TV 2 HD</caption>
+			<channel_id>115</channel_id>
+			<epg_id>115</epg_id>
+			<icon_url>http://ott.watch/images/115.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 	</tv_channels>
 </tv_info>

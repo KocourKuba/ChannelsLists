@@ -600,6 +600,13 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>MM OldSchool</caption>
+			<channel_id>old_school-mm</channel_id>
+			<epg_id>oldschool-mm</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/10/old_school-mm.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Бобёр</caption>
 			<channel_id>bobior</channel_id>
 			<epg_id>bobior</epg_id>
@@ -1334,6 +1341,34 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>SKY HIGH Galaxy HDR</caption>
+			<channel_id>sh_galaxy</channel_id>
+			<epg_id>SKYHIGHGALAXYHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/7/sh_galaxy.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>HGTV Home &amp; Garden HD</caption>
+			<channel_id>hgtv</channel_id>
+			<epg_id>hgtv</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/7/hgtv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Experiment</caption>
+			<channel_id>experiment-mm</channel_id>
+			<epg_id>experiment-mm</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/7/experiment-mm.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Открытия</caption>
+			<channel_id>otkritiya-mm</channel_id>
+			<epg_id>otkritiya-mm</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/7/otkritiya-mm.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Карусель</caption>
 			<channel_id>karusel</channel_id>
 			<epg_id>karusel</epg_id>
@@ -1803,6 +1838,28 @@
 			<channel_id>cinesimps</channel_id>
 			<epg_id>cineman-thesimps</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/cinesimps.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoon Network</caption>
+			<channel_id>cartoon_network</channel_id>
+			<epg_id>cartoon_network</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/11/cartoon_network.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Jetix 4K HDR</caption>
+			<channel_id>sh_jetix</channel_id>
+			<epg_id>SKYHIGHJETIXHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/11/sh_jetix.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Гриффины</caption>
+			<channel_id>griffiny-mm</channel_id>
+			<epg_id>griffiny-mm</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/11/griffiny-mm.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4041,6 +4098,59 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>MÖDO Novelty HDR</caption>
+			<channel_id>modo_nov_hdr</channel_id>
+			<epg_id>MODO-NOVELTY-HDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/modo_nov_hdr.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Rus Movies</caption>
+			<channel_id>modo_rus_movies</channel_id>
+			<epg_id>MODO-RUS-MOVIES</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/modo_rus_movies.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO VHS Mix 4K</caption>
+			<channel_id>modo_vhs_4k</channel_id>
+			<epg_id>MODO-VHS-MIX</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/modo_vhs_4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Mixed 4K</caption>
+			<channel_id>modo_mix_4k</channel_id>
+			<epg_id>MODO-MIXED-4K</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/modo_mix_4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Глухарь + Карпов</caption>
+			<channel_id>cone_karpov</channel_id>
+			<epg_id>cineman-gluhar</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/cone_karpov.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Интерны</caption>
+			<channel_id>cinem_int</channel_id>
+			<epg_id>cineman-interny</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/cinem_int.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Универ</caption>
+			<channel_id>cinem_univ</channel_id>
+			<epg_id>cineman-univer</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/cinem_univ.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Матч ТВ</caption>
 			<channel_id>match-tv</channel_id>
 			<epg_id>match-tv</epg_id>
@@ -4924,6 +5034,13 @@
 			<channel_id>queer</channel_id>
 			<epg_id>static-5</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/queer.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Top Music</caption>
+			<channel_id>modo_top_music</channel_id>
+			<epg_id>static-1</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/8/modo_top_music.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 	</tv_channels>
