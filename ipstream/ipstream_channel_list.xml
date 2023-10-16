@@ -552,7 +552,7 @@
 		<tv_channel>
 			<caption>Твоё ТВ HD</caption>
 			<channel_id>tvoye</channel_id>
-			<epg_id>tvoetv</epg_id>
+			<epg_id>tvoyo-tv-hd</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/tvoye.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -596,7 +596,7 @@
 			<caption>Твоё ТВ Юмор</caption>
 			<channel_id>troetv_humor</channel_id>
 			<epg_id>tvoetv-humor</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>https://static.ipstr.im/picons/upl/10/troetv_humor.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1239,7 +1239,7 @@
 		<tv_channel>
 			<caption>Liberty Авто Гир</caption>
 			<channel_id>lib_avtogir</channel_id>
-			<epg_id>LIBERTYAVTOGIR</epg_id>
+			<epg_id>LIBERTYAVTOGIRFHD</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_avtogir.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>1</archive>
@@ -1435,7 +1435,7 @@
 		<tv_channel>
 			<caption>Nick</caption>
 			<channel_id>nickelodeon-ru</channel_id>
-			<epg_id>Nickelodeon HD</epg_id>
+			<epg_id>nick</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/nickelodeon-ru.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>2</archive>
@@ -1706,7 +1706,7 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Liberty Simpsony</caption>
+			<caption>Liberty Симпсоны</caption>
 			<channel_id>lib_simph</channel_id>
 			<epg_id>LIBERTYSIMPSONY</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_simph.png</icon_url>
@@ -1715,14 +1715,14 @@
 		<tv_channel>
 			<caption>Liberty МиМ</caption>
 			<channel_id>lib_mim</channel_id>
-			<epg_id>LIBERTYMIM</epg_id>
+			<epg_id>LIBERTYMIMFHD</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_mim.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Сказки</caption>
 			<channel_id>lib_skaz</channel_id>
-			<epg_id>LIBERTYSKAZKI</epg_id>
+			<epg_id>LIBERTYSKAZKIFHD</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_skaz.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
@@ -1743,14 +1743,14 @@
 		<tv_channel>
 			<caption>Liberty Мульт 4K</caption>
 			<channel_id>lib_mult</channel_id>
-			<epg_id>LIBERTYMULT</epg_id>
+			<epg_id>LIBERTYMULT4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_mult.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Мульт Eng 4K</caption>
 			<channel_id>lib_multeng</channel_id>
-			<epg_id>LIBERTYMULTENG</epg_id>
+			<epg_id>LIBERTYMULTENG4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_multeng.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
@@ -3281,35 +3281,35 @@
 		<tv_channel>
 			<caption>Liberty DC</caption>
 			<channel_id>lib_dc</channel_id>
-			<epg_id>LIBERTYDC</epg_id>
+			<epg_id>Liberty DC FHD</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_dc.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Marvel 4K</caption>
 			<channel_id>lib_marvel</channel_id>
-			<epg_id>LIBERTYMARVEL</epg_id>
+			<epg_id>Liberty Marvel 4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_marvel.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Мелодрамы</caption>
 			<channel_id>lib_melod</channel_id>
-			<epg_id>LIBERTYMELODRAMY</epg_id>
+			<epg_id>Liberty Мелодрамы FHD</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_melod.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Триллеры 4K</caption>
 			<channel_id>lib_triller</channel_id>
-			<epg_id>LIBERTYTRILLERY</epg_id>
+			<epg_id>Liberty Триллеры 4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_triller.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Ужасы 4K</caption>
 			<channel_id>lib_uzhas</channel_id>
-			<epg_id>LIBERTYUZHASY</epg_id>
+			<epg_id>Liberty Ужасы 4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_uzhas.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -3335,7 +3335,7 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Liberty Fan</caption>
+			<caption>Liberty Фантастика</caption>
 			<channel_id>lib_fan</channel_id>
 			<epg_id>LIBERTYFAN</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_fan.png</icon_url>
@@ -3344,7 +3344,7 @@
 		<tv_channel>
 			<caption>Liberty Сериалы</caption>
 			<channel_id>lib_ser</channel_id>
-			<epg_id>LIBERTYSERIALY</epg_id>
+			<epg_id>LIBERTYSERIALY4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_ser.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -3363,7 +3363,7 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Liberty SouthPark</caption>
+			<caption>Liberty Южный Парк</caption>
 			<channel_id>lib_sp</channel_id>
 			<epg_id>LIBERTYSOUTHPARK</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_sp.png</icon_url>
@@ -3372,14 +3372,14 @@
 		<tv_channel>
 			<caption>Liberty Куб 4K</caption>
 			<channel_id>lib_cube</channel_id>
-			<epg_id>LIBERTYCUBE</epg_id>
+			<epg_id>LIBERTYCUBE4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_cube.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Netflix 4K</caption>
 			<channel_id>lib_neflix</channel_id>
-			<epg_id>LIBERTYNETFLIX</epg_id>
+			<epg_id>LIBERTYNETFLIX4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_neflix.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -3393,28 +3393,28 @@
 		<tv_channel>
 			<caption>Liberty Русфильм 4K</caption>
 			<channel_id>lib_rusfilm</channel_id>
-			<epg_id>LIBERTYRUSFILM</epg_id>
+			<epg_id>LIBERTYRUSFILM4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_rusfilm.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Семейный 4K</caption>
 			<channel_id>lib_semeyn</channel_id>
-			<epg_id>LIBERTYSEMEYNYY</epg_id>
+			<epg_id>LIBERTYSEMEYNYY4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_semeyn.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Туркфильм 4K</caption>
 			<channel_id>lib_turkfilm</channel_id>
-			<epg_id>LIBERTYTURKFILM</epg_id>
+			<epg_id>LIBERTYTURKFILM4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_turkfilm.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Индия 4K</caption>
 			<channel_id>lib_indi</channel_id>
-			<epg_id>LIBERTYINDI</epg_id>
+			<epg_id>LIBERTYINDI4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_indi.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -3428,7 +3428,7 @@
 		<tv_channel>
 			<caption>Liberty Союз 4K</caption>
 			<channel_id>lib_soyuz</channel_id>
-			<epg_id>LIBERTYSOYUZ</epg_id>
+			<epg_id>LIBERTYSOYUZ4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_soyuz.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -3442,7 +3442,7 @@
 		<tv_channel>
 			<caption>Liberty  Criminal 4K</caption>
 			<channel_id>lib_cryme4k</channel_id>
-			<epg_id>53_CRIMINAL_4K</epg_id>
+			<epg_id>LIBERTYCRIMINAL4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_cryme4k.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -3456,7 +3456,7 @@
 		<tv_channel>
 			<caption>Liberty XX ВЕК 4К</caption>
 			<channel_id>lib_xxvek</channel_id>
-			<epg_id>Liberty XX ВЕК 4К</epg_id>
+			<epg_id>LIBERTYXXVEK4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/lib_xxvek.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -4093,7 +4093,7 @@
 		<tv_channel>
 			<caption>Liberty Аванпост 4K</caption>
 			<channel_id>lib_avanpost</channel_id>
-			<epg_id>Liberty Аванпост 4K</epg_id>
+			<epg_id>LIBERTYAVANPOST4K</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/3/lib_avanpost.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -4783,7 +4783,7 @@
 			<epg_id>shanson-tv</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/shanson.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>2</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>1HD Music Television</caption>
