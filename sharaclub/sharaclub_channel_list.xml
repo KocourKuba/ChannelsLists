@@ -490,7 +490,7 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Еда Премиум</caption>
+			<caption>Food Time</caption>
 			<channel_id>eda-hd</channel_id>
 			<epg_id>eda-hd</epg_id>
 			<tvg_id>eda-hd</tvg_id>
@@ -2196,7 +2196,7 @@
 		<tv_channel>
 			<caption>Liberty Легенда 4К</caption>
 			<channel_id>lib_legenda</channel_id>
-			<epg_id>LIBERTYLEGENDA</epg_id>
+			<epg_id>LIBERTYLEGENDA4K</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/lib_legenda.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -2210,35 +2210,35 @@
 		<tv_channel>
 			<caption>Liberty Мелодрамы</caption>
 			<channel_id>lib_melod</channel_id>
-			<epg_id>Liberty Мелодрамы FHD</epg_id>
+			<epg_id>LIBERTYMELODRAMYFHD</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/lib_melod.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty DC</caption>
 			<channel_id>lib_dc</channel_id>
-			<epg_id>Liberty DC FHD</epg_id>
+			<epg_id>LIBERTYDC</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/lib_dc.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Комедии</caption>
 			<channel_id>lib_comedy</channel_id>
-			<epg_id>LIBERTYKOMEDII</epg_id>
+			<epg_id>LIBERTYKOMEDIIFHD</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/lib_comedy.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Фантастика</caption>
 			<channel_id>lib_fan</channel_id>
-			<epg_id>LIBERTYFAN</epg_id>
+			<epg_id>LIBERTYFANFHD</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/lib_fan.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Короткометражный</caption>
 			<channel_id>lib_kormet</channel_id>
-			<epg_id>LIBERTYKOROTKOMETRAZHNOYE</epg_id>
+			<epg_id>lib_kormet</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/lib_kormet.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -2252,28 +2252,28 @@
 		<tv_channel>
 			<caption>Liberty Сваты</caption>
 			<channel_id>lib_svaty</channel_id>
-			<epg_id>LIBERTYSVATY</epg_id>
+			<epg_id>LIBERTYSVATYFHD</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/lib_svaty.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Занавес</caption>
 			<channel_id>lib_zanaves</channel_id>
-			<epg_id>LIBERTYZANAVES</epg_id>
+			<epg_id>LIBERTYZANAVESFHD</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/lib_zanaves.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Anime</caption>
 			<channel_id>lib_anime</channel_id>
-			<epg_id>LIBERTYANIME</epg_id>
+			<epg_id>LIBERTYANIMEFHD</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/lib_anime.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Южный Парк</caption>
 			<channel_id>lib_sp</channel_id>
-			<epg_id>LIBERTYSOUTHPARK</epg_id>
+			<epg_id>LIBERTYSOUTHPARKFHD</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/lib_sp.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -2574,6 +2574,7 @@
 			<epg_id>bcu_action</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/bcu_action.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Fantastic HD</caption>
@@ -2673,6 +2674,7 @@
 			<epg_id>bcu-reality</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/bcu_reality.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Cinema Plus HD</caption>
@@ -3590,14 +3592,14 @@
 		<tv_channel>
 			<caption>Liberty Disney</caption>
 			<channel_id>lib_disney</channel_id>
-			<epg_id>LIBERTYDISNEY</epg_id>
+			<epg_id>LIBERTYDISNEYFHD</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/lib_disney.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Pixar</caption>
 			<channel_id>lib_piksar</channel_id>
-			<epg_id>LIBERTYPIKSAR</epg_id>
+			<epg_id>LIBERTYPIKSARFHD</epg_id>
 			<icon_url>https://p.playtv.pro/picons/upl/lib_piksar.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
