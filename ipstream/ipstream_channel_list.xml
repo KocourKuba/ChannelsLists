@@ -45,6 +45,11 @@
 			<icon_url>plugin_file://icons/3.png</icon_url>
 		</tv_category>
 		<tv_category>
+			<id>9</id>
+			<caption>18+</caption>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+		</tv_category>
+		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/fav.png</icon_url>
@@ -1334,13 +1339,6 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Большая Азия</caption>
-			<channel_id>bol_azia</channel_id>
-			<epg_id>static-44</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/7/bol_azia.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>SKY HIGH Galaxy HDR</caption>
 			<channel_id>sh_galaxy</channel_id>
 			<epg_id>SKYHIGHGALAXYHDR</epg_id>
@@ -1598,13 +1596,6 @@
 			<channel_id>sh_bunny</channel_id>
 			<epg_id>BUNNYHD</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/sh_bunny.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH Kids USSR</caption>
-			<channel_id>sh_kidsussr</channel_id>
-			<epg_id>SKYHIGHKIDSUSSR</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/sh_kidsussr.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2351,14 +2342,6 @@
 			<channel_id>tv21</channel_id>
 			<epg_id>tvxxi</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/tv21.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Любимое HD</caption>
-			<channel_id>nlub_hd</channel_id>
-			<epg_id>nashe-lubimoe-hd</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/nlub_hd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>2</archive>
 		</tv_channel>
@@ -4083,14 +4066,6 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Кинофестиваль</caption>
-			<channel_id>mm_kinofestival</channel_id>
-			<epg_id>kinofestival-mm</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/3/mm_kinofestival.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Liberty Аванпост 4K</caption>
 			<channel_id>lib_avanpost</channel_id>
 			<epg_id>LIBERTYAVANPOST4K</epg_id>
@@ -5042,6 +5017,262 @@
 			<epg_id>static-1</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/8/modo_top_music.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Barely legal TV</caption>
+			<channel_id>Barelyleg_xxx</channel_id>
+			<epg_id>barely-legal</epg_id>
+			<icon_url>https://static.ipstr.im/picons/xxx/barely-legal.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Brazzers TV Europe</caption>
+			<channel_id>brazers_xxx</channel_id>
+			<epg_id>brazzers-tv-europe</epg_id>
+			<icon_url>https://static.ipstr.im/picons/xxx/brazzers.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>HUSTLER HD</caption>
+			<channel_id>hustlerHD_xxx</channel_id>
+			<epg_id>hustler-hd</epg_id>
+			<icon_url>https://static.ipstr.im/picons/ru/hustler.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Penthouse Gold</caption>
+			<channel_id>penthouse-hd_xxx</channel_id>
+			<epg_id>penthouse-hd</epg_id>
+			<icon_url>https://static.ipstr.im/picons/xxx/penthouse1.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Penthouse</caption>
+			<channel_id>penthous-2_xxx</channel_id>
+			<epg_id>pentqui</epg_id>
+			<icon_url>https://static.ipstr.im/picons/xxx/penthouse_quickies.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Playboy TV</caption>
+			<channel_id>playboy-tv_xxx</channel_id>
+			<epg_id>playboy-tv</epg_id>
+			<icon_url>https://static.ipstr.im/picons/xxx/playboy.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>REDLIGHT HD</caption>
+			<channel_id>redlight_xh</channel_id>
+			<epg_id>redlight-hd</epg_id>
+			<icon_url>https://static.ipstr.im/picons/xxx/redlight.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Honey Twins</caption>
+			<channel_id>modo_honey_18</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/13/modo_honey_18.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>O-la-la</caption>
+			<channel_id>o-la-la_xxx</channel_id>
+			<epg_id>o-la-la</epg_id>
+			<icon_url>https://static.ipstr.im/picons/ru/olala.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Шалун HD</caption>
+			<channel_id>shalun_xxx</channel_id>
+			<epg_id>shalun</epg_id>
+			<icon_url>https://static.ipstr.im/picons/xxx/shalun.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Private TV</caption>
+			<channel_id>privatetv_xxx</channel_id>
+			<epg_id>private-tv</epg_id>
+			<icon_url>https://static.ipstr.im/picons/xxx/private.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vivid Red HD</caption>
+			<channel_id>vivid_red_xxx</channel_id>
+			<epg_id>vividred</epg_id>
+			<icon_url>https://static.ipstr.im/picons/xxx/vividRED.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Babes TV</caption>
+			<channel_id>babes_xxx</channel_id>
+			<epg_id>babes-tv</epg_id>
+			<icon_url>https://static.ipstr.im/picons/xxx/babes.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наслаждение HD 1</caption>
+			<channel_id>nasl1_xxx</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/nasl1_xxx.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наслаждение HD 2</caption>
+			<channel_id>nasl2_xxx</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/nasl2_xxx.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наслаждение HD 3</caption>
+			<channel_id>nasl3_xxx</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/nasl3_xxx.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наслаждение HD 4</caption>
+			<channel_id>nasl4_xxx</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/nasl4_xxx.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наслаждение 2K 1</caption>
+			<channel_id>nasl1_2k_xxx</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/nasl1_2k_xxx.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наслаждение 2K 2</caption>
+			<channel_id>nasl2_2k_xxx</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/nasl2_2k_xxx.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наслаждение 2K 3</caption>
+			<channel_id>nasl3_2k_xxx</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/nasl3_2k_xxx.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sexy 1</caption>
+			<channel_id>xxxclub</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/xxxclub.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sexy 2</caption>
+			<channel_id>xxx2club</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/xxx2club.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sexy 3</caption>
+			<channel_id>ruxxxclub</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/ruxxxclub.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sexy 4</caption>
+			<channel_id>ruxxx2club</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/ruxxx2club.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Loves Berry HD</caption>
+			<channel_id>z_loves</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/z_loves.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Adult TV</caption>
+			<channel_id>z_adult</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/z_adult.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>AST 1 HD</caption>
+			<channel_id>satisfactionHD</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/satisfactionHD.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>AST 2 HD</caption>
+			<channel_id>ast2_xxx</channel_id>
+			<epg_id>static-2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/ast2_xxx.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Adult HD</caption>
+			<channel_id>sh_adult</channel_id>
+			<epg_id>static-37</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/sh_adult.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Charm HD</caption>
+			<channel_id>bcu_sharm</channel_id>
+			<epg_id>bcu_charm</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/bcu_sharm.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Эротика</caption>
+			<channel_id>lib_erotic</channel_id>
+			<epg_id>LIBERTYEROTIKA</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/lib_erotic.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<protected>1</protected>
 		</tv_channel>
 	</tv_channels>
 </tv_info>
