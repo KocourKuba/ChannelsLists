@@ -189,7 +189,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Ю</caption>
+			<caption>Ю (МСК)</caption>
 			<channel_id>U</channel_id>
 			<epg_id>898</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/efir/yu.png</icon_url>
@@ -2255,7 +2255,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>TV1000 HD CEE</caption>
+			<caption>Viasat Kino HD CEE</caption>
 			<channel_id>TV1000_CEE</channel_id>
 			<epg_id>tv1000-cee</epg_id>
 			<icon_url>https://picon.ml/tv1000-cee.png</icon_url>
@@ -2263,7 +2263,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>TV1000 Action HD CEE</caption>
+			<caption>Viasat Kino Action HD CEE</caption>
 			<channel_id>TV1000_ACTION_CEE</channel_id>
 			<epg_id>tv1000-action-cee</epg_id>
 			<icon_url>https://picon.ml/tv1000-action-cee.png</icon_url>
@@ -2271,7 +2271,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ViP Comedy HD CEE</caption>
+			<caption>Viasat Kino Comedy HD CEE</caption>
 			<channel_id>dmlwY29tZWR5Q0VF</channel_id>
 			<epg_id>vip-comedy-cee</epg_id>
 			<icon_url>https://picon.ml/vip-comedy-cee.png</icon_url>
@@ -2279,7 +2279,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ViP Megahit HD CEE</caption>
+			<caption>Viasat Kino Megahit HD CEE</caption>
 			<channel_id>dmlwbWVnYWhpd</channel_id>
 			<epg_id>vip-megahit-cee</epg_id>
 			<icon_url>https://picon.ml/vip-megahit-cee.png</icon_url>
@@ -2429,7 +2429,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>True Love HD</caption>
+			<caption>4K Русское кино HD</caption>
 			<channel_id>true_crime_hd</channel_id>
 			<epg_id>true-love</epg_id>
 			<icon_url>http://img.streaming-elbrus.su/inprogress.png</icon_url>
@@ -4753,18 +4753,12 @@
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>HOME 4K</caption>
-			<channel_id>home_4k</channel_id>
-			<epg_id>home-4k</epg_id>
-			<icon_url>http://streaming-elbrus.su/img/logos/uhd/home4k.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Ultra HD Cinema (Cinema UHD)</caption>
 			<channel_id>ultrahd_cinema_4k</channel_id>
 			<epg_id>ultra-hd-cinema</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/uhd/ultra-hd-cinema.png</icon_url>
 			<tv_category_id>13</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Love Nature 4K</caption>
@@ -4772,13 +4766,7 @@
 			<epg_id>love-nature-4k</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/uhd/love-nature-4k.png</icon_url>
 			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Insight UHD</caption>
-			<channel_id>insight_uhd_4k</channel_id>
-			<epg_id>insight-ultra-hd</epg_id>
-			<icon_url>http://streaming-elbrus.su/img/logos/uhd/insight-ultra-hd.png</icon_url>
-			<tv_category_id>13</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Наша Сибирь 4K </caption>
@@ -4786,6 +4774,7 @@
 			<epg_id>nasha-sibir-4k</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/uhd/nasha-sibir-4k.png</icon_url>
 			<tv_category_id>13</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кино UHD</caption>
