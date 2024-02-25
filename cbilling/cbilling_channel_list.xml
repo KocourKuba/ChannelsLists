@@ -90,9 +90,9 @@
 		</tv_channel>
 		<tv_channel>
 			<caption>Россия 1</caption>
-			<channel_id>rossija1</channel_id>
-			<epg_id>rossija1</epg_id>
-			<tvg_id>rossija1</tvg_id>
+			<channel_id>rossija</channel_id>
+			<epg_id>rossija</epg_id>
+			<tvg_id>rossija</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/rossija1.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -153,9 +153,9 @@
 		</tv_channel>
 		<tv_channel>
 			<caption>ТНТ4</caption>
-			<channel_id>tnt-4</channel_id>
-			<epg_id>tnt-4</epg_id>
-			<tvg_id>tnt-4</tvg_id>
+			<channel_id>tnt4</channel_id>
+			<epg_id>tnt4</epg_id>
+			<tvg_id>tnt4</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/tnt-4.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -243,9 +243,9 @@
 		</tv_channel>
 		<tv_channel>
 			<caption>ТВ3</caption>
-			<channel_id>tv-3</channel_id>
-			<epg_id>tv-3</epg_id>
-			<tvg_id>tv-3</tvg_id>
+			<channel_id>tv3</channel_id>
+			<epg_id>tv3</epg_id>
+			<tvg_id>tv3</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/tv-3.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -495,9 +495,9 @@
 		</tv_channel>
 		<tv_channel>
 			<caption>Телеканал 360</caption>
-			<channel_id>podmoskovje</channel_id>
-			<epg_id>podmoskovje</epg_id>
-			<tvg_id>podmoskovje</tvg_id>
+			<channel_id>telekanal-360</channel_id>
+			<epg_id>telekanal-360</epg_id>
+			<tvg_id>telekanal-360</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/podmoskovje.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -531,9 +531,9 @@
 		</tv_channel>
 		<tv_channel>
 			<caption>RT Док</caption>
-			<channel_id>rt-doc</channel_id>
-			<epg_id>rt-doc</epg_id>
-			<tvg_id>rt-doc</tvg_id>
+			<channel_id>russia-today-doc</channel_id>
+			<epg_id>russia-today-doc</epg_id>
+			<tvg_id>russia-today-doc</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/rt-doc.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -629,6 +629,15 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Санкт-Петербург HD</caption>
+			<channel_id>sankt-peterburg-hd</channel_id>
+			<epg_id>sankt-peterburg-hd</epg_id>
+			<tvg_id>sankt-peterburg-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/sankt-peterburg-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Россия 24</caption>
 			<channel_id>rossija24</channel_id>
 			<epg_id>rossija24</epg_id>
@@ -689,9 +698,9 @@
 		</tv_channel>
 		<tv_channel>
 			<caption>RT</caption>
-			<channel_id>rt-english</channel_id>
-			<epg_id>rt-english</epg_id>
-			<tvg_id>rt-english</tvg_id>
+			<channel_id>russia-today</channel_id>
+			<epg_id>russia-today</epg_id>
+			<tvg_id>russia-today</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/rt-english.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -785,227 +794,425 @@
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кинопремьера HD</caption>
-			<channel_id>kinopremiera-hd</channel_id>
-			<epg_id>kinopremiera-hd</epg_id>
-			<tvg_id>kinopremiera-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinopremiera-hd.png</icon_url>
+			<caption>4ever Cinema HD</caption>
+			<channel_id>4ever-cinema-ua-hd</channel_id>
+			<epg_id>4ever-cinema-ua-hd</epg_id>
+			<tvg_id>4ever-cinema-ua-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/4ever-cinema-ua-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Премиальное HD</caption>
-			<channel_id>kino-premium-hd</channel_id>
-			<epg_id>kino-premium-hd</epg_id>
-			<tvg_id>kino-premium-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kino-premium-hd.png</icon_url>
+			<caption>A1</caption>
+			<channel_id>amedia1</channel_id>
+			<epg_id>amedia1</epg_id>
+			<tvg_id>amedia1</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/amedia-1.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Остросюжетное HD</caption>
-			<channel_id>ostrosujetnoe-hd</channel_id>
-			<epg_id>ostrosujetnoe-hd</epg_id>
-			<tvg_id>ostrosujetnoe-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/ostrosujetnoe-hd.png</icon_url>
+			<caption>A1 HD</caption>
+			<channel_id>amedia1-hd</channel_id>
+			<epg_id>amedia1-hd</epg_id>
+			<tvg_id>amedia1-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/amedia1-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Хит HD</caption>
-			<channel_id>hit-hd</channel_id>
-			<epg_id>hit-hd</epg_id>
-			<tvg_id>hit-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/hit-hd.png</icon_url>
+			<caption>A2</caption>
+			<channel_id>amedia-2</channel_id>
+			<epg_id>amedia-2</epg_id>
+			<tvg_id>amedia-2</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/amedia-2.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кинохит</caption>
-			<channel_id>kinohit</channel_id>
-			<epg_id>kinohit</epg_id>
-			<tvg_id>kinohit</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinohit.png</icon_url>
+			<caption>A2 HD</caption>
+			<channel_id>amedia-2-hd</channel_id>
+			<epg_id>amedia-2-hd</epg_id>
+			<tvg_id>amedia-2-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/amedia-2-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кинохит HD</caption>
-			<channel_id>kinohit-hd</channel_id>
-			<epg_id>kinohit-hd</epg_id>
-			<tvg_id>kinohit-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinohit-hd.png</icon_url>
+			<caption>AMEDIA HIT HD</caption>
+			<channel_id>amedia-hit-hd</channel_id>
+			<epg_id>amedia-hit-hd</epg_id>
+			<tvg_id>amedia-hit-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/amedia-hit-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Киномикс</caption>
-			<channel_id>kinomix</channel_id>
-			<epg_id>kinomix</epg_id>
-			<tvg_id>kinomix</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinomix.png</icon_url>
+			<caption>AMEDIA Premium HD</caption>
+			<channel_id>amedia-premium-hd</channel_id>
+			<epg_id>amedia-premium-hd</epg_id>
+			<tvg_id>amedia-premium-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/amedia-premium-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Киномикс HD</caption>
-			<channel_id>kinomix-hd</channel_id>
-			<epg_id>kinomix-hd</epg_id>
-			<tvg_id>kinomix-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinomix-hd.png</icon_url>
+			<caption>Amedia Hit</caption>
+			<channel_id>amedia-hit</channel_id>
+			<epg_id>amedia-hit</epg_id>
+			<tvg_id>amedia-hit</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/amedia-hit.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Киносемья</caption>
-			<channel_id>kinosemja</channel_id>
-			<epg_id>kinosemja</epg_id>
-			<tvg_id>kinosemja</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinosemja.png</icon_url>
+			<caption>Amedia Premium</caption>
+			<channel_id>amedia-premium</channel_id>
+			<epg_id>amedia-premium</epg_id>
+			<tvg_id>amedia-premium</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/amedia-premium.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Киносемья HD</caption>
-			<channel_id>kinosemja-hd</channel_id>
-			<epg_id>kinosemja-hd</epg_id>
-			<tvg_id>kinosemja-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinosemja-hd.png</icon_url>
+			<caption>Black</caption>
+			<channel_id>black</channel_id>
+			<epg_id>black</epg_id>
+			<tvg_id>black</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/sony-turbo.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Киносвидание</caption>
-			<channel_id>kinosvidanije</channel_id>
-			<epg_id>kinosvidanije</epg_id>
-			<tvg_id>kinosvidanije</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinosvidanije.png</icon_url>
+			<caption>Black HD</caption>
+			<channel_id>black-hd</channel_id>
+			<epg_id>black-hd</epg_id>
+			<tvg_id>black-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/black-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Киносвидание HD</caption>
-			<channel_id>kinosvidanije-hd</channel_id>
-			<epg_id>kinosvidanije-hd</epg_id>
-			<tvg_id>kinosvidanije-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinosvidanije-hd.png</icon_url>
+			<caption>Bollywood HD</caption>
+			<channel_id>bollywood</channel_id>
+			<epg_id>bollywood</epg_id>
+			<tvg_id>bollywood</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/bollywood.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Киносерия</caption>
-			<channel_id>mnogo-tv</channel_id>
-			<epg_id>mnogo-tv</epg_id>
-			<tvg_id>mnogo-tv</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/mnogo-tv.png</icon_url>
+			<caption>Cinema</caption>
+			<channel_id>cinema</channel_id>
+			<epg_id>cinema</epg_id>
+			<tvg_id>cinema</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/cinema.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Киносерия HD</caption>
-			<channel_id>mnogo-tv-hd</channel_id>
-			<epg_id>mnogo-tv-hd</epg_id>
-			<tvg_id>mnogo-tv-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/mnogo-tv-hd.png</icon_url>
+			<caption>Cinema HD</caption>
+			<channel_id>cinema-hd</channel_id>
+			<epg_id>cinema-hd</epg_id>
+			<tvg_id>cinema-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/cinema-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кинопоказ</caption>
-			<channel_id>kinopokaz</channel_id>
-			<epg_id>kinopokaz</epg_id>
-			<tvg_id>kinopokaz</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinopokaz.png</icon_url>
+			<caption>Detective Jam HD</caption>
+			<channel_id>detective-jam-hd</channel_id>
+			<epg_id>detective-jam-hd</epg_id>
+			<tvg_id>detective-jam-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/detective-jam-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кинопоказ HD</caption>
-			<channel_id>kinopokaz-hd</channel_id>
-			<epg_id>kinopokaz-hd</epg_id>
-			<tvg_id>kinopokaz-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinopokaz-hd.png</icon_url>
+			<caption>FX</caption>
+			<channel_id>fox</channel_id>
+			<epg_id>fox</epg_id>
+			<tvg_id>fox</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/fox.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Блокбастер HD</caption>
-			<channel_id>blokbaster-hd</channel_id>
-			<epg_id>blokbaster-hd</epg_id>
-			<tvg_id>blokbaster-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/blokbaster-hd.png</icon_url>
+			<caption>FX HD</caption>
+			<channel_id>fox-hd</channel_id>
+			<epg_id>fox-hd</epg_id>
+			<tvg_id>fox-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/fox-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Наш Кинопоказ HD</caption>
-			<channel_id>nash-kinopokaz-hd</channel_id>
-			<epg_id>nash-kinopokaz-hd</epg_id>
-			<tvg_id>nash-kinopokaz-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/nash-kinopokaz-hd.png</icon_url>
+			<caption>FX Life</caption>
+			<channel_id>fox-life</channel_id>
+			<epg_id>fox-life</epg_id>
+			<tvg_id>fox-life</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/fox-life.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Душевное HD</caption>
-			<channel_id>nash-kinoroman-hd</channel_id>
-			<epg_id>nash-kinoroman-hd</epg_id>
-			<tvg_id>nash-kinoroman-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/nash-kinoroman-hd.png</icon_url>
+			<caption>FX Life HD</caption>
+			<channel_id>fox-life-hd</channel_id>
+			<epg_id>fox-life-hd</epg_id>
+			<tvg_id>fox-life-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/fox-life-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Наше HD</caption>
-			<channel_id>nash-detektiv-hd</channel_id>
-			<epg_id>nash-detektiv-hd</epg_id>
-			<tvg_id>nash-detektiv-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/nash-detektiv-hd.png</icon_url>
+			<caption>Family Jam HD</caption>
+			<channel_id>family-jam-hd</channel_id>
+			<epg_id>family-jam-hd</epg_id>
+			<tvg_id>family-jam-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/family-jam-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Любимое HD</caption>
-			<channel_id>nashe-lubimoe-hd</channel_id>
-			<epg_id>nashe-lubimoe-hd</epg_id>
-			<tvg_id>nashe-lubimoe-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/nashe-lubimoe-hd.png</icon_url>
+			<caption>Flix Snip</caption>
+			<channel_id>flix-snip</channel_id>
+			<epg_id>flix-snip</epg_id>
+			<tvg_id>flix-snip</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/flix-snip.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viju+ premiere</caption>
-			<channel_id>tv1000-premium-hd</channel_id>
-			<epg_id>tv1000-premium-hd</epg_id>
-			<tvg_id>tv1000-premium-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/tv1000-premium-hd.png</icon_url>
+			<caption>Flix Snip HD</caption>
+			<channel_id>flix-snip-hd</channel_id>
+			<epg_id>flix-snip-hd</epg_id>
+			<tvg_id>flix-snip-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/flix-snip-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viju+ megahit</caption>
-			<channel_id>tv1000-megahit-hd</channel_id>
-			<epg_id>tv1000-megahit-hd</epg_id>
-			<tvg_id>tv1000-megahit-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/tv1000-megahit-hd.png</icon_url>
+			<caption>Hollywood HD</caption>
+			<channel_id>mgm-hd</channel_id>
+			<epg_id>mgm-hd</epg_id>
+			<tvg_id>mgm-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/mgm-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viju+ comedy</caption>
-			<channel_id>tv1000-comedy-hd</channel_id>
-			<epg_id>tv1000-comedy-hd</epg_id>
-			<tvg_id>tv1000-comedy-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/tv1000-comedy-hd.png</icon_url>
+			<caption>KION Хит HD</caption>
+			<channel_id>kion-hit-hd</channel_id>
+			<epg_id>kion-hit-hd</epg_id>
+			<tvg_id>kion-hit-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kion-hit-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viju+ serial HD</caption>
-			<channel_id>vip-serial-hd</channel_id>
-			<epg_id>vip-serial-hd</epg_id>
-			<tvg_id>vip-serial-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/vip-serial-hd.png</icon_url>
+			<caption>KinoLiving HD</caption>
+			<channel_id>kinoliving-hd</channel_id>
+			<epg_id>kinoliving-hd</epg_id>
+			<tvg_id>kinoliving-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinoliving-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kinojam 1 HD</caption>
+			<channel_id>kinojam1-hd</channel_id>
+			<epg_id>kinojam1-hd</epg_id>
+			<tvg_id>kinojam1-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinojam1-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kinojam 2 HD</caption>
+			<channel_id>kinojam2-hd</channel_id>
+			<epg_id>kinojam2-hd</epg_id>
+			<tvg_id>kinojam2-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinojam2-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Plan B</caption>
+			<channel_id>plan-b</channel_id>
+			<epg_id>plan-b</epg_id>
+			<tvg_id>plan-b</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/plan-b.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Plan B HD</caption>
+			<channel_id>plan-b-hd</channel_id>
+			<epg_id>plan-b-hd</epg_id>
+			<tvg_id>plan-b-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/plan-b-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Red</caption>
+			<channel_id>set</channel_id>
+			<epg_id>set</epg_id>
+			<tvg_id>set</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/set.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Red HD</caption>
+			<channel_id>set-hd</channel_id>
+			<epg_id>set-hd</epg_id>
+			<tvg_id>set-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/set-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Romance HD</caption>
+			<channel_id>romance-hd</channel_id>
+			<epg_id>romance-hd</epg_id>
+			<tvg_id>romance-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/romance-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SHOT TV</caption>
+			<channel_id>egoist-tv</channel_id>
+			<epg_id>egoist-tv</epg_id>
+			<tvg_id>egoist-tv</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/egoist-tv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SHOT TV HD</caption>
+			<channel_id>egoist-tv-hd</channel_id>
+			<epg_id>egoist-tv-hd</epg_id>
+			<tvg_id>egoist-tv-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/egoist-tv-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sci-Fi</caption>
+			<channel_id>sci-fi</channel_id>
+			<epg_id>sci-fi</epg_id>
+			<tvg_id>sci-fi</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/sony-sci-fi.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sci-Fi HD</caption>
+			<channel_id>sci-fi-hd</channel_id>
+			<epg_id>sci-fi-hd</epg_id>
+			<tvg_id>sci-fi-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/sci-fi-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Scream</caption>
+			<channel_id>Scream</channel_id>
+			<epg_id>Scream</epg_id>
+			<tvg_id>Scream</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/Scream.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Scream HD</caption>
+			<channel_id>scream-hd</channel_id>
+			<epg_id>scream-hd</epg_id>
+			<tvg_id>scream-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/scream-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Start Air</caption>
+			<channel_id>start-air</channel_id>
+			<epg_id>start-air</epg_id>
+			<tvg_id>start-air</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/start-air.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Start Air HD</caption>
+			<channel_id>start-air-hd</channel_id>
+			<epg_id>start-air-hd</epg_id>
+			<tvg_id>start-air-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/start-air-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Start World</caption>
+			<channel_id>start-world</channel_id>
+			<epg_id>start-world</epg_id>
+			<tvg_id>start-world</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/start-world.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Start World HD</caption>
+			<channel_id>start-world-hd</channel_id>
+			<epg_id>start-world-hd</epg_id>
+			<tvg_id>start-world-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/start-world-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Suspense HD</caption>
+			<channel_id>suspense-hd</channel_id>
+			<epg_id>suspense-hd</epg_id>
+			<tvg_id>suspense-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/suspense-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Trash HD</caption>
+			<channel_id>trash-hd</channel_id>
+			<epg_id>trash-hd</epg_id>
+			<tvg_id>trash-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/trash-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VHS-ка HD</caption>
+			<channel_id>vhska-hd</channel_id>
+			<epg_id>vhska-hd</epg_id>
+			<tvg_id>vhska-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/vhska-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino World</caption>
+			<channel_id>tv1000-world-kino</channel_id>
+			<epg_id>tv1000-world-kino</epg_id>
+			<tvg_id>tv1000-world-kino</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/tv1000-world-kino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino World HD</caption>
+			<channel_id>tv1000-world-kino-hd</channel_id>
+			<epg_id>tv1000-world-kino-hd</epg_id>
+			<tvg_id>tv1000-world-kino-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/tv1000-world-kino-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1047,9 +1254,9 @@
 		</tv_channel>
 		<tv_channel>
 			<caption>Viju TV1000 русское</caption>
-			<channel_id>tv1000-ru-kino</channel_id>
-			<epg_id>tv1000-ru-kino</epg_id>
-			<tvg_id>tv1000-ru-kino</tvg_id>
+			<channel_id>tv1000-russkoje</channel_id>
+			<epg_id>tv1000-russkoje</epg_id>
+			<tvg_id>tv1000-russkoje</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/tv1000-ru-kino.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1064,461 +1271,47 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat Kino World</caption>
-			<channel_id>tv1000-world-kino</channel_id>
-			<epg_id>tv1000-world-kino</epg_id>
-			<tvg_id>tv1000-world-kino</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/tv1000-world-kino.png</icon_url>
+			<caption>Viju+ comedy</caption>
+			<channel_id>vip-comedy-hd</channel_id>
+			<epg_id>vip-comedy-hd</epg_id>
+			<tvg_id>vip-comedy-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/tv1000-comedy-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Hollywood HD</caption>
-			<channel_id>mgm-hd</channel_id>
-			<epg_id>mgm-hd</epg_id>
-			<tvg_id>mgm-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/mgm-hd.png</icon_url>
+			<caption>Viju+ megahit</caption>
+			<channel_id>vip-megahit-hd</channel_id>
+			<epg_id>vip-megahit-hd</epg_id>
+			<tvg_id>vip-megahit-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/tv1000-megahit-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Cinema</caption>
-			<channel_id>cinema</channel_id>
-			<epg_id>cinema</epg_id>
-			<tvg_id>cinema</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/cinema.png</icon_url>
+			<caption>Viju+ premiere</caption>
+			<channel_id>vip-premiere-hd</channel_id>
+			<epg_id>vip-premiere-hd</epg_id>
+			<tvg_id>vip-premiere-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/tv1000-premium-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Cinema HD</caption>
-			<channel_id>cinema-hd</channel_id>
-			<epg_id>cinema-hd</epg_id>
-			<tvg_id>cinema-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/cinema-hd.png</icon_url>
+			<caption>Viju+ serial HD</caption>
+			<channel_id>vip-serial-hd</channel_id>
+			<epg_id>vip-serial-hd</epg_id>
+			<tvg_id>vip-serial-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/vip-serial-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кино ТВ</caption>
-			<channel_id>kino-tv</channel_id>
-			<epg_id>kino-tv</epg_id>
-			<tvg_id>kino-tv</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kino-tv.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кино ТВ HD</caption>
-			<channel_id>kino-tv-hd</channel_id>
-			<epg_id>kino-tv-hd</epg_id>
-			<tvg_id>kino-tv-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kino-tv-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Kinojam 1 HD</caption>
-			<channel_id>kinojam1-hd</channel_id>
-			<epg_id>kinojam1-hd</epg_id>
-			<tvg_id>kinojam1-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinojam1-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Kinojam 2 HD</caption>
-			<channel_id>kinojam2-hd</channel_id>
-			<epg_id>kinojam2-hd</epg_id>
-			<tvg_id>kinojam2-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinojam2-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Start World</caption>
-			<channel_id>start-world</channel_id>
-			<epg_id>start-world</epg_id>
-			<tvg_id>start-world</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/start-world.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Start Air</caption>
-			<channel_id>start-air</channel_id>
-			<epg_id>start-air</epg_id>
-			<tvg_id>start-air</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/start-air.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Plan B</caption>
-			<channel_id>plan-b</channel_id>
-			<epg_id>plan-b</epg_id>
-			<tvg_id>plan-b</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/plan-b.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Plan B HD</caption>
-			<channel_id>plan-b-hd</channel_id>
-			<epg_id>plan-b-hd</epg_id>
-			<tvg_id>plan-b-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/plan-b-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Еврокино</caption>
-			<channel_id>evrokino</channel_id>
-			<epg_id>evrokino</epg_id>
-			<tvg_id>evrokino</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/evrokino.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Еврокино HD</caption>
-			<channel_id>evrokino-hd</channel_id>
-			<epg_id>evrokino-hd</epg_id>
-			<tvg_id>evrokino-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/evrokino-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Flix Snip</caption>
-			<channel_id>flix-snip</channel_id>
-			<epg_id>flix-snip</epg_id>
-			<tvg_id>flix-snip</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/flix-snip.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SHOT TV</caption>
-			<channel_id>egoist-tv</channel_id>
-			<epg_id>egoist-tv</epg_id>
-			<tvg_id>egoist-tv</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/egoist-tv.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мужское кино</caption>
-			<channel_id>muzhskoe-kino</channel_id>
-			<epg_id>muzhskoe-kino</epg_id>
-			<tvg_id>muzhskoe-kino</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/muzhskoe-kino.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мужское кино HD</caption>
-			<channel_id>muzhskoe-kino-hd</channel_id>
-			<epg_id>muzhskoe-kino-hd</epg_id>
-			<tvg_id>muzhskoe-kino-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/muzhskoe-kino-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наше Мужское HD</caption>
-			<channel_id>nashe-muzshkoe-hd</channel_id>
-			<epg_id>nashe-muzshkoe-hd</epg_id>
-			<tvg_id>nashe-muzshkoe-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/nashe-muzshkoe-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Trash HD</caption>
-			<channel_id>trash-hd</channel_id>
-			<epg_id>trash-hd</epg_id>
-			<tvg_id>trash-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/trash-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Страшное HD</caption>
-			<channel_id>strashnoe-hd</channel_id>
-			<epg_id>strashnoe-hd</epg_id>
-			<tvg_id>strashnoe-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/strashnoe-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Шокирующее HD</caption>
-			<channel_id>kinopokaz-hd1</channel_id>
-			<epg_id>kinopokaz-hd1</epg_id>
-			<tvg_id>kinopokaz-hd1</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinopokaz-hd1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Киноужас HD</caption>
-			<channel_id>kinouzhas-hd</channel_id>
-			<epg_id>kinouzhas-hd</epg_id>
-			<tvg_id>kinouzhas-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinouzhas-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НСТ</caption>
-			<channel_id>hct</channel_id>
-			<epg_id>hct</epg_id>
-			<tvg_id>hct</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/hct.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Комедия</caption>
-			<channel_id>russkaja-comedija</channel_id>
-			<epg_id>russkaja-comedija</epg_id>
-			<tvg_id>russkaja-comedija</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/russkaja-comedija.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинокомедия</caption>
-			<channel_id>kinokomedia</channel_id>
-			<epg_id>kinokomedia</epg_id>
-			<tvg_id>kinokomedia</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinokomedia.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинокомедия HD</caption>
-			<channel_id>kinokomedia-hd</channel_id>
-			<epg_id>kinokomedia-hd</epg_id>
-			<tvg_id>kinokomedia-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinokomedia-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Комедийное HD</caption>
-			<channel_id>kinopokaz-hd2</channel_id>
-			<epg_id>kinopokaz-hd2</epg_id>
-			<tvg_id>kinopokaz-hd2</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinopokaz-hd2.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Камеди HD</caption>
-			<channel_id>comedy-hd</channel_id>
-			<epg_id>comedy-hd</epg_id>
-			<tvg_id>comedy-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/comedy-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Amedia Premium</caption>
-			<channel_id>amedia-premium</channel_id>
-			<epg_id>amedia-premium</epg_id>
-			<tvg_id>amedia-premium</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/amedia-premium.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>AMEDIA Premium HD</caption>
-			<channel_id>amedia-premium-hd</channel_id>
-			<epg_id>amedia-premium-hd</epg_id>
-			<tvg_id>amedia-premium-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/amedia-premium-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Amedia Hit</caption>
-			<channel_id>amedia-hit</channel_id>
-			<epg_id>amedia-hit</epg_id>
-			<tvg_id>amedia-hit</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/amedia-hit.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>AMEDIA HIT HD</caption>
-			<channel_id>amedia-hit-hd</channel_id>
-			<epg_id>amedia-hit-hd</epg_id>
-			<tvg_id>amedia-hit-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/amedia-hit-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>A1</caption>
-			<channel_id>amedia-1</channel_id>
-			<epg_id>amedia-1</epg_id>
-			<tvg_id>amedia-1</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/amedia-1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>A1 HD</caption>
-			<channel_id>amedia1-hd</channel_id>
-			<epg_id>amedia1-hd</epg_id>
-			<tvg_id>amedia1-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/amedia1-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>A2</caption>
-			<channel_id>amedia-2</channel_id>
-			<epg_id>amedia-2</epg_id>
-			<tvg_id>amedia-2</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/amedia-2.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>A2 HD</caption>
-			<channel_id>amedia-2-hd</channel_id>
-			<epg_id>amedia-2-hd</epg_id>
-			<tvg_id>amedia-2-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/amedia-2-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>FX</caption>
-			<channel_id>fox</channel_id>
-			<epg_id>fox</epg_id>
-			<tvg_id>fox</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/fox.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>FX HD</caption>
-			<channel_id>fox-hd</channel_id>
-			<epg_id>fox-hd</epg_id>
-			<tvg_id>fox-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/fox-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>FX Life</caption>
-			<channel_id>fox-life</channel_id>
-			<epg_id>fox-life</epg_id>
-			<tvg_id>fox-life</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/fox-life.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>FX Life HD</caption>
-			<channel_id>fox-life-hd</channel_id>
-			<epg_id>fox-life-hd</epg_id>
-			<tvg_id>fox-life-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/fox-life-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Red</caption>
-			<channel_id>set</channel_id>
-			<epg_id>set</epg_id>
-			<tvg_id>set</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/set.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Red HD</caption>
-			<channel_id>set-hd</channel_id>
-			<epg_id>set-hd</epg_id>
-			<tvg_id>set-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/set-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sci-Fi</caption>
-			<channel_id>sony-sci-fi</channel_id>
-			<epg_id>sony-sci-fi</epg_id>
-			<tvg_id>sony-sci-fi</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/sony-sci-fi.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Black</caption>
-			<channel_id>sony-turbo</channel_id>
-			<epg_id>sony-turbo</epg_id>
-			<tvg_id>sony-turbo</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/sony-turbo.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТВ21</caption>
-			<channel_id>tv-xxi</channel_id>
-			<epg_id>tv-xxi</epg_id>
-			<tvg_id>tv-xxi</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/tv-xxi.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мосфильм</caption>
-			<channel_id>mosfilm</channel_id>
-			<epg_id>mosfilm</epg_id>
-			<tvg_id>mosfilm</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/mosfilm.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мосфильм HD</caption>
-			<channel_id>mosfilm-hd</channel_id>
-			<epg_id>mosfilm-hd</epg_id>
-			<tvg_id>mosfilm-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/mosfilm-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Любимое Кино</caption>
-			<channel_id>lubimoe-kino</channel_id>
-			<epg_id>lubimoe-kino</epg_id>
-			<tvg_id>lubimoe-kino</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/lubimoe-kino.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Родное кино</caption>
-			<channel_id>rodnoje_kino</channel_id>
-			<epg_id>rodnoje_kino</epg_id>
-			<tvg_id>rodnoje_kino</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/rodnoje_kino.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Победа</caption>
-			<channel_id>pobeda</channel_id>
-			<epg_id>pobeda</epg_id>
-			<tvg_id>pobeda</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/pobeda.png</icon_url>
+			<caption>Блокбастер HD</caption>
+			<channel_id>blokbaster-hd</channel_id>
+			<epg_id>blokbaster-hd</epg_id>
+			<tvg_id>blokbaster-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/blokbaster-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1528,33 +1321,6 @@
 			<epg_id>den-pobedy-hd</epg_id>
 			<tvg_id>den-pobedy-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/den-pobedy-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наше новое кино</caption>
-			<channel_id>nashe-novoe-kino</channel_id>
-			<epg_id>nashe-novoe-kino</epg_id>
-			<tvg_id>nashe-novoe-kino</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/nashe-novoe-kino.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наше новое кино HD</caption>
-			<channel_id>nashe-novoe-kino-hd</channel_id>
-			<epg_id>nashe-novoe-kino-hd</epg_id>
-			<tvg_id>nashe-novoe-kino-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/nashe-novoe-kino-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Русский Бестселлер</caption>
-			<channel_id>russkij-bestseller</channel_id>
-			<epg_id>russkij-bestseller</epg_id>
-			<tvg_id>russkij-bestseller</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/russkij-bestseller.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1577,20 +1343,551 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Русский Роман</caption>
-			<channel_id>russkij-roman</channel_id>
-			<epg_id>russkij-roman</epg_id>
-			<tvg_id>russkij-roman</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/russkij-roman.png</icon_url>
+			<caption>Дорама HD</caption>
+			<channel_id>dorama-hd</channel_id>
+			<epg_id>dorama-hd</epg_id>
+			<tvg_id>dorama-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/dorama-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Русский Роман HD</caption>
-			<channel_id>russkij-roman-hd</channel_id>
-			<epg_id>russkij-roman-hd</epg_id>
-			<tvg_id>russkij-roman-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/russkij-roman-hd.png</icon_url>
+			<caption>Душевное HD</caption>
+			<channel_id>nash-kinoroman-hd</channel_id>
+			<epg_id>nash-kinoroman-hd</epg_id>
+			<tvg_id>nash-kinoroman-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/nash-kinoroman-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еврокино</caption>
+			<channel_id>evrokino</channel_id>
+			<epg_id>evrokino</epg_id>
+			<tvg_id>evrokino</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/evrokino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еврокино HD</caption>
+			<channel_id>evrokino-hd</channel_id>
+			<epg_id>evrokino-hd</epg_id>
+			<tvg_id>evrokino-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/evrokino-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Иллюзион +</caption>
+			<channel_id>iluzion-plus</channel_id>
+			<epg_id>iluzion-plus</epg_id>
+			<tvg_id>iluzion-plus</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/iluzion-plus.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Иллюзион + HD</caption>
+			<channel_id>iluzion-plus-hd</channel_id>
+			<epg_id>iluzion-plus-hd</epg_id>
+			<tvg_id>iluzion-plus-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/iluzion-plus-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Индийское Кино</caption>
+			<channel_id>indija-tv</channel_id>
+			<epg_id>indija-tv</epg_id>
+			<tvg_id>indija-tv</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/indija-tv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Индия ТВ</caption>
+			<channel_id>zee-tv</channel_id>
+			<epg_id>zee-tv</epg_id>
+			<tvg_id>zee-tv</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/zee-tv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Индия ТВ HD</caption>
+			<channel_id>zee-tv-hd</channel_id>
+			<epg_id>zee-tv-hd</epg_id>
+			<tvg_id>zee-tv-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/zee-tv-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Камеди HD</caption>
+			<channel_id>comedy-hd</channel_id>
+			<epg_id>comedy-hd</epg_id>
+			<tvg_id>comedy-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/comedy-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинеко HD</caption>
+			<channel_id>kineko-hd</channel_id>
+			<epg_id>kineko-hd</epg_id>
+			<tvg_id>kineko-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kineko-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино Без Границ HD</caption>
+			<channel_id>kino-bez-granic-hd</channel_id>
+			<epg_id>kino-bez-granic-hd</epg_id>
+			<tvg_id>kino-bez-granic-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kino-bez-granic-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино ТВ</caption>
+			<channel_id>kino-tv</channel_id>
+			<epg_id>kino-tv</epg_id>
+			<tvg_id>kino-tv</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kino-tv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино ТВ HD</caption>
+			<channel_id>kino-tv-hd</channel_id>
+			<epg_id>kino-tv-hd</epg_id>
+			<tvg_id>kino-tv-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kino-tv-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинокомедия</caption>
+			<channel_id>kinokomedia</channel_id>
+			<epg_id>kinokomedia</epg_id>
+			<tvg_id>kinokomedia</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinokomedia.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинокомедия HD</caption>
+			<channel_id>kinokomedia-hd</channel_id>
+			<epg_id>kinokomedia-hd</epg_id>
+			<tvg_id>kinokomedia-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinokomedia-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киномикс</caption>
+			<channel_id>kinomix</channel_id>
+			<epg_id>kinomix</epg_id>
+			<tvg_id>kinomix</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinomix.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киномикс HD</caption>
+			<channel_id>kinomix-hd</channel_id>
+			<epg_id>kinomix-hd</epg_id>
+			<tvg_id>kinomix-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinomix-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинопоказ</caption>
+			<channel_id>kinopokaz</channel_id>
+			<epg_id>kinopokaz</epg_id>
+			<tvg_id>kinopokaz</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinopokaz.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинопоказ HD</caption>
+			<channel_id>kinopokaz-hd</channel_id>
+			<epg_id>kinopokaz-hd</epg_id>
+			<tvg_id>kinopokaz-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinopokaz-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинопремьера HD</caption>
+			<channel_id>kinopremiera-hd</channel_id>
+			<epg_id>kinopremiera-hd</epg_id>
+			<tvg_id>kinopremiera-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinopremiera-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносвидание</caption>
+			<channel_id>kinosvidanije</channel_id>
+			<epg_id>kinosvidanije</epg_id>
+			<tvg_id>kinosvidanije</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinosvidanije.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносвидание HD</caption>
+			<channel_id>kinosvidanije-hd</channel_id>
+			<epg_id>kinosvidanije-hd</epg_id>
+			<tvg_id>kinosvidanije-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinosvidanije-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносемья</caption>
+			<channel_id>kinosemja</channel_id>
+			<epg_id>kinosemja</epg_id>
+			<tvg_id>kinosemja</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinosemja.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносемья HD</caption>
+			<channel_id>kinosemja-hd</channel_id>
+			<epg_id>kinosemja-hd</epg_id>
+			<tvg_id>kinosemja-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinosemja-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносерия</caption>
+			<channel_id>mnogo-tv</channel_id>
+			<epg_id>mnogo-tv</epg_id>
+			<tvg_id>mnogo-tv</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/mnogo-tv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносерия HD</caption>
+			<channel_id>mnogo-tv-hd</channel_id>
+			<epg_id>mnogo-tv-hd</epg_id>
+			<tvg_id>mnogo-tv-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/mnogo-tv-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киноужас HD</caption>
+			<channel_id>kinouzhas-hd</channel_id>
+			<epg_id>kinouzhas-hd</epg_id>
+			<tvg_id>kinouzhas-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinouzhas-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинохит</caption>
+			<channel_id>kinohit</channel_id>
+			<epg_id>kinohit</epg_id>
+			<tvg_id>kinohit</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinohit.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинохит HD</caption>
+			<channel_id>kinohit-hd</channel_id>
+			<epg_id>kinohit-hd</epg_id>
+			<tvg_id>kinohit-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinohit-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Комедийное HD</caption>
+			<channel_id>komedijnoe-hd</channel_id>
+			<epg_id>komedijnoe-hd</epg_id>
+			<tvg_id>komedijnoe-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinopokaz-hd2.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Комедия</caption>
+			<channel_id>russkaja-comedija</channel_id>
+			<epg_id>russkaja-comedija</epg_id>
+			<tvg_id>russkaja-comedija</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/russkaja-comedija.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лавстори HD</caption>
+			<channel_id>love-story-hd</channel_id>
+			<epg_id>love-story-hd</epg_id>
+			<tvg_id>love-story-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/love-story-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Любимое HD</caption>
+			<channel_id>nashe-lubimoe-hd</channel_id>
+			<epg_id>nashe-lubimoe-hd</epg_id>
+			<tvg_id>nashe-lubimoe-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/nashe-lubimoe-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Любимое Кино</caption>
+			<channel_id>lubimoe-kino</channel_id>
+			<epg_id>lubimoe-kino</epg_id>
+			<tvg_id>lubimoe-kino</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/lubimoe-kino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Любимое Кино HD</caption>
+			<channel_id>lubimoe-kino-hd</channel_id>
+			<epg_id>lubimoe-kino-hd</epg_id>
+			<tvg_id>lubimoe-kino-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/lubimoe-kino-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир Сериала</caption>
+			<channel_id>mir-seriala</channel_id>
+			<epg_id>mir-seriala</epg_id>
+			<tvg_id>mir-seriala</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/mir-seriala.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир Сериала HD</caption>
+			<channel_id>mir-seriala-hd</channel_id>
+			<epg_id>mir-seriala-hd</epg_id>
+			<tvg_id>mir-seriala-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/mir-seriala-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мосфильм</caption>
+			<channel_id>mosfilm</channel_id>
+			<epg_id>mosfilm</epg_id>
+			<tvg_id>mosfilm</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/mosfilm.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мосфильм HD</caption>
+			<channel_id>mosfilm-hd</channel_id>
+			<epg_id>mosfilm-hd</epg_id>
+			<tvg_id>mosfilm-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/mosfilm-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мужское кино</caption>
+			<channel_id>muzhskoe-kino</channel_id>
+			<epg_id>muzhskoe-kino</epg_id>
+			<tvg_id>muzhskoe-kino</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/muzhskoe-kino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мужское кино HD</caption>
+			<channel_id>muzhskoe-kino-hd</channel_id>
+			<epg_id>muzhskoe-kino-hd</epg_id>
+			<tvg_id>muzhskoe-kino-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/muzhskoe-kino-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НСТ</caption>
+			<channel_id>hct</channel_id>
+			<epg_id>hct</epg_id>
+			<tvg_id>hct</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/hct.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Сериал</caption>
+			<channel_id>ntv-serial</channel_id>
+			<epg_id>ntv-serial</epg_id>
+			<tvg_id>ntv-serial</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/ntv-serial.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Сериал HD</caption>
+			<channel_id>ntv-serial-hd</channel_id>
+			<epg_id>ntv-serial-hd</epg_id>
+			<tvg_id>ntv-serial-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/ntv-serial-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Хит</caption>
+			<channel_id>ntv-hit</channel_id>
+			<epg_id>ntv-hit</epg_id>
+			<tvg_id>ntv-hit</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/ntv-hit.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Хит HD</caption>
+			<channel_id>ntv-hit-hd</channel_id>
+			<epg_id>ntv-hit-hd</epg_id>
+			<tvg_id>ntv-hit-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/ntv-hit-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наш Кинопоказ HD</caption>
+			<channel_id>nash-kinopokaz-hd</channel_id>
+			<epg_id>nash-kinopokaz-hd</epg_id>
+			<tvg_id>nash-kinopokaz-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/nash-kinopokaz-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше HD</caption>
+			<channel_id>nash-detektiv-hd</channel_id>
+			<epg_id>nash-detektiv-hd</epg_id>
+			<tvg_id>nash-detektiv-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/nash-detektiv-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше Мужское HD</caption>
+			<channel_id>nashe-muzshkoe-hd</channel_id>
+			<epg_id>nashe-muzshkoe-hd</epg_id>
+			<tvg_id>nashe-muzshkoe-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/nashe-muzshkoe-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше новое кино</caption>
+			<channel_id>nashe-novoe-kino</channel_id>
+			<epg_id>nashe-novoe-kino</epg_id>
+			<tvg_id>nashe-novoe-kino</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/nashe-novoe-kino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше новое кино HD</caption>
+			<channel_id>nashe-novoe-kino-hd</channel_id>
+			<epg_id>nashe-novoe-kino-hd</epg_id>
+			<tvg_id>nashe-novoe-kino-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/nashe-novoe-kino-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ностальгия</caption>
+			<channel_id>nostalgia</channel_id>
+			<epg_id>nostalgia</epg_id>
+			<tvg_id>nostalgia</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/nostalgia.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Остросюжетное HD</caption>
+			<channel_id>ostrosujetnoe-hd</channel_id>
+			<epg_id>ostrosujetnoe-hd</epg_id>
+			<tvg_id>ostrosujetnoe-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/ostrosujetnoe-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Победа</caption>
+			<channel_id>pobeda</channel_id>
+			<epg_id>pobeda</epg_id>
+			<tvg_id>pobeda</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/pobeda.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Премиальное HD</caption>
+			<channel_id>kino-premium-hd</channel_id>
+			<epg_id>kino-premium-hd</epg_id>
+			<tvg_id>kino-premium-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kino-premium-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Про Любовь HD</caption>
+			<channel_id>pro-lubov-hd</channel_id>
+			<epg_id>pro-lubov-hd</epg_id>
+			<tvg_id>pro-lubov-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/pro-lubov-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ретро ТВ</caption>
+			<channel_id>retro</channel_id>
+			<epg_id>retro</epg_id>
+			<tvg_id>retro</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/retro.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Родное кино</caption>
+			<channel_id>rodnoje_kino</channel_id>
+			<epg_id>rodnoje_kino</epg_id>
+			<tvg_id>rodnoje_kino</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/rodnoje_kino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Романтичное HD</caption>
+			<channel_id>romantichnoe-hd</channel_id>
+			<epg_id>romantichnoe-hd</epg_id>
+			<tvg_id>romantichnoe-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/romantichnoe-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский Бестселлер</caption>
+			<channel_id>russkij-bestseller</channel_id>
+			<epg_id>russkij-bestseller</epg_id>
+			<tvg_id>russkij-bestseller</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/russkij-bestseller.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1622,191 +1919,20 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Иллюзион +</caption>
-			<channel_id>iluzion-plus</channel_id>
-			<epg_id>iluzion-plus</epg_id>
-			<tvg_id>iluzion-plus</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/iluzion-plus.png</icon_url>
+			<caption>Русский Роман</caption>
+			<channel_id>russkij-roman</channel_id>
+			<epg_id>russkij-roman</epg_id>
+			<tvg_id>russkij-roman</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/russkij-roman.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Иллюзион + HD</caption>
-			<channel_id>iluzion-plus-hd</channel_id>
-			<epg_id>iluzion-plus-hd</epg_id>
-			<tvg_id>iluzion-plus-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/iluzion-plus-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Феникс+Кино</caption>
-			<channel_id>feniks-plus-kino</channel_id>
-			<epg_id>feniks-plus-kino</epg_id>
-			<tvg_id>feniks-plus-kino</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/feniks-plus-kino.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мир Сериала</caption>
-			<channel_id>mir-seriala</channel_id>
-			<epg_id>mir-seriala</epg_id>
-			<tvg_id>mir-seriala</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/mir-seriala.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Романтичное HD</caption>
-			<channel_id>romantichnoe-hd</channel_id>
-			<epg_id>romantichnoe-hd</epg_id>
-			<tvg_id>romantichnoe-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/romantichnoe-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Про Любовь HD</caption>
-			<channel_id>pro-lubov-hd</channel_id>
-			<epg_id>pro-lubov-hd</epg_id>
-			<tvg_id>pro-lubov-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/pro-lubov-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Хит</caption>
-			<channel_id>ntv-hit</channel_id>
-			<epg_id>ntv-hit</epg_id>
-			<tvg_id>ntv-hit</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/ntv-hit.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Сериал</caption>
-			<channel_id>ntv-serial</channel_id>
-			<epg_id>ntv-serial</epg_id>
-			<tvg_id>ntv-serial</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/ntv-serial.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ностальгия</caption>
-			<channel_id>nostalgia</channel_id>
-			<epg_id>nostalgia</epg_id>
-			<tvg_id>nostalgia</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/nostalgia.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ретро ТВ</caption>
-			<channel_id>retro</channel_id>
-			<epg_id>retro</epg_id>
-			<tvg_id>retro</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/retro.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Дорама HD</caption>
-			<channel_id>dorama-hd</channel_id>
-			<epg_id>dorama-hd</epg_id>
-			<tvg_id>dorama-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/dorama-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Bollywood HD</caption>
-			<channel_id>bollywood</channel_id>
-			<epg_id>bollywood</epg_id>
-			<tvg_id>bollywood</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/bollywood.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Индийское Кино</caption>
-			<channel_id>indija-tv</channel_id>
-			<epg_id>indija-tv</epg_id>
-			<tvg_id>indija-tv</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/indija-tv.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Индия ТВ</caption>
-			<channel_id>zee-tv</channel_id>
-			<epg_id>zee-tv</epg_id>
-			<tvg_id>zee-tv</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/zee-tv.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Start World HD</caption>
-			<channel_id>start-world-hd</channel_id>
-			<epg_id>start-world-hd</epg_id>
-			<tvg_id>start-world-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/start-world-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Start Air HD</caption>
-			<channel_id>start-air-hd</channel_id>
-			<epg_id>start-air-hd</epg_id>
-			<tvg_id>start-air-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/start-air-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Индия ТВ HD</caption>
-			<channel_id>zee-tv-hd</channel_id>
-			<epg_id>zee-tv-hd</epg_id>
-			<tvg_id>zee-tv-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/zee-tv-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинеко HD</caption>
-			<channel_id>kineko-hd</channel_id>
-			<epg_id>kineko-hd</epg_id>
-			<tvg_id>kineko-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kineko-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Flix Snip HD</caption>
-			<channel_id>flix-snip-hd</channel_id>
-			<epg_id>flix-snip-hd</epg_id>
-			<tvg_id>flix-snip-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/flix-snip-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sci-Fi HD</caption>
-			<channel_id>sci-fi-hd</channel_id>
-			<epg_id>sci-fi-hd</epg_id>
-			<tvg_id>sci-fi-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/sci-fi-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Black HD</caption>
-			<channel_id>black-hd</channel_id>
-			<epg_id>black-hd</epg_id>
-			<tvg_id>black-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/black-hd.png</icon_url>
+			<caption>Русский Роман HD</caption>
+			<channel_id>russkij-roman-hd</channel_id>
+			<epg_id>russkij-roman-hd</epg_id>
+			<tvg_id>russkij-roman-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/russkij-roman-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1820,101 +1946,38 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>4ever Cinema HD</caption>
-			<channel_id>4ever-cinema-ua-hd</channel_id>
-			<epg_id>4ever-cinema-ua-hd</epg_id>
-			<tvg_id>4ever-cinema-ua-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/4ever-cinema-ua-hd.png</icon_url>
+			<caption>Советская Киноклассика HD</caption>
+			<channel_id>sovetskaya-kinoclassica-hd</channel_id>
+			<epg_id>sovetskaya-kinoclassica-hd</epg_id>
+			<tvg_id>sovetskaya-kinoclassica-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/sovetskaya-kinoclassica-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SHOT TV HD</caption>
-			<channel_id>egoist-tv-hd</channel_id>
-			<epg_id>egoist-tv-hd</epg_id>
-			<tvg_id>egoist-tv-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/egoist-tv-hd.png</icon_url>
+			<caption>Страшное HD</caption>
+			<channel_id>strashnoe-hd</channel_id>
+			<epg_id>strashnoe-hd</epg_id>
+			<tvg_id>strashnoe-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/strashnoe-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Scream</caption>
-			<channel_id>Scream</channel_id>
-			<epg_id>Scream</epg_id>
-			<tvg_id>Scream</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/Scream.png</icon_url>
+			<caption>ТВ21</caption>
+			<channel_id>tv-xxi</channel_id>
+			<epg_id>tv-xxi</epg_id>
+			<tvg_id>tv-xxi</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/tv-xxi.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat Kino World HD</caption>
-			<channel_id>tv1000-world-kino-hd</channel_id>
-			<epg_id>tv1000-world-kino-hd</epg_id>
-			<tvg_id>tv1000-world-kino-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/tv1000-world-kino-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Family Jam HD</caption>
-			<channel_id>family-jam-hd</channel_id>
-			<epg_id>family-jam-hd</epg_id>
-			<tvg_id>family-jam-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/family-jam-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Detective Jam HD</caption>
-			<channel_id>detective-jam-hd</channel_id>
-			<epg_id>detective-jam-hd</epg_id>
-			<tvg_id>detective-jam-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/detective-jam-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KinoLiving HD</caption>
-			<channel_id>kinoliving-hd</channel_id>
-			<epg_id>kinoliving-hd</epg_id>
-			<tvg_id>kinoliving-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinoliving-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KION Хит HD</caption>
-			<channel_id>kion-hit-hd</channel_id>
-			<epg_id>kion-hit-hd</epg_id>
-			<tvg_id>kion-hit-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/kion-hit-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>VHS-ка HD</caption>
-			<channel_id>vhska-hd</channel_id>
-			<epg_id>vhska-hd</epg_id>
-			<tvg_id>vhska-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/vhska-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Scream HD</caption>
-			<channel_id>scream-hd</channel_id>
-			<epg_id>scream-hd</epg_id>
-			<tvg_id>scream-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/scream-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Любимое Кино HD</caption>
-			<channel_id>lubimoe-kino-hd</channel_id>
-			<epg_id>lubimoe-kino-hd</epg_id>
-			<tvg_id>lubimoe-kino-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/lubimoe-kino-hd.png</icon_url>
+			<caption>Феникс+Кино</caption>
+			<channel_id>feniks-plus-kino</channel_id>
+			<epg_id>feniks-plus-kino</epg_id>
+			<tvg_id>feniks-plus-kino</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/feniks-plus-kino.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1928,29 +1991,20 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Мир Сериала HD</caption>
-			<channel_id>mir-seriala-hd</channel_id>
-			<epg_id>mir-seriala-hd</epg_id>
-			<tvg_id>mir-seriala-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/mir-seriala-hd.png</icon_url>
+			<caption>Хит HD</caption>
+			<channel_id>hit-hd</channel_id>
+			<epg_id>hit-hd</epg_id>
+			<tvg_id>hit-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/hit-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>НТВ Хит HD</caption>
-			<channel_id>ntv-hit-hd</channel_id>
-			<epg_id>ntv-hit-hd</epg_id>
-			<tvg_id>ntv-hit-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/ntv-hit-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Сериал HD</caption>
-			<channel_id>ntv-serial-hd</channel_id>
-			<epg_id>ntv-serial-hd</epg_id>
-			<tvg_id>ntv-serial-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/ntv-serial-hd.png</icon_url>
+			<caption>Шокирующее HD</caption>
+			<channel_id>shokiruschee-hd</channel_id>
+			<epg_id>shokiruschee-hd</epg_id>
+			<tvg_id>shokiruschee-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinopokaz-hd1.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -2000,15 +2054,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>МАТЧ! Футбол 1 HD</caption>
-			<channel_id>match-futbol1-hd</channel_id>
-			<epg_id>match-futbol1-hd</epg_id>
-			<tvg_id>match-futbol1-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/match-futbol1-hd.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>МАТЧ! Футбол 2</caption>
 			<channel_id>match-futbol-2</channel_id>
 			<epg_id>match-futbol-2</epg_id>
@@ -2018,29 +2063,11 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>МАТЧ! Футбол 2 HD</caption>
-			<channel_id>match-futbol2-hd</channel_id>
-			<epg_id>match-futbol2-hd</epg_id>
-			<tvg_id>match-futbol2-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/match-futbol2-hd.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>МАТЧ! Футбол 3</caption>
 			<channel_id>match-futbol-3</channel_id>
 			<epg_id>match-futbol-3</epg_id>
 			<tvg_id>match-futbol-3</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/match-futbol-3.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>МАТЧ! Футбол 3 HD</caption>
-			<channel_id>match-futbol3-hd</channel_id>
-			<epg_id>match-futbol3-hd</epg_id>
-			<tvg_id>match-futbol3-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/match-futbol3-hd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -2095,15 +2122,6 @@
 			<epg_id>match-arena-hd</epg_id>
 			<tvg_id>match-arena-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/match-arena-hd.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Страна</caption>
-			<channel_id>match-nash-sport</channel_id>
-			<epg_id>match-nash-sport</epg_id>
-			<tvg_id>match-nash-sport</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/match-nash-sport.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -2180,15 +2198,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Eurosport 1</caption>
-			<channel_id>evrosport</channel_id>
-			<epg_id>evrosport</epg_id>
-			<tvg_id>evrosport</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/evrosport.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Eurosport 1 HD</caption>
 			<channel_id>eurosport-hd</channel_id>
 			<epg_id>eurosport-hd</epg_id>
@@ -2198,47 +2207,11 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Eurosport 2</caption>
-			<channel_id>evrosport-2</channel_id>
-			<epg_id>evrosport-2</epg_id>
-			<tvg_id>evrosport-2</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/evrosport-2.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Eurosport 2 HD</caption>
 			<channel_id>eurosport2-hd</channel_id>
 			<epg_id>eurosport2-hd</epg_id>
 			<tvg_id>eurosport2-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/eurosport2-hd.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Sports 1 HD</caption>
-			<channel_id>setanta-eurasia</channel_id>
-			<epg_id>setanta-eurasia</epg_id>
-			<tvg_id>setanta-eurasia</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/setanta-eurasia.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Sports 2 HD</caption>
-			<channel_id>setanta-eurasia-plus</channel_id>
-			<epg_id>setanta-eurasia-plus</epg_id>
-			<tvg_id>setanta-eurasia-plus</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/setanta-eurasia-plus.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Sports UA HD</caption>
-			<channel_id>setanta-sport-hd-ua</channel_id>
-			<epg_id>setanta-sport-hd-ua</epg_id>
-			<tvg_id>setanta-sport-hd-ua</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/setanta-sport-hd-ua.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -2275,15 +2248,6 @@
 			<epg_id>sport2-ua</epg_id>
 			<tvg_id>sport2-ua</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/sport2-ua.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MMA-TV</caption>
-			<channel_id>m1-global-tv</channel_id>
-			<epg_id>m1-global-tv</epg_id>
-			<tvg_id>m1-global-tv</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/m1-global-tv.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -2441,6 +2405,105 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>МАТЧ! Футбол 1 HD</caption>
+			<channel_id>match-futbol-1-hd</channel_id>
+			<epg_id>match-futbol-1-hd</epg_id>
+			<tvg_id>match-futbol-1-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/match-futbol1-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>МАТЧ! Футбол 2 HD</caption>
+			<channel_id>match-futbol-2-hd</channel_id>
+			<epg_id>match-futbol-2-hd</epg_id>
+			<tvg_id>match-futbol-2-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/match-futbol2-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>МАТЧ! Футбол 3 HD</caption>
+			<channel_id>match-futbol-3-hd</channel_id>
+			<epg_id>match-futbol-3-hd</epg_id>
+			<tvg_id>match-futbol-3-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/match-futbol3-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Страна</caption>
+			<channel_id>match-strana</channel_id>
+			<epg_id>match-strana</epg_id>
+			<tvg_id>match-strana</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/match-nash-sport.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 1</caption>
+			<channel_id>eurosport</channel_id>
+			<epg_id>eurosport</epg_id>
+			<tvg_id>eurosport</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/evrosport.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 2</caption>
+			<channel_id>eurosport2</channel_id>
+			<epg_id>eurosport2</epg_id>
+			<tvg_id>eurosport2</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/evrosport-2.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 1 HD</caption>
+			<channel_id>setanta-sport-hd</channel_id>
+			<epg_id>setanta-sport-hd</epg_id>
+			<tvg_id>setanta-sport-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/setanta-eurasia.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 2 HD</caption>
+			<channel_id>setanta-sport-plus-hd</channel_id>
+			<epg_id>setanta-sport-plus-hd</epg_id>
+			<tvg_id>setanta-sport-plus-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/setanta-eurasia-plus.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports UA HD</caption>
+			<channel_id>setanta-sport-ua-hd</channel_id>
+			<epg_id>setanta-sport-ua-hd</epg_id>
+			<tvg_id>setanta-sport-ua-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/setanta-sport-hd-ua.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>UPL 1 HD</caption>
+			<channel_id>upl1-ua-hd</channel_id>
+			<epg_id>upl1-ua-hd</epg_id>
+			<tvg_id>upl1-ua-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/upl1-ua-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MMA-TV</caption>
+			<channel_id>m1-global</channel_id>
+			<epg_id>m1-global</epg_id>
+			<tvg_id>m1-global</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/m1-global-tv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Детский мир</caption>
 			<channel_id>detskij-mir</channel_id>
 			<epg_id>detskij-mir</epg_id>
@@ -2473,15 +2536,6 @@
 			<epg_id>mult</epg_id>
 			<tvg_id>mult</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/mult.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мульт HD</caption>
-			<channel_id>tlum-hd</channel_id>
-			<epg_id>tlum-hd</epg_id>
-			<tvg_id>tlum-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/tlum-hd.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -2756,12 +2810,30 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>National Geographic</caption>
-			<channel_id>national-geographic</channel_id>
-			<epg_id>national-geographic</epg_id>
-			<tvg_id>national-geographic</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/national-geographic.png</icon_url>
-			<tv_category_id>6</tv_category_id>
+			<caption>Мульт HD</caption>
+			<channel_id>mult-hd</channel_id>
+			<epg_id>mult-hd</epg_id>
+			<tvg_id>mult-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/tlum-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КиноМульт</caption>
+			<channel_id>kinomult</channel_id>
+			<epg_id>kinomult</epg_id>
+			<tvg_id>kinomult</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/kinomult.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoon Classics</caption>
+			<channel_id>cartoon-classics</channel_id>
+			<epg_id>cartoon-classics</epg_id>
+			<tvg_id>cartoon-classics</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/cartoon-classics.png</icon_url>
+			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
@@ -2891,15 +2963,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viju explore</caption>
-			<channel_id>viasat-explorer</channel_id>
-			<epg_id>viasat-explorer</epg_id>
-			<tvg_id>viasat-explorer</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/viasat-explorer.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Viju explore HD</caption>
 			<channel_id>viasat-explore-hd</channel_id>
 			<epg_id>viasat-explore-hd</epg_id>
@@ -2914,15 +2977,6 @@
 			<epg_id>moya-planeta</epg_id>
 			<tvg_id>moya-planeta</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/moya-planeta.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Моя планета HD</caption>
-			<channel_id>planeta-hd</channel_id>
-			<epg_id>planeta-hd</epg_id>
-			<tvg_id>planeta-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/planeta-hd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -3031,15 +3085,6 @@
 			<epg_id>big-asia-hd</epg_id>
 			<tvg_id>big-asia-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/big-asia-hd.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>RTG</caption>
-			<channel_id>rtg-tv</channel_id>
-			<epg_id>rtg-tv</epg_id>
-			<tvg_id>rtg-tv</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/rtg-tv.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -3166,15 +3211,6 @@
 			<epg_id>t24</epg_id>
 			<tvg_id>t24</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/t24.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наука</caption>
-			<channel_id>nauka-20</channel_id>
-			<epg_id>nauka-20</epg_id>
-			<tvg_id>nauka-20</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/nauka-20.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -3404,15 +3440,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Food Time HD</caption>
-			<channel_id>eda-hd</channel_id>
-			<epg_id>eda-hd</epg_id>
-			<tvg_id>eda-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/eda-hd.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Food Network HD</caption>
 			<channel_id>food-network-hd</channel_id>
 			<epg_id>food-network-hd</epg_id>
@@ -3490,15 +3517,6 @@
 			<epg_id>kriminalnoe-hd</epg_id>
 			<tvg_id>kriminalnoe-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/kriminalnoe-hd.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наша Тема HD</caption>
-			<channel_id>nasha-tema-ua-hd</channel_id>
-			<epg_id>nasha-tema-ua-hd</epg_id>
-			<tvg_id>nasha-tema-ua-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/nasha-tema-ua-hd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -3584,6 +3602,78 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>National Geographic</caption>
+			<channel_id>nat-geo</channel_id>
+			<epg_id>nat-geo</epg_id>
+			<tvg_id>nat-geo</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/national-geographic.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju explore</caption>
+			<channel_id>viasat-explore</channel_id>
+			<epg_id>viasat-explore</epg_id>
+			<tvg_id>viasat-explore</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/viasat-explorer.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Моя планета HD</caption>
+			<channel_id>moya-planeta-hd</channel_id>
+			<epg_id>moya-planeta-hd</epg_id>
+			<tvg_id>moya-planeta-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/planeta-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наша Тема HD</caption>
+			<channel_id>nasha-tema-hd</channel_id>
+			<epg_id>nasha-tema-hd</epg_id>
+			<tvg_id>nasha-tema-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/nasha-tema-ua-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Неизвестная Россия HD</caption>
+			<channel_id>neizvestnaya-rossia-hd</channel_id>
+			<epg_id>neizvestnaya-rossia-hd</epg_id>
+			<tvg_id>neizvestnaya-rossia-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/neizvestnaya-rossia-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RTG</caption>
+			<channel_id>rtg</channel_id>
+			<epg_id>rtg</epg_id>
+			<tvg_id>rtg</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/rtg-tv.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наука</caption>
+			<channel_id>nauka</channel_id>
+			<epg_id>nauka</epg_id>
+			<tvg_id>nauka</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/nauka-20.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Food Time HD</caption>
+			<channel_id>food-time-hd</channel_id>
+			<epg_id>food-time-hd</epg_id>
+			<tvg_id>food-time-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/eda-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>1HD</caption>
 			<channel_id>1hd</channel_id>
 			<epg_id>1hd</epg_id>
@@ -3613,14 +3703,6 @@
 			<epg_id>evropa-plus-tv</epg_id>
 			<tvg_id>evropa-plus-tv</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/evropa-plus-tv.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Russian MusicBox</caption>
-			<channel_id>music-box-russian</channel_id>
-			<epg_id>music-box-russian</epg_id>
-			<tvg_id>music-box-russian</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/music-box-russian.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3849,14 +3931,6 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MCM TOP</caption>
-			<channel_id>mcm</channel_id>
-			<epg_id>mcm</epg_id>
-			<tvg_id>mcm</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/mcm.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>4ever Music HD</caption>
 			<channel_id>4ever-music-hd</channel_id>
 			<epg_id>4ever-music-hd</epg_id>
@@ -3878,14 +3952,6 @@
 			<epg_id>one-by-russia-hd</epg_id>
 			<tvg_id>one-by-russia-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/one-by-russia-hd.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Power HD</caption>
-			<channel_id>power-hd-tr</channel_id>
-			<epg_id>power-hd-tr</epg_id>
-			<tvg_id>power-hd-tr</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/power-hd-tr.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3969,6 +4035,54 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Муз-ТВ HD</caption>
+			<channel_id>muz-tv-hd</channel_id>
+			<epg_id>muz-tv-hd</epg_id>
+			<tvg_id>muz-tv-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/muz-tv-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Russian MusicBox</caption>
+			<channel_id>russian-musicbox</channel_id>
+			<epg_id>russian-musicbox</epg_id>
+			<tvg_id>russian-musicbox</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/music-box-russian.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Hits</caption>
+			<channel_id>bridge-tv-hits</channel_id>
+			<epg_id>bridge-tv-hits</epg_id>
+			<tvg_id>bridge-tv-hits</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/bridge-tv-hits.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Hits HD</caption>
+			<channel_id>bridge-tv-hits-hd</channel_id>
+			<epg_id>bridge-tv-hits-hd</epg_id>
+			<tvg_id>bridge-tv-hits-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/bridge-tv-hits-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Rock HD</caption>
+			<channel_id>bridge-tv-rock-hd</channel_id>
+			<epg_id>bridge-tv-rock-hd</epg_id>
+			<tvg_id>bridge-tv-rock-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/bridge-tv-rock-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MCM TOP</caption>
+			<channel_id>mcm-top</channel_id>
+			<epg_id>mcm-top</epg_id>
+			<tvg_id>mcm-top</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/mcm.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Penthouse Gold</caption>
 			<channel_id>penthouse1-hd</channel_id>
 			<epg_id>penthouse1-hd</epg_id>
@@ -3992,15 +4106,6 @@
 			<epg_id>redlight-hd</epg_id>
 			<tvg_id>redlight-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/redlight-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Dorcel TV HD</caption>
-			<channel_id>dorcel-hd</channel_id>
-			<epg_id>dorcel-hd</epg_id>
-			<tvg_id>dorcel-hd</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/dorcel-hd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -4146,6 +4251,15 @@
 			<epg_id>playboy-tv</epg_id>
 			<tvg_id>playboy-tv</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/playboy-tv.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dorcel TV HD</caption>
+			<channel_id>dorcel-tv-hd</channel_id>
+			<epg_id>dorcel-tv-hd</epg_id>
+			<tvg_id>dorcel-tv-hd</tvg_id>
+			<icon_url>http://static.g-cdn.app/streams/dorcel-hd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
