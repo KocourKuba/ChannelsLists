@@ -160,6 +160,14 @@
 	</tv_categories>
 	<tv_channels>
 		<tv_channel>
+			<caption>Первый канал</caption>
+			<channel_id>243</channel_id>
+			<epg_id>pervy</epg_id>
+			<tvg_id>Xpervy</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/pervysd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Первый канал HD</caption>
 			<channel_id>73</channel_id>
 			<epg_id>pervy</epg_id>
@@ -185,6 +193,14 @@
 			<icon_url>https://ip-tv.dev/epg/icon/pervyj.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый HD (+4)</caption>
+			<channel_id>74</channel_id>
+			<epg_id>pervy-pl4</epg_id>
+			<tvg_id>Xpervy-pl4</tvg_id>
+			<icon_url>https://ip-tv.dev/epg/icon/pervyj.png</icon_url>
+			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Первый канал +4</caption>
@@ -277,6 +293,14 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>ТНТ</caption>
+			<channel_id>92</channel_id>
+			<epg_id>tnt</epg_id>
+			<tvg_id>Xtnt</tvg_id>
+			<icon_url>https://ip-tv.dev/epg/icon/tnt.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>ТНТ (+2)</caption>
 			<channel_id>719</channel_id>
 			<epg_id>tnt-pl2</epg_id>
@@ -331,6 +355,14 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>НТВ</caption>
+			<channel_id>5333</channel_id>
+			<epg_id>ntv</epg_id>
+			<tvg_id>Xntv</tvg_id>
+			<icon_url>https://ip-tv.dev/epg/icon/ntv-white.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>НТВ (+2)</caption>
 			<channel_id>704</channel_id>
 			<epg_id>ntv-pl2</epg_id>
@@ -355,7 +387,6 @@
 			<tvg_id>Xtv3-ru</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/tv3-ru.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Время</caption>
@@ -392,6 +423,14 @@
 			<icon_url>https://ip-tv.dev/epg/icon/rentv.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Рен ТВ</caption>
+			<channel_id>258</channel_id>
+			<epg_id>rentv</epg_id>
+			<tvg_id>Xrentv</tvg_id>
+			<icon_url>https://ip-tv.dev/epg/icon/rentv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Рен ТВ (+2)</caption>
@@ -499,7 +538,6 @@
 			<tvg_id>Xprnk-tv</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/prnk-tv.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТВЦ</caption>
@@ -600,6 +638,14 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>ACB TV</caption>
+			<channel_id>127</channel_id>
+			<epg_id>acb-tv</epg_id>
+			<tvg_id>Xacb-tv</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/acb-tv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Мир</caption>
 			<channel_id>118</channel_id>
 			<epg_id>mir</epg_id>
@@ -618,6 +664,30 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Звезда</caption>
+			<channel_id>148</channel_id>
+			<epg_id>zvezda</epg_id>
+			<tvg_id>Xzvezda</tvg_id>
+			<icon_url>https://ip-tv.dev/epg/icon/zvezda.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звезда +2</caption>
+			<channel_id>151</channel_id>
+			<epg_id>zvezda-pl2</epg_id>
+			<tvg_id>Xzvezda-pl2</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/zvezda-pl2.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звезда Плюс</caption>
+			<channel_id>197</channel_id>
+			<epg_id>zvezda-plus</epg_id>
+			<tvg_id>Xzvezda-plus</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/zvezda-plus.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Домашний</caption>
 			<channel_id>115</channel_id>
 			<epg_id>domashny</epg_id>
@@ -625,6 +695,30 @@
 			<icon_url>https://ip-tv.dev/epg/icon/domashny.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний HD</caption>
+			<channel_id>275</channel_id>
+			<epg_id>domashny</epg_id>
+			<tvg_id>Xdomashny</tvg_id>
+			<icon_url>https://ip-tv.dev/epg/icon/domashny.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний +4</caption>
+			<channel_id>130</channel_id>
+			<epg_id>domashny-pl4</epg_id>
+			<tvg_id>Xdomashny-pl4</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/domashny-pl4.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний +2</caption>
+			<channel_id>128</channel_id>
+			<epg_id>domashny-pl2</epg_id>
+			<tvg_id>Xdomashny-pl2</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/domashny-pl2.png</icon_url>
+			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>КРЫМ 24</caption>
@@ -651,7 +745,6 @@
 			<tvg_id>Xnts-sevastopol</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/nts-sevastopol.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Миллет</caption>
@@ -660,7 +753,6 @@
 			<tvg_id>Xmillet</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/millet.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Че!</caption>
@@ -687,7 +779,6 @@
 			<tvg_id>Xizvestia</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/izvestia.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ВМЕСТЕ-РФ</caption>
@@ -705,7 +796,6 @@
 			<tvg_id>Xsolovjinypomiot</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/solovjinypomiot.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Своё ТВ Ставрополь</caption>
@@ -714,7 +804,6 @@
 			<tvg_id>Xsvoyo-tv-stavropol</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/svoyo.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Красная линия</caption>
@@ -723,7 +812,6 @@
 			<tvg_id>Xkrasnaya-linia</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/krasnaya-linia.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Белгород 24</caption>
@@ -732,7 +820,6 @@
 			<tvg_id>Xbelgorod24</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/belgorod24.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Астрахань 24</caption>
@@ -741,7 +828,6 @@
 			<tvg_id>Xastraxan24</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/astraxan24.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Архыз 24</caption>
@@ -750,7 +836,6 @@
 			<tvg_id>Xarxyz24</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/arxyz24.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТКР Рязань</caption>
@@ -759,7 +844,6 @@
 			<tvg_id>Xtrk-ryazan</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/trk-ryazan.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sochi Live</caption>
@@ -768,7 +852,6 @@
 			<tvg_id>Xsochi-live</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/sochi-live.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>БелРос HD</caption>
@@ -777,7 +860,6 @@
 			<tvg_id>Xbelros</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/belros.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>TV Губерния</caption>
@@ -786,7 +868,6 @@
 			<tvg_id>Xtv-guberniya</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/tv-guberniya.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ника ТВ</caption>
@@ -795,7 +876,6 @@
 			<tvg_id>Xnika-tv</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/nika-tv.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>НТМ</caption>
@@ -804,7 +884,6 @@
 			<tvg_id>Xntm</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/ntm.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Новый мир</caption>
@@ -813,7 +892,6 @@
 			<tvg_id>Xnovy-mir</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/novy-mir.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Первый Ярославский</caption>
@@ -822,7 +900,6 @@
 			<tvg_id>Xpervy-yaroslavsky</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/pervy-yaroslavsky.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Первый Ростовский</caption>
@@ -839,7 +916,6 @@
 			<tvg_id>Xratnik</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/ratnik.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>МТВ Волгоград</caption>
@@ -848,7 +924,6 @@
 			<tvg_id>Xmtv-volgograd</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/mtv-volgograd.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>49 канал</caption>
@@ -857,7 +932,6 @@
 			<tvg_id>X49kanal</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/49kanal.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Аист</caption>
@@ -866,7 +940,6 @@
 			<tvg_id>Xaist</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/aist.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>12 канал Омск</caption>
@@ -875,7 +948,6 @@
 			<tvg_id>X12-omsk</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/12-omsk.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Катунь 24</caption>
@@ -884,7 +956,6 @@
 			<tvg_id>Xkatun-24</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/katun-24.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Енисей регион</caption>
@@ -893,7 +964,6 @@
 			<tvg_id>Xenisey-region</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/enisey-region.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>С1 Сургут</caption>
@@ -902,7 +972,6 @@
 			<tvg_id>Xs1-surgut</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/s1-surgut.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>86 Сургут</caption>
@@ -911,7 +980,14 @@
 			<tvg_id>X86-surgut</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/86-surgut.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Луганск 24</caption>
+			<channel_id>5330</channel_id>
+			<epg_id>Луганск 24</epg_id>
+			<tvg_id>Луганск 24</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/lugansk24.png</icon_url>
+			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Волга</caption>
@@ -920,7 +996,6 @@
 			<tvg_id>Xvolga</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/volga.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Волга 24</caption>
@@ -929,16 +1004,6 @@
 			<tvg_id>Xvremia-n</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/vremia-n.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ</caption>
-			<channel_id>5333</channel_id>
-			<epg_id>ntv</epg_id>
-			<tvg_id>Xntv</tvg_id>
-			<icon_url>https://ip-tv.dev/epg/icon/ntv-white.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ростов-папа</caption>
@@ -947,7 +1012,6 @@
 			<tvg_id>Xrostov-papa</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/rostov-papa.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Лен ТВ 24 HD</caption>
@@ -956,7 +1020,6 @@
 			<tvg_id>Xlot-47</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/lot-47.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ветта 24</caption>
@@ -965,7 +1028,6 @@
 			<tvg_id>Xvetta24</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/vetta24.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Колыма-Плюс</caption>
@@ -974,7 +1036,6 @@
 			<tvg_id>Xkolyma-plus</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/kolyma-plus.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Телеплюс</caption>
@@ -991,7 +1052,6 @@
 			<tvg_id>Xbst</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/bst.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Арис 24</caption>
@@ -1000,7 +1060,6 @@
 			<tvg_id>Xaris24</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/aris24.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТНВ-Планета</caption>
@@ -1009,7 +1068,6 @@
 			<tvg_id>Xtnv-planeta</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/tnv.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТНВ-Татарстан</caption>
@@ -1018,7 +1076,6 @@
 			<tvg_id>Xtnv</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/tnv-tat.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>NEXT-TV</caption>
@@ -1027,7 +1084,6 @@
 			<tvg_id>Xnext-tv</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/next-tv.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Мордовия 24</caption>
@@ -1036,7 +1092,6 @@
 			<tvg_id>Xmordovia-24</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/mordovia-24.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>НТРК Ингушетия</caption>
@@ -1045,7 +1100,6 @@
 			<tvg_id>Xntrk-ingushetia</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/ntrk-ingushetia.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Брянская Губерния</caption>
@@ -1054,7 +1108,6 @@
 			<tvg_id>Xbrianskaya-gubernia</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/brianskaya-gubernia.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТВК Красноярск</caption>
@@ -1063,7 +1116,6 @@
 			<tvg_id>Xtvk-krasnoyarsk</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/tvk-krasnoyarsk.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Экспресс</caption>
@@ -1072,7 +1124,6 @@
 			<tvg_id>Xexpress</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/express.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Вестник Надыма</caption>
@@ -1081,7 +1132,6 @@
 			<tvg_id>Xvestnik-nadyma</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/vestnik-nadyma.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>РГВК Дагестан</caption>
@@ -1090,7 +1140,6 @@
 			<tvg_id>Xrgvk-dagestan</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/rgvk-dagestan.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Грозный</caption>
@@ -1099,7 +1148,14 @@
 			<tvg_id>Xgrozny</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/grozny.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Тео-ТВ</caption>
+			<channel_id>5361</channel_id>
+			<epg_id>teotv</epg_id>
+			<tvg_id>Xteotv</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/teotv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Евразия</caption>
@@ -1108,7 +1164,6 @@
 			<tvg_id>Xevrasia</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/evrasia.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>НТС Иркутск</caption>
@@ -1117,7 +1172,6 @@
 			<tvg_id>Xnts-irkutsk</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/nts-irkutsk.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТВ-ИН (Магнитогорск)</caption>
@@ -1126,7 +1180,6 @@
 			<tvg_id>Xtv-in</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/tv-in.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>НВК Саха</caption>
@@ -1135,7 +1188,6 @@
 			<tvg_id>Xsaxa</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/saxa.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Алмазный край</caption>
@@ -1144,7 +1196,6 @@
 			<tvg_id>Xalmazny-kray</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/almazny-kray.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Раменское ТВ</caption>
@@ -1153,7 +1204,6 @@
 			<tvg_id>Xramenskoe-tv</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/ramenskoe-tv.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Новый век (Тамбов)</caption>
@@ -1162,7 +1212,6 @@
 			<tvg_id>Xnovy-vek-tambov</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/novy-vek-tambov.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Север</caption>
@@ -1171,7 +1220,6 @@
 			<tvg_id>Xsever</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/sever.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Салям</caption>
@@ -1180,7 +1228,6 @@
 			<tvg_id>Xsalam</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/salam.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Центр Красноярск</caption>
@@ -1189,7 +1236,6 @@
 			<tvg_id>Xcentr-kraskoyarsk</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/centr-kraskoyarsk.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Обком</caption>
@@ -1198,7 +1244,6 @@
 			<tvg_id>Xobkom</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/obkom.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Дзержинск ТВ</caption>
@@ -1207,7 +1252,6 @@
 			<tvg_id>Xdzenzhinsk-tv</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/dzenzhinsk-tv.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>УП ТВ</caption>
@@ -1224,7 +1268,6 @@
 			<tvg_id>Xyakutia24</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/yakutia24.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>8 канал Владивосток</caption>
@@ -1233,7 +1276,6 @@
 			<tvg_id>X8vladik</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/8vladik.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Прима</caption>
@@ -1242,7 +1284,6 @@
 			<tvg_id>Xprima</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/prima.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Тивиком HD</caption>
@@ -1251,7 +1292,6 @@
 			<tvg_id>Xtivikom</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/tivikom.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ГИС Самара</caption>
@@ -1260,7 +1300,6 @@
 			<tvg_id>Xgis-samara	</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/gis-samara.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>АСТВ Южно-Сахалинск</caption>
@@ -1269,7 +1308,6 @@
 			<tvg_id>Xastvus</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/astvus.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ВТК 41 Аргус</caption>
@@ -1286,7 +1324,6 @@
 			<tvg_id>Xmaydan</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/maydan.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>СТРК Сочи</caption>
@@ -1297,13 +1334,36 @@
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Хузур ТВ</caption>
+			<channel_id>5433</channel_id>
+			<epg_id>xuzur-tv</epg_id>
+			<tvg_id>Xxuzur-tv</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/xuzur-tv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Таврия ТВ Херсон</caption>
+			<channel_id>5436</channel_id>
+			<epg_id>Таврия ТВ Херсон</epg_id>
+			<tvg_id>Таврия ТВ Херсон</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/tavriya-tv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Теледом HD</caption>
+			<channel_id>5342</channel_id>
+			<epg_id>teledom</epg_id>
+			<tvg_id>Xteledom</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/teledom.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Shopping Live</caption>
 			<channel_id>5339</channel_id>
 			<epg_id>	shopping-live</epg_id>
 			<tvg_id>X	shopping-live</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/shopping-live.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Витрина</caption>
@@ -2627,15 +2687,6 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>С-Marvel</caption>
-			<channel_id>8764</channel_id>
-			<epg_id>c-marvel-yosso</epg_id>
-			<tvg_id>Xc-marvel-yosso</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/c-marvel.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>САПФИР</caption>
 			<channel_id>6156</channel_id>
 			<epg_id>sapfir</epg_id>
@@ -2724,6 +2775,231 @@
 			<icon_url>https://ip-tv.dev/images/ico/denpobedy.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Serial</caption>
+			<channel_id>5001</channel_id>
+			<epg_id>viasat-serial</epg_id>
+			<tvg_id>Xviasat-serial</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/viasat_serial.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000</caption>
+			<channel_id>306</channel_id>
+			<epg_id>tv1000</epg_id>
+			<tvg_id>Xtv1000</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/viju-tv1000.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 Новелла</caption>
+			<channel_id>232</channel_id>
+			<epg_id>viju-tv1000-novella</epg_id>
+			<tvg_id>Xviju-tv1000-novella</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/viju-tv1000-novella.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше любимое кино UA</caption>
+			<channel_id>6141</channel_id>
+			<epg_id>nashe-lubimoe-kino-ua</epg_id>
+			<tvg_id>Xnashe-lubimoe-kino-ua</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/nashe-lubimoe-kino-ua.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносемья HD</caption>
+			<channel_id>276</channel_id>
+			<epg_id>kinosemiya</epg_id>
+			<tvg_id>Xkinosemiya</tvg_id>
+			<icon_url>https://ip-tv.dev/epg/icon/kinosemia.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино без границ</caption>
+			<channel_id>61</channel_id>
+			<epg_id>kino-bez-granic</epg_id>
+			<tvg_id>Xkino-bez-granic</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/kino-bez-granic.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лавстори HD</caption>
+			<channel_id>8227</channel_id>
+			<epg_id>lavstori</epg_id>
+			<tvg_id>Xlavstori</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/lavstori.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>.red SD</caption>
+			<channel_id>85</channel_id>
+			<epg_id>sony-enter</epg_id>
+			<tvg_id>Xsony-enter</tvg_id>
+			<icon_url>https://ip-tv.dev/epg/icon/sony.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bollywood HD</caption>
+			<channel_id>283</channel_id>
+			<epg_id>bollywood-hd</epg_id>
+			<tvg_id>Xbollywood-hd</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/bollywood-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Epic</caption>
+			<channel_id>285</channel_id>
+			<epg_id>epic</epg_id>
+			<tvg_id>Xepic</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/epic.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сваты HD</caption>
+			<channel_id>6162</channel_id>
+			<epg_id>6162</epg_id>
+			<tvg_id>X6162</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/svatu.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VHS-ка HD</caption>
+			<channel_id>497</channel_id>
+			<epg_id>vhs-ka</epg_id>
+			<tvg_id>Xvhs-ka</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/vhs-ka.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>О!Кино</caption>
+			<channel_id>498</channel_id>
+			<epg_id>okino</epg_id>
+			<tvg_id>Xokino</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/okino.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Plan B</caption>
+			<channel_id>313</channel_id>
+			<epg_id>plan-b</epg_id>
+			<tvg_id>Xplan-b</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/plan-b.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Horror TV</caption>
+			<channel_id>5416</channel_id>
+			<epg_id>horrortv</epg_id>
+			<tvg_id>Xhorrortv</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/horrortv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Star Cinema</caption>
+			<channel_id>9966</channel_id>
+			<epg_id>star-cinema-ua</epg_id>
+			<tvg_id>Xstar-cinema-ua</tvg_id>
+			<icon_url>https://ip-tv.dev/epg/icon/star-cinema.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kinosweet</caption>
+			<channel_id>6142</channel_id>
+			<epg_id>kinosweet</epg_id>
+			<tvg_id>Xkinosweet</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/kinosweet.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кіно та Серіали HD</caption>
+			<channel_id>6146</channel_id>
+			<epg_id>Кіно та Серіали HD</epg_id>
+			<tvg_id>Кіно та Серіали HD</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/kinoserial.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kino 24</caption>
+			<channel_id>257</channel_id>
+			<epg_id>kino-24</epg_id>
+			<tvg_id>Xkino-24</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/kino-24.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Start World</caption>
+			<channel_id>126</channel_id>
+			<epg_id>start-world</epg_id>
+			<tvg_id>Xstart-world</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/start-world.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Start Air</caption>
+			<channel_id>113</channel_id>
+			<epg_id>start-air</epg_id>
+			<tvg_id>Xstart-air</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/start-air.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Классика Кино</caption>
+			<channel_id>513</channel_id>
+			<epg_id>klassika-kino</epg_id>
+			<tvg_id>Xklassika-kino</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/klassika-kino.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Советское кино</caption>
+			<channel_id>9926</channel_id>
+			<epg_id>sov-kinklass</epg_id>
+			<tvg_id>Xsov-kinklass</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/sov-kinklass.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Любимое кино HD</caption>
+			<channel_id>279</channel_id>
+			<epg_id>lubimoe-kino</epg_id>
+			<tvg_id>Xlubimoe-kino</tvg_id>
+			<icon_url>https://ip-tv.dev/epg/icon/lubimoe-kino.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Timeless Dizi Channel</caption>
+			<channel_id>511</channel_id>
+			<epg_id>timeless-dizi</epg_id>
+			<tvg_id>Xtimeless-dizi</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/timeless-dizi.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Novella TV</caption>
+			<channel_id>512</channel_id>
+			<epg_id>novellatv</epg_id>
+			<tvg_id>Xnovellatv</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/novellatv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Cosmo HD</caption>
@@ -4299,6 +4575,77 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Kinoshka Ukraine HD</caption>
+			<channel_id>6143</channel_id>
+			<epg_id>6143</epg_id>
+			<tvg_id>X6143</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/kinoshka_ukraine.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kinoshka Serial HD</caption>
+			<channel_id>6163</channel_id>
+			<epg_id>6163</epg_id>
+			<tvg_id>X6163</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/kinoshka_serial.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Relax 4K</caption>
+			<channel_id>13025</channel_id>
+			<epg_id>cineman-relax</epg_id>
+			<tvg_id>Xcineman-relax</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/cineman-relax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Фитнес</caption>
+			<channel_id>13026</channel_id>
+			<epg_id>cineman-fitnes</epg_id>
+			<tvg_id>Xcineman-fitnes</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/cineman-fitnes.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Интерны</caption>
+			<channel_id>13027</channel_id>
+			<epg_id>cineman-interny</epg_id>
+			<tvg_id>Xcineman-interny</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/cineman-interny.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Универ</caption>
+			<channel_id>13028</channel_id>
+			<epg_id>cineman-univer</epg_id>
+			<tvg_id>Xcineman-univer</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/cineman-univer.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Глухарь + Карпов</caption>
+			<channel_id>13029</channel_id>
+			<epg_id>cineman-gluhar</epg_id>
+			<tvg_id>Xcineman-gluhar</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/cineman-gluhar.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Remast Plus 4K</caption>
+			<channel_id>7142</channel_id>
+			<epg_id>box-remast-plus-4k.png</epg_id>
+			<tvg_id>Xbox-remast-plus-4k.png</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/box-remast-4k.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>BOX Be ON Edge 1 Live HD</caption>
 			<channel_id>4213</channel_id>
 			<epg_id>box-beonedge1live</epg_id>
@@ -5287,6 +5634,272 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Матч! Страна HD</caption>
+			<channel_id>212</channel_id>
+			<epg_id>match-nash-sport</epg_id>
+			<tvg_id>Xmatch-nash-sport</tvg_id>
+			<icon_url>https://ip-tv.dev/epg/icon/match-nash-sport.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт Триумф HD</caption>
+			<channel_id>7375</channel_id>
+			<epg_id>start-triumf</epg_id>
+			<tvg_id>Xstart-triumf</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/start-triumf.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>UPL.TV HD</caption>
+			<channel_id>523</channel_id>
+			<epg_id>upltv</epg_id>
+			<tvg_id>Xupltv</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/upl.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>УПЛ ТВ 1</caption>
+			<channel_id>524</channel_id>
+			<epg_id>upltv1</epg_id>
+			<tvg_id>Xupltv1</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/upltv1.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>УПЛ ТВ 2</caption>
+			<channel_id>525</channel_id>
+			<epg_id>upltv2</epg_id>
+			<tvg_id>Xupltv2</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/upltv2.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>УПЛ ТВ 3</caption>
+			<channel_id>526</channel_id>
+			<epg_id>upltv3</epg_id>
+			<tvg_id>Xupltv3</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/upltv3.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>УПЛ ТВ 4</caption>
+			<channel_id>527</channel_id>
+			<epg_id>upltv4</epg_id>
+			<tvg_id>Xupltv4</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/upl.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 1</caption>
+			<channel_id>5009</channel_id>
+			<epg_id>V.I.P Sport 1</epg_id>
+			<tvg_id>V.I.P Sport 1</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 2</caption>
+			<channel_id>5010</channel_id>
+			<epg_id>V.I.P Sport 2</epg_id>
+			<tvg_id>V.I.P Sport 2</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 3</caption>
+			<channel_id>5011</channel_id>
+			<epg_id>V.I.P Sport 3</epg_id>
+			<tvg_id>V.I.P Sport 3</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 4</caption>
+			<channel_id>5012</channel_id>
+			<epg_id>V.I.P Sport 4</epg_id>
+			<tvg_id>V.I.P Sport 4</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 5</caption>
+			<channel_id>5013</channel_id>
+			<epg_id>V.I.P Sport 5</epg_id>
+			<tvg_id>V.I.P Sport 5</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 6</caption>
+			<channel_id>5014</channel_id>
+			<epg_id>V.I.P Sport 6</epg_id>
+			<tvg_id>V.I.P Sport 6</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 7</caption>
+			<channel_id>5015</channel_id>
+			<epg_id>V.I.P Sport 7</epg_id>
+			<tvg_id>V.I.P Sport 7</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 8</caption>
+			<channel_id>5016</channel_id>
+			<epg_id>V.I.P Sport 8</epg_id>
+			<tvg_id>V.I.P Sport 8</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 9</caption>
+			<channel_id>5017</channel_id>
+			<epg_id>V.I.P Sport 9</epg_id>
+			<tvg_id>V.I.P Sport 9</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 10</caption>
+			<channel_id>5018</channel_id>
+			<epg_id>V.I.P Sport 10</epg_id>
+			<tvg_id>V.I.P Sport 10</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 11</caption>
+			<channel_id>5019</channel_id>
+			<epg_id>V.I.P Sport 11</epg_id>
+			<tvg_id>V.I.P Sport 11</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 12</caption>
+			<channel_id>5020</channel_id>
+			<epg_id>V.I.P Sport 12</epg_id>
+			<tvg_id>V.I.P Sport 12</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 13</caption>
+			<channel_id>5021</channel_id>
+			<epg_id>V.I.P Sport 13</epg_id>
+			<tvg_id>V.I.P Sport 13</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 14</caption>
+			<channel_id>5022</channel_id>
+			<epg_id>V.I.P Sport 14</epg_id>
+			<tvg_id>V.I.P Sport 14</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 15</caption>
+			<channel_id>5023</channel_id>
+			<epg_id>V.I.P Sport 15</epg_id>
+			<tvg_id>V.I.P Sport 15</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 16</caption>
+			<channel_id>5024</channel_id>
+			<epg_id>V.I.P Sport 16</epg_id>
+			<tvg_id>V.I.P Sport 16</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 17</caption>
+			<channel_id>5025</channel_id>
+			<epg_id>V.I.P Sport 17</epg_id>
+			<tvg_id>V.I.P Sport 17</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 18</caption>
+			<channel_id>5026</channel_id>
+			<epg_id>V.I.P Sport 18</epg_id>
+			<tvg_id>V.I.P Sport 18</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 19</caption>
+			<channel_id>5027</channel_id>
+			<epg_id>V.I.P Sport 19</epg_id>
+			<tvg_id>V.I.P Sport 19</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V.I.P Sport 20</caption>
+			<channel_id>5028</channel_id>
+			<epg_id>V.I.P Sport 20</epg_id>
+			<tvg_id>V.I.P Sport 20</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX SportCast Live 6 HD</caption>
+			<channel_id>4232</channel_id>
+			<epg_id>box-sportcast-live6</epg_id>
+			<tvg_id>Xbox-sportcast-live6</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/box-sportcast-live6.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX SportCast Live 7 HD</caption>
+			<channel_id>4233</channel_id>
+			<epg_id>box-sportcast-live7</epg_id>
+			<tvg_id>Xbox-sportcast-live7</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/box-sportcast-live7.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX SportCast Live 8 HD</caption>
+			<channel_id>4234</channel_id>
+			<epg_id>box-sportcast-live8</epg_id>
+			<tvg_id>Xbox-sportcast-live8</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX SportCast Live 9 HD</caption>
+			<channel_id>4235</channel_id>
+			<epg_id>box-sportcast-live9</epg_id>
+			<tvg_id>Xbox-sportcast-live9</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/box-sportcast-live9.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dubai Racing</caption>
+			<channel_id>5408</channel_id>
+			<epg_id>Dubai Racing</epg_id>
+			<tvg_id>Dubai Racing</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/tv-dubai-racing-tv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Russian Extreme Ultra HD</caption>
+			<channel_id>503</channel_id>
+			<epg_id>russian-extreme-uhd</epg_id>
+			<tvg_id>Xrussian-extreme-uhd</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/russian-extreme-uhd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>36.6 HD</caption>
 			<channel_id>8794</channel_id>
 			<epg_id>36-6-tv</epg_id>
@@ -6075,6 +6688,185 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Viasat History</caption>
+			<channel_id>8850</channel_id>
+			<epg_id>viasat-history-ua	</epg_id>
+			<tvg_id>Xviasat-history-ua	</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/viasat-history-ua.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Nature</caption>
+			<channel_id>8851</channel_id>
+			<epg_id>viasat-nature-cee</epg_id>
+			<tvg_id>Xviasat-nature-cee</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/viasat-nature-cee.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Explore</caption>
+			<channel_id>8852</channel_id>
+			<epg_id>viasat-explore-cee</epg_id>
+			<tvg_id>Xviasat-explore-cee</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/viasat-explore-cee.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ Planet HD</caption>
+			<channel_id>91</channel_id>
+			<epg_id>viasat-nature-history-hd</epg_id>
+			<tvg_id>Xviasat-nature-history-hd</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/viasat-nature-history-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Big Planet HD</caption>
+			<channel_id>529</channel_id>
+			<epg_id>big-planet</epg_id>
+			<tvg_id>Xbig-planet</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/big-planet.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Continent E</caption>
+			<channel_id>26</channel_id>
+			<epg_id>continent-e</epg_id>
+			<tvg_id>Xcontinent-e</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/continent-e.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мандруй UA</caption>
+			<channel_id>6164</channel_id>
+			<epg_id>6164</epg_id>
+			<tvg_id>X6164</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/mandruiua.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>HD Media</caption>
+			<channel_id>192</channel_id>
+			<epg_id>hd-media</epg_id>
+			<tvg_id>Xhd-media</tvg_id>
+			<icon_url>https://ip-tv.dev/epg/icon/hd-media.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Terra</caption>
+			<channel_id>265</channel_id>
+			<epg_id>terra-ru</epg_id>
+			<tvg_id>Xterra-ru</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/terra-ru.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Terra HD</caption>
+			<channel_id>269</channel_id>
+			<epg_id>terra-ru</epg_id>
+			<tvg_id>Xterra-ru</tvg_id>
+			<icon_url>https://ip-tv.dev/images.ico/terra-ru.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир наизнанку</caption>
+			<channel_id>6144</channel_id>
+			<epg_id>6144</epg_id>
+			<tvg_id>X6144</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/logo_snv_100.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Орел и Решка</caption>
+			<channel_id>6148</channel_id>
+			<epg_id>6148</epg_id>
+			<tvg_id>X6148</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/orel_reshka.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nautical Channel</caption>
+			<channel_id>7195</channel_id>
+			<epg_id>nautical-channel</epg_id>
+			<tvg_id>Xnautical-channel</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/nautical-channel.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кто Куда</caption>
+			<channel_id>211</channel_id>
+			<epg_id>mir-uvlecheniy</epg_id>
+			<tvg_id>Xmir-uvlecheniy</tvg_id>
+			<icon_url>https://ip-tv.dev/image/ico/mir-uvlecheniy.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ключ</caption>
+			<channel_id>254</channel_id>
+			<epg_id>kluch</epg_id>
+			<tvg_id>Xkluch</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/kluch.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пёс и Ко</caption>
+			<channel_id>500</channel_id>
+			<epg_id>pes-i-ko</epg_id>
+			<tvg_id>Xpes-i-ko</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/pes-i-ko.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>V1 Ego HD</caption>
+			<channel_id>501</channel_id>
+			<epg_id>v1-ego</epg_id>
+			<tvg_id>Xv1-ego</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/v1-ego.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>V1 Fem HD</caption>
+			<channel_id>502</channel_id>
+			<epg_id>v1-fem</epg_id>
+			<tvg_id>Xv1-fem</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/v1-fem.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Museum 4K</caption>
+			<channel_id>506</channel_id>
+			<epg_id>museum-4k</epg_id>
+			<tvg_id>Xmuseum-4k</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/museum-4k.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MyZen 4К</caption>
+			<channel_id>508</channel_id>
+			<epg_id>myzen-4k</epg_id>
+			<tvg_id>Xmyzen-4k</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/myzen-4k.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Глазами туриста 4K</caption>
+			<channel_id>507</channel_id>
+			<epg_id>glazami-turista-4k</epg_id>
+			<tvg_id>Xglazami-turista-4k</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/glazami-turista-4k.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>2x2</caption>
 			<channel_id>100</channel_id>
 			<epg_id>2na2</epg_id>
@@ -6643,6 +7435,82 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>KinoKazka SD</caption>
+			<channel_id>231</channel_id>
+			<epg_id>kinokazka</epg_id>
+			<tvg_id>Xkinokazka</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/kinokazka.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС Kids HD</caption>
+			<channel_id>270</channel_id>
+			<epg_id>sts-kids-hd</epg_id>
+			<tvg_id>Xsts-kids-hd</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/sts-kids-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoon Classics</caption>
+			<channel_id>528</channel_id>
+			<epg_id>cartoon-classics</epg_id>
+			<tvg_id>Xcartoon-classics</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/cartoon-classics.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Советские мультфильмы</caption>
+			<channel_id>9927</channel_id>
+			<epg_id>sovmultf</epg_id>
+			<tvg_id>Xsovmultf</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/sov-kinklass.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пингвин Лоло</caption>
+			<channel_id>255</channel_id>
+			<epg_id>pingvin-lolo</epg_id>
+			<tvg_id>Xpingvin-lolo</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/pingvin-lolo.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kids TV</caption>
+			<channel_id>293</channel_id>
+			<epg_id>kidstv</epg_id>
+			<tvg_id>Xkidstv</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/kidstv.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КиноМульт</caption>
+			<channel_id>509</channel_id>
+			<epg_id>kinomult</epg_id>
+			<tvg_id>Xkinomult</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/kinomult.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТипТоп HD</caption>
+			<channel_id>510</channel_id>
+			<epg_id>tiptop</epg_id>
+			<tvg_id>Xtiptop</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/tiptop.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сказки Зайки</caption>
+			<channel_id>5412</channel_id>
+			<epg_id>skazki-zayki</epg_id>
+			<tvg_id>Xskazki-zayki</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/skazkizayki.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>8 канал</caption>
 			<channel_id>9920</channel_id>
 			<epg_id>8kanal-eu</epg_id>
@@ -6934,6 +7802,62 @@
 			<epg_id>ТВОЁ ТВ HD - ЮМОР</epg_id>
 			<tvg_id>ТВОЁ ТВ HD - ЮМОР</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/tvoe-yumor.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Зал суда</caption>
+			<channel_id>518</channel_id>
+			<epg_id>zal-suda</epg_id>
+			<tvg_id>Xzal-suda</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/zal-suda.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Три Ангела</caption>
+			<channel_id>5377</channel_id>
+			<epg_id>tri-angela	</epg_id>
+			<tvg_id>Xtri-angela	</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/tri-angela.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Angel TV</caption>
+			<channel_id>5379</channel_id>
+			<epg_id>angel-tv</epg_id>
+			<tvg_id>Xangel-tv</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/angel-tv.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EWTN Украина</caption>
+			<channel_id>514</channel_id>
+			<epg_id>ewtn-ua</epg_id>
+			<tvg_id>Xewtn-ua</tvg_id>
+			<icon_url>https://ip-tv.dev/image/ico/ewtn-ua.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Home 4K</caption>
+			<channel_id>504</channel_id>
+			<epg_id>home-4k</epg_id>
+			<tvg_id>Xhome-4k</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/home4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Quadro 4K</caption>
+			<channel_id>505</channel_id>
+			<epg_id>quadro4k</epg_id>
+			<tvg_id>Xquadro4k</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/quadro4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>test</caption>
+			<channel_id>99877</channel_id>
+			<epg_id>test</epg_id>
+			<tvg_id>test</tvg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -7663,6 +8587,54 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Жара</caption>
+			<channel_id>139</channel_id>
+			<epg_id>zhara</epg_id>
+			<tvg_id>Xzhara</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/zhara.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>360TuneBox</caption>
+			<channel_id>6147</channel_id>
+			<epg_id>360-tunebox</epg_id>
+			<tvg_id>X360-tunebox</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/360-tunebox.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV</caption>
+			<channel_id>184</channel_id>
+			<epg_id>bridge-tv</epg_id>
+			<tvg_id>Xbridge-tv</tvg_id>
+			<icon_url>https://ip-tv.dev/imaged/ico/bridge-tv.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Mezzo</caption>
+			<channel_id>289</channel_id>
+			<epg_id>mezzo</epg_id>
+			<tvg_id>Xmezzo</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/mezzo.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Stingray iConcerts</caption>
+			<channel_id>792</channel_id>
+			<epg_id>iconcerts</epg_id>
+			<tvg_id>Xiconcerts</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/iconcerts.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dancestar TV</caption>
+			<channel_id>5320</channel_id>
+			<epg_id>Dancestar TV</epg_id>
+			<tvg_id>Dancestar TV</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/dancestar-tv.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>BCU Charm HD</caption>
 			<channel_id>7141</channel_id>
 			<epg_id>BCU Charm HD</epg_id>
@@ -7928,6 +8900,34 @@
 			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>5</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olala</caption>
+			<channel_id>103</channel_id>
+			<epg_id>o-la-la</epg_id>
+			<tvg_id>Xo-la-la</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/o-la-la.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Red Lips</caption>
+			<channel_id>290</channel_id>
+			<epg_id>redlips</epg_id>
+			<tvg_id>Xredlips</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/redlips.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>5</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Private TV</caption>
+			<channel_id>793</channel_id>
+			<epg_id>private-tv</epg_id>
+			<tvg_id>Xprivate-tv</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/private-tv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -9337,7 +10337,7 @@
 			<channel_id>814</channel_id>
 			<epg_id>das-erste</epg_id>
 			<tvg_id>Xdas-erste</tvg_id>
-			<icon_url>https://ip-tv.dev/epg/icon/das-erste.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/das-erste.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -9522,7 +10522,7 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>RTL Crime DE</caption>
+			<caption>Sky Crime HD</caption>
 			<channel_id>829</channel_id>
 			<epg_id>829</epg_id>
 			<tvg_id>829</tvg_id>
@@ -9567,11 +10567,11 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY Sports F1</caption>
+			<caption>Sky Sports F1 HD</caption>
 			<channel_id>9923</channel_id>
 			<epg_id>sky-sports-f1</epg_id>
 			<tvg_id>Xsky-sports-f1</tvg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/sky-sports-f1.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -9594,61 +10594,61 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky Cinema Action HD DE</caption>
+			<caption>Sky Cinema Action HD</caption>
 			<channel_id>844</channel_id>
 			<epg_id>sky-cinema-action</epg_id>
 			<tvg_id>Xsky-cinema-action</tvg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/sky-cinema-action.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky Cinema Classics HD DE</caption>
+			<caption>Sky Cinema Classics HD</caption>
 			<channel_id>847</channel_id>
 			<epg_id>sky-cinema</epg_id>
 			<tvg_id>Xsky-cinema</tvg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/sky-cinema-classics.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky Cinema Family HD DE</caption>
+			<caption>Sky Cinema Family HD</caption>
 			<channel_id>5101</channel_id>
 			<epg_id>sky-cinema-family</epg_id>
 			<tvg_id>Xsky-cinema-family</tvg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/sky-cinema-family.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky Cinema Premieren</caption>
+			<caption>Sky Cinema Premieren HD</caption>
 			<channel_id>5125</channel_id>
-			<epg_id>sky-cinema-nostalg</epg_id>
-			<tvg_id>Xsky-cinema-nostalg</tvg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<epg_id>sky-cinema-premieren</epg_id>
+			<tvg_id>Xsky-cinema-premieren</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/sky-cinema-premieren.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky Cinema Thriller DE</caption>
+			<caption>Sky Cinema Thriller HD</caption>
 			<channel_id>5130</channel_id>
-			<epg_id>Sky Cinema Thriller DE</epg_id>
-			<tvg_id>Sky Cinema Thriller DE</tvg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<epg_id>sky-cinema-thriller</epg_id>
+			<tvg_id>Xsky-cinema-thriller</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/sky-cinema-thriller.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky Hits HD DE</caption>
+			<caption>Sky Cinema Best Of HD</caption>
 			<channel_id>849</channel_id>
-			<epg_id>sky-cinema-hitssky-</epg_id>
-			<tvg_id>Xsky-cinema-hitssky-</tvg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<epg_id>sky-cinema-hits</epg_id>
+			<tvg_id>Xsky-cinema-hits</tvg_id>
+			<icon_url>https://ip-tv.dev/images/ico/sky-cinema-hits.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky Krimi DE</caption>
+			<caption>Sky Krimi HD</caption>
 			<channel_id>5126</channel_id>
 			<epg_id>5126</epg_id>
 			<tvg_id>5126</tvg_id>
@@ -9661,7 +10661,7 @@
 			<channel_id>833</channel_id>
 			<epg_id>sky-sport-hd1</epg_id>
 			<tvg_id>Xsky-sport-hd1</tvg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/sky-sport-hd1.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -9670,7 +10670,7 @@
 			<channel_id>834</channel_id>
 			<epg_id>sky-sport-hd2</epg_id>
 			<tvg_id>Xsky-sport-hd2</tvg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/sky-sport-hd1.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -9679,7 +10679,7 @@
 			<channel_id>5129</channel_id>
 			<epg_id>sky-sport-aus</epg_id>
 			<tvg_id>Xsky-sport-aus</tvg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/sky-sport-aus.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -9688,16 +10688,16 @@
 			<channel_id>836</channel_id>
 			<epg_id>sky-sport-bl1</epg_id>
 			<tvg_id>Xsky-sport-bl1</tvg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/sky-sport-bl1.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky Sport News HD DE</caption>
+			<caption>Sky Sports News HD</caption>
 			<channel_id>832</channel_id>
 			<epg_id>sky-sport-news</epg_id>
 			<tvg_id>Xsky-sport-news</tvg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/sky-sports-news.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -9765,15 +10765,6 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VIVA/Comedy DE</caption>
-			<channel_id>822</channel_id>
-			<epg_id>VIVA/Comedy DE</epg_id>
-			<tvg_id>VIVA/Comedy DE</tvg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>VOX HD DE</caption>
 			<channel_id>813</channel_id>
 			<epg_id>vox</epg_id>
@@ -9783,10 +10774,10 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>WDR HD Aachen DE</caption>
+			<caption>WDR HD Koln</caption>
 			<channel_id>815</channel_id>
-			<epg_id>WDR HD Aachen DE</epg_id>
-			<tvg_id>WDR HD Aachen DE</tvg_id>
+			<epg_id>WDR HD Koln</epg_id>
+			<tvg_id>WDR HD Koln</tvg_id>
 			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 			<archive>5</archive>
@@ -9899,17 +10890,17 @@
 		<tv_channel>
 			<caption>Channel 9 HD</caption>
 			<channel_id>1547</channel_id>
-			<epg_id>Channel 9 HD</epg_id>
-			<tvg_id>Channel 9 HD</tvg_id>
+			<epg_id>9kanal-israel</epg_id>
+			<tvg_id>X9kanal-israel</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/channel9.png</icon_url>
 			<tv_category_id>17</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>DISCOVERY CHANNEL HD</caption>
+			<caption>Discovery Channel HD</caption>
 			<channel_id>6918</channel_id>
-			<epg_id>DISCOVERY CHANNEL HD</epg_id>
-			<tvg_id>DISCOVERY CHANNEL HD</tvg_id>
+			<epg_id>Discovery Channel HD</epg_id>
+			<tvg_id>Discovery Channel HD</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/discovery-channel.png</icon_url>
 			<tv_category_id>17</tv_category_id>
 		</tv_channel>
@@ -9949,10 +10940,10 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Extreme sports</caption>
+			<caption>Extreme Sports</caption>
 			<channel_id>6900</channel_id>
-			<epg_id>Extreme sports</epg_id>
-			<tvg_id>Extreme sports</tvg_id>
+			<epg_id>Extreme Sports</epg_id>
+			<tvg_id>Extreme Sports</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/extreme-sports.png</icon_url>
 			<tv_category_id>17</tv_category_id>
 		</tv_channel>
@@ -9965,10 +10956,10 @@
 			<tv_category_id>17</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Food Channel</caption>
+			<caption>Food Network</caption>
 			<channel_id>1551</channel_id>
-			<epg_id>Food Channel</epg_id>
-			<tvg_id>Food Channel</tvg_id>
+			<epg_id>Food Network</epg_id>
+			<tvg_id>Food Network</tvg_id>
 			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
 			<tv_category_id>17</tv_category_id>
 			<archive>5</archive>
@@ -10007,10 +10998,10 @@
 			<tv_category_id>17</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Hot 8 HD</caption>
+			<caption>Hot 8</caption>
 			<channel_id>1541</channel_id>
-			<epg_id>Hot 8 HD</epg_id>
-			<tvg_id>Hot 8 HD</tvg_id>
+			<epg_id>Hot 8</epg_id>
+			<tvg_id>Hot 8</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/hot8.png</icon_url>
 			<tv_category_id>17</tv_category_id>
 			<archive>5</archive>
@@ -10100,10 +11091,10 @@
 			<tv_category_id>17</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Hot Entertainment</caption>
+			<caption>Hot Entertainment HD</caption>
 			<channel_id>6929</channel_id>
-			<epg_id>Hot Entertainment</epg_id>
-			<tvg_id>Hot Entertainment</tvg_id>
+			<epg_id>Hot Entertainment HD</epg_id>
+			<tvg_id>Hot Entertainment HD</tvg_id>
 			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
 			<tv_category_id>17</tv_category_id>
 		</tv_channel>
@@ -10193,10 +11184,10 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Khan 11</caption>
+			<caption>Kan 11 HD</caption>
 			<channel_id>6917</channel_id>
-			<epg_id>Khan 11</epg_id>
-			<tvg_id>Khan 11</tvg_id>
+			<epg_id>Kan 11 HD</epg_id>
+			<tvg_id>Kan 11 HD</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/11kd.png</icon_url>
 			<tv_category_id>17</tv_category_id>
 		</tv_channel>
@@ -10270,18 +11261,18 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ONE 2 HD</caption>
+			<caption>One 2 HD</caption>
 			<channel_id>6915</channel_id>
-			<epg_id>ONE 2 HD</epg_id>
-			<tvg_id>ONE 2 HD</tvg_id>
+			<epg_id>One 2 HD</epg_id>
+			<tvg_id>One 2 HD</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/one1.png</icon_url>
 			<tv_category_id>17</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ONE HD</caption>
+			<caption>One HD</caption>
 			<channel_id>1506</channel_id>
-			<epg_id>ONE HD</epg_id>
-			<tvg_id>ONE HD</tvg_id>
+			<epg_id>One HD</epg_id>
+			<tvg_id>One HD</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/one1.png</icon_url>
 			<tv_category_id>17</tv_category_id>
 			<archive>5</archive>
@@ -10409,10 +11400,10 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Yam Tihoni 25</caption>
+			<caption>Yam Tiсhoni HD</caption>
 			<channel_id>1567</channel_id>
-			<epg_id>Yam Tihoni 25</epg_id>
-			<tvg_id>Yam Tihoni 25</tvg_id>
+			<epg_id>Yam Tiсhoni HD</epg_id>
+			<tvg_id>Yam Tiсhoni HD</tvg_id>
 			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
 			<tv_category_id>17</tv_category_id>
 			<archive>5</archive>
@@ -10445,10 +11436,10 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ZONE HD</caption>
+			<caption>Zone HD</caption>
 			<channel_id>1529</channel_id>
-			<epg_id>ZONE HD</epg_id>
-			<tvg_id>ZONE HD</tvg_id>
+			<epg_id>Zone HD</epg_id>
+			<tvg_id>Zone HD</tvg_id>
 			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
 			<tv_category_id>17</tv_category_id>
 			<archive>5</archive>
@@ -10592,10 +11583,10 @@
 			<tv_category_id>17</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>KNESET CHANNEL</caption>
+			<caption>Kneset Channel</caption>
 			<channel_id>6932</channel_id>
-			<epg_id>KNESET CHANNEL</epg_id>
-			<tvg_id>KNESET CHANNEL</tvg_id>
+			<epg_id>Kneset Channel</epg_id>
+			<tvg_id>Kneset Channel</tvg_id>
 			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
 			<tv_category_id>17</tv_category_id>
 		</tv_channel>
