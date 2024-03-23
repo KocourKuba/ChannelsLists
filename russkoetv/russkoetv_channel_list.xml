@@ -55,6 +55,11 @@
 			<icon_url>plugin_file://icons/ru4.png</icon_url>
 		</tv_category>
 		<tv_category>
+			<id>13</id>
+			<caption>Россия +7ч</caption>
+			<icon_url>plugin_file://icons/ru7.png</icon_url>
+		</tv_category>
+		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/fav.png</icon_url>
@@ -449,6 +454,13 @@
 			<channel_id>russia-today</channel_id>
 			<epg_id>russia-today</epg_id>
 			<icon_url>https://rutv.aws-static-hosting.com/streams/rt-english.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>DW Russian</caption>
+			<channel_id>deutsche-welle</channel_id>
+			<epg_id>deutsche-welle</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/deutsche-welle.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1022,6 +1034,14 @@
 			<channel_id>m1-global</channel_id>
 			<epg_id>m1-global</epg_id>
 			<icon_url>https://rutv.aws-static-hosting.com/streams/m1-global-tv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 1</caption>
+			<channel_id>eurosport</channel_id>
+			<epg_id>eurosport</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/evrosport.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1684,6 +1704,13 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Stingray Cmusic</caption>
+			<channel_id>stingray-cmusic</channel_id>
+			<epg_id>stingray-cmusic</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/stingray-cmusic.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Беларусь 1</caption>
 			<channel_id>belarus1-by</channel_id>
 			<epg_id>belarus1-by</epg_id>
@@ -1787,14 +1814,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>СТС Love (+2)</caption>
-			<channel_id>sts-love-plus-2</channel_id>
-			<epg_id>sts-love-plus-2</epg_id>
-			<icon_url>https://rutv.aws-static-hosting.com/streams/sts-love-plus-2.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Домашний (+2)</caption>
 			<channel_id>domashnij-plus-2</channel_id>
 			<epg_id>domashnij-plus-2</epg_id>
@@ -1815,14 +1834,6 @@
 			<channel_id>tv3-plus-2</channel_id>
 			<epg_id>tv3-plus-2</epg_id>
 			<icon_url>https://rutv.aws-static-hosting.com/streams/tv3-plus-2.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Че (+2)</caption>
-			<channel_id>4e-plus-2</channel_id>
-			<epg_id>4e-plus-2</epg_id>
-			<icon_url>https://rutv.aws-static-hosting.com/streams/4e-plus-2.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1984,6 +1995,142 @@
 			<epg_id>match-plus-4</epg_id>
 			<icon_url>https://rutv.aws-static-hosting.com/streams/match-plus-4.png</icon_url>
 			<tv_category_id>12</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый канал (+4)</caption>
+			<channel_id>pervyj-plus-4</channel_id>
+			<epg_id>pervyj-plus-4</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/pervyj-plus-4.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый канал (+7)</caption>
+			<channel_id>pervyj-plus-7</channel_id>
+			<epg_id>pervyj-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/pervyj-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 1 (+7)</caption>
+			<channel_id>rossija1-plus-7</channel_id>
+			<epg_id>rossija1-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/rossija1-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ (+7)</caption>
+			<channel_id>ntv-plus-7</channel_id>
+			<epg_id>ntv-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ntv-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ (+7)</caption>
+			<channel_id>tnt-plus-7</channel_id>
+			<epg_id>tnt-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tnt-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>РЕН ТВ (+7)</caption>
+			<channel_id>rentv-plus-7</channel_id>
+			<epg_id>rentv-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/rentv-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС (+7)</caption>
+			<channel_id>sts-plus-7</channel_id>
+			<epg_id>sts-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/sts-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний (+7)</caption>
+			<channel_id>domashnij-plus-7</channel_id>
+			<epg_id>domashnij-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/domashnij-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятница (+7)</caption>
+			<channel_id>piatnica-plus-7</channel_id>
+			<epg_id>piatnica-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/piatnica-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ3 (+7)</caption>
+			<channel_id>tv3-plus-7</channel_id>
+			<epg_id>tv3-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tv3-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВЦ (+7)</caption>
+			<channel_id>tvc-plus-7</channel_id>
+			<epg_id>tvc-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tvc-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звезда (+7)</caption>
+			<channel_id>zvezda-plus-7</channel_id>
+			<epg_id>zvezda-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/zvezda-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>5 канал (+7)</caption>
+			<channel_id>5kanal-plus-7</channel_id>
+			<epg_id>5kanal-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/5kanal-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир (+7)</caption>
+			<channel_id>mir-plus-7</channel_id>
+			<epg_id>mir-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/mir-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ОТР (+7)</caption>
+			<channel_id>otp-plus-7</channel_id>
+			<epg_id>otp-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/otp-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия-Культура (+7)</caption>
+			<channel_id>rossija-k-plus-7</channel_id>
+			<epg_id>rossija-k-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/rossija-k-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч ТВ (+7)</caption>
+			<channel_id>match-plus-7</channel_id>
+			<epg_id>match-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/match-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 	</tv_channels>

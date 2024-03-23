@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv_info>
+	<version_info>
+		<list_version>7</list_version>
+	</version_info>
+	<tv_categories>
+		<tv_category>
+			<id>1</id>
+			<caption>Общие</caption>
+			<icon_url>plugin_file://icons/1.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>2</id>
+			<caption>Региональные</caption>
+			<icon_url>plugin_file://icons/20.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>3</id>
+			<caption>Кино</caption>
+			<icon_url>plugin_file://icons/2.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>4</id>
+			<caption>Детские</caption>
+			<icon_url>plugin_file://icons/7.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>5</id>
+			<caption>Музыкальные</caption>
+			<icon_url>plugin_file://icons/3.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>6</id>
+			<caption>Познавательные</caption>
+			<icon_url>plugin_file://icons/22.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>7</id>
+			<caption>Спортивные</caption>
+			<icon_url>plugin_file://icons/6.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>8</id>
+			<caption>Для взрослых</caption>
+			<icon_url>plugin_file://icons/33.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>32798</id>
+			<caption>Favorites</caption>
+			<icon_url>plugin_file://icons/fav.png</icon_url>
+			<special_group>##favorites##</special_group>
+		</tv_category>
+		<tv_category>
+			<id>32807</id>
+			<caption>All Channels</caption>
+			<icon_url>plugin_file://icons/all.png</icon_url>
+			<special_group>##all_channels##</special_group>
+		</tv_category>
+		<tv_category>
+			<id>32808</id>
+			<caption>History</caption>
+			<icon_url>plugin_file://icons/history.png</icon_url>
+			<special_group>##playback_history_tv_group##</special_group>
+		</tv_category>
+	</tv_categories>
+	<tv_channels>
+		<tv_channel>
+			<caption>360 Новости HD</caption>
+			<channel_id>360news</channel_id>
+			<epg_id>360 Новости HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/360news.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>360 Канал</caption>
+			<channel_id>360</channel_id>
+			<epg_id>360 Канал</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/360.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CNN</caption>
+			<channel_id>cnn</channel_id>
+			<epg_id>CNN</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/cnn.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Deutsche Welle</caption>
+			<channel_id>deutchewelle</channel_id>
+			<epg_id>Deutsche Welle</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/deutchewelle.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EuroNews</caption>
+			<channel_id>euronews</channel_id>
+			<epg_id>EuroNews</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/euronews.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fox News US</caption>
+			<channel_id>foxnewsus</channel_id>
+			<epg_id>Fox News US</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/foxnewsus.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Food Network</caption>
+			<channel_id>foodnetwork</channel_id>
+			<epg_id>Food Network</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/foodnetwork.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RTVi</caption>
+			<channel_id>rtvi</channel_id>
+			<epg_id>RTVi</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/rtvi.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky News</caption>
+			<channel_id>skynews</channel_id>
+			<epg_id>Sky News</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/skynews.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>World Fashion Channel (рус.)</caption>
+			<channel_id>worldfashionru</channel_id>
+			<epg_id>World Fashion Channel (рус.)</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/worldfashion.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ВРЕМЯ</caption>
+			<channel_id>vremya</channel_id>
+			<epg_id>ВРЕМЯ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/vremya.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний</caption>
+			<channel_id>domashniy</channel_id>
+			<epg_id>Домашний</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/domashniy.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний +2</caption>
+			<channel_id>domashniyplus2</channel_id>
+			<epg_id>Домашний +2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/domashniy.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звезда</caption>
+			<channel_id>zvezda</channel_id>
+			<epg_id>Звезда</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/zvezda.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звезда +2</caption>
+			<channel_id>zvezdaplus2</channel_id>
+			<epg_id>Звезда +2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/zvezda.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КВН ТВ</caption>
+			<channel_id>kvntv</channel_id>
+			<epg_id>КВН ТВ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/kvntv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Канал 2x2</caption>
+			<channel_id>2x2</channel_id>
+			<epg_id>Канал 2x2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/2x2.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Квартал ТВ</caption>
+			<channel_id>kvartaltv</channel_id>
+			<epg_id>Квартал ТВ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/kvartaltv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>МИР</caption>
+			<channel_id>mirhd</channel_id>
+			<epg_id>МИР</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/mirhd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ностальгия</caption>
+			<channel_id>nostalgia</channel_id>
+			<epg_id>Ностальгия</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/nostalgiya.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ HD</caption>
+			<channel_id>ntvhd</channel_id>
+			<epg_id>НТВ HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/ntvhd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ SD</caption>
+			<channel_id>ntvsd</channel_id>
+			<epg_id>НТВ SD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/ntvhd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ +2</caption>
+			<channel_id>ntvplus2</channel_id>
+			<epg_id>НТВ +2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/ntv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Право</caption>
+			<channel_id>ntvpravo</channel_id>
+			<epg_id>НТВ Право</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/ntvpravo.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Стиль</caption>
+			<channel_id>ntvstil</channel_id>
+			<epg_id>НТВ Стиль</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/ntvstil.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ОТР</caption>
+			<channel_id>otr</channel_id>
+			<epg_id>ОТР</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/otr.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый HD</caption>
+			<channel_id>perviyhd</channel_id>
+			<epg_id>Первый HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/perviyhd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый канал SD</caption>
+			<channel_id>perviysd</channel_id>
+			<epg_id>Первый канал SD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/perviysd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый канал Евразия</caption>
+			<channel_id>perviyint</channel_id>
+			<epg_id>Первый канал Евразия</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/perviysd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый канал +2</caption>
+			<channel_id>perviyplus2</channel_id>
+			<epg_id>Первый канал +2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/perviysd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый канал +4</caption>
+			<channel_id>perviy4</channel_id>
+			<epg_id>Первый канал +4</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/perviy+4.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятница</caption>
+			<channel_id>pyatnica</channel_id>
+			<epg_id>Пятница</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/pyatnica.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятый Канал</caption>
+			<channel_id>pyatiykanal</channel_id>
+			<epg_id>Пятый Канал</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/pyatiy.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятый Канал +2</caption>
+			<channel_id>5kanalplus2</channel_id>
+			<epg_id>Пятый Канал +2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/pyatiy.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>РБК</caption>
+			<channel_id>rbk</channel_id>
+			<epg_id>РБК</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/rbc.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>РЕН ТВ</caption>
+			<channel_id>rentv</channel_id>
+			<epg_id>РЕН ТВ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/rentv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>РЕН ТВ +2</caption>
+			<channel_id>rentvplus2</channel_id>
+			<epg_id>РЕН ТВ +2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/rentv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ретро ТВ</caption>
+			<channel_id>retro</channel_id>
+			<epg_id>Ретро ТВ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/retro.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 1 +2</caption>
+			<channel_id>russiaplus2</channel_id>
+			<epg_id>Россия 1 +2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/russia1.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 1 +4</caption>
+			<channel_id>russia4</channel_id>
+			<epg_id>Россия 1 +4</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/rossiya+4.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 24</caption>
+			<channel_id>rossiya24</channel_id>
+			<epg_id>Россия 24</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/russia24.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия SD</caption>
+			<channel_id>rossiasd</channel_id>
+			<epg_id>Россия SD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/russia1hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия HD</caption>
+			<channel_id>russiahd</channel_id>
+			<epg_id>Россия HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/russia1hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>РТР-Планета Европа</caption>
+			<channel_id>rtrplaneta</channel_id>
+			<epg_id>РТР-Планета Европа</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/rtr.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия Культура</caption>
+			<channel_id>rossiyak</channel_id>
+			<epg_id>Россия Культура</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/russiak.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС</caption>
+			<channel_id>sts</channel_id>
+			<epg_id>СТС</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/sts.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС +2</caption>
+			<channel_id>stsplus2</channel_id>
+			<epg_id>СТС +2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/sts.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС Love</caption>
+			<channel_id>stslove</channel_id>
+			<epg_id>СТС Love</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/stslove.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ-3</caption>
+			<channel_id>tv3</channel_id>
+			<epg_id>ТВ-3</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tv3.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВЦ</caption>
+			<channel_id>tvc</channel_id>
+			<epg_id>ТВЦ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tvc.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВЦ +2</caption>
+			<channel_id>tvcplus2</channel_id>
+			<epg_id>ТВЦ +2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tvc.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ SD</caption>
+			<channel_id>tntsd</channel_id>
+			<epg_id>ТНТ SD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tnthd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ HD</caption>
+			<channel_id>tnthd</channel_id>
+			<epg_id>ТНТ HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tnthd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ +2</caption>
+			<channel_id>tntplus2</channel_id>
+			<epg_id>ТНТ +2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tnt.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ4</caption>
+			<channel_id>tnt4</channel_id>
+			<epg_id>ТНТ4</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tnt4.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Че</caption>
+			<channel_id>che</channel_id>
+			<epg_id>Че</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/che.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ Music</caption>
+			<channel_id>tntmusic</channel_id>
+			<epg_id>ТНТ Music</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tntmusic.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ATR</caption>
+			<channel_id>atr</channel_id>
+			<epg_id>ATR</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/atr.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Enter Film</caption>
+			<channel_id>enterfilm</channel_id>
+			<epg_id>Enter Film</epg_id>
+			<icon_url>https://topiptv.in/img/logos/enterfilm.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NIKI Kids HD UA</caption>
+			<channel_id>nikikidshd</channel_id>
+			<epg_id>NIKI Kids HD UA</epg_id>
+			<icon_url>https://topiptv.in/img/logos/nikikidshdua.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NIKI Junior HD UA</caption>
+			<channel_id>nikijuniorhd</channel_id>
+			<epg_id>NIKI Junior HD UA</epg_id>
+			<icon_url>https://topiptv.in/img/logos/nikijuniorhdua.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Star Cinema HD UA</caption>
+			<channel_id>starcinemahdua</channel_id>
+			<epg_id>Star Cinema HD UA</epg_id>
+			<icon_url>https://topiptv.in/img/logos/estarcinemahdua.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Star Family HD UA</caption>
+			<channel_id>starfamilyhdua</channel_id>
+			<epg_id>Star Family HD UA</epg_id>
+			<icon_url>https://topiptv.in/img/logos/starfamilyhdua.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Інтер</caption>
+			<channel_id>ua_inter</channel_id>
+			<epg_id>Интер</epg_id>
+			<icon_url>https://topiptv.in/img/logos/inter.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Інтер HD</caption>
+			<channel_id>interhd/index.m3u8</channel_id>
+			<epg_id>Интер HD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/interhd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Канал 1+1</caption>
+			<channel_id>ua_1plus1</channel_id>
+			<epg_id>Канал 1+1</epg_id>
+			<icon_url>https://topiptv.in/img/logos/1plus1.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Канал 1+1 International</caption>
+			<channel_id>1plus1int</channel_id>
+			<epg_id>Канал 1+1 Международный</epg_id>
+			<icon_url>https://topiptv.in/img/logos/1plus1int.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Канал 1+1 Україна HD</caption>
+			<channel_id>1+1hd</channel_id>
+			<epg_id>Канал 1+1 HD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/1plus1hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Бігуді</caption>
+			<channel_id>bigudi/index.m3u8</channel_id>
+			<epg_id>Бигуди</epg_id>
+			<icon_url>https://topiptv.in/img/logos/bigudi.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Zoom HD</caption>
+			<channel_id>zoomhd/index.m3u8</channel_id>
+			<epg_id>Zoom HD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/zoomhd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Уніан HD</caption>
+			<channel_id>unianhd/index.m3u8</channel_id>
+			<epg_id>Униан HD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/unianhd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UATV</caption>
+			<channel_id>uatv</channel_id>
+			<epg_id>UATV</epg_id>
+			<icon_url>https://topiptv.in/img/logos/uatv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UATV HD</caption>
+			<channel_id>uatvhd</channel_id>
+			<epg_id>UATV</epg_id>
+			<icon_url>https://topiptv.in/img/logos/uatv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>2+2</caption>
+			<channel_id>2plus2ua</channel_id>
+			<epg_id>2+2 (Украина)</epg_id>
+			<icon_url>https://topiptv.in/img/logos/2plus2.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>5 канал (Україна)</caption>
+			<channel_id>ua_5ukraine</channel_id>
+			<epg_id>5 канал (Украина)</epg_id>
+			<icon_url>https://topiptv.in/img/logos/5kanalukr.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>5 канал HD (Україна)</caption>
+			<channel_id>5kanaluahd</channel_id>
+			<epg_id>5 канал HD (Украина)</epg_id>
+			<icon_url>https://topiptv.in/img/logos/5kanalukr.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ICTV</caption>
+			<channel_id>ua_ictv/index.m3u8</channel_id>
+			<epg_id>ICTV (Украина)</epg_id>
+			<icon_url>https://topiptv.in/img/logos/ictv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ICTV HD</caption>
+			<channel_id>ictvhd/index.m3u8</channel_id>
+			<epg_id>ICTV HD (Украина)</epg_id>
+			<icon_url>https://topiptv.in/img/logos/ictv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ICTV2 HD</caption>
+			<channel_id>ictv2hd/index.m3u8</channel_id>
+			<epg_id>ICTV2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/ictv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>К1</caption>
+			<channel_id>k1ua</channel_id>
+			<epg_id>К1</epg_id>
+			<icon_url>https://topiptv.in/img/logos/k1.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>К2</caption>
+			<channel_id>k2ua</channel_id>
+			<epg_id>К2</epg_id>
+			<icon_url>https://topiptv.in/img/logos/k2.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мега</caption>
+			<channel_id>mega</channel_id>
+			<epg_id>Мега</epg_id>
+			<icon_url>https://topiptv.in/img/logos/mega.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Новий Канал</caption>
+			<channel_id>ua_noviykanal/index.m3u8</channel_id>
+			<epg_id>Новый Канал</epg_id>
+			<icon_url>https://topiptv.in/img/logos/noviykanal.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Новий Канал HD</caption>
+			<channel_id>noviyhd/index.m3u8</channel_id>
+			<epg_id>Новый Канал HD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/noviykanal.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТН</caption>
+			<channel_id>ntnua</channel_id>
+			<epg_id>НТН (Украина)</epg_id>
+			<icon_url>https://topiptv.in/img/logos/ntn.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Перший Автомобільний</caption>
+			<channel_id>autoua</channel_id>
+			<epg_id>Первый Автомобильный</epg_id>
+			<icon_url>https://topiptv.in/img/logos/perviyauto.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Піксель</caption>
+			<channel_id>piksel</channel_id>
+			<epg_id>Пиксель</epg_id>
+			<icon_url>https://topiptv.in/img/logos/piksel.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>UA:Перший</caption>
+			<channel_id>uapershiy</channel_id>
+			<epg_id>UA:Перший</epg_id>
+			<icon_url>https://topiptv.in/img/logos/uapershiy.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Прямий</caption>
+			<channel_id>rada</channel_id>
+			<epg_id>Прямий</epg_id>
+			<icon_url>https://topiptv.in/img/logos/pryamiy.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТБ</caption>
+			<channel_id>ua_stb/index.m3u8</channel_id>
+			<epg_id>СТБ</epg_id>
+			<icon_url>https://topiptv.in/img/logos/stb.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТБ HD</caption>
+			<channel_id>stbhd/index.m3u8</channel_id>
+			<epg_id>СТБ HD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/stb.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТЕТ</caption>
+			<channel_id>tet</channel_id>
+			<epg_id>ТЕТ</epg_id>
+			<icon_url>https://topiptv.in/img/logos/tet.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>М1 HD</caption>
+			<channel_id>m1ua</channel_id>
+			<epg_id>М-1</epg_id>
+			<icon_url>https://topiptv.in/img/logos/m1.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>М2 HD</caption>
+			<channel_id>m2ua</channel_id>
+			<epg_id>М2</epg_id>
+			<icon_url>https://topiptv.in/img/logos/m2.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еспресо ТВ</caption>
+			<channel_id>espresso</channel_id>
+			<epg_id>Эспресо ТВ</epg_id>
+			<icon_url>https://topiptv.in/img/logos/spresotv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>7D7 TV</caption>
+			<channel_id>7d7tv</channel_id>
+			<epg_id>7D7 TV</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/7d7.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 1</caption>
+			<channel_id>belarus1</channel_id>
+			<epg_id>Беларусь 1</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/belarus1.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 2</caption>
+			<channel_id>belarus2</channel_id>
+			<epg_id>Беларусь 2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/belarus2.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 3</caption>
+			<channel_id>belarus3</channel_id>
+			<epg_id>Беларусь 3</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/belarus3.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 5</caption>
+			<channel_id>belarus5</channel_id>
+			<epg_id>Беларусь 5</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/belarus5.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 24</caption>
+			<channel_id>belarus24</channel_id>
+			<epg_id>Беларусь 24</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/belarus5.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>БСТ</caption>
+			<channel_id>bstby</channel_id>
+			<epg_id>БСТ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/bst.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ОНТ</caption>
+			<channel_id>ontby</channel_id>
+			<epg_id>ОНТ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/ont.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый музыкальный HD BY</caption>
+			<channel_id>1musicby</channel_id>
+			<epg_id>Первый музыкальный HD BY</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/1musicby.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Moldova 1</caption>
+			<channel_id>moldova1</channel_id>
+			<epg_id>Moldova 1</epg_id>
+			<icon_url>https://topiptv.in/img/logos/moldova1.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Moldova 2</caption>
+			<channel_id>moldova2</channel_id>
+			<epg_id>Moldova 2</epg_id>
+			<icon_url>https://topiptv.in/img/logos/moldova2.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Jurnal TV MD</caption>
+			<channel_id>jurnaltv</channel_id>
+			<epg_id>Jurnal TV MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/jurnaltv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Orhei TV MD</caption>
+			<channel_id>orheitv</channel_id>
+			<epg_id>Orhei TV MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/orheitv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pro TV HD MD</caption>
+			<channel_id>protvhdmd</channel_id>
+			<epg_id>Pro TV HD MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/protvhdmd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Publika MD</caption>
+			<channel_id>publikatvmd</channel_id>
+			<epg_id>Publika MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/publikatvmd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Rlive HD MD</caption>
+			<channel_id>rlivehdmd</channel_id>
+			<epg_id>Rlive HD MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/rlivehdmd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal 2 HD MD</caption>
+			<channel_id>canal2hdmd</channel_id>
+			<epg_id>Canal 2 HD MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/canal2hdmd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal 3 HD MD</caption>
+			<channel_id>canal3hdmd</channel_id>
+			<epg_id>Canal 3 HD MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/canal3hdmd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС Mega TV MD</caption>
+			<channel_id>megatvmd</channel_id>
+			<epg_id>СТС Mega TV MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/megatvmd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prime HD MD</caption>
+			<channel_id>primehdmd</channel_id>
+			<epg_id>Prime HD MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/primehdmd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RTR MD</caption>
+			<channel_id>rtrmdmd</channel_id>
+			<epg_id>RTR MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/rtrmdmd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RenTV MD</caption>
+			<channel_id>rentvmd</channel_id>
+			<epg_id>RenTV MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/rentvmd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NTV MD</caption>
+			<channel_id>ntvmd</channel_id>
+			<epg_id>NTV MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/ntvmd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV8 HD MD</caption>
+			<channel_id>tv8hdmd</channel_id>
+			<epg_id>TV8 HD MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/tv8hdmd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Primul MD</caption>
+			<channel_id>primulmd</channel_id>
+			<epg_id>Primul MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/primulmd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Noroc TV HD MD</caption>
+			<channel_id>noroctvhdmd</channel_id>
+			<epg_id>Noroc TV HD MD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/noroctvhdmd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Antena 1 HD RO</caption>
+			<channel_id>antena1hdro</channel_id>
+			<epg_id>Antena 1 HD RO</epg_id>
+			<icon_url>https://topiptv.in/img/logos/antena1hdro.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVR HD RO</caption>
+			<channel_id>tvrhdro</channel_id>
+			<epg_id>TVR HD RO</epg_id>
+			<icon_url>https://topiptv.in/img/logos/tvrhdro.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>HBO HD RO</caption>
+			<channel_id>hbohdro</channel_id>
+			<epg_id>HBO HD RO</epg_id>
+			<icon_url>https://topiptv.in/img/logos/hbohdro.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>HBO 2 RO</caption>
+			<channel_id>hbo2ro</channel_id>
+			<epg_id>HBO 2 RO</epg_id>
+			<icon_url>https://topiptv.in/img/logos/hbo2ro.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>HBO 3 RO</caption>
+			<channel_id>hbo3ro</channel_id>
+			<epg_id>HBO 3 RO</epg_id>
+			<icon_url>https://topiptv.in/img/logos/hbo3ro.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV24</caption>
+			<channel_id>tv24</channel_id>
+			<epg_id>TV24</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tv24.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV3 Lietuva</caption>
+			<channel_id>tv3lietuva</channel_id>
+			<epg_id>TV3 Lietuva</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tv3lietuva.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV6 Lietuva</caption>
+			<channel_id>tv6lietuva</channel_id>
+			<epg_id>TV6 Lietuva</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tv6lietuva.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>LRT HD</caption>
+			<channel_id>tv8lietuva</channel_id>
+			<epg_id>LRT HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tv8lietuva.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>LRT Plus</caption>
+			<channel_id>lrtplus</channel_id>
+			<epg_id>LRT Plus</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/lrtplus.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Lietuvos ryto televizija</caption>
+			<channel_id>lietuvosrytas</channel_id>
+			<epg_id>Lietuvos ryto televizija</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/lietuvosryto.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kidzone Baltic</caption>
+			<channel_id>kidzonebaltic</channel_id>
+			<epg_id>Kidzone Baltic</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/kidzone.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>LTV1</caption>
+			<channel_id>ltv1</channel_id>
+			<epg_id>LTV1</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/ltv1.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>LTV7</caption>
+			<channel_id>ltv7</channel_id>
+			<epg_id>LTV7</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/ltv7.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>LNK</caption>
+			<channel_id>lnk</channel_id>
+			<epg_id>LNK</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/lnk.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>LNT</caption>
+			<channel_id>lnt</channel_id>
+			<epg_id>LNT</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/lnt.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV3 Film</caption>
+			<channel_id>tv1000premiumlt</channel_id>
+			<epg_id>TV3 Film</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tv3film.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>3+ (LV)</caption>
+			<channel_id>3pluslv</channel_id>
+			<epg_id>3+ (LV)</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/3pluslv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BTV</caption>
+			<channel_id>btv</channel_id>
+			<epg_id>BTV</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/btv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV 8 HD</caption>
+			<channel_id>tv8lt</channel_id>
+			<epg_id>TV 8 HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tv8.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>A1</caption>
+			<channel_id>a1</channel_id>
+			<epg_id>A1</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/a1.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Amedia Hit</caption>
+			<channel_id>amediahit</channel_id>
+			<epg_id>Amedia Hit</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/amediahit.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Amedia Premium</caption>
+			<channel_id>amediapremium</channel_id>
+			<epg_id>Amedia Premium</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/amediapremium.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bollywood HD</caption>
+			<channel_id>bollywood</channel_id>
+			<epg_id>Bollywood HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/bollywood.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Comedy Central</caption>
+			<channel_id>comedycentral</channel_id>
+			<epg_id>Comedy Central</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/comedycentral.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dizi Timeless</caption>
+			<channel_id>dizitimeless</channel_id>
+			<epg_id>Dizi</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/dizi.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FlixSnip</caption>
+			<channel_id>flixsnip</channel_id>
+			<epg_id>Flixsnip</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/flixsnip.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fox</caption>
+			<channel_id>foxsd</channel_id>
+			<epg_id>Fox</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/fox.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fox Life</caption>
+			<channel_id>foxlife</channel_id>
+			<epg_id>Fox Life</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/foxlife.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Hollywood</caption>
+			<channel_id>amc</channel_id>
+			<epg_id>Hollywood</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/hollywood.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Start Air HD</caption>
+			<channel_id>startairhd</channel_id>
+			<epg_id>Start Air HD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/startairhd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Start World HD</caption>
+			<channel_id>startworldhd</channel_id>
+			<epg_id>Start World HD</epg_id>
+			<icon_url>https://topiptv.in/img/logos/startworldhd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV XXI (TV21)</caption>
+			<channel_id>xxi</channel_id>
+			<epg_id>TV XXI (TV21)</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tv21.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV1000</caption>
+			<channel_id>tv1000</channel_id>
+			<epg_id>TV1000</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tv1000.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV1000 Action</caption>
+			<channel_id>tv1000action</channel_id>
+			<epg_id>TV1000 Action</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tv1000action.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV1000 Русское кино</caption>
+			<channel_id>tv1000russian</channel_id>
+			<epg_id>TV1000 Русское кино</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/tv1000russkoe.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дом кино</caption>
+			<channel_id>domkino</channel_id>
+			<epg_id>Дом кино</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/domkino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дом Кино Премиум</caption>
+			<channel_id>domkinopremiumhd</channel_id>
+			<epg_id>Дом Кино Премиум</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/domkinopremiumhd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еврокино</caption>
+			<channel_id>evrokino</channel_id>
+			<epg_id>Еврокино</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/evrokino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Индийское кино</caption>
+			<channel_id>kinoplus</channel_id>
+			<epg_id>Индийское кино</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/indiyskoekino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино ТВ</caption>
+			<channel_id>kinotv</channel_id>
+			<epg_id>Кино ТВ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/kinotv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинокомедия</caption>
+			<channel_id>kinokomedia</channel_id>
+			<epg_id>Кинокомедия</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/kinokomedia.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киномикс</caption>
+			<channel_id>kinomiks</channel_id>
+			<epg_id>Киномикс</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/kinomiks.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинопоказ</caption>
+			<channel_id>kinopokazsd</channel_id>
+			<epg_id>Кинопоказ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/kinopokaz.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинопремьера HD</caption>
+			<channel_id>kinopremierahd</channel_id>
+			<epg_id>Кинопремьера HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/kinopremyerahd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносвидание</caption>
+			<channel_id>kinosvidanie</channel_id>
+			<epg_id>Киносвидание</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/kinosvidanie.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносемья</caption>
+			<channel_id>kinosemya</channel_id>
+			<epg_id>Киносемья</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/kinosemya.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинохит</caption>
+			<channel_id>kinohit</channel_id>
+			<epg_id>Кинохит</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/kinohit.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Комедия</caption>
+			<channel_id>komediya</channel_id>
+			<epg_id>Комедия</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/komediya.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Настоящее Страшное ТВ</caption>
+			<channel_id>nst</channel_id>
+			<epg_id>Настоящее Страшное ТВ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/nst.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше Новое Кино</caption>
+			<channel_id>nashenovoekino</channel_id>
+			<epg_id>Наше Новое Кино</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/nashenovoekino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Сериал</caption>
+			<channel_id>ntvserial</channel_id>
+			<epg_id>НТВ Сериал</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/ntvserial.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский бестселлер</caption>
+			<channel_id>russkiybestseller</channel_id>
+			<epg_id>Русский бестселлер</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/russkiybestseller.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский иллюзион</caption>
+			<channel_id>russkiyilluzion</channel_id>
+			<epg_id>Русский иллюзион</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/illuzion.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Filmzone+ HD LT</caption>
+			<channel_id>filmzoneplushd</channel_id>
+			<epg_id>Filmzone+ HD LT</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/filmzoneplushd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Gulli Girl</caption>
+			<channel_id>gulligirl</channel_id>
+			<epg_id>Gulli Girl</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/gulligirl.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nickelodeon HD</caption>
+			<channel_id>nickelodeonhd</channel_id>
+			<epg_id>Nickelodeon HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/nickelodeonhd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nicktoons</caption>
+			<channel_id>nicktoons</channel_id>
+			<epg_id>Nicktoons</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/nicktoons.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Детский мир</caption>
+			<channel_id>detskiymir</channel_id>
+			<epg_id>Детский мир</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/detskiymir.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Карусель</caption>
+			<channel_id>karusel</channel_id>
+			<epg_id>Карусель</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/karusel.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мультиландия</caption>
+			<channel_id>multilandia</channel_id>
+			<epg_id>Мультиландия</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/multilandia.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Солнце</caption>
+			<channel_id>solnce</channel_id>
+			<epg_id>Солнце</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/solnce.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Уникум</caption>
+			<channel_id>detskiy</channel_id>
+			<epg_id>Детский канал</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/detskiy.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>1HD</caption>
+			<channel_id>1hd</channel_id>
+			<epg_id>1HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/1hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MCM Top</caption>
+			<channel_id>mcmtop</channel_id>
+			<epg_id>MCM Top</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/mcmtop.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Hits</caption>
+			<channel_id>mtvhits</channel_id>
+			<epg_id>MTV Hits</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/mtvhits.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV 80s</caption>
+			<channel_id>vh1classic</channel_id>
+			<epg_id>MTV 80s</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/mtv80s.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV 90s</caption>
+			<channel_id>mtvrocks</channel_id>
+			<epg_id>MTV 90s</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/mtv90s.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Europe</caption>
+			<channel_id>mtveurope</channel_id>
+			<epg_id>MTV Europe</epg_id>
+			<icon_url>https://topiptv.in/img/logos/mtv.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RU.TV</caption>
+			<channel_id>rutv</channel_id>
+			<epg_id>RU.TV</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/rutv.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>МУЗ-ТВ</caption>
+			<channel_id>muztv</channel_id>
+			<epg_id>МУЗ-ТВ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/muztv.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Animal Planet HD</caption>
+			<channel_id>animalplanethd</channel_id>
+			<epg_id>Animal Planet HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/animalplanethd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>DTX</caption>
+			<channel_id>dtx</channel_id>
+			<epg_id>DTX</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/dtx.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Discovery HD</caption>
+			<channel_id>discoveryhd</channel_id>
+			<epg_id>Discovery HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/discovery.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Discovery Science HD</caption>
+			<channel_id>discoveryscience</channel_id>
+			<epg_id>Discovery Science HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/discoveryscience.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>HDL</caption>
+			<channel_id>hdlife</channel_id>
+			<epg_id>HDL</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/hdlife.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>History</caption>
+			<channel_id>history</channel_id>
+			<epg_id>History</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/history.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ID Xtra</caption>
+			<channel_id>idxtra</channel_id>
+			<epg_id>ID Xtra</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/idxtra.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nat Geo Wild HD</caption>
+			<channel_id>natgeowildhd</channel_id>
+			<epg_id>Nat Geo Wild HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/natgeowildhd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>National Geographic</caption>
+			<channel_id>nationalgeographic</channel_id>
+			<epg_id>National Geographic</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/nationalgeographic.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Travel Channel</caption>
+			<channel_id>travelchannel</channel_id>
+			<epg_id>Travel Channel</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/travelchannelhd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju Explore</caption>
+			<channel_id>viasatexplore</channel_id>
+			<epg_id>Viasat Explorer</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/viasatexplore.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Моя Планета</caption>
+			<channel_id>moyaplaneta</channel_id>
+			<epg_id>Моя Планета</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/moyaplaneta.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наука 2.0</caption>
+			<channel_id>nauka2</channel_id>
+			<epg_id>Наука 2.0</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/nauka2_0.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Охота и рыбалка</caption>
+			<channel_id>ohotairibalka</channel_id>
+			<epg_id>Охота и рыбалка</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/ohotairibalka.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 1 HD</caption>
+			<channel_id>eurosporthd</channel_id>
+			<epg_id>Eurosport 1 HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/eurosport1hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 2</caption>
+			<channel_id>eurosport2</channel_id>
+			<epg_id>Eurosport 2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/eurosport2.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KHL</caption>
+			<channel_id>khl</channel_id>
+			<epg_id>КХЛ-ТВ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/khl.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Авто24</caption>
+			<channel_id>avto24</channel_id>
+			<epg_id>Авто24</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/avto24.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Драйв ТВ</caption>
+			<channel_id>draiv</channel_id>
+			<epg_id>Драйв ТВ</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/draiv.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! SD</caption>
+			<channel_id>matchsd</channel_id>
+			<epg_id>Матч! SD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/match.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! HD</caption>
+			<channel_id>matchtvhd</channel_id>
+			<epg_id>Матч! HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/matchhd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 1</caption>
+			<channel_id>matchfutbol1</channel_id>
+			<epg_id>Матч! Футбол 1</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/matchfutbol1.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 2</caption>
+			<channel_id>matchfutbol2</channel_id>
+			<epg_id>Матч! Футбол 2</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/matchfutbol2.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 3</caption>
+			<channel_id>matchfutbol3</channel_id>
+			<epg_id>Матч! Футбол 3</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/matchfutbol3.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Футбол HD</caption>
+			<channel_id>futballhd</channel_id>
+			<epg_id>Футбол HD</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/futbol.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Playboy TV</caption>
+			<channel_id>playboytv</channel_id>
+			<epg_id>Playboy TV</epg_id>
+			<icon_url>https://s.topiptv.link/img/logos/playboytv.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+	</tv_channels>
+</tv_info>
+
