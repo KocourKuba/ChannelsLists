@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>7</list_version>
+		<list_version>8</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
 			<id>1</id>
 			<caption>RU Общероссийские</caption>
-			<icon_url>plugin_file://icons/1.png</icon_url>
+			<icon_url>plugin_file://icons/categories/1.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>2</id>
 			<caption>RU Региональные</caption>
-			<icon_url>plugin_file://icons/20.png</icon_url>
+			<icon_url>plugin_file://icons/categories/20.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>3</id>
 			<caption>RU Новости</caption>
-			<icon_url>plugin_file://icons/4.png</icon_url>
+			<icon_url>plugin_file://icons/categories/4.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>4</id>
 			<caption>RU Познавательные</caption>
-			<icon_url>plugin_file://icons/22.png</icon_url>
+			<icon_url>plugin_file://icons/categories/22.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>5</id>
 			<caption>RU Кино</caption>
-			<icon_url>plugin_file://icons/2.png</icon_url>
+			<icon_url>plugin_file://icons/categories/2.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>6</id>
 			<caption>RU Кинозал</caption>
-			<icon_url>plugin_file://icons/kinozal.png</icon_url>
+			<icon_url>plugin_file://icons/categories/kinozal.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>7</id>
 			<caption>RU Детские</caption>
-			<icon_url>plugin_file://icons/7.png</icon_url>
+			<icon_url>plugin_file://icons/categories/7.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>8</id>
 			<caption>RU Музыка</caption>
-			<icon_url>plugin_file://icons/3.png</icon_url>
+			<icon_url>plugin_file://icons/categories/3.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>9</id>
 			<caption>RU Спорт</caption>
-			<icon_url>plugin_file://icons/6.png</icon_url>
+			<icon_url>plugin_file://icons/categories/6.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>10</id>
 			<caption>XXX Adult</caption>
-			<icon_url>plugin_file://icons/33.png</icon_url>
+			<icon_url>plugin_file://icons/categories/33.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
-			<icon_url>plugin_file://icons/fav.png</icon_url>
+			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
 			<caption>Медиатека</caption>
-			<icon_url>plugin_file://icons/vod.png</icon_url>
+			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
 			<caption>Все каналы</caption>
-			<icon_url>plugin_file://icons/all.png</icon_url>
+			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
 			<caption>История</caption>
-			<icon_url>plugin_file://icons/history.png</icon_url>
+			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
 	</tv_categories>
@@ -559,6 +559,30 @@
 			<epg_id>6855</epg_id>
 			<tvg_id>6855</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/6855.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия К HD</caption>
+			<channel_id>5100</channel_id>
+			<epg_id>5100</epg_id>
+			<tvg_id>5100</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/5100.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ Центр HD</caption>
+			<channel_id>3334</channel_id>
+			<epg_id>3334</epg_id>
+			<tvg_id>3334</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/3334.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний HD</caption>
+			<channel_id>2291</channel_id>
+			<epg_id>2291</epg_id>
+			<tvg_id>2291</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/2291.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2004,7 +2028,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>BCU Cosmo h264</caption>
+			<caption>BCU Cosmo HDR</caption>
 			<channel_id>20846</channel_id>
 			<epg_id>20846</epg_id>
 			<tvg_id>20846</tvg_id>
@@ -2827,15 +2851,6 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>TV XXI</caption>
-			<channel_id>310</channel_id>
-			<epg_id>310</epg_id>
-			<tvg_id>310</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/310.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>viju TV1000</caption>
 			<channel_id>320</channel_id>
 			<epg_id>320</epg_id>
@@ -3630,6 +3645,54 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>ТВ-21</caption>
+			<channel_id>7014</channel_id>
+			<epg_id>7014</epg_id>
+			<tvg_id>7014</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/7014.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Победа HD</caption>
+			<channel_id>3084</channel_id>
+			<epg_id>3084</epg_id>
+			<tvg_id>3084</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/3084.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мосфильм. Золотая коллекция HD</caption>
+			<channel_id>4429</channel_id>
+			<epg_id>4429</epg_id>
+			<tvg_id>4429</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/4429.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cinema HD</caption>
+			<channel_id>2223</channel_id>
+			<epg_id>2223</epg_id>
+			<tvg_id>2223</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/2223.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лавстори HD</caption>
+			<channel_id>7012</channel_id>
+			<epg_id>7012</epg_id>
+			<tvg_id>7012</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/7012.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Индия</caption>
+			<channel_id>7013</channel_id>
+			<epg_id>7013</epg_id>
+			<tvg_id>7013</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/7013.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>BCU FANTASTIC HDR</caption>
 			<channel_id>21211</channel_id>
 			<epg_id>21211</epg_id>
@@ -4003,6 +4066,14 @@
 			<epg_id>21022</epg_id>
 			<tvg_id>21022</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/21022.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Russia 90s HD</caption>
+			<channel_id>21212</channel_id>
+			<epg_id>21212</epg_id>
+			<tvg_id>21212</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/21212.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4790,6 +4861,14 @@
 			<epg_id>21016</epg_id>
 			<tvg_id>21016</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/21016.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>192 TV</caption>
+			<channel_id>1192</channel_id>
+			<epg_id>1192</epg_id>
+			<tvg_id>1192</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/1192.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>

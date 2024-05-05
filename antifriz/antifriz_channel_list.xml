@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>7</list_version>
+		<list_version>8</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
 			<id>1</id>
 			<caption>Общероссийские</caption>
-			<icon_url>plugin_file://icons/1.png</icon_url>
+			<icon_url>plugin_file://icons/categories/1.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>2</id>
 			<caption>Новости</caption>
-			<icon_url>plugin_file://icons/4.png</icon_url>
+			<icon_url>plugin_file://icons/categories/4.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>3</id>
 			<caption>Кино</caption>
-			<icon_url>plugin_file://icons/2.png</icon_url>
+			<icon_url>plugin_file://icons/categories/2.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>4</id>
 			<caption>Спорт</caption>
-			<icon_url>plugin_file://icons/6.png</icon_url>
+			<icon_url>plugin_file://icons/categories/6.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>5</id>
 			<caption>Мультфильмы</caption>
-			<icon_url>plugin_file://icons/7.png</icon_url>
+			<icon_url>plugin_file://icons/categories/7.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>6</id>
 			<caption>Познавательные</caption>
-			<icon_url>plugin_file://icons/22.png</icon_url>
+			<icon_url>plugin_file://icons/categories/22.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>7</id>
 			<caption>Музыкальные</caption>
-			<icon_url>plugin_file://icons/3.png</icon_url>
+			<icon_url>plugin_file://icons/categories/3.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>8</id>
 			<caption>Ultra HD</caption>
-			<icon_url>plugin_file://icons/4k.png</icon_url>
+			<icon_url>plugin_file://icons/categories/4k.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>9</id>
 			<caption>XXX (18+)</caption>
-			<icon_url>plugin_file://icons/33.png</icon_url>
+			<icon_url>plugin_file://icons/categories/33.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
-			<icon_url>plugin_file://icons/fav.png</icon_url>
+			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
 			<caption>Медиатека</caption>
-			<icon_url>plugin_file://icons/vod.png</icon_url>
+			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
 			<caption>Все каналы</caption>
-			<icon_url>plugin_file://icons/all.png</icon_url>
+			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
 			<caption>История</caption>
-			<icon_url>plugin_file://icons/history.png</icon_url>
+			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
 	</tv_categories>
@@ -95,6 +95,7 @@
 			<caption>Первый HD</caption>
 			<channel_id>pervyj-hd-orig</channel_id>
 			<epg_id>pervyj-hd-orig</epg_id>
+			<tvg_id>pervyj-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/pervyj-hd.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -127,6 +128,7 @@
 			<caption>Россия 1 HD</caption>
 			<channel_id>rossija-hd-orig</channel_id>
 			<epg_id>rossija-hd-orig</epg_id>
+			<tvg_id>rossija-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/rossija-hd.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -159,6 +161,7 @@
 			<caption>НТВ HD</caption>
 			<channel_id>ntv-hd-orig</channel_id>
 			<epg_id>ntv-hd-orig</epg_id>
+			<tvg_id>ntv-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/ntv-hd.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -191,6 +194,7 @@
 			<caption>ТНТ HD</caption>
 			<channel_id>tnt-hd-orig</channel_id>
 			<epg_id>tnt-hd-orig</epg_id>
+			<tvg_id>tnt-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/2b113f5833baa9e5ecd986a38f369556.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -231,6 +235,7 @@
 			<caption>СТС HD</caption>
 			<channel_id>ctc-hd-orig</channel_id>
 			<epg_id>ctc-hd-orig</epg_id>
+			<tvg_id>ctc-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/ctc-hd.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -311,6 +316,7 @@
 			<caption>ТВ3 HD</caption>
 			<channel_id>tv3-hd-orig</channel_id>
 			<epg_id>tv3-hd-orig</epg_id>
+			<tvg_id>tv3-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/tv3-hd-orig.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -335,6 +341,7 @@
 			<caption>Звезда HD</caption>
 			<channel_id>zvezda-hd</channel_id>
 			<epg_id>zvezda-hd</epg_id>
+			<tvg_id>zvezda-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/f2b1554644034dba7e80709ec4255637.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -359,6 +366,7 @@
 			<caption>Звезда Плюс HD</caption>
 			<channel_id>zvezda-plus-hd</channel_id>
 			<epg_id>zvezda-plus-hd</epg_id>
+			<tvg_id>zvezda-plus-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/d79b0055c7a0b24d7da8c986504ec444.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -383,6 +391,7 @@
 			<caption>ТВЦ HD</caption>
 			<channel_id>tvc-hd-orig</channel_id>
 			<epg_id>tvc-hd-orig</epg_id>
+			<tvg_id>tvc-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/8d759e27b0bc5773bd46f5e29e79f19a.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -407,6 +416,7 @@
 			<caption>Россия Культура HD</caption>
 			<channel_id>rossija-k-hd</channel_id>
 			<epg_id>rossija-k-hd</epg_id>
+			<tvg_id>rossija-k-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/8d63142cc2202671e8ac563c85b76cb0.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -487,6 +497,7 @@
 			<caption>Мир HD</caption>
 			<channel_id>mir-hd</channel_id>
 			<epg_id>mir-hd</epg_id>
+			<tvg_id>mir-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/517e7fdfcab12896dc4a98cc38527bbf.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -503,6 +514,7 @@
 			<caption>Мир 24 HD</caption>
 			<channel_id>mir-24-hd</channel_id>
 			<epg_id>mir-24-hd</epg_id>
+			<tvg_id>mir-24-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/0a08948b5b2b17a759009932998a30fe.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -527,6 +539,7 @@
 			<caption>Gagsnetwork HD</caption>
 			<channel_id>gagsnetwork-hd</channel_id>
 			<epg_id>gagsnetwork-hd</epg_id>
+			<tvg_id>gagsnetwork-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/02906c0754f7066dbf890d4cdd43749f.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -559,6 +572,7 @@
 			<caption>Пятница HD</caption>
 			<channel_id>piatnica-hd-orig</channel_id>
 			<epg_id>piatnica-hd-orig</epg_id>
+			<tvg_id>piatnica-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/71e74d77d2a9f55f496870623e5f7203.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -591,6 +605,7 @@
 			<caption>Телеканал 360 HD</caption>
 			<channel_id>telekanal-360-hd</channel_id>
 			<epg_id>telekanal-360-hd</epg_id>
+			<tvg_id>telekanal-360-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/9358fc9d16cbb434631cb5542083bf14.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -623,6 +638,7 @@
 			<caption>RT Док HD</caption>
 			<channel_id>russia-today-doc-hd</channel_id>
 			<epg_id>russia-today-doc-hd</epg_id>
+			<tvg_id>russia-today-doc-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/russia-today-doc-hd.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
@@ -646,6 +662,7 @@
 			<caption>Дождь HD</caption>
 			<channel_id>dozhd-hd</channel_id>
 			<epg_id>dozhd-hd</epg_id>
+			<tvg_id>dozhd-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/e7b24387ac55fef8bccc61e6ad7ce9c9.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -654,6 +671,7 @@
 			<caption>Настоящее время HD</caption>
 			<channel_id>nastoyaschee-vremya-hd</channel_id>
 			<epg_id>nastoyaschee-vremya-hd</epg_id>
+			<tvg_id>nastoyaschee-vremya-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/nastoyaschee-vremya-hd.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -683,6 +701,7 @@
 			<caption>Известия HD</caption>
 			<channel_id>izvestija-hd</channel_id>
 			<epg_id>izvestija-hd</epg_id>
+			<tvg_id>izvestija-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/9239fbfc62b6981763605f9115911779.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -704,6 +723,7 @@
 			<caption>РБК HD</caption>
 			<channel_id>rbk-hd</channel_id>
 			<epg_id>rbk-hd</epg_id>
+			<tvg_id>rbk-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/d1f7535f078cc2243625e47986ffd91d.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>7</archive>
@@ -726,6 +746,7 @@
 			<caption>BBC World HD</caption>
 			<channel_id>bbc-world-news-hd</channel_id>
 			<epg_id>bbc-world-news-hd</epg_id>
+			<tvg_id>bbc-world-news-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/be74123a9a72dab0f82664c4804df20d.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -740,6 +761,7 @@
 			<caption>CNN HD</caption>
 			<channel_id>cnn-hd</channel_id>
 			<epg_id>cnn-hd</epg_id>
+			<tvg_id>cnn-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/6ea55f38d04ca6c24a37777c81b516b2.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -747,6 +769,7 @@
 			<caption>Al Jazeera HD</caption>
 			<channel_id>al-jazeera-hd</channel_id>
 			<epg_id>al-jazeera-hd</epg_id>
+			<tvg_id>al-jazeera-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/ce79433e2a4f213677c2a85091b5f8fe.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -761,6 +784,7 @@
 			<caption>RT HD</caption>
 			<channel_id>russia-today-hd</channel_id>
 			<epg_id>russia-today-hd</epg_id>
+			<tvg_id>russia-today-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/russia-today-hd.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -768,6 +792,7 @@
 			<caption>Bloomberg TV HD</caption>
 			<channel_id>bloomberg-hd</channel_id>
 			<epg_id>bloomberg-hd</epg_id>
+			<tvg_id>bloomberg-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/12966d52f4ca86aa0c4ae837211ccf2d.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -775,6 +800,7 @@
 			<caption>FOX News HD</caption>
 			<channel_id>fox-news-hd</channel_id>
 			<epg_id>fox-news-hd</epg_id>
+			<tvg_id>fox-news-hd</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/446200c5785de2cc5618705bbdacd4fb.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -2110,6 +2136,7 @@
 			<caption>МАТЧ! Футбол 1 HD</caption>
 			<channel_id>match-futbol-1-hd-orig</channel_id>
 			<epg_id>match-futbol-1-hd-orig</epg_id>
+			<tvg_id>match-futbol-1-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/match-futbol-1-hd-orig.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2134,6 +2161,7 @@
 			<caption>МАТЧ! Футбол 2 HD</caption>
 			<channel_id>match-futbol-2-hd-orig</channel_id>
 			<epg_id>match-futbol-2-hd-orig</epg_id>
+			<tvg_id>match-futbol-2-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/match-futbol-2-hd-orig.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2158,6 +2186,7 @@
 			<caption>МАТЧ! Футбол 3 HD</caption>
 			<channel_id>match-futbol-3-hd-orig</channel_id>
 			<epg_id>match-futbol-3-hd-orig</epg_id>
+			<tvg_id>match-futbol-3-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/match-futbol-3-hd-orig.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2182,6 +2211,7 @@
 			<caption>Матч ТВ HD</caption>
 			<channel_id>match-tv-hd-orig</channel_id>
 			<epg_id>match-tv-hd-orig</epg_id>
+			<tvg_id>match-tv-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/match-tv-hd-orig.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2206,6 +2236,7 @@
 			<caption>Матч! Игра HD</caption>
 			<channel_id>match-igra-hd-orig</channel_id>
 			<epg_id>match-igra-hd-orig</epg_id>
+			<tvg_id>match-igra-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/match-igra-hd-orig.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2230,6 +2261,7 @@
 			<caption>Матч! Арена HD</caption>
 			<channel_id>match-arena-hd-orig</channel_id>
 			<epg_id>match-arena-hd-orig</epg_id>
+			<tvg_id>match-arena-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/match-arena-hd-orig.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2286,6 +2318,7 @@
 			<caption>KHL HD</caption>
 			<channel_id>khl-tv-hd-orig</channel_id>
 			<epg_id>khl-tv-hd-orig</epg_id>
+			<tvg_id>khl-tv-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/595f89949a3926940fb1332fb8d4125a.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2302,6 +2335,7 @@
 			<caption>KHL Prime HD</caption>
 			<channel_id>khl-prime-hd-orig</channel_id>
 			<epg_id>khl-prime-hd-orig</epg_id>
+			<tvg_id>khl-prime-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/1fa4998aac61e5e927c782df2759dacd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2414,6 +2448,7 @@
 			<caption>Eurosport 1 HD</caption>
 			<channel_id>eurosport-hd-orig</channel_id>
 			<epg_id>eurosport-hd-orig</epg_id>
+			<tvg_id>eurosport-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/eurosport-hd-orig.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2438,6 +2473,7 @@
 			<caption>Eurosport 2 HD</caption>
 			<channel_id>eurosport2-hd-orig</channel_id>
 			<epg_id>eurosport2-hd-orig</epg_id>
+			<tvg_id>eurosport2-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/channel_logos/eurosport2-hd-orig.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2454,6 +2490,7 @@
 			<caption>Setanta Sports 1 HD</caption>
 			<channel_id>setanta-sport-hd-orig</channel_id>
 			<epg_id>setanta-sport-hd-orig</epg_id>
+			<tvg_id>setanta-sport-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/cabf494693d70250d5c1af917e4439da.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2470,6 +2507,7 @@
 			<caption>Setanta Sports 2 HD</caption>
 			<channel_id>setanta-sport-plus-hd-orig</channel_id>
 			<epg_id>setanta-sport-plus-hd-orig</epg_id>
+			<tvg_id>setanta-sport-plus-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/81c86f27c91049785d590a7b625951d8.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2486,6 +2524,7 @@
 			<caption>Setanta Sports UA HD</caption>
 			<channel_id>setanta-sport-ua-hd-orig</channel_id>
 			<epg_id>setanta-sport-ua-hd-orig</epg_id>
+			<tvg_id>setanta-sport-ua-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/520ecf29204db87e855f583bde8193d4.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2502,6 +2541,7 @@
 			<caption>Setanta Sports + UA HD</caption>
 			<channel_id>setanta-sport-plus-ua-hd-orig</channel_id>
 			<epg_id>setanta-sport-plus-ua-hd-orig</epg_id>
+			<tvg_id>setanta-sport-plus-ua-hd-orig</tvg_id>
 			<icon_url>http://af-play.com/storage/images/pack_logos/67242a615b18517824ecb1f5529fdb5c.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>

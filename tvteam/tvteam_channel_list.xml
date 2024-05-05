@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>7</list_version>
+		<list_version>8</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
 			<id>1</id>
 			<caption>Федеральные</caption>
-			<icon_url>plugin_file://icons/1.png</icon_url>
+			<icon_url>plugin_file://icons/categories/1.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>2</id>
 			<caption>Новостные</caption>
-			<icon_url>plugin_file://icons/4.png</icon_url>
+			<icon_url>plugin_file://icons/categories/4.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>3</id>
 			<caption>Кино</caption>
-			<icon_url>plugin_file://icons/2.png</icon_url>
+			<icon_url>plugin_file://icons/categories/2.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>5</id>
 			<caption>Кинозалы</caption>
-			<icon_url>plugin_file://icons/kinozal.png</icon_url>
+			<icon_url>plugin_file://icons/categories/kinozal.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>6</id>
 			<caption>UHD</caption>
-			<icon_url>plugin_file://icons/4k.png</icon_url>
+			<icon_url>plugin_file://icons/categories/4k.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>7</id>
 			<caption>Детские</caption>
-			<icon_url>plugin_file://icons/7.png</icon_url>
+			<icon_url>plugin_file://icons/categories/7.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>8</id>
 			<caption>Спорт</caption>
-			<icon_url>plugin_file://icons/6.png</icon_url>
+			<icon_url>plugin_file://icons/categories/6.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>9</id>
 			<caption>Музыкальные</caption>
-			<icon_url>plugin_file://icons/3.png</icon_url>
+			<icon_url>plugin_file://icons/categories/3.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>10</id>
 			<caption>Образовательные</caption>
-			<icon_url>plugin_file://icons/22.png</icon_url>
+			<icon_url>plugin_file://icons/categories/22.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>11</id>
 			<caption>Природа</caption>
-			<icon_url>plugin_file://icons/9.png</icon_url>
+			<icon_url>plugin_file://icons/categories/9.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>12</id>
 			<caption>Разное</caption>
-			<icon_url>plugin_file://icons/5.png</icon_url>
+			<icon_url>plugin_file://icons/categories/5.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>13</id>
 			<caption>For Adults</caption>
-			<icon_url>plugin_file://icons/33.png</icon_url>
+			<icon_url>plugin_file://icons/categories/33.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
-			<icon_url>plugin_file://icons/fav.png</icon_url>
+			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
 			<caption>Все каналы</caption>
-			<icon_url>plugin_file://icons/all.png</icon_url>
+			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
 			<caption>История</caption>
-			<icon_url>plugin_file://icons/history.png</icon_url>
+			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
 	</tv_categories>
@@ -540,7 +540,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>BCU Cosma OLD</caption>
+			<caption>BCU Cosmo HDR</caption>
 			<channel_id>ch1003</channel_id>
 			<epg_id>ch1003</epg_id>
 			<tvg_id>ch1003</tvg_id>
@@ -1236,7 +1236,7 @@
 			<tvg_id>ch1011</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1011.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>UK: Alibi HD</caption>
@@ -1245,7 +1245,7 @@
 			<tvg_id>ch1012</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1012.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>UK: Colors HD</caption>
@@ -2494,7 +2494,7 @@
 			<tvg_id>ch140</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/140.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ЕвроКино</caption>
@@ -2773,7 +2773,7 @@
 			<tvg_id>ch131</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/131.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Наше Мужское HD</caption>
@@ -2983,7 +2983,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VHS HD</caption>
+			<caption>VHS-ка HD</caption>
 			<channel_id>ch383</channel_id>
 			<epg_id>ch383</epg_id>
 			<tvg_id>ch383</tvg_id>
@@ -3037,7 +3037,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>BOX Franchise HD</caption>
+			<caption>BOX Franchise HDR</caption>
 			<channel_id>ch2288</channel_id>
 			<epg_id>ch2288</epg_id>
 			<tvg_id>ch2288</tvg_id>
@@ -4320,7 +4320,7 @@
 			<tvg_id>ch1123</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1123.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-			<archive>6</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4k Deep House</caption>
@@ -4992,7 +4992,7 @@
 			<tvg_id>ch040</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/40.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
+			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Лёва</caption>
@@ -5102,12 +5102,13 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Baby Time</caption>
+			<caption>VeleS Комедия</caption>
 			<channel_id>ch2314</channel_id>
 			<epg_id>ch2314</epg_id>
 			<tvg_id>ch2314</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/2314.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Yosso TV Disney</caption>
@@ -5418,7 +5419,7 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>BOX Be ON Edge 1 Live HD</caption>
+			<caption>Box Be ON Edge 1 Live HD</caption>
 			<channel_id>ch2283</channel_id>
 			<epg_id>ch2283</epg_id>
 			<tvg_id>ch2283</tvg_id>
@@ -5427,7 +5428,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>BOX Be ON Edge 2 Live HD</caption>
+			<caption>Box Be ON Edge 2 Live HD</caption>
 			<channel_id>ch2284</channel_id>
 			<epg_id>ch2284</epg_id>
 			<tvg_id>ch2284</tvg_id>
@@ -5436,7 +5437,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>BOX Be ON Edge HD</caption>
+			<caption>Box Be ON Edge HD</caption>
 			<channel_id>ch2282</channel_id>
 			<epg_id>ch2282</epg_id>
 			<tvg_id>ch2282</tvg_id>
@@ -6222,7 +6223,7 @@
 			<tvg_id>ch333</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/333.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>2</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>UK: TNT Sport 1 HD</caption>
@@ -6891,7 +6892,7 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>BOX SportCast Live 9</caption>
+			<caption>Box Sport Cast Live 9</caption>
 			<channel_id>ch700</channel_id>
 			<epg_id>ch700</epg_id>
 			<tvg_id>ch700</tvg_id>
@@ -6941,7 +6942,7 @@
 			<tvg_id>ch2339</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/2339.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
+			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Box Sport Cast 5 Live</caption>
@@ -7200,7 +7201,7 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Box Sportcast HD</caption>
+			<caption>Box Sport Cast HD</caption>
 			<channel_id>ch2467</channel_id>
 			<epg_id>ch2467</epg_id>
 			<tvg_id>ch2467</tvg_id>
@@ -7275,7 +7276,7 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>BOX Be ON Edge Live 3 HD</caption>
+			<caption>Box Be ON Edge Live 3 HD</caption>
 			<channel_id>ch711</channel_id>
 			<epg_id>ch711</epg_id>
 			<tvg_id>ch711</tvg_id>
@@ -7283,7 +7284,7 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>BOX SportCast Live 8</caption>
+			<caption>Box Sport Cast Live 8</caption>
 			<channel_id>ch1819</channel_id>
 			<epg_id>ch1819</epg_id>
 			<tvg_id>ch1819</tvg_id>
@@ -8330,7 +8331,7 @@
 			<tvg_id>ch723</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/723.png</icon_url>
 			<tv_category_id>10</tv_category_id>
-			<archive>2</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>History HD</caption>
@@ -8348,7 +8349,7 @@
 			<tvg_id>ch433</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/433.png</icon_url>
 			<tv_category_id>10</tv_category_id>
-			<archive>2</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Investigation Discovery CEE HD</caption>
@@ -9261,7 +9262,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Womens Magazine</caption>
+			<caption>Arajin Aliq USA</caption>
 			<channel_id>ch2068</channel_id>
 			<epg_id>ch2068</epg_id>
 			<tvg_id>ch2068</tvg_id>

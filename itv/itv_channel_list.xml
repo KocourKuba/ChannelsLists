@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>7</list_version>
+		<list_version>8</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
 			<id>1</id>
 			<caption>Основной</caption>
-			<icon_url>plugin_file://icons/1.png</icon_url>
+			<icon_url>plugin_file://icons/categories/1.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>2</id>
 			<caption>Кино</caption>
-			<icon_url>plugin_file://icons/2.png</icon_url>
+			<icon_url>plugin_file://icons/categories/2.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>3</id>
 			<caption>Спорт</caption>
-			<icon_url>plugin_file://icons/6.png</icon_url>
+			<icon_url>plugin_file://icons/categories/6.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>4</id>
 			<caption>Познавательный</caption>
-			<icon_url>plugin_file://icons/22.png</icon_url>
+			<icon_url>plugin_file://icons/categories/22.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>5</id>
 			<caption>Музыкальный</caption>
-			<icon_url>plugin_file://icons/3.png</icon_url>
+			<icon_url>plugin_file://icons/categories/3.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>6</id>
 			<caption>Детский</caption>
-			<icon_url>plugin_file://icons/7.png</icon_url>
+			<icon_url>plugin_file://icons/categories/7.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>7</id>
 			<caption>Full каналы</caption>
-			<icon_url>plugin_file://icons/15.png</icon_url>
+			<icon_url>plugin_file://icons/categories/15.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>8</id>
 			<caption>Взрослый</caption>
-			<icon_url>plugin_file://icons/33.png</icon_url>
+			<icon_url>plugin_file://icons/categories/33.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>9</id>
 			<caption>Взрослый Full</caption>
-			<icon_url>plugin_file://icons/33HD.png</icon_url>
+			<icon_url>plugin_file://icons/categories/33HD.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
-			<icon_url>plugin_file://icons/fav.png</icon_url>
+			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
 			<caption>Все каналы</caption>
-			<icon_url>plugin_file://icons/all.png</icon_url>
+			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
 			<caption>История</caption>
-			<icon_url>plugin_file://icons/history.png</icon_url>
+			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
 	</tv_categories>
@@ -158,7 +158,7 @@
 			<archive>10</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Домашний</caption>
+			<caption>Домашний HD</caption>
 			<channel_id>ch036</channel_id>
 			<epg_id>ch036</epg_id>
 			<icon_url>http://api.01cdn.wf/icon/ch036.png</icon_url>
@@ -203,7 +203,7 @@
 			<epg_id>ch046</epg_id>
 			<icon_url>http://api.01cdn.wf/icon/ch046.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>10</archive>
+			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Дождь</caption>
@@ -1606,26 +1606,10 @@
 			<archive>10</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Animal Planet</caption>
-			<channel_id>ch050</channel_id>
-			<epg_id>ch050</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch050.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>10</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Discovery Channel HD</caption>
 			<channel_id>ch179</channel_id>
 			<epg_id>ch179</epg_id>
 			<icon_url>http://api.01cdn.wf/icon/ch179.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>10</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>DocuBox HD</caption>
-			<channel_id>ch350</channel_id>
-			<epg_id>ch350</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch350.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>10</archive>
 		</tv_channel>
@@ -1730,14 +1714,6 @@
 			<channel_id>ch402</channel_id>
 			<epg_id>ch402</epg_id>
 			<icon_url>http://api.01cdn.wf/icon/ch402.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>10</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>viju Explore HD</caption>
-			<channel_id>ch048</channel_id>
-			<epg_id>ch048</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch048.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>10</archive>
 		</tv_channel>
@@ -2022,7 +1998,7 @@
 			<archive>10</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MTV Hits</caption>
+			<caption>DW Russian</caption>
 			<channel_id>ch132</channel_id>
 			<epg_id>ch132</epg_id>
 			<icon_url>http://api.01cdn.wf/icon/ch132.png</icon_url>
@@ -2299,7 +2275,7 @@
 			<epg_id>ch081</epg_id>
 			<icon_url>http://api.01cdn.wf/icon/ch081.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-			<archive>10</archive>
+			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Мульт HD</caption>
@@ -2948,14 +2924,6 @@
 			<icon_url>http://api.01cdn.wf/icon/ch921.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Russian MusicBox HD</caption>
-			<channel_id>ch873</channel_id>
-			<epg_id>ch873</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch873.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Hustler HD</caption>

@@ -1,91 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>7</list_version>
+		<list_version>8</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
 			<id>1</id>
 			<caption>Федеральные</caption>
-			<icon_url>plugin_file://icons/1.png</icon_url>
+			<icon_url>plugin_file://icons/categories/1.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>2</id>
 			<caption>Новостные</caption>
-			<icon_url>plugin_file://icons/4.png</icon_url>
+			<icon_url>plugin_file://icons/categories/4.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>3</id>
 			<caption>Кино</caption>
-			<icon_url>plugin_file://icons/2.png</icon_url>
+			<icon_url>plugin_file://icons/categories/2.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>4</id>
 			<caption>Кинозалы</caption>
-			<icon_url>plugin_file://icons/kinozal.png</icon_url>
+			<icon_url>plugin_file://icons/categories/kinozal.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>5</id>
 			<caption>Мужские</caption>
-			<icon_url>plugin_file://icons/21.png</icon_url>
+			<icon_url>plugin_file://icons/categories/21.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>6</id>
 			<caption>Региональные</caption>
-			<icon_url>plugin_file://icons/20.png</icon_url>
+			<icon_url>plugin_file://icons/categories/20.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>7</id>
 			<caption>Детские</caption>
-			<icon_url>plugin_file://icons/7.png</icon_url>
+			<icon_url>plugin_file://icons/categories/7.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>8</id>
 			<caption>Познавательные</caption>
-			<icon_url>plugin_file://icons/22.png</icon_url>
+			<icon_url>plugin_file://icons/categories/22.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>9</id>
 			<caption>Развлекательные</caption>
-			<icon_url>plugin_file://icons/8.png</icon_url>
+			<icon_url>plugin_file://icons/categories/8.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>10</id>
 			<caption>Музыкальные</caption>
-			<icon_url>plugin_file://icons/3.png</icon_url>
+			<icon_url>plugin_file://icons/categories/3.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>11</id>
 			<caption>Спортивные</caption>
-			<icon_url>plugin_file://icons/6.png</icon_url>
+			<icon_url>plugin_file://icons/categories/6.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>12</id>
 			<caption>Взрослые</caption>
-			<icon_url>plugin_file://icons/33.png</icon_url>
+			<icon_url>plugin_file://icons/categories/33.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
-			<icon_url>plugin_file://icons/fav.png</icon_url>
+			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
 			<caption>Медиатека</caption>
-			<icon_url>plugin_file://icons/vod.png</icon_url>
+			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
 			<caption>Все каналы</caption>
-			<icon_url>plugin_file://icons/all.png</icon_url>
+			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
 			<caption>История</caption>
-			<icon_url>plugin_file://icons/history.png</icon_url>
+			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
 	</tv_categories>
@@ -781,22 +781,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Star Cinema</caption>
-			<channel_id>407</channel_id>
-			<epg_id>407</epg_id>
-			<icon_url>http://epg.cdntv.online/img/407.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Star Cinema HD</caption>
-			<channel_id>507</channel_id>
-			<epg_id>507</epg_id>
-			<icon_url>http://epg.cdntv.online/img/507.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>TV XXI</caption>
 			<channel_id>100</channel_id>
 			<epg_id>100</epg_id>
@@ -1449,11 +1433,36 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Cinema Classic</caption>
-			<channel_id>1353</channel_id>
-			<epg_id>1353</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1353.png</icon_url>
-			<tv_category_id>4</tv_category_id>
+			<caption>Киноужас</caption>
+			<channel_id>509</channel_id>
+			<epg_id>509</epg_id>
+			<icon_url>http://epg.cdntv.online/img/509.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Криминальное HD</caption>
+			<channel_id>1507</channel_id>
+			<epg_id>1507</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1507.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Советская киноклассика</caption>
+			<channel_id>1590</channel_id>
+			<epg_id>1590</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1590.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>START Air</caption>
+			<channel_id>1641</channel_id>
+			<epg_id>1641</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1641.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>KLI Action HD</caption>
@@ -1885,6 +1894,527 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Кино</caption>
+			<channel_id>877</channel_id>
+			<epg_id>877</epg_id>
+			<icon_url>http://epg.cdntv.online/img/877.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>kino 1</caption>
+			<channel_id>878</channel_id>
+			<epg_id>878</epg_id>
+			<icon_url>http://epg.cdntv.online/img/878.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KINO 2</caption>
+			<channel_id>879</channel_id>
+			<epg_id>879</epg_id>
+			<icon_url>http://epg.cdntv.online/img/879.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>kino 3</caption>
+			<channel_id>880</channel_id>
+			<epg_id>880</epg_id>
+			<icon_url>http://epg.cdntv.online/img/880.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кошмар</caption>
+			<channel_id>881</channel_id>
+			<epg_id>881</epg_id>
+			<icon_url>http://epg.cdntv.online/img/881.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Series novels</caption>
+			<channel_id>882</channel_id>
+			<epg_id>882</epg_id>
+			<icon_url>http://epg.cdntv.online/img/882.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Видеокассета</caption>
+			<channel_id>884</channel_id>
+			<epg_id>884</epg_id>
+			<icon_url>http://epg.cdntv.online/img/884.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>PRO100 TV</caption>
+			<channel_id>885</channel_id>
+			<epg_id>885</epg_id>
+			<icon_url>http://epg.cdntv.online/img/885.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KINO 24</caption>
+			<channel_id>886</channel_id>
+			<epg_id>886</epg_id>
+			<icon_url>http://epg.cdntv.online/img/886.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Histori novels</caption>
+			<channel_id>887</channel_id>
+			<epg_id>887</epg_id>
+			<icon_url>http://epg.cdntv.online/img/887.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино 4</caption>
+			<channel_id>889</channel_id>
+			<epg_id>889</epg_id>
+			<icon_url>http://epg.cdntv.online/img/889.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>STR TV</caption>
+			<channel_id>892</channel_id>
+			<epg_id>892</epg_id>
+			<icon_url>http://epg.cdntv.online/img/892.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Promo</caption>
+			<channel_id>895</channel_id>
+			<epg_id>895</epg_id>
+			<icon_url>http://epg.cdntv.online/img/895.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ужастик</caption>
+			<channel_id>896</channel_id>
+			<epg_id>896</epg_id>
+			<icon_url>http://epg.cdntv.online/img/896.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Фантастика</caption>
+			<channel_id>898</channel_id>
+			<epg_id>898</epg_id>
+			<icon_url>http://epg.cdntv.online/img/898.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>1Filmax</caption>
+			<channel_id>1169</channel_id>
+			<epg_id>1169</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1169.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>2Filmax</caption>
+			<channel_id>1170</channel_id>
+			<epg_id>1170</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1170.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Film tv</caption>
+			<channel_id>1171</channel_id>
+			<epg_id>1171</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1171.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Фантом</caption>
+			<channel_id>1172</channel_id>
+			<epg_id>1172</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1172.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Фантастика HD</caption>
+			<channel_id>1173</channel_id>
+			<epg_id>1173</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1173.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Страх HD</caption>
+			<channel_id>1174</channel_id>
+			<epg_id>1174</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1174.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Видеосалон</caption>
+			<channel_id>1175</channel_id>
+			<epg_id>1175</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1175.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>VL Holiday</caption>
+			<channel_id>1350</channel_id>
+			<epg_id>1350</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1350.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI NETFLIX HD</caption>
+			<channel_id>1499</channel_id>
+			<epg_id>1499</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1499.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Millennium</caption>
+			<channel_id>1500</channel_id>
+			<epg_id>1500</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1500.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Marvel HD</caption>
+			<channel_id>1501</channel_id>
+			<epg_id>1501</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1501.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Детективный</caption>
+			<channel_id>1505</channel_id>
+			<epg_id>1505</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1505.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Твое ТВ Юмор</caption>
+			<channel_id>1511</channel_id>
+			<epg_id>1511</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1511.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Epoch HD</caption>
+			<channel_id>1512</channel_id>
+			<epg_id>1512</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1512.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Heroes HD</caption>
+			<channel_id>1513</channel_id>
+			<epg_id>1513</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1513.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Dance HD</caption>
+			<channel_id>1514</channel_id>
+			<epg_id>1514</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1514.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Spirit HD</caption>
+			<channel_id>1515</channel_id>
+			<epg_id>1515</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1515.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Fight HD</caption>
+			<channel_id>1516</channel_id>
+			<epg_id>1516</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1516.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Series HD</caption>
+			<channel_id>1517</channel_id>
+			<epg_id>1517</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1517.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Man HD</caption>
+			<channel_id>1518</channel_id>
+			<epg_id>1518</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1518.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Concert HD</caption>
+			<channel_id>1519</channel_id>
+			<epg_id>1519</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1519.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Fresh HDR HD</caption>
+			<channel_id>1520</channel_id>
+			<epg_id>1520</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1520.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Future HD</caption>
+			<channel_id>1521</channel_id>
+			<epg_id>1521</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1521.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Bunny HD</caption>
+			<channel_id>1522</channel_id>
+			<epg_id>1522</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1522.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Fresh HD</caption>
+			<channel_id>1523</channel_id>
+			<epg_id>1523</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1523.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High 3D</caption>
+			<channel_id>1525</channel_id>
+			<epg_id>1525</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1525.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High By Slonka</caption>
+			<channel_id>1526</channel_id>
+			<epg_id>1526</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1526.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Classic HD</caption>
+			<channel_id>1527</channel_id>
+			<epg_id>1527</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1527.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Russian HD</caption>
+			<channel_id>1530</channel_id>
+			<epg_id>1530</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1530.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High New 60</caption>
+			<channel_id>1531</channel_id>
+			<epg_id>1531</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1531.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Kids USSR</caption>
+			<channel_id>1532</channel_id>
+			<epg_id>1532</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1532.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Anime HD</caption>
+			<channel_id>1533</channel_id>
+			<epg_id>1533</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1533.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Doc UHD</caption>
+			<channel_id>1535</channel_id>
+			<epg_id>1535</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1535.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High UHD HDR</caption>
+			<channel_id>1536</channel_id>
+			<epg_id>1536</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1536.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High VHS UHD</caption>
+			<channel_id>1537</channel_id>
+			<epg_id>1537</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1537.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Doc HD</caption>
+			<channel_id>1538</channel_id>
+			<epg_id>1538</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1538.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Brain HD</caption>
+			<channel_id>1539</channel_id>
+			<epg_id>1539</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1539.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Standup HD</caption>
+			<channel_id>1542</channel_id>
+			<epg_id>1542</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1542.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High LO FI HD</caption>
+			<channel_id>1543</channel_id>
+			<epg_id>1543</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1543.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MS Animated</caption>
+			<channel_id>1545</channel_id>
+			<epg_id>1545</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1545.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Music HD</caption>
+			<channel_id>1551</channel_id>
+			<epg_id>1551</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1551.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MS Animated HD</caption>
+			<channel_id>1552</channel_id>
+			<epg_id>1552</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1552.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MS Crime HD</caption>
+			<channel_id>1553</channel_id>
+			<epg_id>1553</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1553.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MS Prisons HD</caption>
+			<channel_id>1554</channel_id>
+			<epg_id>1554</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1554.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MS Toons HD</caption>
+			<channel_id>1555</channel_id>
+			<epg_id>1555</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1555.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MS Young Blood HD</caption>
+			<channel_id>1556</channel_id>
+			<epg_id>1556</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1556.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MS Magic HD</caption>
+			<channel_id>1557</channel_id>
+			<epg_id>1557</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1557.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Глухарь + Карпов</caption>
+			<channel_id>1580</channel_id>
+			<epg_id>1580</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1580.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Интерны</caption>
+			<channel_id>1581</channel_id>
+			<epg_id>1581</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1581.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Универ</caption>
+			<channel_id>1582</channel_id>
+			<epg_id>1582</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1582.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Фитнес</caption>
+			<channel_id>1588</channel_id>
+			<epg_id>1588</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1588.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинозал.ТВ</caption>
+			<channel_id>1589</channel_id>
+			<epg_id>1589</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1589.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ClarityHD American Football</caption>
+			<channel_id>1642</channel_id>
+			<epg_id>1642</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1642.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>INSIDER</caption>
+			<channel_id>1643</channel_id>
+			<epg_id>1643</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1643.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ClarityHD FishingTV</caption>
+			<channel_id>1644</channel_id>
+			<epg_id>1644</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1644.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем - КиноДетектив</caption>
+			<channel_id>1673</channel_id>
+			<epg_id>1673</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1673.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем - КиноКомедия</caption>
+			<channel_id>1674</channel_id>
+			<epg_id>1674</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1674.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем - КиноЭкшен</caption>
+			<channel_id>1675</channel_id>
+			<epg_id>1675</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1675.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем - КиноМистика</caption>
+			<channel_id>1676</channel_id>
+			<epg_id>1676</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1676.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Авто 24</caption>
 			<channel_id>265</channel_id>
 			<epg_id>265</epg_id>
@@ -1991,13 +2521,6 @@
 			<channel_id>187</channel_id>
 			<epg_id>187</epg_id>
 			<icon_url>http://epg.cdntv.online/img/187.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>47 Канал</caption>
-			<channel_id>188</channel_id>
-			<epg_id>188</epg_id>
-			<icon_url>http://epg.cdntv.online/img/188.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3003,6 +3526,20 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Новгородское областное ТВ</caption>
+			<channel_id>1494</channel_id>
+			<epg_id>1494</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1494.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>10 Канал (Мордовия)</caption>
+			<channel_id>1672</channel_id>
+			<epg_id>1672</epg_id>
+			<icon_url>http://epg.cdntv.online/img/1672.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Карусель</caption>
 			<channel_id>8</channel_id>
 			<epg_id>8</epg_id>
@@ -3577,6 +4114,7 @@
 			<epg_id>412</epg_id>
 			<icon_url>http://epg.cdntv.online/img/412.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Красная линия</caption>
@@ -3682,14 +4220,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТномеР</caption>
-			<channel_id>355</channel_id>
-			<epg_id>355</epg_id>
-			<icon_url>http://epg.cdntv.online/img/355.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Центральное телевидение</caption>
 			<channel_id>359</channel_id>
 			<epg_id>359</epg_id>
@@ -3743,13 +4273,6 @@
 			<icon_url>http://epg.cdntv.online/img/466.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>7D7 TV</caption>
-			<channel_id>42</channel_id>
-			<epg_id>42</epg_id>
-			<icon_url>http://epg.cdntv.online/img/42.png</icon_url>
-			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ACB TV</caption>
@@ -4124,14 +4647,6 @@
 			<epg_id>67</epg_id>
 			<icon_url>http://epg.cdntv.online/img/67.png</icon_url>
 			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HOT ROCK TV</caption>
-			<channel_id>83</channel_id>
-			<epg_id>83</epg_id>
-			<icon_url>http://epg.cdntv.online/img/83.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MCM Top</caption>

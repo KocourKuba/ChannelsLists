@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>7</list_version>
+		<list_version>8</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
 			<id>1</id>
 			<caption>Россия</caption>
-			<icon_url>plugin_file://icons/ru.png</icon_url>
+			<icon_url>plugin_file://icons/categories/ru.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>2</id>
 			<caption>Россия региональные</caption>
-			<icon_url>plugin_file://icons/20.png</icon_url>
+			<icon_url>plugin_file://icons/categories/20.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>4</id>
 			<caption>Новости</caption>
-			<icon_url>plugin_file://icons/4.png</icon_url>
+			<icon_url>plugin_file://icons/categories/4.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>5</id>
 			<caption>Детские</caption>
-			<icon_url>plugin_file://icons/7.png</icon_url>
+			<icon_url>plugin_file://icons/categories/7.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>6</id>
 			<caption>Спортивные</caption>
-			<icon_url>plugin_file://icons/6.png</icon_url>
+			<icon_url>plugin_file://icons/categories/6.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>7</id>
 			<caption>Фильмовые</caption>
-			<icon_url>plugin_file://icons/2.png</icon_url>
+			<icon_url>plugin_file://icons/categories/2.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>8</id>
 			<caption>Фильмография</caption>
-			<icon_url>plugin_file://icons/kinozal.png</icon_url>
+			<icon_url>plugin_file://icons/categories/kinozal.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>9</id>
 			<caption>Сериалы</caption>
-			<icon_url>plugin_file://icons/5.png</icon_url>
+			<icon_url>plugin_file://icons/categories/5.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>10</id>
 			<caption>Познавательные</caption>
-			<icon_url>plugin_file://icons/22.png</icon_url>
+			<icon_url>plugin_file://icons/categories/22.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>11</id>
 			<caption>Развлекательные</caption>
-			<icon_url>plugin_file://icons/8.png</icon_url>
+			<icon_url>plugin_file://icons/categories/8.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>12</id>
 			<caption>Музыкальные</caption>
-			<icon_url>plugin_file://icons/3.png</icon_url>
+			<icon_url>plugin_file://icons/categories/3.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>13</id>
 			<caption>4К</caption>
-			<icon_url>plugin_file://icons/4k.png</icon_url>
+			<icon_url>plugin_file://icons/categories/4k.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>14</id>
 			<caption>XXX</caption>
-			<icon_url>plugin_file://icons/33.png</icon_url>
+			<icon_url>plugin_file://icons/categories/33.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
-			<icon_url>plugin_file://icons/fav.png</icon_url>
+			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
 			<caption>Все каналы</caption>
-			<icon_url>plugin_file://icons/all.png</icon_url>
+			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
 			<caption>История</caption>
-			<icon_url>plugin_file://icons/history.png</icon_url>
+			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
 	</tv_categories>
@@ -1822,14 +1822,6 @@
 			<channel_id>1252</channel_id>
 			<epg_id>78kanal</epg_id>
 			<icon_url>https://epgx.site/p/78.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ростов-папа</caption>
-			<channel_id>1253</channel_id>
-			<epg_id>rostov-papa</epg_id>
-			<icon_url>https://epgx.site/p/rostov-papa.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -10658,6 +10650,14 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>MiTV Звездный путь сериал</caption>
+			<channel_id>12278</channel_id>
+			<epg_id>MiTV Звездный путь сериал</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Viju Explore</caption>
 			<channel_id>ViasatExplore</channel_id>
 			<epg_id>viasat-explore</epg_id>
@@ -13995,6 +13995,69 @@
 			<caption>Adult 5</caption>
 			<channel_id>1717</channel_id>
 			<epg_id>Adult 5</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<archive>14</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Charm HD</caption>
+			<channel_id>754</channel_id>
+			<epg_id>bcu-charm</epg_id>
+			<icon_url>https://epgx.site/p/bcu-charm.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<archive>14</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kinoshka Adult HD</caption>
+			<channel_id>762</channel_id>
+			<epg_id>iptv6320</epg_id>
+			<icon_url>http://epg.it999.ru/img/6320.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<archive>14</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineManExExEx</caption>
+			<channel_id>3083</channel_id>
+			<epg_id>CineManExExEx</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<archive>14</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineManExExEx TWO</caption>
+			<channel_id>3084</channel_id>
+			<epg_id>CineManExExEx TWO</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<archive>14</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>XYPlus HD</caption>
+			<channel_id>3086</channel_id>
+			<epg_id>XYPlus HD</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<archive>14</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>XYMax HD</caption>
+			<channel_id>3087</channel_id>
+			<epg_id>XYMax HD</epg_id>
+			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<archive>14</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>XYMix HD</caption>
+			<channel_id>3088</channel_id>
+			<epg_id>XYMix HD</epg_id>
 			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
 			<tv_category_id>14</tv_category_id>
 			<archive>14</archive>

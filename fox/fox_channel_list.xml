@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>7</list_version>
+		<list_version>8</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
 			<id>1</id>
 			<caption>Общие</caption>
-			<icon_url>plugin_file://icons/1.png</icon_url>
+			<icon_url>plugin_file://icons/categories/1.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>2</id>
 			<caption>Киноканалы</caption>
-			<icon_url>plugin_file://icons/2.png</icon_url>
+			<icon_url>plugin_file://icons/categories/2.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>3</id>
 			<caption>Информационные</caption>
-			<icon_url>plugin_file://icons/4.png</icon_url>
+			<icon_url>plugin_file://icons/categories/4.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>4</id>
 			<caption>Познавательные</caption>
-			<icon_url>plugin_file://icons/22.png</icon_url>
+			<icon_url>plugin_file://icons/categories/22.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>5</id>
 			<caption>Развлекательные</caption>
-			<icon_url>plugin_file://icons/8.png</icon_url>
+			<icon_url>plugin_file://icons/categories/8.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>6</id>
 			<caption>Музыкальные</caption>
-			<icon_url>plugin_file://icons/3.png</icon_url>
+			<icon_url>plugin_file://icons/categories/3.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>7</id>
 			<caption>Детские</caption>
-			<icon_url>plugin_file://icons/7.png</icon_url>
+			<icon_url>plugin_file://icons/categories/7.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>8</id>
 			<caption>Спортивные</caption>
-			<icon_url>plugin_file://icons/6.png</icon_url>
+			<icon_url>plugin_file://icons/categories/6.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>9</id>
 			<caption>UHD 4K</caption>
-			<icon_url>plugin_file://icons/4k.png</icon_url>
+			<icon_url>plugin_file://icons/categories/4k.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>10</id>
 			<caption>18+</caption>
-			<icon_url>plugin_file://icons/33.png</icon_url>
+			<icon_url>plugin_file://icons/categories/33.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
-			<icon_url>plugin_file://icons/fav.png</icon_url>
+			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
 			<caption>Медиатека</caption>
-			<icon_url>plugin_file://icons/vod.png</icon_url>
+			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
 			<caption>Все каналы</caption>
-			<icon_url>plugin_file://icons/all.png</icon_url>
+			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
 			<caption>История</caption>
-			<icon_url>plugin_file://icons/history.png</icon_url>
+			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
 	</tv_categories>
@@ -288,7 +288,7 @@
 		<tv_channel>
 			<caption>Грозный</caption>
 			<channel_id>586</channel_id>
-			<epg_id>Грозный</epg_id>
+			<epg_id>1:1716</epg_id>
 			<tvg_id>Грозный</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/GROZNIY200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
@@ -469,7 +469,7 @@
 		<tv_channel>
 			<caption>Shot TV</caption>
 			<channel_id>337</channel_id>
-			<epg_id>1:2204</epg_id>
+			<epg_id>1:2205</epg_id>
 			<tvg_id>1:867</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SHOTTV200 (1).png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -496,7 +496,7 @@
 		<tv_channel>
 			<caption>TOP 80&apos;s</caption>
 			<channel_id>243</channel_id>
-			<epg_id>2:7</epg_id>
+			<epg_id>7:5114</epg_id>
 			<tvg_id>TOP 80&apos;s</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOP 80 S HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -504,7 +504,7 @@
 		<tv_channel>
 			<caption>TOP Budo HD</caption>
 			<channel_id>244</channel_id>
-			<epg_id>2:7</epg_id>
+			<epg_id>7:5115</epg_id>
 			<tvg_id>TOP Budo HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOP BUDO HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -512,7 +512,7 @@
 		<tv_channel>
 			<caption>TOP Cinema HD</caption>
 			<channel_id>245</channel_id>
-			<epg_id>2:5116</epg_id>
+			<epg_id>7:5116</epg_id>
 			<tvg_id>TOP Cinema HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOP Cinema HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -520,7 +520,7 @@
 		<tv_channel>
 			<caption>TOP USSR</caption>
 			<channel_id>247</channel_id>
-			<epg_id>2:5117</epg_id>
+			<epg_id>7:5117</epg_id>
 			<tvg_id>TOP USSR</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOP USSR HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -528,7 +528,7 @@
 		<tv_channel>
 			<caption>TOP Великолепный Век</caption>
 			<channel_id>246</channel_id>
-			<epg_id>2:5113</epg_id>
+			<epg_id>7:5113</epg_id>
 			<tvg_id>TOP Великолепный Век</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TOP Великолепный Век HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1187,7 +1187,7 @@
 		<tv_channel>
 			<caption>ТВ XXI</caption>
 			<channel_id>120</channel_id>
-			<epg_id>ТВ XXI</epg_id>
+			<epg_id>1:2202</epg_id>
 			<tvg_id>1:543</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/TVXXI200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1223,7 +1223,7 @@
 		<tv_channel>
 			<caption>SKY HIGH heroes</caption>
 			<channel_id>683</channel_id>
-			<epg_id>2:5448</epg_id>
+			<epg_id>5:Sky High Heroes HD</epg_id>
 			<tvg_id>2:5448</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH HEROES HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1231,7 +1231,7 @@
 		<tv_channel>
 			<caption>SKY HIGH spirit</caption>
 			<channel_id>702</channel_id>
-			<epg_id>2:5452</epg_id>
+			<epg_id>3:SKYHIGHSPIRITHD</epg_id>
 			<tvg_id>2:5452</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH SPIRIT HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1247,7 +1247,7 @@
 		<tv_channel>
 			<caption>SKY HIGH fresh HDR</caption>
 			<channel_id>845</channel_id>
-			<epg_id>2:6066</epg_id>
+			<epg_id>3:SKYHIGHFRESHHDR</epg_id>
 			<tvg_id>2:6066</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH FRESH HDR.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1263,7 +1263,7 @@
 		<tv_channel>
 			<caption>BUNNY</caption>
 			<channel_id>847</channel_id>
-			<epg_id>2:5459</epg_id>
+			<epg_id>5:Sky High Bunny HD</epg_id>
 			<tvg_id>2:5459</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/bunny.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1271,7 +1271,7 @@
 		<tv_channel>
 			<caption>MS ANIMATED</caption>
 			<channel_id>848</channel_id>
-			<epg_id>MS ANIMATED</epg_id>
+			<epg_id>5:MS Animated HD</epg_id>
 			<tvg_id>2:5592</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/animated.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1279,7 +1279,7 @@
 		<tv_channel>
 			<caption>SKY HIGH fresh HD</caption>
 			<channel_id>849</channel_id>
-			<epg_id>2:5450</epg_id>
+			<epg_id>5:Sky High Fresh HD</epg_id>
 			<tvg_id>2:5450</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH FRESH HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1287,7 +1287,7 @@
 		<tv_channel>
 			<caption>SKY HIGH BY SLONKA</caption>
 			<channel_id>852</channel_id>
-			<epg_id>2:6139</epg_id>
+			<epg_id>6:6139</epg_id>
 			<tvg_id>2:6139</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH BYSLONKA.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1295,7 +1295,7 @@
 		<tv_channel>
 			<caption>SKY HIGH ADULT</caption>
 			<channel_id>855</channel_id>
-			<epg_id>SKY HIGH ADULT</epg_id>
+			<epg_id>3:SKYHIGHADULTHD</epg_id>
 			<tvg_id>3:SKYHIGHADULT</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH ADULT HD.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1311,7 +1311,7 @@
 		<tv_channel>
 			<caption>SKY HIGH fresh 60</caption>
 			<channel_id>857</channel_id>
-			<epg_id>2:6055</epg_id>
+			<epg_id>6:6055</epg_id>
 			<tvg_id>2:6055</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH FRESH 60.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1319,7 +1319,7 @@
 		<tv_channel>
 			<caption>SKY HIGH kids USSR</caption>
 			<channel_id>858</channel_id>
-			<epg_id>SKY HIGH kids USSR</epg_id>
+			<epg_id>5:Sky High Kids USSR</epg_id>
 			<tvg_id>SKY HIGH kids USSR</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/ussr kids.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1541,14 +1541,14 @@
 		<tv_channel>
 			<caption>Кинеко</caption>
 			<channel_id>266</channel_id>
-			<epg_id>Кинеко</epg_id>
+			<epg_id>1:2184</epg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/kineko.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Сапфир</caption>
 			<channel_id>551</channel_id>
-			<epg_id>Сапфир</epg_id>
+			<epg_id>1:2183</epg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/Sapphir.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -1591,7 +1591,7 @@
 		<tv_channel>
 			<caption>RT Doc</caption>
 			<channel_id>34</channel_id>
-			<epg_id>2:2295</epg_id>
+			<epg_id>1:196</epg_id>
 			<tvg_id>1:205</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/RTDOC2001.png</icon_url>
 			<tv_category_id>3</tv_category_id>
@@ -1649,6 +1649,13 @@
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/CURRENTTIME2001.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еспресо ТВ</caption>
+			<channel_id>569</channel_id>
+			<epg_id>1:317</epg_id>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/espreso.png</icon_url>
+			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>1 Космический HD</caption>
@@ -1730,7 +1737,7 @@
 		<tv_channel>
 			<caption>Cinemax 2</caption>
 			<channel_id>156</channel_id>
-			<epg_id>Cinemax 2</epg_id>
+			<epg_id>5:PL: Cinemax 2</epg_id>
 			<tvg_id>1:80</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -1798,7 +1805,7 @@
 		<tv_channel>
 			<caption>HGTV HD</caption>
 			<channel_id>607</channel_id>
-			<epg_id>2:2377</epg_id>
+			<epg_id>1:2156</epg_id>
 			<tvg_id>HGTV HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/HGTV200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -1843,7 +1850,7 @@
 		<tv_channel>
 			<caption>Nano</caption>
 			<channel_id>608</channel_id>
-			<epg_id>Nano</epg_id>
+			<epg_id>5:Нано HD</epg_id>
 			<tvg_id>Nano</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/NANOHD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -1851,7 +1858,7 @@
 		<tv_channel>
 			<caption>Nat Geo Wild</caption>
 			<channel_id>152</channel_id>
-			<epg_id>2:223</epg_id>
+			<epg_id>1:2020</epg_id>
 			<tvg_id>1:167</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/NATGEOWILD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -1936,7 +1943,7 @@
 		<tv_channel>
 			<caption>Univer TV</caption>
 			<channel_id>230</channel_id>
-			<epg_id>2:5600</epg_id>
+			<epg_id>7:5600</epg_id>
 			<tvg_id>Univer TV</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/UNIVERTV200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -2030,7 +2037,7 @@
 		<tv_channel>
 			<caption>Большая Азия</caption>
 			<channel_id>531</channel_id>
-			<epg_id>2:2417</epg_id>
+			<epg_id>5:Большая Азия HD</epg_id>
 			<tvg_id>Большая Азия</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/BIGASIA200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -2205,7 +2212,7 @@
 		<tv_channel>
 			<caption>Наша Сибирь HD</caption>
 			<channel_id>262</channel_id>
-			<epg_id>2:4444</epg_id>
+			<epg_id>7:4444</epg_id>
 			<tvg_id>Наша Сибирь HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/NASHASIBIRHD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -2331,7 +2338,7 @@
 		<tv_channel>
 			<caption>SKY HIGH MAN</caption>
 			<channel_id>843</channel_id>
-			<epg_id>2:5461</epg_id>
+			<epg_id>5:Sky High Man HD</epg_id>
 			<tvg_id>2:5461</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH MAN HD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -2347,7 +2354,7 @@
 		<tv_channel>
 			<caption>SKY HIGH brain</caption>
 			<channel_id>865</channel_id>
-			<epg_id>SKY HIGH brain</epg_id>
+			<epg_id>5:Sky High Brain HD</epg_id>
 			<tvg_id>SKY HIGH brain</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/skybrain.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -2355,7 +2362,7 @@
 		<tv_channel>
 			<caption>SKY HIGH nature</caption>
 			<channel_id>866</channel_id>
-			<epg_id>SKY HIGH nature</epg_id>
+			<epg_id>3:SKYHIGHNATUREHD</epg_id>
 			<tvg_id>2:6738</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH NATURE FHD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -2363,7 +2370,7 @@
 		<tv_channel>
 			<caption>Terra</caption>
 			<channel_id>735</channel_id>
-			<epg_id>Terra</epg_id>
+			<epg_id>5:Terra HD</epg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/Terra.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
@@ -2386,7 +2393,7 @@
 		<tv_channel>
 			<caption>Partner Sratim IL</caption>
 			<channel_id>618</channel_id>
-			<epg_id>Partner Sratim IL</epg_id>
+			<epg_id>5:IL: Partner Sratim</epg_id>
 			<tvg_id>7D7 TV</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>5</tv_category_id>
@@ -2410,7 +2417,7 @@
 		<tv_channel>
 			<caption>Fashion TV</caption>
 			<channel_id>325</channel_id>
-			<epg_id>1:106</epg_id>
+			<epg_id>Fashion TV</epg_id>
 			<tvg_id>1:106</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/FASHIONTV200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
@@ -2603,7 +2610,7 @@
 		<tv_channel>
 			<caption>Танцуй!</caption>
 			<channel_id>574</channel_id>
-			<epg_id>Танцуй!</epg_id>
+			<epg_id>5:Танцуй</epg_id>
 			<tvg_id>Танцуй!</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/tancui.png</icon_url>
 			<tv_category_id>5</tv_category_id>
@@ -2620,7 +2627,7 @@
 		<tv_channel>
 			<caption>Ю</caption>
 			<channel_id>46</channel_id>
-			<epg_id>2:898</epg_id>
+			<epg_id>1:606</epg_id>
 			<tvg_id>1:606</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/YUTV2001.png</icon_url>
 			<tv_category_id>5</tv_category_id>
@@ -2629,7 +2636,7 @@
 		<tv_channel>
 			<caption>SKY HIGH standup</caption>
 			<channel_id>868</channel_id>
-			<epg_id>2:6741</epg_id>
+			<epg_id>5:Sky High Standup HD</epg_id>
 			<tvg_id>2:6741</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH STANDUP HD.png</icon_url>
 			<tv_category_id>5</tv_category_id>
@@ -2637,7 +2644,7 @@
 		<tv_channel>
 			<caption>Just TV</caption>
 			<channel_id>157</channel_id>
-			<epg_id>Just TV</epg_id>
+			<epg_id>1:1848</epg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
@@ -2708,7 +2715,7 @@
 		<tv_channel>
 			<caption>InRating HD</caption>
 			<channel_id>641</channel_id>
-			<epg_id>InRating HD</epg_id>
+			<epg_id>1:1709</epg_id>
 			<tvg_id>InRating HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/inratingmusic.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2716,7 +2723,7 @@
 		<tv_channel>
 			<caption>Kronehit HD</caption>
 			<channel_id>162</channel_id>
-			<epg_id>2:4653</epg_id>
+			<epg_id>7:4653</epg_id>
 			<tvg_id>Kronehit HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/KRONEHITHD200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2740,7 +2747,7 @@
 		<tv_channel>
 			<caption>MCM Top</caption>
 			<channel_id>308</channel_id>
-			<epg_id>2:2276</epg_id>
+			<epg_id>7:2276</epg_id>
 			<tvg_id>MCM Top HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/MCMTOP200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2772,7 +2779,7 @@
 		<tv_channel>
 			<caption>MTV HD</caption>
 			<channel_id>237</channel_id>
-			<epg_id>2:1021</epg_id>
+			<epg_id>7:1021</epg_id>
 			<tvg_id>1:159</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/MTVHD200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2822,7 +2829,7 @@
 		<tv_channel>
 			<caption>SKY HIGH epoch</caption>
 			<channel_id>258</channel_id>
-			<epg_id>2:5449</epg_id>
+			<epg_id>3:SKYHIGHEPOCHHD</epg_id>
 			<tvg_id>2:5449</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH EPOCH HD.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2871,7 +2878,7 @@
 		<tv_channel>
 			<caption>VIVA TV</caption>
 			<channel_id>312</channel_id>
-			<epg_id>2:4658</epg_id>
+			<epg_id>7:4658</epg_id>
 			<tvg_id>VIVA TV</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/VIVATV200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2928,7 +2935,7 @@
 		<tv_channel>
 			<caption>Первый музыкальный HD</caption>
 			<channel_id>612</channel_id>
-			<epg_id>Первый музыкальный HD</epg_id>
+			<epg_id>6:5364</epg_id>
 			<tvg_id>Первый музыкальный HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/PERVMUZBY200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2976,7 +2983,7 @@
 		<tv_channel>
 			<caption>SKY HIGH CLASSIC</caption>
 			<channel_id>853</channel_id>
-			<epg_id>2:5596</epg_id>
+			<epg_id>3:SKYHIGHCLASSICHD</epg_id>
 			<tvg_id>2:5596</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH CLASSIC HD.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2984,7 +2991,7 @@
 		<tv_channel>
 			<caption>SKY HIGH lo-fi</caption>
 			<channel_id>869</channel_id>
-			<epg_id>2:6726</epg_id>
+			<epg_id>6:6726</epg_id>
 			<tvg_id>2:6726</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH LO FI HD.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2992,7 +2999,7 @@
 		<tv_channel>
 			<caption>MTV IL</caption>
 			<channel_id>922</channel_id>
-			<epg_id>MTV IL</epg_id>
+			<epg_id>5:IL: MTV HD</epg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -3006,7 +3013,7 @@
 		<tv_channel>
 			<caption>Fresh TV Armenia</caption>
 			<channel_id>384</channel_id>
-			<epg_id>Fresh TV Armenia</epg_id>
+			<epg_id>5:AM: Fresh TV</epg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/Fresh Armenia.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -3120,7 +3127,7 @@
 		<tv_channel>
 			<caption>Карусель</caption>
 			<channel_id>192</channel_id>
-			<epg_id>2:740</epg_id>
+			<epg_id>1:345</epg_id>
 			<tvg_id>1:345</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/KARUSEL200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
@@ -3211,7 +3218,7 @@
 		<tv_channel>
 			<caption>DAZN F1 HD</caption>
 			<channel_id>665</channel_id>
-			<epg_id>2:5088</epg_id>
+			<epg_id>7:5088</epg_id>
 			<tvg_id>DAZN F1 HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/DAZN1200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -3238,7 +3245,7 @@
 		<tv_channel>
 			<caption>Extreme Sports HD</caption>
 			<channel_id>556</channel_id>
-			<epg_id>Extreme Sports HD</epg_id>
+			<epg_id>5:PL: Extreme Sports</epg_id>
 			<tvg_id>Extreme Sports HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/EXTREMESPORTS200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -3271,7 +3278,7 @@
 		<tv_channel>
 			<caption>NBA TV HD</caption>
 			<channel_id>557</channel_id>
-			<epg_id>NBA TV HD</epg_id>
+			<epg_id>5:NBA TV HD</epg_id>
 			<tvg_id>NBA TV HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/NBATV200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -3287,7 +3294,7 @@
 		<tv_channel>
 			<caption>Rai Sport+ HD</caption>
 			<channel_id>285</channel_id>
-			<epg_id>2:6534</epg_id>
+			<epg_id>7:6534</epg_id>
 			<tvg_id>Rai Sport+ HD</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/RAISPORTPLUSHD200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -3364,7 +3371,7 @@
 		<tv_channel>
 			<caption>Udar</caption>
 			<channel_id>282</channel_id>
-			<epg_id>2:2480</epg_id>
+			<epg_id>1:2244</epg_id>
 			<tvg_id>Udar</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/udar.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -3373,7 +3380,7 @@
 		<tv_channel>
 			<caption>US ESPN</caption>
 			<channel_id>645</channel_id>
-			<epg_id>2:6581</epg_id>
+			<epg_id>US ESPN</epg_id>
 			<tvg_id>US ESPN</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/ESPN.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -3605,7 +3612,7 @@
 		<tv_channel>
 			<caption>Старт</caption>
 			<channel_id>686</channel_id>
-			<epg_id>2:2530</epg_id>
+			<epg_id>7:2530</epg_id>
 			<tvg_id>Старт</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/STARTTV200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -3630,7 +3637,7 @@
 		<tv_channel>
 			<caption>SKY HIGH FIGHT</caption>
 			<channel_id>841</channel_id>
-			<epg_id>SKY HIGH FIGHT</epg_id>
+			<epg_id>5:Sky High Fight+ HD</epg_id>
 			<tvg_id>2:5559</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH FIGHT + HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -3846,42 +3853,42 @@
 		<tv_channel>
 			<caption>Russian Extreme Ultra HD</caption>
 			<channel_id>297</channel_id>
-			<epg_id>Russian Extreme Ultra HD</epg_id>
+			<epg_id>1:512</epg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/ULTRAREX200.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SKY HIGH dance</caption>
 			<channel_id>426</channel_id>
-			<epg_id>SKY HIGH dance</epg_id>
+			<epg_id>3:SKYHIGHDANCEHD</epg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH DANCE HD.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SKY HIGH 3D</caption>
 			<channel_id>850</channel_id>
-			<epg_id>SKY HIGH 3D</epg_id>
+			<epg_id>5:Sky High 3D</epg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH MIX 3D.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SKY HIGH doc UHD</caption>
 			<channel_id>861</channel_id>
-			<epg_id>SKY HIGH doc UHD</epg_id>
+			<epg_id>3:SKYHIGHDOCUHD</epg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH DOC UHD.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SKY HIGH UHD HDR</caption>
 			<channel_id>862</channel_id>
-			<epg_id>SKY HIGH UHD HDR</epg_id>
+			<epg_id>5:Sky High UHD HDR</epg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH UHD HDR.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SKY HIGH VHS UHD</caption>
 			<channel_id>864</channel_id>
-			<epg_id>SKY HIGH VHS UHD</epg_id>
+			<epg_id>3:SKYHIGHVHSUHD</epg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SKY HIGH VHS UHD.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
@@ -3976,7 +3983,7 @@
 		<tv_channel>
 			<caption>SKY HIGH SEX</caption>
 			<channel_id>870</channel_id>
-			<epg_id>SKY HIGH SEX</epg_id>
+			<epg_id>5:Sky High Sex VR</epg_id>
 			<tvg_id>SKY HIGH SEX</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>10</tv_category_id>
@@ -4001,7 +4008,7 @@
 		<tv_channel>
 			<caption>O-la-la</caption>
 			<channel_id>536</channel_id>
-			<epg_id>O-la-la</epg_id>
+			<epg_id>6:2527</epg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/O-la-la_4w.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
