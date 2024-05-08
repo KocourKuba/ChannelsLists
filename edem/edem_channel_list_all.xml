@@ -291,25 +291,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Медиатека</caption>
+			<caption>Video On Demand</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -4557,7 +4557,7 @@
 		<tv_channel>
 			<caption>Мосфильм. Золотая коллекция HD (+4)</caption>
 			<channel_id>17022</channel_id>
-			<epg_id>Мосфильм. Золотая коллекция HD (+4)</epg_id>
+			<epg_id>17022</epg_id>
 			<icon_url>http://epg.one/img2/6165.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
@@ -9745,7 +9745,7 @@
 			<caption>Карусель +3 (Омск)</caption>
 			<channel_id>15436</channel_id>
 			<epg_id>Карусель +3 (Омск)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -12773,21 +12773,21 @@
 			<caption>Первый канал +2 (Белорецк)</caption>
 			<channel_id>15486</channel_id>
 			<epg_id>Первый канал +2 (Белорецк)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Первый канал +2 (Уфа, ЗТ)</caption>
 			<channel_id>15301</channel_id>
 			<epg_id>Первый канал +2 (Уфа, ЗТ)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Первый канал +2 (Нефтекамск)</caption>
 			<channel_id>15481</channel_id>
 			<epg_id>Первый канал +2 (Нефтекамск)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -12864,7 +12864,7 @@
 			<caption>Россия 1 +1 (Приволжье, Китеж)</caption>
 			<channel_id>15284</channel_id>
 			<epg_id>Россия 1 +1 (Приволжье, Китеж)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -12920,7 +12920,7 @@
 			<caption>Россия 1 +5 (Братск-Орион)</caption>
 			<channel_id>15360</channel_id>
 			<epg_id>Россия 1 +5 (Братск-Орион)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -13207,7 +13207,7 @@
 			<caption>ТНТ +5 (Иркутск, Орион)</caption>
 			<channel_id>15357</channel_id>
 			<epg_id>ТНТ +5 (Иркутск, Орион)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -13228,7 +13228,7 @@
 			<caption>ТНТ4 +2 (Уфа)</caption>
 			<channel_id>15310</channel_id>
 			<epg_id>ТНТ4 +2 (Уфа)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -13305,7 +13305,7 @@
 			<caption>СТС +5 (Иркутск, Орион)</caption>
 			<channel_id>15355</channel_id>
 			<epg_id>СТС +5 (Иркутск, Орион)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -13620,7 +13620,7 @@
 			<caption>Домашний +5 (Иркутск, Орион)</caption>
 			<channel_id>15356</channel_id>
 			<epg_id>Домашний +5 (Иркутск, Орион)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -13711,77 +13711,77 @@
 			<caption>Россия 24 +2 (Пермь)</caption>
 			<channel_id>15446</channel_id>
 			<epg_id>Россия 24 +2 (Пермь)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Россия 24 +2 (Уфа)</caption>
 			<channel_id>15312</channel_id>
 			<epg_id>Россия 24 +2 (Уфа)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Россия 24 +3 (Омск)</caption>
 			<channel_id>15378</channel_id>
 			<epg_id>Россия 24 +3 (Омск)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Россия 24 +4 (Томск)</caption>
 			<channel_id>15390</channel_id>
 			<epg_id>Россия 24 +4 (Томск)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Россия 24 +4 (Абакан-Орион)</caption>
 			<channel_id>15368</channel_id>
 			<epg_id>Россия 24 +4 (Абакан-Орион)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Россия 24 +4 (Орион)</caption>
 			<channel_id>15416</channel_id>
 			<epg_id>Россия 24 +4 (Орион)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Россия 24 +4 (Алтай, Дианэт)</caption>
 			<channel_id>15292</channel_id>
 			<epg_id>Россия 24 +4 (Алтай, Дианэт)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Россия 24 +5 (Братск-Орион)</caption>
 			<channel_id>15361</channel_id>
 			<epg_id>Россия 24 +5 (Братск-Орион)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Россия 24 +5 (Иркутск-Орион)</caption>
 			<channel_id>15358</channel_id>
 			<epg_id>Россия 24 +5 (Иркутск-Орион)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Россия 24 +7 (Владивосток)</caption>
 			<channel_id>15339</channel_id>
 			<epg_id>Россия 24 +7 (Владивосток)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Че +4 (Орион)</caption>
 			<channel_id>15421</channel_id>
 			<epg_id>Че +4 (Орион)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -14040,14 +14040,14 @@
 			<caption>12 Канал +4 (Орион)</caption>
 			<channel_id>15419</channel_id>
 			<epg_id>12 Канал +4 (Орион)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>7 Канал +4 (Красноярск-Орион)</caption>
 			<channel_id>15422</channel_id>
 			<epg_id>7 Канал +4 (Красноярск-Орион)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -14840,7 +14840,7 @@
 			<caption>СПАС +7 (Владивосток)</caption>
 			<channel_id>15344</channel_id>
 			<epg_id>СПАС +7 (Владивосток)</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -17374,14 +17374,6 @@
 			<channel_id>959</channel_id>
 			<epg_id>2090</epg_id>
 			<icon_url>http://epg.one/img2/2090.png</icon_url>
-			<tv_category_id>15</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТЕЛЕВСЕСВІТ HD UA</caption>
-			<channel_id>942</channel_id>
-			<epg_id>2111</epg_id>
-			<icon_url>http://epg.one/img2/2111.png</icon_url>
 			<tv_category_id>15</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -26901,7 +26893,7 @@
 			<caption>AL JAZEERA ARABIC HD</caption>
 			<channel_id>31144</channel_id>
 			<epg_id>AL JAZEERA ARABIC HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -26929,7 +26921,7 @@
 			<caption>BENGÜTÜRK</caption>
 			<channel_id>31149</channel_id>
 			<epg_id>BENGÜTÜRK</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -26943,7 +26935,7 @@
 			<caption>BİZİM EV TV</caption>
 			<channel_id>31151</channel_id>
 			<epg_id>BİZİM EV TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -26957,14 +26949,14 @@
 			<caption>BluTV Play 1</caption>
 			<channel_id>31153</channel_id>
 			<epg_id>BluTV Play 1</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>BluTV Play 2</caption>
 			<channel_id>31154</channel_id>
 			<epg_id>BluTV Play 2</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -26992,14 +26984,14 @@
 			<caption>CARTOON NETWORK</caption>
 			<channel_id>31158</channel_id>
 			<epg_id>CARTOON NETWORK</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>CEM TV</caption>
 			<channel_id>31159</channel_id>
 			<epg_id>CEM TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27013,21 +27005,21 @@
 			<caption>DA VINCI HD</caption>
 			<channel_id>31161</channel_id>
 			<epg_id>DA VINCI HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>DEUTSCHE WELLE ENGLISH</caption>
 			<channel_id>31163</channel_id>
 			<epg_id>DEUTSCHE WELLE ENGLISH</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>DISCOVERY CHANNEL HD</caption>
 			<channel_id>31164</channel_id>
 			<epg_id>DISCOVERY CHANNEL HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27041,7 +27033,7 @@
 			<caption>DİYANET TV</caption>
 			<channel_id>31166</channel_id>
 			<epg_id>DİYANET TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27062,21 +27054,21 @@
 			<caption>DUCK TV HD</caption>
 			<channel_id>31169</channel_id>
 			<epg_id>DUCK TV HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>EDGE SPORT HD</caption>
 			<channel_id>31170</channel_id>
 			<epg_id>EDGE SPORT HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>EKOTÜRK HD</caption>
 			<channel_id>31171</channel_id>
 			<epg_id>EKOTÜRK HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27090,21 +27082,21 @@
 			<caption>EPIC DRAMA</caption>
 			<channel_id>31173</channel_id>
 			<epg_id>EPIC DRAMA</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>EURONEWS</caption>
 			<channel_id>31174</channel_id>
 			<epg_id>EURONEWS</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>EUROSPORT 1 HD</caption>
 			<channel_id>31175</channel_id>
 			<epg_id>EUROSPORT 1 HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27125,7 +27117,7 @@
 			<caption>FLASH TV</caption>
 			<channel_id>31178</channel_id>
 			<epg_id>FLASH TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27146,7 +27138,7 @@
 			<caption>FRANCE 24 ARABIC</caption>
 			<channel_id>31181</channel_id>
 			<epg_id>FRANCE 24 ARABIC</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27167,7 +27159,7 @@
 			<caption>HABER GLOBAL HD</caption>
 			<channel_id>31185</channel_id>
 			<epg_id>HABER GLOBAL HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27181,35 +27173,35 @@
 			<caption>HALK TV</caption>
 			<channel_id>31187</channel_id>
 			<epg_id>HALK TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>KADIRGA TV</caption>
 			<channel_id>31188</channel_id>
 			<epg_id>KADIRGA TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>KANAL 23</caption>
 			<channel_id>31189</channel_id>
 			<epg_id>KANAL 23</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>KANAL 26</caption>
 			<channel_id>31190</channel_id>
 			<epg_id>KANAL 26</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>KANAL 33</caption>
 			<channel_id>31191</channel_id>
 			<epg_id>KANAL 33</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27244,7 +27236,7 @@
 			<caption>KIBRIS ADA TV</caption>
 			<channel_id>31196</channel_id>
 			<epg_id>KIBRIS ADA TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27258,14 +27250,14 @@
 			<caption>KIBRIS TV</caption>
 			<channel_id>31198</channel_id>
 			<epg_id>KIBRIS TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>KONTV HD</caption>
 			<channel_id>31199</channel_id>
 			<epg_id>KONTV HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27307,14 +27299,14 @@
 			<caption>MOONBUG KIDS TV</caption>
 			<channel_id>31206</channel_id>
 			<epg_id>MOONBUG KIDS TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>NATIONAL GEOGRAPHIC HD</caption>
 			<channel_id>31207</channel_id>
 			<epg_id>NATIONAL GEOGRAPHIC HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27335,7 +27327,7 @@
 			<caption>NICKTOONS</caption>
 			<channel_id>31210</channel_id>
 			<epg_id>NICKTOONS</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27349,21 +27341,21 @@
 			<caption>NUMBER1 TURK HD</caption>
 			<channel_id>31212</channel_id>
 			<epg_id>NUMBER1 TURK HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>NUMBER1 TV HD</caption>
 			<channel_id>31213</channel_id>
 			<epg_id>NUMBER1 TV HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ON6</caption>
 			<channel_id>31214</channel_id>
 			<epg_id>ON6</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27391,14 +27383,14 @@
 			<caption>S SPORT 2</caption>
 			<channel_id>31218</channel_id>
 			<epg_id>S SPORT 2</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SEMERKAND HD</caption>
 			<channel_id>31219</channel_id>
 			<epg_id>SEMERKAND HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27412,84 +27404,84 @@
 			<caption>SİNEMA 1002 HD</caption>
 			<channel_id>31221</channel_id>
 			<epg_id>SİNEMA 1002 HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SİNEMA AİLE 2 HD</caption>
 			<channel_id>31222</channel_id>
 			<epg_id>SİNEMA AİLE 2 HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SİNEMA AİLE HD</caption>
 			<channel_id>31223</channel_id>
 			<epg_id>SİNEMA AİLE HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SİNEMA AKSİYON 2 HD</caption>
 			<channel_id>31224</channel_id>
 			<epg_id>SİNEMA AKSİYON 2 HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SİNEMA KOMEDİ HD</caption>
 			<channel_id>31225</channel_id>
 			<epg_id>SİNEMA KOMEDİ HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SİNEMA TV 1001 HD</caption>
 			<channel_id>31226</channel_id>
 			<epg_id>SİNEMA TV 1001 HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SİNEMA TV 2 HD</caption>
 			<channel_id>31227</channel_id>
 			<epg_id>SİNEMA TV 2 HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SİNEMA TV AKSİYON HD</caption>
 			<channel_id>31228</channel_id>
 			<epg_id>SİNEMA TV AKSİYON HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SİNEMA TV HD</caption>
 			<channel_id>31229</channel_id>
 			<epg_id>SİNEMA TV HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SİNEMA YERLİ 2 HD</caption>
 			<channel_id>31230</channel_id>
 			<epg_id>SİNEMA YERLİ 2 HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SİNEMA YERLİ HD</caption>
 			<channel_id>31231</channel_id>
 			<epg_id>SİNEMA YERLİ HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SKY NEWS ARABIA</caption>
 			<channel_id>31232</channel_id>
 			<epg_id>SKY NEWS ARABIA</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27510,14 +27502,14 @@
 			<caption>TARIH TV</caption>
 			<channel_id>31236</channel_id>
 			<epg_id>TARIH TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TARIM TV</caption>
 			<channel_id>31237</channel_id>
 			<epg_id>TARIM TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27559,7 +27551,7 @@
 			<caption>TMB TV</caption>
 			<channel_id>31243</channel_id>
 			<epg_id>TMB TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27573,14 +27565,14 @@
 			<caption>TRT 3</caption>
 			<channel_id>31245</channel_id>
 			<epg_id>TRT 3</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TRT ARABI</caption>
 			<channel_id>31247</channel_id>
 			<epg_id>TRT ARABI</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27636,7 +27628,7 @@
 			<caption>TRT KURDİ</caption>
 			<channel_id>31255</channel_id>
 			<epg_id>TRT KURDİ</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27657,7 +27649,7 @@
 			<caption>TRT SPOR YILDIZ</caption>
 			<channel_id>31258</channel_id>
 			<epg_id>TRT SPOR YILDIZ</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27671,7 +27663,7 @@
 			<caption>TRT World HD</caption>
 			<channel_id>31260</channel_id>
 			<epg_id>TRT World HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27692,7 +27684,7 @@
 			<caption>TV 2020</caption>
 			<channel_id>31263</channel_id>
 			<epg_id>TV 2020</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27706,7 +27698,7 @@
 			<caption>TV PLUS INFO</caption>
 			<channel_id>31265</channel_id>
 			<epg_id>TV PLUS INFO</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27720,7 +27712,7 @@
 			<caption>TV5 MONDE</caption>
 			<channel_id>31267</channel_id>
 			<epg_id>TV5 MONDE</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27734,7 +27726,7 @@
 			<caption>TV8</caption>
 			<channel_id>31269</channel_id>
 			<epg_id>TV8</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27755,21 +27747,21 @@
 			<caption>UVI JEWELLERY</caption>
 			<channel_id>31272</channel_id>
 			<epg_id>UVI JEWELLERY</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>VAV TV</caption>
 			<channel_id>31273</channel_id>
 			<epg_id>VAV TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>VIASAT EXPLORE</caption>
 			<channel_id>31274</channel_id>
 			<epg_id>VIASAT EXPLORE</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -27783,35 +27775,35 @@
 			<caption>ÇİFTÇİ TV</caption>
 			<channel_id>31276</channel_id>
 			<epg_id>ÇİFTÇİ TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ÜLKE TV HD</caption>
 			<channel_id>31277</channel_id>
 			<epg_id>ÜLKE TV HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ŞÖMİNE PLUS</caption>
 			<channel_id>31278</channel_id>
 			<epg_id>ŞÖMİNE PLUS</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SÖZCÜ TV</caption>
 			<channel_id>31235</channel_id>
 			<epg_id>SÖZCÜ TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TGRT Belgesel HD TR</caption>
 			<channel_id>2035</channel_id>
 			<epg_id>TGRT Belgesel HD TR</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -27819,7 +27811,7 @@
 			<caption>TRT Spor Yildiz HD TR</caption>
 			<channel_id>2145</channel_id>
 			<epg_id>TRT Spor Yildiz HD TR</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -27827,7 +27819,7 @@
 			<caption>Akilli TV TR</caption>
 			<channel_id>16048</channel_id>
 			<epg_id>Akilli TV TR</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -28340,28 +28332,28 @@
 			<caption>A11</caption>
 			<channel_id>31445</channel_id>
 			<epg_id>A11</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Rebel</caption>
 			<channel_id>31446</channel_id>
 			<epg_id>Rebel</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Barrandov Krimi</caption>
 			<channel_id>31447</channel_id>
 			<epg_id>Barrandov Krimi</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Zoo Brno - Å½ivot v zoo</caption>
 			<channel_id>31449</channel_id>
 			<epg_id>Zoo Brno - Å½ivot v zoo</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -28382,42 +28374,42 @@
 			<caption>Film Europe + HD</caption>
 			<channel_id>31452</channel_id>
 			<epg_id>Film Europe + HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TV ZemplÃ­n</caption>
 			<channel_id>31453</channel_id>
 			<epg_id>TV ZemplÃ­n</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Polsat</caption>
 			<channel_id>31454</channel_id>
 			<epg_id>Polsat</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Jojko</caption>
 			<channel_id>31455</channel_id>
 			<epg_id>Jojko</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>AXN</caption>
 			<channel_id>31456</channel_id>
 			<epg_id>AXN</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>JOJ Plus</caption>
 			<channel_id>31457</channel_id>
 			<epg_id>JOJ Plus</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -28431,63 +28423,63 @@
 			<caption>Arena sport 2</caption>
 			<channel_id>31459</channel_id>
 			<epg_id>Arena sport 2</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>HBO 2</caption>
 			<channel_id>31460</channel_id>
 			<epg_id>HBO 2</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>cms:tv</caption>
 			<channel_id>31462</channel_id>
 			<epg_id>cms:tv</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Minimax</caption>
 			<channel_id>31464</channel_id>
 			<epg_id>Minimax</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Jednotka</caption>
 			<channel_id>31465</channel_id>
 			<epg_id>Jednotka</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>BBC World</caption>
 			<channel_id>31466</channel_id>
 			<epg_id>BBC World</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Å lÃ¡ger Muzika</caption>
 			<channel_id>31467</channel_id>
 			<epg_id>Å lÃ¡ger Muzika</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Å lÃ¡ger Premium HD</caption>
 			<channel_id>31468</channel_id>
 			<epg_id>Å lÃ¡ger Premium HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Relax</caption>
 			<channel_id>31469</channel_id>
 			<epg_id>Relax</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -28508,84 +28500,84 @@
 			<caption>Duna</caption>
 			<channel_id>31473</channel_id>
 			<epg_id>Duna</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Zoo Brno - AfrickÃ¡ vesnice</caption>
 			<channel_id>31474</channel_id>
 			<epg_id>Zoo Brno - AfrickÃ¡ vesnice</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>OÅ¡etÅ™ovÃ¡nÃ­ mlÃ¡Äat</caption>
 			<channel_id>31475</channel_id>
 			<epg_id>OÅ¡etÅ™ovÃ¡nÃ­ mlÃ¡Äat</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TV Paprika</caption>
 			<channel_id>31476</channel_id>
 			<epg_id>TV Paprika</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Senzi TV</caption>
 			<channel_id>31477</channel_id>
 			<epg_id>Senzi TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nick JR EN</caption>
 			<channel_id>31478</channel_id>
 			<epg_id>Nick JR EN</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TelevÃ­zia Osem</caption>
 			<channel_id>31479</channel_id>
 			<epg_id>TelevÃ­zia Osem</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>UA TV</caption>
 			<channel_id>31480</channel_id>
 			<epg_id>UA TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>HBO 3</caption>
 			<channel_id>31481</channel_id>
 			<epg_id>HBO 3</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Kino Barrandov</caption>
 			<channel_id>31482</channel_id>
 			<epg_id>Kino Barrandov</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>CS Horror</caption>
 			<channel_id>31483</channel_id>
 			<epg_id>CS Horror</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ã“Äko HD</caption>
 			<channel_id>31484</channel_id>
 			<epg_id>Ã“Äko HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -28606,126 +28598,126 @@
 			<caption>Hobby TV</caption>
 			<channel_id>31487</channel_id>
 			<epg_id>Hobby TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Super Polsat</caption>
 			<channel_id>31488</channel_id>
 			<epg_id>Super Polsat</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nova International</caption>
 			<channel_id>31489</channel_id>
 			<epg_id>Nova International</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nick JR</caption>
 			<channel_id>31490</channel_id>
 			<epg_id>Nick JR</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>CS Film</caption>
 			<channel_id>31491</channel_id>
 			<epg_id>CS Film</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>HGTV</caption>
 			<channel_id>31492</channel_id>
 			<epg_id>HGTV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Film+</caption>
 			<channel_id>31493</channel_id>
 			<epg_id>Film+</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nova Sport 1</caption>
 			<channel_id>31494</channel_id>
 			<epg_id>Nova Sport 1</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Eurosport2</caption>
 			<channel_id>31495</channel_id>
 			<epg_id>Eurosport2</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Krb</caption>
 			<channel_id>31496</channel_id>
 			<epg_id>Krb</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>PlÃ¡Å¾</caption>
 			<channel_id>31497</channel_id>
 			<epg_id>PlÃ¡Å¾</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cartoon Network CZ</caption>
 			<channel_id>31498</channel_id>
 			<epg_id>Cartoon Network CZ</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TV Lux</caption>
 			<channel_id>31499</channel_id>
 			<epg_id>TV Lux</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Travelxp</caption>
 			<channel_id>31500</channel_id>
 			<epg_id>Travelxp</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Golf Channel</caption>
 			<channel_id>31501</channel_id>
 			<epg_id>Golf Channel</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Das Erste</caption>
 			<channel_id>31502</channel_id>
 			<epg_id>Das Erste</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Eurosport</caption>
 			<channel_id>31504</channel_id>
 			<epg_id>Eurosport</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>MarkÃ­za Krimi</caption>
 			<channel_id>31505</channel_id>
 			<epg_id>MarkÃ­za Krimi</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -28739,182 +28731,182 @@
 			<caption>ÄŒT24</caption>
 			<channel_id>31507</channel_id>
 			<epg_id>ÄŒT24</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport1</caption>
 			<channel_id>31508</channel_id>
 			<epg_id>Sport1</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport2</caption>
 			<channel_id>31509</channel_id>
 			<epg_id>Sport2</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>CNN</caption>
 			<channel_id>31510</channel_id>
 			<epg_id>CNN</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Dvojka</caption>
 			<channel_id>31511</channel_id>
 			<epg_id>Dvojka</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>M1</caption>
 			<channel_id>31512</channel_id>
 			<epg_id>M1</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>MarkÃ­za</caption>
 			<channel_id>31513</channel_id>
 			<epg_id>MarkÃ­za</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cartoon Network EN</caption>
 			<channel_id>31514</channel_id>
 			<epg_id>Cartoon Network EN</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>M2</caption>
 			<channel_id>31515</channel_id>
 			<epg_id>M2</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Dajto</caption>
 			<channel_id>31516</channel_id>
 			<epg_id>Dajto</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TA3</caption>
 			<channel_id>31517</channel_id>
 			<epg_id>TA3</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>iConcerts</caption>
 			<channel_id>31518</channel_id>
 			<epg_id>iConcerts</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ã“Äko EXPRES HD</caption>
 			<channel_id>31520</channel_id>
 			<epg_id>Ã“Äko EXPRES HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>M5</caption>
 			<channel_id>31521</channel_id>
 			<epg_id>M5</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ã“Äko BLACK HD</caption>
 			<channel_id>31522</channel_id>
 			<epg_id>Ã“Äko BLACK HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nicktoons</caption>
 			<channel_id>31523</channel_id>
 			<epg_id>Nicktoons</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>PCtest</caption>
 			<channel_id>31524</channel_id>
 			<epg_id>PCtest</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Doma</caption>
 			<channel_id>31525</channel_id>
 			<epg_id>Doma</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Bocianie hniezdo</caption>
 			<channel_id>31527</channel_id>
 			<epg_id>Bocianie hniezdo</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>KoÄiÄÃ­ kavÃ¡rna</caption>
 			<channel_id>31528</channel_id>
 			<epg_id>KoÄiÄÃ­ kavÃ¡rna</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky News</caption>
 			<channel_id>31529</channel_id>
 			<epg_id>Sky News</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ZDF</caption>
 			<channel_id>31530</channel_id>
 			<epg_id>ZDF</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TV Barrandov</caption>
 			<channel_id>31531</channel_id>
 			<epg_id>TV Barrandov</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Polar</caption>
 			<channel_id>31532</channel_id>
 			<epg_id>Polar</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Film Europe</caption>
 			<channel_id>31533</channel_id>
 			<epg_id>Film Europe</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>JOJ Å port</caption>
 			<channel_id>31534</channel_id>
 			<epg_id>JOJ Å port</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -28928,21 +28920,21 @@
 			<caption>Spektrum</caption>
 			<channel_id>31536</channel_id>
 			<epg_id>Spektrum</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cinemax 1</caption>
 			<channel_id>31537</channel_id>
 			<epg_id>Cinemax 1</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cinemax 2</caption>
 			<channel_id>31539</channel_id>
 			<epg_id>Cinemax 2</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -28963,49 +28955,49 @@
 			<caption>Zoo Brno - MedvÄ›d lednÃ­</caption>
 			<channel_id>31542</channel_id>
 			<epg_id>Zoo Brno - MedvÄ›d lednÃ­</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>HBO</caption>
 			<channel_id>31543</channel_id>
 			<epg_id>HBO</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Zoo Brno - MedvÄ›d kamÄatskÃ½</caption>
 			<channel_id>31545</channel_id>
 			<epg_id>Zoo Brno - MedvÄ›d kamÄatskÃ½</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Zoo Brno - KomentovanÃ¡ krmenÃ­</caption>
 			<channel_id>31546</channel_id>
 			<epg_id>Zoo Brno - KomentovanÃ¡ krmenÃ­</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ORF eins</caption>
 			<channel_id>31547</channel_id>
 			<epg_id>ORF eins</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TV Noe</caption>
 			<channel_id>31548</channel_id>
 			<epg_id>TV Noe</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ORF zwei</caption>
 			<channel_id>31549</channel_id>
 			<epg_id>ORF zwei</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -29019,84 +29011,84 @@
 			<caption>Panorama KubÃ­nskÃ¡ hoÄ¾a</caption>
 			<channel_id>31551</channel_id>
 			<epg_id>Panorama KubÃ­nskÃ¡ hoÄ¾a</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>National Geographic Wild</caption>
 			<channel_id>31552</channel_id>
 			<epg_id>National Geographic Wild</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Filmpro</caption>
 			<channel_id>31554</channel_id>
 			<epg_id>Filmpro</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Prima PLUS</caption>
 			<channel_id>31555</channel_id>
 			<epg_id>Prima PLUS</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TV RuÅ¾omberok</caption>
 			<channel_id>31556</channel_id>
 			<epg_id>TV RuÅ¾omberok</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TV MÅˆau</caption>
 			<channel_id>31557</channel_id>
 			<epg_id>TV MÅˆau</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Arcadia World</caption>
 			<channel_id>31558</channel_id>
 			<epg_id>Arcadia World</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Discovery</caption>
 			<channel_id>31559</channel_id>
 			<epg_id>Discovery</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTVS Å port</caption>
 			<channel_id>31560</channel_id>
 			<epg_id>RTVS Å port</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>History Channel</caption>
 			<channel_id>31561</channel_id>
 			<epg_id>History Channel</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Rik</caption>
 			<channel_id>31562</channel_id>
 			<epg_id>Rik</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Severka.TV</caption>
 			<channel_id>31563</channel_id>
 			<epg_id>Severka.TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -29110,14 +29102,14 @@
 			<caption>Central</caption>
 			<channel_id>31565</channel_id>
 			<epg_id>Central</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nova Sport 2</caption>
 			<channel_id>31566</channel_id>
 			<epg_id>Nova Sport 2</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -29131,14 +29123,14 @@
 			<caption>Mezzo Live</caption>
 			<channel_id>31568</channel_id>
 			<epg_id>Mezzo Live</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Televize Seznam</caption>
 			<channel_id>31569</channel_id>
 			<epg_id>Televize Seznam</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -29152,21 +29144,21 @@
 			<caption>Food network</caption>
 			<channel_id>31571</channel_id>
 			<epg_id>Food network</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTVS :24</caption>
 			<channel_id>31572</channel_id>
 			<epg_id>RTVS :24</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ÄŒT DÃ©Äko</caption>
 			<channel_id>31573</channel_id>
 			<epg_id>ÄŒT DÃ©Äko</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -29180,56 +29172,56 @@
 			<caption>Ã“Äko STAR HD</caption>
 			<channel_id>31575</channel_id>
 			<epg_id>Ã“Äko STAR HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Fishing&amp;Hunting</caption>
 			<channel_id>31576</channel_id>
 			<epg_id>Fishing&amp;Hunting</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>JOJ Cinema</caption>
 			<channel_id>31577</channel_id>
 			<epg_id>JOJ Cinema</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Arena sport 1</caption>
 			<channel_id>31578</channel_id>
 			<epg_id>Arena sport 1</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TV Liptov</caption>
 			<channel_id>31579</channel_id>
 			<epg_id>TV Liptov</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>AXN Black</caption>
 			<channel_id>31580</channel_id>
 			<epg_id>AXN Black</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>AXN White</caption>
 			<channel_id>31581</channel_id>
 			<epg_id>AXN White</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>NASA TV</caption>
 			<channel_id>31582</channel_id>
 			<epg_id>NASA TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -29243,14 +29235,14 @@
 			<caption>JOJ</caption>
 			<channel_id>31584</channel_id>
 			<epg_id>JOJ</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Panorama MalinÃ´ Brdo</caption>
 			<channel_id>31585</channel_id>
 			<epg_id>Panorama MalinÃ´ Brdo</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -29264,14 +29256,14 @@
 			<caption>Discovery : TLC</caption>
 			<channel_id>31590</channel_id>
 			<epg_id>Discovery : TLC</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cartoon Network HD</caption>
 			<channel_id>31591</channel_id>
 			<epg_id>Cartoon Network HD</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -29285,168 +29277,168 @@
 			<caption>MumlavskÃ© vodopÃ¡dy</caption>
 			<channel_id>31593</channel_id>
 			<epg_id>MumlavskÃ© vodopÃ¡dy</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>JOJ 24</caption>
 			<channel_id>31594</channel_id>
 			<epg_id>JOJ 24</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Crime and Investigation</caption>
 			<channel_id>31595</channel_id>
 			<epg_id>Crime and Investigation</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>PKtest</caption>
 			<channel_id>31596</channel_id>
 			<epg_id>PKtest</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Duna World</caption>
 			<channel_id>31597</channel_id>
 			<epg_id>Duna World</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>HaHa TV</caption>
 			<channel_id>31598</channel_id>
 			<epg_id>HaHa TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ÄŒT Sport</caption>
 			<channel_id>31599</channel_id>
 			<epg_id>ÄŒT Sport</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ÄŒT2</caption>
 			<channel_id>31600</channel_id>
 			<epg_id>ÄŒT2</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ÄŒT1</caption>
 			<channel_id>31601</channel_id>
 			<epg_id>ÄŒT1</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TV Natura</caption>
 			<channel_id>31602</channel_id>
 			<epg_id>TV Natura</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>CS Mystery</caption>
 			<channel_id>31603</channel_id>
 			<epg_id>CS Mystery</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>CNN Prima News</caption>
 			<channel_id>31604</channel_id>
 			<epg_id>CNN Prima News</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Retro</caption>
 			<channel_id>31605</channel_id>
 			<epg_id>Retro</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>CS History</caption>
 			<channel_id>31606</channel_id>
 			<epg_id>CS History</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>WAU</caption>
 			<channel_id>31607</channel_id>
 			<epg_id>WAU</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>KorÃ¡lovÃ¡ zahrada</caption>
 			<channel_id>31608</channel_id>
 			<epg_id>KorÃ¡lovÃ¡ zahrada</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Spektrum home</caption>
 			<channel_id>31609</channel_id>
 			<epg_id>Spektrum home</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Galerie zvÃ­Å™at</caption>
 			<channel_id>31610</channel_id>
 			<epg_id>Galerie zvÃ­Å™at</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Lala TV</caption>
 			<channel_id>31611</channel_id>
 			<epg_id>Lala TV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TV MÅˆam</caption>
 			<channel_id>31612</channel_id>
 			<epg_id>TV MÅˆam</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ÄŒT art</caption>
 			<channel_id>31613</channel_id>
 			<epg_id>ÄŒT art</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>PMtest</caption>
 			<channel_id>31614</channel_id>
 			<epg_id>PMtest</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>NatureTV</caption>
 			<channel_id>31615</channel_id>
 			<epg_id>NatureTV</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>M4 Sport</caption>
 			<channel_id>31519</channel_id>
 			<epg_id>M4 Sport</epg_id>
-			<icon_url>plugin_file://icons/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
