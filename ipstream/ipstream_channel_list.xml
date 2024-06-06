@@ -45,11 +45,6 @@
 			<icon_url>plugin_file://icons/categories/3.png</icon_url>
 		</tv_category>
 		<tv_category>
-			<id>9</id>
-			<caption>18+</caption>
-			<icon_url>plugin_file://icons/categories/channel_unset.png</icon_url>
-		</tv_category>
-		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
@@ -72,7 +67,7 @@
 		<tv_channel>
 			<caption>Пеpвый HD</caption>
 			<channel_id>pervyHD</channel_id>
-			<epg_id>pervyhd</epg_id>
+			<epg_id>pervy</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/pervyj-hd.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>5</archive>
@@ -80,7 +75,7 @@
 		<tv_channel>
 			<caption>Первый канaл</caption>
 			<channel_id>pervy</channel_id>
-			<epg_id>pervyhd</epg_id>
+			<epg_id>pervy</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/pervyj.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>5</archive>
@@ -325,7 +320,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Рoсcия-24</caption>
+			<caption>Рoсcия 24</caption>
 			<channel_id>rossia-24</channel_id>
 			<epg_id>rossia-24</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/rossia24.png</icon_url>
@@ -665,6 +660,7 @@
 			<epg_id>viasat-nature</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/viasatnature.ru.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>viju+ Planet HD</caption>
@@ -746,14 +742,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Discovery Science HD</caption>
-			<channel_id>discovery-scienceHD</channel_id>
-			<epg_id>discovery-science</epg_id>
-			<icon_url>https://static.ipstr.im/picons/ru/discovery-science.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Travel+Adventure</caption>
 			<channel_id>travel-adventure</channel_id>
 			<epg_id>travel-adventure</epg_id>
@@ -815,6 +803,7 @@
 			<epg_id>tlc</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/tlcHD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTG HD</caption>
@@ -885,13 +874,6 @@
 			<channel_id>voprotv</channel_id>
 			<epg_id>voprosy-i-otvety</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/voprosy-i-otvety.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Home 4k</caption>
-			<channel_id>home_uhd</channel_id>
-			<epg_id>home-4k</epg_id>
-			<icon_url>https://static.ipstr.im/picons/ru/home4k.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1048,7 +1030,7 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>OCEAN-TV</caption>
+			<caption>Ocean TV</caption>
 			<channel_id>oceantv</channel_id>
 			<epg_id>ocean-tv</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/oceantv.png</icon_url>
@@ -1059,14 +1041,6 @@
 			<channel_id>id-xtraHD</channel_id>
 			<epg_id>id-xtra-ru</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/id-xtraHD.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>DTX HD</caption>
-			<channel_id>dtxHD</channel_id>
-			<epg_id>dtx</epg_id>
-			<icon_url>https://static.ipstr.im/picons/ru/dtx.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>2</archive>
 		</tv_channel>
@@ -1323,7 +1297,7 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MÖDO Man</caption>
+			<caption>MÖDO Man Like</caption>
 			<channel_id>modo_man</channel_id>
 			<epg_id>MODO-MAN-LIKE</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/7/modo_man.png</icon_url>
@@ -1346,7 +1320,7 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>HGTV Home &amp; Garden HD</caption>
+			<caption>HGTV Home &amp; Garden</caption>
 			<channel_id>hgtv</channel_id>
 			<epg_id>hgtv</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/7/hgtv.png</icon_url>
@@ -1439,14 +1413,6 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Boomerang</caption>
-			<channel_id>boomerang</channel_id>
-			<epg_id>boomerang</epg_id>
-			<icon_url>https://static.ipstr.im/picons/ru/boomerang.ru.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>2x2</caption>
 			<channel_id>2na2</channel_id>
 			<epg_id>2na2</epg_id>
@@ -1524,6 +1490,7 @@
 			<epg_id>MODO-USSR-KID</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/11/modo_sssr_m.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MÖDO CANDY LAND</caption>
@@ -1539,6 +1506,7 @@
 			<epg_id>multimania</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/multland.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Уникум HD</caption>
@@ -1788,22 +1756,6 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>KBC Family Animation</caption>
-			<channel_id>kbc_family_animation</channel_id>
-			<epg_id>38589</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_family_animation.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Союз МУЛЬТZAL</caption>
-			<channel_id>kbc_souzmultzal</channel_id>
-			<epg_id>39798</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_souzmultzal.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>MS Animated HD</caption>
 			<channel_id>ms_animated</channel_id>
 			<epg_id>MSANIMATEDHD</epg_id>
@@ -1945,14 +1897,6 @@
 			<channel_id>fox</channel_id>
 			<epg_id>fox</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/fox.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fox HD</caption>
-			<channel_id>foxHD</channel_id>
-			<epg_id>fox</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/foxHD.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>2</archive>
 		</tv_channel>
@@ -2307,14 +2251,6 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>FoxLife HD</caption>
-			<channel_id>foxlifeHD</channel_id>
-			<epg_id>foxlife</epg_id>
-			<icon_url>https://static.ipstr.im/picons/ru/foxlife.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Amedia 1 HD</caption>
 			<channel_id>amedia1HD</channel_id>
 			<epg_id>amedia1</epg_id>
@@ -2406,14 +2342,6 @@
 			<channel_id>ntvhit</channel_id>
 			<epg_id>ntv-xit</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/ntv-hit.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Победа HD</caption>
-			<channel_id>pobedahd</channel_id>
-			<epg_id>pobeda</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/pobedahd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>2</archive>
 		</tv_channel>
@@ -2561,7 +2489,7 @@
 			<epg_id>MODO-TOP-SERIES</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/3/modo_top_series.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
+			<archive>4</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MÖDO Super Hero</caption>
@@ -2673,6 +2601,7 @@
 			<epg_id>SKYHIGHUHDHDR</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/sh_uhd_hdr.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>SKY HIGH VHS UHD</caption>
@@ -2680,6 +2609,7 @@
 			<epg_id>SKYHIGHVHSUHD</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/sh_vhs_uhd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>SKY HIGH Mix 4K</caption>
@@ -2717,6 +2647,7 @@
 			<epg_id>SKYHIGH3D</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/sh_mix3d.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>SKY HIGH Russian HD</caption>
@@ -3204,6 +3135,7 @@
 			<epg_id>mag_ka</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/mag_ka.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Magic Thriller</caption>
@@ -3516,7 +3448,7 @@
 		<tv_channel>
 			<caption>UZ Союз-Фильмы HD</caption>
 			<channel_id>uzsyuzf</channel_id>
-			<epg_id>static-19</epg_id>
+			<epg_id>uzsyuzf</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/uzsyuzf.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -3530,7 +3462,7 @@
 		<tv_channel>
 			<caption>UZ Кино 1 HD</caption>
 			<channel_id>uzkino1</channel_id>
-			<epg_id>1429</epg_id>
+			<epg_id>UZ Кино 1 HD</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/uzkino1.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -3544,174 +3476,23 @@
 		<tv_channel>
 			<caption>UZ Кино 3 HD</caption>
 			<channel_id>uzkino3</channel_id>
-			<epg_id>2074</epg_id>
+			<epg_id>UZ Кино 3 HD</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/uzkino3.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>UZ Кино 4 HD</caption>
 			<channel_id>uzkino4</channel_id>
-			<epg_id>1559</epg_id>
+			<epg_id>UZ Кино 4 HD</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/uzkino4.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>UZ Кино 5 HD</caption>
 			<channel_id>uzkino5</channel_id>
-			<epg_id>1686</epg_id>
+			<epg_id>UZ Кино 5 HD</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/uzkino5.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC В.О.В.</caption>
-			<channel_id>kbc_vov</channel_id>
-			<epg_id>39821</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_vov.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Comics</caption>
-			<channel_id>kbc_comics</channel_id>
-			<epg_id>39800</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_comics.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Elite Comedys</caption>
-			<channel_id>kbc_elite_comedy</channel_id>
-			<epg_id>35448</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_elite_comedy.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Fantastic</caption>
-			<channel_id>kbc_fantastic</channel_id>
-			<epg_id>39795</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_fantastic.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC History</caption>
-			<channel_id>kbc_history</channel_id>
-			<epg_id>39796</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_history.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Light сериал RU</caption>
-			<channel_id>kbc_light_serial_ru</channel_id>
-			<epg_id>kbc_light_serial_ru</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_light_serial_ru.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Premium</caption>
-			<channel_id>kbc_premium</channel_id>
-			<epg_id>35525</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_premium.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC New Film</caption>
-			<channel_id>kbc_newfilm</channel_id>
-			<epg_id>39048</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_newfilm.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Russian Комедия</caption>
-			<channel_id>kbc_russian_comedy</channel_id>
-			<epg_id>36168</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_russian_comedy.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Видак</caption>
-			<channel_id>kbc_vidak</channel_id>
-			<epg_id>36251</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_vidak.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Guy Ritchie and Tarantino</caption>
-			<channel_id>kbc_ritchie_tarantino</channel_id>
-			<epg_id>39819</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_ritchie_tarantino.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Драма TIC</caption>
-			<channel_id>kbc_drama_tic</channel_id>
-			<epg_id>36732</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_drama_tic.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Кинотеатр</caption>
-			<channel_id>kbc_kinoteatr</channel_id>
-			<epg_id>39797</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_kinoteatr.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Кошмарное</caption>
-			<channel_id>kbc_koshmarnoe</channel_id>
-			<epg_id>36277</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_koshmarnoe.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Криминальный Serial</caption>
-			<channel_id>kbc_criminal_serial</channel_id>
-			<epg_id>39822</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_criminal_serial.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Страна СССР</caption>
-			<channel_id>kbc_strana_sssr</channel_id>
-			<epg_id>36506</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_strana_sssr.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Шпионское</caption>
-			<channel_id>kbc_shpionskoe</channel_id>
-			<epg_id>39820</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_shpionskoe.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Легендарное HD</caption>
-			<channel_id>kbc_ultra</channel_id>
-			<epg_id>39826</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_ultra.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Гоблин</caption>
-			<channel_id>kbc_goblin</channel_id>
-			<epg_id>kbc_goblin</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_goblin.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>CineMan</caption>
@@ -3727,7 +3508,7 @@
 			<epg_id>cineman-top</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/cinetop.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-			<archive>1</archive>
+			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>CineMan Action</caption>
@@ -3767,7 +3548,7 @@
 			<epg_id>cineman-melodrama</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/cinemelodr.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-			<archive>1</archive>
+			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>CineMan Комедия</caption>
@@ -3805,6 +3586,7 @@
 			<epg_id>cineman-vhs</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/cinevhs.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>CineMan Скорая помощь</caption>
@@ -4019,27 +3801,12 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MÖDO New Blood</caption>
-			<channel_id>MODO-NEW-BLOOD</channel_id>
-			<epg_id>MODO-NEW-BLOOD</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/3/MODO-NEW-BLOOD.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>4</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>MÖDO Snoop Gun</caption>
 			<channel_id>MODO-SNOOP-GUN</channel_id>
 			<epg_id>MODO-SNOOP-GUN</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/3/MODO-SNOOP-GUN.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Kion ХИТ HD</caption>
-			<channel_id>kion-hit-hd</channel_id>
-			<epg_id>kion-hit-hd</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/3/kion-hit-hd.png</icon_url>
-			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>MÖDO Love Stories</caption>
@@ -4105,7 +3872,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>CineMan Глухарь + Карпов</caption>
+			<caption>CineMan Криминальные Сериалы</caption>
 			<channel_id>cone_karpov</channel_id>
 			<epg_id>cineman-gluhar</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/3/cone_karpov.png</icon_url>
@@ -4286,7 +4053,7 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Eurosport 1 HD</caption>
+			<caption>Eurosport 1</caption>
 			<channel_id>eurosport1hd</channel_id>
 			<epg_id>eurosport1</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/eurosport1hd.png</icon_url>
@@ -4294,7 +4061,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Eurosport 2 HD</caption>
+			<caption>Eurosport 2</caption>
 			<channel_id>eurosport2HD</channel_id>
 			<epg_id>eurosport2</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/eurosport2.ru.png</icon_url>
@@ -4347,6 +4114,7 @@
 			<epg_id>tochka-otryva</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/tochka-otryva.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Setanta Sports 1 HD</caption>
@@ -4437,11 +4205,12 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Футбольный HD</caption>
+			<caption>Футбольный</caption>
 			<channel_id>footbolny</channel_id>
 			<epg_id>footbolny</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/footbolny.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>SKY HIGH Fight + HD</caption>
@@ -4457,118 +4226,6 @@
 			<icon_url>https://static.ipstr.im/picons/upl/kxl-hd_50.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 1</caption>
-			<channel_id>setanta_event01</channel_id>
-			<epg_id>setanta_event_01</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event01.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 2</caption>
-			<channel_id>setanta_event02</channel_id>
-			<epg_id>setanta_event_02</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event02.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 3</caption>
-			<channel_id>setanta_event03</channel_id>
-			<epg_id>setanta_event_03</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event03.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 4</caption>
-			<channel_id>setanta_event04</channel_id>
-			<epg_id>setanta_event_04</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event04.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 5</caption>
-			<channel_id>setanta_event05</channel_id>
-			<epg_id>setanta_event_05</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event05.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 6</caption>
-			<channel_id>setanta_event06</channel_id>
-			<epg_id>setanta_event_06</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event06.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 7</caption>
-			<channel_id>setanta_event07</channel_id>
-			<epg_id>setanta_event_07</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event07.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 8</caption>
-			<channel_id>setanta_event08</channel_id>
-			<epg_id>setanta_event_08</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event08.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 9</caption>
-			<channel_id>setanta_event09</channel_id>
-			<epg_id>setanta_event_09</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event09.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 10</caption>
-			<channel_id>setanta_event10</channel_id>
-			<epg_id>setanta_event_10</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event10.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 11</caption>
-			<channel_id>setanta_event11</channel_id>
-			<epg_id>setanta_event_11</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event11.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 12</caption>
-			<channel_id>setanta_event12</channel_id>
-			<epg_id>setanta_event_12</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event12.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 13</caption>
-			<channel_id>setanta_event13</channel_id>
-			<epg_id>setanta_event_13</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event13.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 14</caption>
-			<channel_id>setanta_event14</channel_id>
-			<epg_id>setanta_event_14</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event14.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 15</caption>
-			<channel_id>setanta_event15</channel_id>
-			<epg_id>setanta_event_15</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event15.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta event 16</caption>
-			<channel_id>setanta_event16</channel_id>
-			<epg_id>setanta_event_16</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/4/setanta_event16.png</icon_url>
-			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Okko Sport</caption>
@@ -4587,19 +4244,12 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Моторспорт ТВ</caption>
-			<channel_id>moto-sport</channel_id>
-			<epg_id>motorsportv-tv</epg_id>
-			<icon_url>https://static.ipstr.im/picons/ru/motosport.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Мир баскетбола</caption>
 			<channel_id>basksport</channel_id>
 			<epg_id>mir-basketbola</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/basksport.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>VIVA Russia HD</caption>
@@ -4630,14 +4280,6 @@
 			<channel_id>mtv-rocks</channel_id>
 			<epg_id>mtv-rocks</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/mtv_rocks.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MTV 80s</caption>
-			<channel_id>vh1-classic</channel_id>
-			<epg_id>vh1-classic</epg_id>
-			<icon_url>https://static.ipstr.im/picons/ru/vh1-classic.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -4941,21 +4583,6 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>KBC Наш Рок</caption>
-			<channel_id>kbc_rock</channel_id>
-			<epg_id>39824</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_rock.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC Second HIT</caption>
-			<channel_id>kbc_sechit</channel_id>
-			<epg_id>kbc-second-hit</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/kbc_sechit.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>MM World Hits HD</caption>
 			<channel_id>minimax-world-hits</channel_id>
 			<epg_id>static-1</epg_id>
@@ -5017,262 +4644,6 @@
 			<epg_id>static-1</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/8/modo_top_music.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Barely legal TV</caption>
-			<channel_id>Barelyleg_xxx</channel_id>
-			<epg_id>barely-legal</epg_id>
-			<icon_url>https://static.ipstr.im/picons/xxx/barely-legal.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Brazzers TV Europe</caption>
-			<channel_id>brazers_xxx</channel_id>
-			<epg_id>brazzers-tv-europe</epg_id>
-			<icon_url>https://static.ipstr.im/picons/xxx/brazzers.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>HUSTLER HD</caption>
-			<channel_id>hustlerHD_xxx</channel_id>
-			<epg_id>hustler-hd</epg_id>
-			<icon_url>https://static.ipstr.im/picons/ru/hustler.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Penthouse Gold</caption>
-			<channel_id>penthouse-hd_xxx</channel_id>
-			<epg_id>penthouse-hd</epg_id>
-			<icon_url>https://static.ipstr.im/picons/xxx/penthouse1.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Penthouse</caption>
-			<channel_id>penthous-2_xxx</channel_id>
-			<epg_id>pentqui</epg_id>
-			<icon_url>https://static.ipstr.im/picons/xxx/penthouse_quickies.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Playboy TV</caption>
-			<channel_id>playboy-tv_xxx</channel_id>
-			<epg_id>playboy-tv</epg_id>
-			<icon_url>https://static.ipstr.im/picons/xxx/playboy.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>REDLIGHT HD</caption>
-			<channel_id>redlight_xh</channel_id>
-			<epg_id>redlight-hd</epg_id>
-			<icon_url>https://static.ipstr.im/picons/xxx/redlight.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>MÖDO Honey Twins</caption>
-			<channel_id>modo_honey_18</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/13/modo_honey_18.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>O-la-la</caption>
-			<channel_id>o-la-la_xxx</channel_id>
-			<epg_id>o-la-la</epg_id>
-			<icon_url>https://static.ipstr.im/picons/ru/olala.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Шалун HD</caption>
-			<channel_id>shalun_xxx</channel_id>
-			<epg_id>shalun</epg_id>
-			<icon_url>https://static.ipstr.im/picons/xxx/shalun.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Private TV</caption>
-			<channel_id>privatetv_xxx</channel_id>
-			<epg_id>private-tv</epg_id>
-			<icon_url>https://static.ipstr.im/picons/xxx/private.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Vivid Red HD</caption>
-			<channel_id>vivid_red_xxx</channel_id>
-			<epg_id>vividred</epg_id>
-			<icon_url>https://static.ipstr.im/picons/xxx/vividRED.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Babes TV</caption>
-			<channel_id>babes_xxx</channel_id>
-			<epg_id>babes-tv</epg_id>
-			<icon_url>https://static.ipstr.im/picons/xxx/babes.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наслаждение HD 1</caption>
-			<channel_id>nasl1_xxx</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/nasl1_xxx.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наслаждение HD 2</caption>
-			<channel_id>nasl2_xxx</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/nasl2_xxx.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наслаждение HD 3</caption>
-			<channel_id>nasl3_xxx</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/nasl3_xxx.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наслаждение HD 4</caption>
-			<channel_id>nasl4_xxx</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/nasl4_xxx.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наслаждение 2K 1</caption>
-			<channel_id>nasl1_2k_xxx</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/nasl1_2k_xxx.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наслаждение 2K 2</caption>
-			<channel_id>nasl2_2k_xxx</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/nasl2_2k_xxx.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наслаждение 2K 3</caption>
-			<channel_id>nasl3_2k_xxx</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/nasl3_2k_xxx.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sexy 1</caption>
-			<channel_id>xxxclub</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/xxxclub.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sexy 2</caption>
-			<channel_id>xxx2club</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/xxx2club.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sexy 3</caption>
-			<channel_id>ruxxxclub</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/ruxxxclub.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sexy 4</caption>
-			<channel_id>ruxxx2club</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/ruxxx2club.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Loves Berry HD</caption>
-			<channel_id>z_loves</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/z_loves.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z!Adult TV</caption>
-			<channel_id>z_adult</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/z_adult.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>AST 1 HD</caption>
-			<channel_id>satisfactionHD</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/satisfactionHD.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>AST 2 HD</caption>
-			<channel_id>ast2_xxx</channel_id>
-			<epg_id>static-2</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/ast2_xxx.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH Adult HD</caption>
-			<channel_id>sh_adult</channel_id>
-			<epg_id>static-37</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/sh_adult.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>BCU Charm HD</caption>
-			<channel_id>bcu_sharm</channel_id>
-			<epg_id>bcu_charm</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/bcu_sharm.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Эротика</caption>
-			<channel_id>lib_erotic</channel_id>
-			<epg_id>LIBERTYEROTIKA</epg_id>
-			<icon_url>https://static.ipstr.im/picons/upl/lib_erotic.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<protected>1</protected>
 		</tv_channel>
 	</tv_channels>
 </tv_info>
