@@ -397,6 +397,20 @@
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Соловьёв Live</caption>
+			<channel_id>solovev_live</channel_id>
+			<epg_id>solovev_live</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/9/solovev_live.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bloomberg</caption>
+			<channel_id>bloomberg</channel_id>
+			<epg_id>bloomberg</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/9/bloomberg.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>ТНТ4</caption>
 			<channel_id>tnt4</channel_id>
 			<epg_id>tnt4</epg_id>
@@ -605,6 +619,29 @@
 			<epg_id>oldschool-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/10/old_school-mm.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Video Show</caption>
+			<channel_id>modo_video_show</channel_id>
+			<epg_id>MODO-VIDEO-SHOW</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/10/modo_video_show.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Just TV</caption>
+			<channel_id>jutstv</channel_id>
+			<epg_id>Just TV</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/10/jutstv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Comedy Central</caption>
+			<channel_id>comcen</channel_id>
+			<epg_id>paramount-comedy</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/10/comcen.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Бобёр</caption>
@@ -1341,6 +1378,49 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>History 2 HD</caption>
+			<channel_id>h2</channel_id>
+			<epg_id>h2</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/7/h2.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Love Nature 4K</caption>
+			<channel_id>lovenature</channel_id>
+			<epg_id>love-nature-4k</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/lovenature4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наша Сибирь HD</caption>
+			<channel_id>nashsib</channel_id>
+			<epg_id>nasha-sibir-4k</epg_id>
+			<icon_url>https://static.ipstr.im/picons/ru/nashasibir.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Инсайт ТВ</caption>
+			<channel_id>insight-uhd</channel_id>
+			<epg_id>insight-ultra-hd</epg_id>
+			<icon_url>https://static.ipstr.im/picons/ru/insight-uhd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Relax 4K</caption>
+			<channel_id>cinem_relax</channel_id>
+			<epg_id>cineman-relax</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/7/cinem_relax.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Большая Азия</caption>
+			<channel_id>bol_azia</channel_id>
+			<epg_id>static-44</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/7/bol_azia.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Карусель</caption>
 			<channel_id>karusel</channel_id>
 			<epg_id>karusel</epg_id>
@@ -1803,6 +1883,64 @@
 			<channel_id>griffiny-mm</channel_id>
 			<epg_id>griffiny-mm</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/11/griffiny-mm.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Toon 4K</caption>
+			<channel_id>modo_toon</channel_id>
+			<epg_id>MODO-TOON</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/11/modo_toon.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Baby Time</caption>
+			<channel_id>baby_time</channel_id>
+			<epg_id>baby-time</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/11/baby_time.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киномульт</caption>
+			<channel_id>kinomult</channel_id>
+			<epg_id>kinomult</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/11/kinomult.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Kids USSR</caption>
+			<channel_id>sh_kidsussr</channel_id>
+			<epg_id>SKYHIGHKIDSUSSR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/sh_kidsussr.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH WBros HDR</caption>
+			<channel_id>sh_wbros</channel_id>
+			<epg_id>SKYHIGHWBROSHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/11/sh_wbros.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH 2D Classic 4K HDR</caption>
+			<channel_id>sh_2dclassic</channel_id>
+			<epg_id>SKYHIGH2DCLASSICHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/11/sh_2dclassic.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH 3D Classic HDR</caption>
+			<channel_id>sh_3dmult</channel_id>
+			<epg_id>SKYHIGH3DCLASSICHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/11/sh_3dmult.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Puppet 4K HDR</caption>
+			<channel_id>sh_puppet</channel_id>
+			<epg_id>SKYHIGHPUPPETHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/11/sh_puppet.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3893,6 +4031,178 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Любимое HD</caption>
+			<channel_id>nlub_hd</channel_id>
+			<epg_id>nashe-lubimoe-hd</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/nlub_hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO New Blood</caption>
+			<channel_id>modo_new_blood</channel_id>
+			<epg_id>MODO-NEW-BLOOD</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/MODO-NEW-BLOOD.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Tarantino-G.Ritchie</caption>
+			<channel_id>modo_trgr</channel_id>
+			<epg_id>MODO-TARANTINO-RITCHE</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/modo_trgr.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Spring 4K HDR</caption>
+			<channel_id>sh_spring</channel_id>
+			<epg_id>SKYHIGHSPRINGHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_spring.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Sunny 4K HDR</caption>
+			<channel_id>sh_sunny</channel_id>
+			<epg_id>SKYHIGHSUNNYHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_sunny.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Winter 4K HDR</caption>
+			<channel_id>sh_winter</channel_id>
+			<epg_id>SKYHIGHWINTERHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_winter.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Autumn 4K HDR</caption>
+			<channel_id>sh_autumn</channel_id>
+			<epg_id>SKYHIGHAUTUMNHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_autumn.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH VHS Future 4K HDR</caption>
+			<channel_id>sh_vhsfut</channel_id>
+			<epg_id>SKYHIGHVHSFUTUREHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_vhsfut.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH VHS Dejavu 4K HDR</caption>
+			<channel_id>sh_vhs_dej</channel_id>
+			<epg_id>SKYHIGHVHSDEJAVUHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_vhs_dej.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Cosmos 4K HDR</caption>
+			<channel_id>sh_cosmo</channel_id>
+			<epg_id>SKYHIGHCOSMOSHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_cosmo.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Bloody 4K HDR</caption>
+			<channel_id>sh_bloody</channel_id>
+			<epg_id>SKYHIGHBLOODYHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_bloody.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Sadly 4K HDR</caption>
+			<channel_id>sh_sadly</channel_id>
+			<epg_id>SKYHIGHSADLYHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_sadly.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Western 4K HDR</caption>
+			<channel_id>sh_western</channel_id>
+			<epg_id>SKYHIGHWESTERNHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_western.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Vampire 4K HDR</caption>
+			<channel_id>sh_vampire</channel_id>
+			<epg_id>SKYHIGHVAMPIREHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_vampire.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Detect 4K HDR</caption>
+			<channel_id>sh_detect</channel_id>
+			<epg_id>SKYHIGHDETECTHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_detect.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Smash 4K HDR</caption>
+			<channel_id>sh_smash</channel_id>
+			<epg_id>SKYHIGHSMASHHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_smash.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Legends 4K HDR</caption>
+			<channel_id>sh_legends</channel_id>
+			<epg_id>SKYHIGHLEGENDSHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_legends.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Family 4K HDR</caption>
+			<channel_id>sh_fam</channel_id>
+			<epg_id>SKYHIGHFAMILYHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_fam.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH NonStop 4K HDR</caption>
+			<channel_id>sh_nonstop</channel_id>
+			<epg_id>SKYHIGHNONSTOPHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_nonstop.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Century 4K HDR</caption>
+			<channel_id>sh_cent</channel_id>
+			<epg_id>SKYHIGHCENTURYHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_cent.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Mystic 4K HDR</caption>
+			<channel_id>sh_mystic</channel_id>
+			<epg_id>SKYHIGHMYSTICHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_mystic.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH Horror 4K HDR</caption>
+			<channel_id>sh_horror</channel_id>
+			<epg_id>SKYHIGHHORRORHDR</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/sh_horror.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Кинофестиваль</caption>
+			<channel_id>mm_kinofestival</channel_id>
+			<epg_id>kinofestival-mm</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/mm_kinofestival.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan OLD 4K</caption>
+			<channel_id>cinem_old4k</channel_id>
+			<epg_id>cineman-old4k</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/3/cinem_old4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Матч ТВ</caption>
 			<channel_id>match-tv</channel_id>
 			<epg_id>match-tv</epg_id>
@@ -4248,6 +4558,22 @@
 			<channel_id>basksport</channel_id>
 			<epg_id>mir-basketbola</epg_id>
 			<icon_url>https://static.ipstr.im/picons/ru/basksport.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Спортивный</caption>
+			<channel_id>sporivn</channel_id>
+			<epg_id>sportivny</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/4/sporivn.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт Триумф</caption>
+			<channel_id>start-triumfHD</channel_id>
+			<epg_id>start-triumfHD</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/4/start-triumfHD.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -4643,6 +4969,55 @@
 			<channel_id>modo_top_music</channel_id>
 			<epg_id>static-1</epg_id>
 			<icon_url>https://static.ipstr.im/picons/upl/8/modo_top_music.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Music 2023</caption>
+			<channel_id>modo_misic_2023</channel_id>
+			<epg_id>static-50</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/8/modo_misic_2023.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Music RU-UA 2023</caption>
+			<channel_id>modo_misic_ru_ua_2023</channel_id>
+			<epg_id>static-47</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/8/modo_misic_ru_ua_2023.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Music 2022</caption>
+			<channel_id>modo_misic_2022</channel_id>
+			<epg_id>static-49</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/8/modo_misic_2022.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Music RU-UA 2022</caption>
+			<channel_id>modo_misic_ru_ua_2022</channel_id>
+			<epg_id>static-47</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/8/modo_misic_ru_ua_2022.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Music 2021</caption>
+			<channel_id>modo_misic_2021</channel_id>
+			<epg_id>static-48</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/8/modo_misic_2021.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Music RU-UA 2021</caption>
+			<channel_id>modo_misic_ru_ua_2021</channel_id>
+			<epg_id>static-47</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/8/modo_misic_ru_ua_2021.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MÖDO Music Club</caption>
+			<channel_id>modo_misic_club</channel_id>
+			<epg_id>static-51</epg_id>
+			<icon_url>https://static.ipstr.im/picons/upl/8/modo_misic_club.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 	</tv_channels>

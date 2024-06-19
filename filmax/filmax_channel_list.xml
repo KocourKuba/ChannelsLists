@@ -40,11 +40,6 @@
 			<icon_url>plugin_file://icons/categories/5.png</icon_url>
 		</tv_category>
 		<tv_category>
-			<id>10</id>
-			<caption>Взрослые (18+)</caption>
-			<icon_url>plugin_file://icons/categories/33.png</icon_url>
-		</tv_category>
-		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
@@ -65,27 +60,11 @@
 	</tv_categories>
 	<tv_channels>
 		<tv_channel>
-			<caption>360 HD</caption>
-			<channel_id>360 HD</channel_id>
-			<int_id>a841f5cc3252dac06a7964c3069b4483</int_id>
-			<epg_id>360 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/8.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>360 Новости HD</caption>
-			<channel_id>360 Новости HD</channel_id>
-			<int_id>0e5978fb216b2a1999fdb191ff07</int_id>
-			<epg_id>360 Новости HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/9.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Домашний</caption>
 			<channel_id>Домашний</channel_id>
 			<int_id>4ca3dc797a89a40ad2ebca41dcb36e05</int_id>
 			<epg_id>Домашний</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/36.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4ca3dc797a89a40ad2ebca41dcb36e05.png?d=1716542115</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -94,7 +73,7 @@
 			<channel_id>Домашний HD</channel_id>
 			<int_id>e95f9c5189fe76ab962d12715d9b9ede</int_id>
 			<epg_id>Домашний HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/27.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/e95f9c5189fe76ab962d12715d9b9ede.png?d=1713955515</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -103,7 +82,7 @@
 			<channel_id>Звезда</channel_id>
 			<int_id>e3049687b90135c7ee464a87467e686f</int_id>
 			<epg_id>Звезда</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/6.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/e3049687b90135c7ee464a87467e686f.png?d=1713957315</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -112,7 +91,7 @@
 			<channel_id>Звезда HD</channel_id>
 			<int_id>4f6d4e52890f0a45750efd7812c8af69</int_id>
 			<epg_id>Звезда HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/42.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4f6d4e52890f0a45750efd7812c8af69.png?d=1713947417</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -121,7 +100,7 @@
 			<channel_id>Известия</channel_id>
 			<int_id>uyff77fgil</int_id>
 			<epg_id>Известия</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/26.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/uyff77fgil.png?d=1711998710</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -129,31 +108,16 @@
 			<channel_id>Известия HD</channel_id>
 			<int_id>46cf1b0e422a8e9cdca3e5e70b62dc23</int_id>
 			<epg_id>Известия HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/33.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/46cf1b0e422a8e9cdca3e5e70b62dc23.png?d=1714672817</icon_url>
 			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мир</caption>
-			<channel_id>Мир</channel_id>
-			<int_id>vupkkp886</int_id>
-			<epg_id>Мир</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/44.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мир HD</caption>
-			<channel_id>Мир HD</channel_id>
-			<int_id>950c726ed7609c84d2c07407cfb41d68</int_id>
-			<epg_id>Мир</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/5.png</icon_url>
-			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Москва 24</caption>
 			<channel_id>Москва 24</channel_id>
 			<int_id>c17ac3c908e827c8b0e847fe4df0f68d</int_id>
 			<epg_id>Москва 24</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/41.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/c17ac3c908e827c8b0e847fe4df0f68d.png?d=1714671915</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -161,8 +125,8 @@
 			<caption>НТВ</caption>
 			<channel_id>НТВ</channel_id>
 			<int_id>34ee8ca91d4d384d37cc4561fcd5c0bb</int_id>
-			<epg_id>НТВ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/3.png</icon_url>
+			<epg_id>НТВ</epg_id>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/34ee8ca91d4d384d37cc4561fcd5c0bb.png?d=1714336217</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -171,24 +135,16 @@
 			<channel_id>НТВ HD</channel_id>
 			<int_id>94754727e0f4e4d43ef29c32a242ee91</int_id>
 			<epg_id>НТВ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/4.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/94754727e0f4e4d43ef29c32a242ee91.png?d=1716458414</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ОТР</caption>
-			<channel_id>ОТР</channel_id>
-			<int_id>b7275718445883a5395d3b618d0f8dd3</int_id>
-			<epg_id>ОТР</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/10.png</icon_url>
-			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Первый канал</caption>
 			<channel_id>Первый канал</channel_id>
 			<int_id>6fac000610c4cb074efdad137813824b</int_id>
 			<epg_id>Первый канал</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/1.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/6fac000610c4cb074efdad137813824b.png?d=1713952817</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -197,7 +153,7 @@
 			<channel_id>Первый канал HD</channel_id>
 			<int_id>5a9491e1dafbf637c9740802cdcf321e</int_id>
 			<epg_id>Первый канал HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/2.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/5a9491e1dafbf637c9740802cdcf321e.png?d=1718307917</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -206,7 +162,7 @@
 			<channel_id>Перец Int.</channel_id>
 			<int_id>c3a33ffe3fec2c533a18616534f6b555</int_id>
 			<epg_id>Перец Int.</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/39.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/c3a33ffe3fec2c533a18616534f6b555.png?d=1715759116</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -215,7 +171,7 @@
 			<channel_id>Пятница!</channel_id>
 			<int_id>657ff71144f6ad5a7aafb564fc2674e6</int_id>
 			<epg_id>Пятница!</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/12.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/657ff71144f6ad5a7aafb564fc2674e6.png?d=1713952817</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -224,7 +180,7 @@
 			<channel_id>Пятница! HD</channel_id>
 			<int_id>aaf1c9cf428a1aaa47003c4b0a6b9884</int_id>
 			<epg_id>Пятница! HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/13.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/aaf1c9cf428a1aaa47003c4b0a6b9884.png?d=1713951916</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -233,7 +189,7 @@
 			<channel_id>Пятый канал</channel_id>
 			<int_id>b37dc9cfa16e23cb8f6debf233c51c1b</int_id>
 			<epg_id>Пятый канал</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/7.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b37dc9cfa16e23cb8f6debf233c51c1b.png?d=1718121617</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -242,7 +198,7 @@
 			<channel_id>РБК</channel_id>
 			<int_id>jydfjddt777</int_id>
 			<epg_id>РБК</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/35.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/jydfjddt777.png?d=1712000433</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -250,15 +206,15 @@
 			<channel_id>РБК HD</channel_id>
 			<int_id>aa07a0ea61edfcff6a696e9aa5bc0f6f</int_id>
 			<epg_id>РБК HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/38.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/aa07a0ea61edfcff6a696e9aa5bc0f6f.png?d=1711977879</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>РЕН ТВ</caption>
 			<channel_id>РЕН ТВ</channel_id>
 			<int_id>95b690e36375b84c6f4081895274e8aa</int_id>
-			<epg_id>РЕН ТВ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/14.png</icon_url>
+			<epg_id>РЕН ТВ</epg_id>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/95b690e36375b84c6f4081895274e8aa.png?d=1713952817</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -267,7 +223,7 @@
 			<channel_id>РЕН ТВ HD</channel_id>
 			<int_id>95b690e36375b84c6f4081895274e8aa</int_id>
 			<epg_id>РЕН ТВ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/15.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/f9a3d5324017e6d967d06f39962814e0.png?d=1717695016</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -276,7 +232,7 @@
 			<channel_id>Россия 1</channel_id>
 			<int_id>fc4368c7e8d682ef3ee577f175776500</int_id>
 			<epg_id>Россия 1</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/16.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/fc4368c7e8d682ef3ee577f175776500.png?d=1713787215</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -285,7 +241,7 @@
 			<channel_id>Россия 1 HD</channel_id>
 			<int_id>a1c4056cc0986f7b280c0fdb2a286aff</int_id>
 			<epg_id>Россия 1 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/17.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/a1c4056cc0986f7b280c0fdb2a286aff.png?d=1717695017</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -294,7 +250,7 @@
 			<channel_id>Россия 24</channel_id>
 			<int_id>f4c1b07000bcb9b3b03f17fe0462ea2d</int_id>
 			<epg_id>Россия 24</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/25.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/f4c1b07000bcb9b3b03f17fe0462ea2d.png?d=1717056017</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -303,15 +259,16 @@
 			<channel_id>Россия К</channel_id>
 			<int_id>a87955896320a6bfa91081d30ef92cc2</int_id>
 			<epg_id>Россия К</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/18.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/a87955896320a6bfa91081d30ef92cc2.png?d=1713951916</icon_url>
 			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Спас</caption>
 			<channel_id>Спас</channel_id>
 			<int_id>rsdyjkhgt</int_id>
 			<epg_id>Спас</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/19.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/rsdyjkhgt.png?d=1712000189</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -319,7 +276,7 @@
 			<channel_id>СТС</channel_id>
 			<int_id>40920f3c45de52f5ea282b954fc50059</int_id>
 			<epg_id>СТС</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/20.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/40920f3c45de52f5ea282b954fc50059.png?d=1716542115</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -328,7 +285,7 @@
 			<channel_id>СТС HD</channel_id>
 			<int_id>4faf5d66251b12077179fe66fd730f6</int_id>
 			<epg_id>СТС HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/21.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4faf5d66251b12077179fe66fd730f6.png?d=1717695017</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -337,7 +294,7 @@
 			<channel_id>Суббота!</channel_id>
 			<int_id>a3b182b95ef16eaa57f95a6a39b8070b</int_id>
 			<epg_id>Суббота!</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/22.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/a3b182b95ef16eaa57f95a6a39b8070b.png?d=1713789015</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -346,7 +303,7 @@
 			<channel_id>Суббота! HD</channel_id>
 			<int_id>446634de060ee8f59f8d9f816b37ea55</int_id>
 			<epg_id>Суббота! HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/23.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/446634de060ee8f59f8d9f816b37ea55.png?d=1713789015</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -354,8 +311,8 @@
 			<caption>ТВ3</caption>
 			<channel_id>ТВ3</channel_id>
 			<int_id>ba0f3f6ff4306722ddcdd2aaff9d5035</int_id>
-			<epg_id>ТВ3 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/28.png</icon_url>
+			<epg_id>ТВ3</epg_id>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ba0f3f6ff4306722ddcdd2aaff9d5035.png?d=1717064115</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -364,7 +321,7 @@
 			<channel_id>ТВ3 HD</channel_id>
 			<int_id>739fc2590e9ae0f4f669193a449554a3</int_id>
 			<epg_id>ТВ3 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/29.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/739fc2590e9ae0f4f669193a449554a3.png?d=1714650315</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -373,7 +330,7 @@
 			<channel_id>ТВЦ</channel_id>
 			<int_id>8c332b46435cc5ac25e46bb5f42ab7fe</int_id>
 			<epg_id>ТВЦ</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/24.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/8c332b46435cc5ac25e46bb5f42ab7fe.png?d=1713949215</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -381,8 +338,8 @@
 			<caption>ТВЦ HD</caption>
 			<channel_id>ТВЦ HD</channel_id>
 			<int_id>74c487d07a1fd3331d3e32d79cd9f0a5</int_id>
-			<epg_id>ТВЦ</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/43.png</icon_url>
+			<epg_id>ТВЦ HD</epg_id>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/74c487d07a1fd3331d3e32d79cd9f0a5.png?d=1713947417</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -391,7 +348,7 @@
 			<channel_id>ТНТ</channel_id>
 			<int_id>268912e4708c3ecec6bbea90bd8b6d1e</int_id>
 			<epg_id>ТНТ</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/30.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/268912e4708c3ecec6bbea90bd8b6d1e.png?d=1713951916</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -400,7 +357,7 @@
 			<channel_id>ТНТ HD</channel_id>
 			<int_id>99b28e8a5ac8c6452ce4865d5bf85dc9</int_id>
 			<epg_id>ТНТ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/31.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/99b28e8a5ac8c6452ce4865d5bf85dc9.png?d=1718568017</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -409,7 +366,7 @@
 			<channel_id>ТНТ4</channel_id>
 			<int_id>5ba84f0bc7ae72be8b3f97cc013422f3</int_id>
 			<epg_id>ТНТ4</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/32.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/5ba84f0bc7ae72be8b3f97cc013422f3.png?d=1713789015</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -418,7 +375,7 @@
 			<channel_id>ТНТ4 HD</channel_id>
 			<int_id>073a19d99174926923748b04c0d26bdf</int_id>
 			<epg_id>ТНТ4 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/40.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/073a19d99174926923748b04c0d26bdf.png?d=1714650315</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -427,7 +384,7 @@
 			<channel_id>Че!</channel_id>
 			<int_id>bd15dfb2d62339b9039cc00ade0f3d47</int_id>
 			<epg_id>Че!</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/37.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/bd15dfb2d62339b9039cc00ade0f3d47.png?d=1713789015</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -436,7 +393,7 @@
 			<channel_id>Ю</channel_id>
 			<int_id>a92f60e87a35e5f842d95bea85b602e8</int_id>
 			<epg_id>Ю</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/34.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/a92f60e87a35e5f842d95bea85b602e8.png?d=1713789015</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -445,7 +402,7 @@
 			<channel_id>.Black</channel_id>
 			<int_id>ooi7644d</int_id>
 			<epg_id>.Black</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/145.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ooi7644d.png?d=1711985533</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -453,7 +410,7 @@
 			<channel_id>.Black HD</channel_id>
 			<int_id>6e97516280d01bbd76a8f4232c135d83</int_id>
 			<epg_id>.Black HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/146.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/6e97516280d01bbd76a8f4232c135d83.png?d=1717572613</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -462,7 +419,7 @@
 			<channel_id>.Red</channel_id>
 			<int_id>utduttuddt84</int_id>
 			<epg_id>.Red</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/143.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/utduttuddt84.png?d=1711985545</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -470,7 +427,7 @@
 			<channel_id>.Red HD</channel_id>
 			<int_id>b65894ab987b2d22d4b7fe131b9188e1</int_id>
 			<epg_id>.Red HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/144.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b65894ab987b2d22d4b7fe131b9188e1.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -479,7 +436,7 @@
 			<channel_id>.Sci-Fi</channel_id>
 			<int_id>ouuo654flxz</int_id>
 			<epg_id>.Sci-Fi</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/147.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ouuo654flxz.png?d=1711985564</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -487,16 +444,16 @@
 			<channel_id>.Sci-Fi HD</channel_id>
 			<int_id>6d36c930f057a85831a6b4a3ae1235c8</int_id>
 			<epg_id>.Sci-Fi HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/148.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/6d36c930f057a85831a6b4a3ae1235c8.png?d=1717573518</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>8 Канал-Беларусь</caption>
+			<caption>8 Канал-Беларусь HD</caption>
 			<channel_id>8 Канал-Беларусь</channel_id>
 			<int_id>5c92ec950c410f7c75d7ecb58b50e2f1</int_id>
 			<epg_id>8 Канал-Беларусь</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/162.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/5c92ec950c410f7c75d7ecb58b50e2f1.png?d=1713947417</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -504,7 +461,7 @@
 			<channel_id>A1 HD</channel_id>
 			<int_id>d70c1c6f3956d4eda3151486c7bac6c5</int_id>
 			<epg_id>A1 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/112.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/d70c1c6f3956d4eda3151486c7bac6c5.png?d=1713457814</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -513,7 +470,7 @@
 			<channel_id>A2</channel_id>
 			<int_id>ykyy6d4323g</int_id>
 			<epg_id>A2</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/115.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ykyy6d4323g.png?d=1711985682</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -521,16 +478,7 @@
 			<channel_id>A2 HD</channel_id>
 			<int_id>0fd769c44f7d9d07ae4363fbb41cbd1d</int_id>
 			<epg_id>A2 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/114.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>AMC</caption>
-			<channel_id>AMC</channel_id>
-			<int_id>8d2e74d1756225652edd4b9144043031</int_id>
-			<epg_id>AMC</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/154.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/0fd769c44f7d9d07ae4363fbb41cbd1d.png?d=1713457814</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -539,7 +487,7 @@
 			<channel_id>Akudji Tv</channel_id>
 			<int_id>utdutcutiv</int_id>
 			<epg_id>Akudji Tv</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/157.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/gchtt558fs1.png?d=1711989122</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -547,7 +495,7 @@
 			<channel_id>Amedia Hit HD</channel_id>
 			<int_id>09762edfc73ed55e4c5a77e5e8ca7a9d</int_id>
 			<epg_id>Amedia Hit HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/117.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/09762edfc73ed55e4c5a77e5e8ca7a9d.png?d=1713457814</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -556,7 +504,7 @@
 			<channel_id>Amedia Premium HD</channel_id>
 			<int_id>2e200a7db460f16b0b50e58cab1ac4e8</int_id>
 			<epg_id>Amedia Premium HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/116.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2e200a7db460f16b0b50e58cab1ac4e8.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -565,7 +513,7 @@
 			<channel_id>BCU Premiere 1 HD</channel_id>
 			<int_id>74f157dbaa1e37a122a0daafc21f4c02</int_id>
 			<epg_id>BCU Premiere 1 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/47.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/74f157dbaa1e37a122a0daafc21f4c02.png?d=1713457814</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -574,7 +522,7 @@
 			<channel_id>BCU Premiere 2 HD</channel_id>
 			<int_id>79ce343127a0c46892da934f9c9df88f</int_id>
 			<epg_id>BCU Premiere 2 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/48.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/79ce343127a0c46892da934f9c9df88f.png?d=1713457814</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -583,16 +531,7 @@
 			<channel_id>BCU Premiere 3 HD</channel_id>
 			<int_id>9d614e0fac0591b4d8248664aa5efbae</int_id>
 			<epg_id>BCU Premiere 3 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/49.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>BCUMedia HD</caption>
-			<channel_id>BCUMedia HD</channel_id>
-			<int_id>43c915c157dbed0cb88ad488ebf892f3</int_id>
-			<epg_id>BCUMedia HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/50.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/9d614e0fac0591b4d8248664aa5efbae.png?d=1713458716</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -601,7 +540,7 @@
 			<channel_id>BOX Cyber HD</channel_id>
 			<int_id>b0dbfa79862bbedc8cc996eb4e351f9c</int_id>
 			<epg_id>BOX Cyber HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/624.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b0dbfa79862bbedc8cc996eb4e351f9c.png?d=1713510015</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -610,7 +549,7 @@
 			<channel_id>BOX Franchise HD</channel_id>
 			<int_id>8194aabf7a3ecffa4131895f51946197</int_id>
 			<epg_id>BOX Franchise HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/619.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/8194aabf7a3ecffa4131895f51946197.png?d=1713519914</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -619,7 +558,7 @@
 			<channel_id>BOX Gangster HD</channel_id>
 			<int_id>ea2bf19d0ad716ee62359d9cc5ebecdb</int_id>
 			<epg_id>BOX Gangster HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/616.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ea2bf19d0ad716ee62359d9cc5ebecdb.png?d=1713519914</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -628,7 +567,7 @@
 			<channel_id>BOX Hybrid HD</channel_id>
 			<int_id>5d314bebc6e77d036e4f7ed19ddb9d66</int_id>
 			<epg_id>BOX Hybrid HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/617.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/5d314bebc6e77d036e4f7ed19ddb9d66.png?d=1713519914</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -637,7 +576,7 @@
 			<channel_id>BOX Oscar HD</channel_id>
 			<int_id>1d440485372feaf4ee61f538d50f6115</int_id>
 			<epg_id>BOX Oscar HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/177.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/1d440485372feaf4ee61f538d50f6115.png?d=1713458716</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -646,7 +585,7 @@
 			<channel_id>BOX Serial HD</channel_id>
 			<int_id>75cc3d28252eca1176d633c24ca32246</int_id>
 			<epg_id>BOX Serial HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/605.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/75cc3d28252eca1176d633c24ca32246.png?d=1713519914</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -655,7 +594,7 @@
 			<channel_id>BOX Spy HD</channel_id>
 			<int_id>4ba648fab85ce046cc6b64cb9d309952</int_id>
 			<epg_id>BOX Spy HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/620.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4ba648fab85ce046cc6b64cb9d309952.png?d=1713509114</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -664,7 +603,7 @@
 			<channel_id>BOX Western HD</channel_id>
 			<int_id>c5703a3bd546a404295c289672b65d12</int_id>
 			<epg_id>BOX Western HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/622.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/c5703a3bd546a404295c289672b65d12.png?d=1711977922</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -672,7 +611,7 @@
 			<channel_id>BOX Zombie HD</channel_id>
 			<int_id>b82dc1a4632c3406bc51bf915874ea01</int_id>
 			<epg_id>BOX Zombie HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/623.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b82dc1a4632c3406bc51bf915874ea01.png?d=1713465014</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -681,7 +620,7 @@
 			<channel_id>Balticum Platinum HD</channel_id>
 			<int_id>0cd14392f4412b2f8d428470842e0256</int_id>
 			<epg_id>Balticum Platinum HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/136.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/0cd14392f4412b2f8d428470842e0256.png?d=1711978083</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -689,15 +628,7 @@
 			<channel_id>Bollywood HD</channel_id>
 			<int_id>4dcddeaf547727c044dd17e920508378</int_id>
 			<epg_id>Bollywood HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/119.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Bolt RU HD</caption>
-			<channel_id>Bolt RU HD</channel_id>
-			<int_id>205c771133e5da76899e25d1dd5f1550</int_id>
-			<epg_id>Bolt RU HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/120.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4dcddeaf547727c044dd17e920508378.png?d=1713266114</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -705,7 +636,7 @@
 			<channel_id>Cinema</channel_id>
 			<int_id>xrxttxhyhx1</int_id>
 			<epg_id>Cinema</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/610.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/xrxttxhyhx1.png?d=1711990071</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -713,7 +644,7 @@
 			<channel_id>Cinema (Cosmos TV) HD</channel_id>
 			<int_id>67aa929001744a5f6258caf6f6c7cdc3</int_id>
 			<epg_id>Cinema (Cosmos TV) HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/161.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/67aa929001744a5f6258caf6f6c7cdc3.png?d=1711977892</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -721,7 +652,7 @@
 			<channel_id>Cinema HD</channel_id>
 			<int_id>59da65e5a11224cd1ff4a62348815449</int_id>
 			<epg_id>Cinema HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/109.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/59da65e5a11224cd1ff4a62348815449.png?d=1716985815</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -730,25 +661,25 @@
 			<channel_id>Cinema UHD</channel_id>
 			<int_id>e5c96da473a22b117e03c7bdbbbc325</int_id>
 			<epg_id>Cinema UHD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/81.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/e5c96da473a22b117e03c7bdbbbc325.png?d=1713466816</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Duo 3 Lietuva HD</caption>
+			<caption>Duo 3 Lithuania HD</caption>
 			<channel_id>Duo 3 Lietuva HD</channel_id>
 			<int_id>5e3259857cfaa786aa001f5b0c68</int_id>
 			<epg_id>Duo 3 Lietuva HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/139.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/5e3259857cfaa786aa001f5b0c68.png?d=1713519013</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Duo 6 Lietuva HD</caption>
+			<caption>Duo 6 Lithuania HD</caption>
 			<channel_id>Duo 6 Lietuva HD</channel_id>
 			<int_id>77f3b29cbb1fc5c8dcff4d991b5f7a08</int_id>
 			<epg_id>Duo 6 Lietuva HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/141.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/77f3b29cbb1fc5c8dcff4d991b5f7a08.png?d=1713519013</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -757,7 +688,7 @@
 			<channel_id>ETV+ HD</channel_id>
 			<int_id>4d5d3ff8910ac6fba232be564758fe7d</int_id>
 			<epg_id>ETV+ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/121.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4d5d3ff8910ac6fba232be564758fe7d.png?d=1714672817</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -766,7 +697,7 @@
 			<channel_id>Epic Drama HD</channel_id>
 			<int_id>40bcd1051cd6ce12249c24e70c975150</int_id>
 			<epg_id>Epic Drama HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/88.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/40bcd1051cd6ce12249c24e70c975150.png?d=1711977914</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -774,7 +705,7 @@
 			<channel_id>FAN HD</channel_id>
 			<int_id>2d25b3e95015be8f4038e9fbe9f57a76</int_id>
 			<epg_id>FAN HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/122.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2d25b3e95015be8f4038e9fbe9f57a76.png?d=1713516313</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -782,7 +713,7 @@
 			<channel_id>FilmBox</channel_id>
 			<int_id>kkvcc33uj</int_id>
 			<epg_id>FilmBox</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/123.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/a2b550dd32fda70352822b6b28f8d019.png?d=1711977916</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -790,7 +721,7 @@
 			<channel_id>FilmBox Arthouse</channel_id>
 			<int_id>cjxxht555k</int_id>
 			<epg_id>FilmBox Arthouse</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/124.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/cjxxht555k.png?d=1711997032</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -798,7 +729,7 @@
 			<channel_id>Filmzone HD</channel_id>
 			<int_id>bd199f8a69f3aeec91df13beed96aa08</int_id>
 			<epg_id>Filmzone HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/126.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/bd199f8a69f3aeec91df13beed96aa08.png?d=1713507313</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -807,7 +738,7 @@
 			<channel_id>Filmzone+ HD</channel_id>
 			<int_id>4d96b0dd357cfa83fad1a7f81eea53c5</int_id>
 			<epg_id>Filmzone+ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/127.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4d96b0dd357cfa83fad1a7f81eea53c5.png?d=1713471314</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -816,7 +747,7 @@
 			<channel_id>FlixSnip</channel_id>
 			<int_id>ctu5re33yh</int_id>
 			<epg_id>FlixSnip</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/155.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ctu5re33yh.png?d=1711997073</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -824,7 +755,7 @@
 			<channel_id>FlixSnip HD</channel_id>
 			<int_id>f1ce0b00de0691d3f8108a5f1674bde9</int_id>
 			<epg_id>FlixSnip HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/156.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/f1ce0b00de0691d3f8108a5f1674bde9.png?d=1711977910</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -833,7 +764,7 @@
 			<channel_id>Hollywood</channel_id>
 			<int_id>7e9cfe0cd6709c5c62bb2ba820c6501d</int_id>
 			<epg_id>Hollywood</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/63.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/7e9cfe0cd6709c5c62bb2ba820c6501d.png?d=1715760018</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -842,7 +773,7 @@
 			<channel_id>Hollywood HD</channel_id>
 			<int_id>5919b39326e69dfdd8816adcbf441dfc</int_id>
 			<epg_id>Hollywood HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/64.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/5919b39326e69dfdd8816adcbf441dfc.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -851,7 +782,7 @@
 			<channel_id>KinoJam 1 HD</channel_id>
 			<int_id>4559bf07895cfbbce54db76449b55fc2</int_id>
 			<epg_id>KinoJam 1 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/168.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4559bf07895cfbbce54db76449b55fc2.png?d=1714650315</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -860,40 +791,16 @@
 			<channel_id>KinoJam 2 HD</channel_id>
 			<int_id>ed1872c4f3a9826ebd63b901944b5b11</int_id>
 			<epg_id>KinoJam 2 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/169.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ed1872c4f3a9826ebd63b901944b5b11.png?d=1714580116</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Shot TV</caption>
-			<channel_id>Shot TV</channel_id>
-			<int_id>40636dcb533fbd6be73d9b482ed3c65b</int_id>
-			<epg_id>Shot TV</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/137.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Star Cinema RU HD</caption>
-			<channel_id>Star Cinema RU HD</channel_id>
-			<int_id>7f9fbcbb7910960bd6a3c0526288331f</int_id>
-			<epg_id>Star Cinema RU HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/149.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Star Family RU HD</caption>
-			<channel_id>Star Family RU HD</channel_id>
-			<int_id>365574897ba8006d40f49d047c52efe5</int_id>
-			<epg_id>Star Family RU HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/150.png</icon_url>
-			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Trash HD</caption>
 			<channel_id>Trash HD</channel_id>
 			<int_id>3694dbf4821217f7e7e5e720ca58ec05</int_id>
 			<epg_id>Trash HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/164.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/3694dbf4821217f7e7e5e720ca58ec05.png?d=1713940217</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -901,7 +808,7 @@
 			<channel_id>Арсенал HD</channel_id>
 			<int_id>7f39aa8166a42166c4a5ffb7abe24002</int_id>
 			<epg_id>Арсенал HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/86.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/7f39aa8166a42166c4a5ffb7abe24002.png?d=1713517214</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -910,7 +817,7 @@
 			<channel_id>Блокбастер HD</channel_id>
 			<int_id>30fbffcca28259f05bb4a9204640dc8d</int_id>
 			<epg_id>Блокбастер HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/56.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/30fbffcca28259f05bb4a9204640dc8d.png?d=1716382816</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -919,7 +826,7 @@
 			<channel_id>Время</channel_id>
 			<int_id>4eb20dfda929ed39ec9550d4fb37a5d1</int_id>
 			<epg_id>Время</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/90.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4eb20dfda929ed39ec9550d4fb37a5d1.png?d=1713789915</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -928,7 +835,7 @@
 			<channel_id>День Победы HD</channel_id>
 			<int_id>5ae803e9c3fec030d493c8ec52489d22</int_id>
 			<epg_id>День Победы HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/87.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/5ae803e9c3fec030d493c8ec52489d22.png?d=1716453916</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -937,7 +844,7 @@
 			<channel_id>Дом кино</channel_id>
 			<int_id>46d75f4ab4445789b1c6e3f7c09f356b</int_id>
 			<epg_id>Дом кино</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/45.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/46d75f4ab4445789b1c6e3f7c09f356b.png?d=1714670119</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -946,7 +853,7 @@
 			<channel_id>Дом кино Премиум HD</channel_id>
 			<int_id>2df93b4b60171e9f086e0dbb2728</int_id>
 			<epg_id>Дом кино Премиум HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/46.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2df93b4b60171e9f086e0dbb2728.png?d=1714672817</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -955,7 +862,7 @@
 			<channel_id>Дорама</channel_id>
 			<int_id>v543uf00yg</int_id>
 			<epg_id>Дорама</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/152.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/v543uf00yg.png?d=1711998592</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -963,7 +870,7 @@
 			<channel_id>Дорама HD</channel_id>
 			<int_id>a99a947982773ed48244fe9d6442feda</int_id>
 			<epg_id>Дорама HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/153.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/a99a947982773ed48244fe9d6442feda.png?d=1711977897</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -971,7 +878,7 @@
 			<channel_id>Душевное HD</channel_id>
 			<int_id>14fdbabb5a009b294254281ea9551b0d</int_id>
 			<epg_id>Душевное HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/98.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/14fdbabb5a009b294254281ea9551b0d.png?d=1714672817</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -980,7 +887,7 @@
 			<channel_id>Индийское кино</channel_id>
 			<int_id>8e557d653244b10ee1f5519f1e297ae3</int_id>
 			<epg_id>Индийское кино</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/178.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/8e557d653244b10ee1f5519f1e297ae3.png?d=1713112216</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -989,7 +896,7 @@
 			<channel_id>Камеди HD</channel_id>
 			<int_id>8ec66f437e9a740e01daee6087eb2deb</int_id>
 			<epg_id>Камеди HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/57.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/8ec66f437e9a740e01daee6087eb2deb.png?d=1715022916</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -998,7 +905,7 @@
 			<channel_id>Кино UHD</channel_id>
 			<int_id>2e846556fec3a525e47b8f2da7724df4</int_id>
 			<epg_id>Кино UHD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/79.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2e846556fec3a525e47b8f2da7724df4.png?d=1713469515</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1007,7 +914,7 @@
 			<channel_id>Кино ТВ</channel_id>
 			<int_id>i75rutdc</int_id>
 			<epg_id>Кино ТВ</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/175.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/i75rutdc.png?d=1711998790</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1015,7 +922,7 @@
 			<channel_id>Кино ТВ HD</channel_id>
 			<int_id>b16689aa6951f4d3641f137bef8da9a3</int_id>
 			<epg_id>Кино ТВ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/62.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b16689aa6951f4d3641f137bef8da9a3.png?d=1716972315</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1024,7 +931,7 @@
 			<channel_id>Кинокомедия</channel_id>
 			<int_id>jgcjctct55uc</int_id>
 			<epg_id>Кинокомедия</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/179.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/jgcjctct55uc.png?d=1711998831</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1032,7 +939,7 @@
 			<channel_id>Кинокомедия HD</channel_id>
 			<int_id>056f1d5325f5e8754c4b778447983c19</int_id>
 			<epg_id>Кинокомедия HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/180.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/056f1d5325f5e8754c4b778447983c19.png?d=1716997518</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1041,7 +948,7 @@
 			<channel_id>Киномикс</channel_id>
 			<int_id>87r4s6scth</int_id>
 			<epg_id>Киномикс</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/181.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/87r4s6scth.png?d=1711998853</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1049,7 +956,7 @@
 			<channel_id>Киномикс HD</channel_id>
 			<int_id>3c86391f0cf5adfbfe7e66f1345029c3</int_id>
 			<epg_id>Киномикс HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/182.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/3c86391f0cf5adfbfe7e66f1345029c3.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1058,7 +965,7 @@
 			<channel_id>Кинопоказ HD</channel_id>
 			<int_id>a878e2b25e6e43df39466276897d5bf6</int_id>
 			<epg_id>Кинопоказ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/53.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/a878e2b25e6e43df39466276897d5bf6.png?d=1715022916</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1067,7 +974,7 @@
 			<channel_id>Кинопремьера HD</channel_id>
 			<int_id>d5e6b77903ae96e85bf709624f27427b</int_id>
 			<epg_id>Кинопремьера HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/183.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/d5e6b77903ae96e85bf709624f27427b.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1076,7 +983,7 @@
 			<channel_id>Киносвидание</channel_id>
 			<int_id>785fyf5333</int_id>
 			<epg_id>Киносвидание</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/184.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/785fyf5333.png?d=1711998888</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1084,7 +991,7 @@
 			<channel_id>Киносвидание HD</channel_id>
 			<int_id>3920c46b9feca2b38aeb062ff55166ee</int_id>
 			<epg_id>Киносвидание HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/185.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/3920c46b9feca2b38aeb062ff55166ee.png?d=1713516313</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1093,7 +1000,7 @@
 			<channel_id>Киносемья</channel_id>
 			<int_id>mmiiouffu8</int_id>
 			<epg_id>Киносемья</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/186.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/mmiiouffu8.png?d=1711998912</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1101,7 +1008,7 @@
 			<channel_id>Киносемья HD</channel_id>
 			<int_id>e1923272586255699f135996e5de99aa</int_id>
 			<epg_id>Киносемья HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/187.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/e1923272586255699f135996e5de99aa.png?d=1713944715</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1110,7 +1017,7 @@
 			<channel_id>Киносерия</channel_id>
 			<int_id>gjcccgytt54ty</int_id>
 			<epg_id>Киносерия</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/188.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/gjcccgytt54ty.png?d=1711998935</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1118,7 +1025,7 @@
 			<channel_id>Киносерия HD</channel_id>
 			<int_id>3066c4a5c20813e678067274f5aea9c1</int_id>
 			<epg_id>Киносерия HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/189.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/3066c4a5c20813e678067274f5aea9c1.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1127,7 +1034,7 @@
 			<channel_id>Киноужас</channel_id>
 			<int_id>kyvcxzrsr334</int_id>
 			<epg_id>Киноужас</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/190.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/kyvcxzrsr334.png?d=1711998957</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1135,7 +1042,7 @@
 			<channel_id>Киноужас HD</channel_id>
 			<int_id>8c093890725aca7df1184252b8ff2f7c</int_id>
 			<epg_id>Киноужас HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/191.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/8c093890725aca7df1184252b8ff2f7c.png?d=1713516313</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1144,7 +1051,7 @@
 			<channel_id>Кинохит</channel_id>
 			<int_id>cxz58tfuflb</int_id>
 			<epg_id>Кинохит</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/192.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/cxz58tfuflb.png?d=1711998982</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1152,7 +1059,7 @@
 			<channel_id>Кинохит HD</channel_id>
 			<int_id>e364e6ed2a17b907dace1c24ec332230</int_id>
 			<epg_id>Кинохит HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/193.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/e364e6ed2a17b907dace1c24ec332230.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1161,7 +1068,7 @@
 			<channel_id>Комедийное HD</channel_id>
 			<int_id>332a9e34e73aa1d5bbe8fe02727876b3</int_id>
 			<epg_id>Комедийное HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/55.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/332a9e34e73aa1d5bbe8fe02727876b3.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1170,7 +1077,7 @@
 			<channel_id>Комедия</channel_id>
 			<int_id>4e2a4ece407f2f6a8d628bb891ec9368</int_id>
 			<epg_id>Комедия</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/94.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4e2a4ece407f2f6a8d628bb891ec9368.png?d=1714670119</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1179,7 +1086,7 @@
 			<channel_id>Криминальное HD</channel_id>
 			<int_id>ee21ce82a353371d9092010449db6d60</int_id>
 			<epg_id>Криминальное HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/641.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ee21ce82a353371d9092010449db6d60.png?d=1714672817</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1188,25 +1095,7 @@
 			<channel_id>Любимое HD</channel_id>
 			<int_id>5a326ed1d0498c3ac5cab967f6754a30</int_id>
 			<epg_id>Любимое HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/101.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Любимое кино</caption>
-			<channel_id>Любимое кино</channel_id>
-			<int_id>f2fa81b613f1200f4dee0921f89c4208</int_id>
-			<epg_id>Любимое кино</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/95.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мир сериала</caption>
-			<channel_id>Мир сериала</channel_id>
-			<int_id>a0653bae89c99604950135faae7ed986</int_id>
-			<epg_id>Мир сериала</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/96.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/5a326ed1d0498c3ac5cab967f6754a30.png?d=1718642716</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1215,7 +1104,7 @@
 			<channel_id>Мосфильм</channel_id>
 			<int_id>jvj55d43j</int_id>
 			<epg_id>Мосфильм</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/165.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/jvj55d43j.png?d=1711986709</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1223,7 +1112,7 @@
 			<channel_id>Мосфильм HD</channel_id>
 			<int_id>352e75ebba4c35bc7edcff61a2c87889</int_id>
 			<epg_id>Мосфильм HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/166.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/352e75ebba4c35bc7edcff61a2c87889.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1232,7 +1121,7 @@
 			<channel_id>Мужское кино</channel_id>
 			<int_id>0YCYtnH</int_id>
 			<epg_id>Мужское кино</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/603.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/0YCYtnH.png?d=1711999275</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1240,7 +1129,7 @@
 			<channel_id>Мужское кино HD</channel_id>
 			<int_id>1a45344faf7f801bcc2cc78fc8b7c501</int_id>
 			<epg_id>Мужское кино HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/602.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/1a45344faf7f801bcc2cc78fc8b7c501.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1249,25 +1138,7 @@
 			<channel_id>НСТ</channel_id>
 			<int_id>2d8f1c78269ea7d8d4b34fada414f83f</int_id>
 			<epg_id>НСТ</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/82.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Сериал</caption>
-			<channel_id>НТВ Сериал</channel_id>
-			<int_id>8692a1387127844d9832328f23e13542</int_id>
-			<epg_id>НТВ Сериал</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/102.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Хит</caption>
-			<channel_id>НТВ Хит</channel_id>
-			<int_id>2936552957eead0eeec6524325fab913</int_id>
-			<epg_id>НТВ Хит</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/103.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2d8f1c78269ea7d8d4b34fada414f83f.png?d=1714670119</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1276,7 +1147,7 @@
 			<channel_id>Наш кинопоказ HD</channel_id>
 			<int_id>02f52d214e4dc1ac27318516597d795a</int_id>
 			<epg_id>Наш кинопоказ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/58.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/02f52d214e4dc1ac27318516597d795a.png?d=1715022916</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1285,7 +1156,7 @@
 			<channel_id>Наше HD</channel_id>
 			<int_id>70fe39b1e12fa2580614373108d9479b</int_id>
 			<epg_id>Наше HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/89.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/70fe39b1e12fa2580614373108d9479b.png?d=1713465914</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1294,7 +1165,7 @@
 			<channel_id>Наше Новое Кино</channel_id>
 			<int_id>tdde33ffj8</int_id>
 			<epg_id>Наше Новое Кино</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/194.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/tdde33ffj8.png?d=1711999432</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1302,7 +1173,7 @@
 			<channel_id>Наше мужское HD</channel_id>
 			<int_id>0ac142d8328f3d88b9303e3475ac2658</int_id>
 			<epg_id>Наше мужское HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/59.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/0ac142d8328f3d88b9303e3475ac2658.png?d=1715022916</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1311,7 +1182,7 @@
 			<channel_id>Наше новое кино HD</channel_id>
 			<int_id>8c605523b00d1cf21a8fb2c178fb1ff0</int_id>
 			<epg_id>Наше новое кино HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/195.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/8c605523b00d1cf21a8fb2c178fb1ff0.png?d=1716986715</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1320,7 +1191,7 @@
 			<channel_id>Остросюжетное HD</channel_id>
 			<int_id>2340a02a546e7a22d5414b0c54045a9d</int_id>
 			<epg_id>Остросюжетное HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/52.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2340a02a546e7a22d5414b0c54045a9d.png?d=1714672817</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1329,7 +1200,7 @@
 			<channel_id>Победа!</channel_id>
 			<int_id>8fdrrt1d</int_id>
 			<epg_id>Победа!</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/176.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/8fdrrt1d.png?d=1711999474</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1337,7 +1208,7 @@
 			<channel_id>Победа! HD</channel_id>
 			<int_id>acd6b960cb3aea2feac31cd962336dab</int_id>
 			<epg_id>Победа! HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/85.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/acd6b960cb3aea2feac31cd962336dab.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1346,7 +1217,7 @@
 			<channel_id>Премиальное HD</channel_id>
 			<int_id>277cd297f64ee87de3a966c822cf30de</int_id>
 			<epg_id>Премиальное HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/51.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/277cd297f64ee87de3a966c822cf30de.png?d=1714672817</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1355,7 +1226,7 @@
 			<channel_id>Про любовь HD</channel_id>
 			<int_id>b740522f4eb92abf212c34e7c2a35756</int_id>
 			<epg_id>Про любовь HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/60.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b740522f4eb92abf212c34e7c2a35756.png?d=1713516313</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1364,7 +1235,7 @@
 			<channel_id>Ретро</channel_id>
 			<int_id>d4552160593ff5f700331cb5b1044b31</int_id>
 			<epg_id>Ретро</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/54.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/d4552160593ff5f700331cb5b1044b31.png?d=1718005514</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1373,7 +1244,7 @@
 			<channel_id>Родное кино</channel_id>
 			<int_id>4f905efe45e8ba6b261bc88ff7b276b3</int_id>
 			<epg_id>Родное кино</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/196.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4f905efe45e8ba6b261bc88ff7b276b3.png?d=1714670119</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1382,16 +1253,7 @@
 			<channel_id>Романтичное HD</channel_id>
 			<int_id>2e08099112b9fe1b746375cd2d265cb7</int_id>
 			<epg_id>Романтичное HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/97.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Русский Иллюзион HD</caption>
-			<channel_id>Русский Иллюзион HD</channel_id>
-			<int_id>6ca2dd3f51c46fd64d2621e52ef6a5ad</int_id>
-			<epg_id>Русский Иллюзион HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/107.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2e08099112b9fe1b746375cd2d265cb7.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1400,7 +1262,7 @@
 			<channel_id>Русский бестселлер</channel_id>
 			<int_id>3ecd1793350a09fd2a83d5c54a685d2f</int_id>
 			<epg_id>Русский бестселлер</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/104.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/3ecd1793350a09fd2a83d5c54a685d2f.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1409,7 +1271,7 @@
 			<channel_id>Русский детектив</channel_id>
 			<int_id>850509159b8929dc439616aeec876d5c</int_id>
 			<epg_id>Русский детектив</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/105.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/850509159b8929dc439616aeec876d5c.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1418,7 +1280,7 @@
 			<channel_id>Русский роман</channel_id>
 			<int_id>htddhd532</int_id>
 			<epg_id>Русский роман</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/100.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/htddhd532.png?d=1712000000</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1426,7 +1288,7 @@
 			<channel_id>Русский роман HD</channel_id>
 			<int_id>1e9c3f334793be7a5ee105a16025db54</int_id>
 			<epg_id>Русский роман HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/99.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/1e9c3f334793be7a5ee105a16025db54.png?d=1716456615</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1435,7 +1297,7 @@
 			<channel_id>СТС Love</channel_id>
 			<int_id>0fdd9332fdd01d8ab1fd0ef09093427e</int_id>
 			<epg_id>СТС Love</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/108.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/0fdd9332fdd01d8ab1fd0ef09093427e.png?d=1713789015</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1444,7 +1306,7 @@
 			<channel_id>Сериал UHD</channel_id>
 			<int_id>c59d841ee0bcc21e55dd047d7ee1057</int_id>
 			<epg_id>Сериал UHD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/80.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/c59d841ee0bcc21e55dd047d7ee1057.png?d=1713179713</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1452,7 +1314,7 @@
 			<channel_id>Советское кино</channel_id>
 			<int_id>e71c552770abe1796547f6155780de93</int_id>
 			<epg_id>Советское кино</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/110.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/e71c552770abe1796547f6155780de93.png?d=1714670119</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1461,7 +1323,7 @@
 			<channel_id>Страшное HD</channel_id>
 			<int_id>3db5e0c67b18f558938f0b807d987dcb</int_id>
 			<epg_id>Страшное HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/83.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/3db5e0c67b18f558938f0b807d987dcb.png?d=1713516313</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1470,7 +1332,7 @@
 			<channel_id>Феникс плюс Кино HD</channel_id>
 			<int_id>4d63d4962d4eaa4bc70157faf98d58d4</int_id>
 			<epg_id>Феникс плюс Кино HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/111.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4d63d4962d4eaa4bc70157faf98d58d4.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1479,7 +1341,7 @@
 			<channel_id>Хит HD</channel_id>
 			<int_id>6ef1735c6459ded9f5818b59e48a1c45</int_id>
 			<epg_id>Хит HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/61.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/6ef1735c6459ded9f5818b59e48a1c45.png?d=1713516313</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1488,7 +1350,7 @@
 			<channel_id>Шокирующее HD</channel_id>
 			<int_id>809646c473670bf072d142efc7c37f21</int_id>
 			<epg_id>Шокирующее HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/84.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/809646c473670bf072d142efc7c37f21.png?d=1717695017</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1497,7 +1359,7 @@
 			<channel_id>BOX Ghost HD</channel_id>
 			<int_id>c9f9203e410615a6924c2ccf8aa1272b</int_id>
 			<epg_id>BOX Ghost HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/651.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/c9f9203e410615a6924c2ccf8aa1272b.png?d=1713510015</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1505,41 +1367,26 @@
 			<caption>Cinema UHD HD</caption>
 			<channel_id>Cinema UHD HD</channel_id>
 			<int_id>464131c1b437a7e61840ca93871b5d38</int_id>
-			<epg_id>Cinema UHD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/646.png</icon_url>
+			<epg_id>Cinema UHD HD</epg_id>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/464131c1b437a7e61840ca93871b5d38.png?d=1715017519</icon_url>
 			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>DetectiveJam HD</caption>
 			<channel_id>DetectiveJam HD</channel_id>
 			<int_id>34e99c519a3e8c34a371f465576125ea</int_id>
 			<epg_id>DetectiveJam HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/653.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/34e99c519a3e8c34a371f465576125ea.png?d=1715017519</icon_url>
 			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>FamilyJam HD</caption>
 			<channel_id>FamilyJam HD</channel_id>
 			<int_id>a0a2ebb010384d0047b8330fa814bc62</int_id>
 			<epg_id>FamilyJam HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/654.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>FOX CEE</caption>
-			<channel_id>FOX CEE</channel_id>
-			<int_id>jhgcxxe4</int_id>
-			<epg_id>FOX CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/128.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fox Life CEE</caption>
-			<channel_id>Fox Life CEE</channel_id>
-			<int_id>jgdtdjtdjfy6</int_id>
-			<epg_id>Fox Life CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/130.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/a0a2ebb010384d0047b8330fa814bc62.png?d=1714580116</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1548,7 +1395,7 @@
 			<channel_id>KinoLiving HD</channel_id>
 			<int_id>2e245125e9ee18361ae7ff96d46c0cc5</int_id>
 			<epg_id>KinoLiving HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/649.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2e245125e9ee18361ae7ff96d46c0cc5.png?d=1714650315</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1556,15 +1403,16 @@
 			<channel_id>Kion ХИТ HD</channel_id>
 			<int_id>8d302a59c1e34d4d32e469313ee304d8</int_id>
 			<epg_id>Kion ХИТ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/648.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/8d302a59c1e34d4d32e469313ee304d8.png?d=1715017519</icon_url>
 			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кинеко HD</caption>
 			<channel_id>Кинеко HD</channel_id>
 			<int_id>4b2c1de4918883b206a92b44f6d08323</int_id>
 			<epg_id>Кинеко HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/129.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4b2c1de4918883b206a92b44f6d08323.png?d=1713511814</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1573,7 +1421,7 @@
 			<channel_id>Сапфир HD</channel_id>
 			<int_id>42709ab757ee4af8101ede7a4af43cef</int_id>
 			<epg_id>Сапфир HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/131.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/42709ab757ee4af8101ede7a4af43cef.png?d=1713510913</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1582,7 +1430,7 @@
 			<channel_id>365 Дней ТВ HD</channel_id>
 			<int_id>170ff0413cc17e2087306abb90c9cca0</int_id>
 			<epg_id>365 Дней ТВ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/297.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/170ff0413cc17e2087306abb90c9cca0.png?d=1713940217</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1591,7 +1439,7 @@
 			<channel_id>Animal Planet CEE HD</channel_id>
 			<int_id>1e12beeb467c324903569e853ec676d1</int_id>
 			<epg_id>Animal Planet CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/285.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/1e12beeb467c324903569e853ec676d1.png?d=1713457814</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1600,7 +1448,7 @@
 			<channel_id>BOX Memory HD</channel_id>
 			<int_id>6963e8f68d13dce7b2896ac899881234</int_id>
 			<epg_id>BOX Memory HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/607.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/6963e8f68d13dce7b2896ac899881234.png?d=1713519914</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1609,32 +1457,24 @@
 			<channel_id>BOX Travel HD</channel_id>
 			<int_id>37831846f870d585a9e2e3df9bf342ed</int_id>
 			<epg_id>BOX Travel HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/621.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/37831846f870d585a9e2e3df9bf342ed.png?d=1711978063</icon_url>
 			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>DTX HD</caption>
-			<channel_id>DTX HD</channel_id>
-			<int_id>b379cba867abae5cae7748d9943c72fe</int_id>
-			<epg_id>DTX HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/244.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Da Vinci</caption>
 			<channel_id>Da Vinci</channel_id>
 			<int_id>e8da9e1afba6c9a408933d0ae9644088</int_id>
 			<epg_id>Da Vinci</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/236.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/e8da9e1afba6c9a408933d0ae9644088.png?d=1713789915</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Da Vinci CEE HD</caption>
 			<channel_id>Da Vinci CEE HD</channel_id>
 			<int_id>46c74434867de994a93c2b3e08fc7428</int_id>
 			<epg_id>Da Vinci CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/237.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/46c74434867de994a93c2b3e08fc7428.png?d=1711978047</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1643,7 +1483,7 @@
 			<channel_id>Discovery Channel CEE</channel_id>
 			<int_id>I4bplF0</int_id>
 			<epg_id>Discovery Channel CEE</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/238.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/I4bplF0.png?d=1711990307</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1651,24 +1491,7 @@
 			<channel_id>Discovery Channel CEE HD</channel_id>
 			<int_id>278466aaacfce0a31ea59adec10d5e5c</int_id>
 			<epg_id>Discovery Channel CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/241.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Discovery Science</caption>
-			<channel_id>Discovery Science</channel_id>
-			<int_id>DPAQiNv</int_id>
-			<epg_id>Discovery Science</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/239.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Discovery Science HD</caption>
-			<channel_id>Discovery Science HD</channel_id>
-			<int_id>07b5e0e30e7dffa4d6787a9e464baf92</int_id>
-			<epg_id>Discovery Science HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/240.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/278466aaacfce0a31ea59adec10d5e5c.png?d=1713875414</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1677,24 +1500,15 @@
 			<channel_id>DocuBox HD</channel_id>
 			<int_id>b0dfe283bc337be74d50a4596eb06226</int_id>
 			<epg_id>DocuBox HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/242.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b0dfe283bc337be74d50a4596eb06226.png?d=1716985815</icon_url>
 			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Food Network HD CEE</caption>
-			<channel_id>Food Network HD CEE</channel_id>
-			<int_id>818425028f07b4d8125edb865d9373ea</int_id>
-			<epg_id>Food Network HD CEE</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/247.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>FunBox UHD</caption>
 			<channel_id>FunBox UHD</channel_id>
 			<int_id>c5f9435c249372a29d564e333d9021c7</int_id>
 			<epg_id>FunBox UHD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/277.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/c5f9435c249372a29d564e333d9021c7.png?d=1717578915</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1702,7 +1516,7 @@
 			<channel_id>Galaxy TV</channel_id>
 			<int_id>GKrJ2CQ</int_id>
 			<epg_id>Galaxy TV</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/227.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/GKrJ2CQ.png?d=1711997297</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1710,16 +1524,7 @@
 			<channel_id>Galaxy TV HD</channel_id>
 			<int_id>87f5b8c382f346e5edb2a3d0516c1018</int_id>
 			<epg_id>Galaxy TV HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/228.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>HDL</caption>
-			<channel_id>HDL</channel_id>
-			<int_id>79572a0daf9c6303360fdf1fa11174b1</int_id>
-			<epg_id>HDL</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/299.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/87f5b8c382f346e5edb2a3d0516c1018.png?d=1713519914</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1728,7 +1533,7 @@
 			<channel_id>HGTV CEE HD</channel_id>
 			<int_id>487feb9b27e742082f2054b797e6d5a4</int_id>
 			<epg_id>HGTV CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/289.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/487feb9b27e742082f2054b797e6d5a4.png?d=1713875414</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1737,7 +1542,7 @@
 			<channel_id>History 2 HD</channel_id>
 			<int_id>ec02a9af2a6d31dc4aa53aff8b581110</int_id>
 			<epg_id>History 2 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/248.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ec02a9af2a6d31dc4aa53aff8b581110.png?d=1714917617</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1746,75 +1551,25 @@
 			<channel_id>History CEE HD</channel_id>
 			<int_id>ca7107e1d44e9f5063b024bf52eeee46</int_id>
 			<epg_id>History CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/279.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ca7107e1d44e9f5063b024bf52eeee46.png?d=1713519013</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>History HD</caption>
-			<channel_id>History HD</channel_id>
-			<int_id>e79c8d11434f4ee0df14f5ef650833ef</int_id>
-			<epg_id>History HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/249.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Insight UHD</caption>
-			<channel_id>Insight UHD</channel_id>
-			<int_id>336972a1db6dd4287dfaaabee669b6a5</int_id>
-			<epg_id>Insight UHD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/273.png</icon_url>
-			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Investigation Discovery CEE HD</caption>
 			<channel_id>Investigation Discovery CEE HD</channel_id>
 			<int_id>524b5cbf37fff2cacb4f668f5053ae3d</int_id>
 			<epg_id>Investigation Discovery CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/280.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/524b5cbf37fff2cacb4f668f5053ae3d.png?d=1713510015</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Museum HD</caption>
-			<channel_id>Museum HD</channel_id>
-			<int_id>58ab26cce238aa13ec3946230afc5b6e</int_id>
-			<epg_id>Museum HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/235.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>NASA UHD</caption>
-			<channel_id>NASA UHD</channel_id>
-			<int_id>e8e54a55ef4fb2ede0b8505f76fbc29c</int_id>
-			<epg_id>NASA UHD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/276.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Nano HD</caption>
-			<channel_id>Nano HD</channel_id>
-			<int_id>a9c7dcae7cea38bc4652065b0bd56521</int_id>
-			<epg_id>Nano HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/233.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ocean-TV</caption>
-			<channel_id>Ocean-TV</channel_id>
-			<int_id>2c1833928bc88a0758ee46c0ef0e7fca</int_id>
-			<epg_id>Ocean-TV</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/269.png</icon_url>
-			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTG HD</caption>
 			<channel_id>RTG HD</channel_id>
 			<int_id>eccd0a6b643733a947d519b4e85c2f1b</int_id>
 			<epg_id>RTG HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/257.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/eccd0a6b643733a947d519b4e85c2f1b.png?d=1713510015</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1823,24 +1578,16 @@
 			<channel_id>RTG TV</channel_id>
 			<int_id>689da866492299dfc734246bab1d982a</int_id>
 			<epg_id>RTG TV</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/256.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/689da866492299dfc734246bab1d982a.png?d=1713465915</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Russia Today Doc HD</caption>
-			<channel_id>Russia Today Doc HD</channel_id>
-			<int_id>cd2fac96faadd684c19e2796251f0cdc</int_id>
-			<epg_id>Russia Today Doc HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/199.png</icon_url>
-			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SmartZone HD</caption>
 			<channel_id>SmartZone HD</channel_id>
 			<int_id>26792a0c43854e4e6bdf4a455f411587</int_id>
 			<epg_id>SmartZone HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/288.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/26792a0c43854e4e6bdf4a455f411587.png?d=1712000696</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1848,24 +1595,16 @@
 			<channel_id>TLC CEE HD</channel_id>
 			<int_id>b5bd50fb15372292de10c76adab78926</int_id>
 			<epg_id>TLC CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/634.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b5bd50fb15372292de10c76adab78926.png?d=1717695017</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Terra Incognita HD</caption>
-			<channel_id>Terra Incognita HD</channel_id>
-			<int_id>d6256ce2d363d7498942d3bfb4309c6b</int_id>
-			<epg_id>Terra Incognita HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/267.png</icon_url>
-			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Top Secret</caption>
 			<channel_id>Top Secret</channel_id>
 			<int_id>453a3ffac536a166c85fd74293815c48</int_id>
 			<epg_id>Top Secret</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/226.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/453a3ffac536a166c85fd74293815c48.png?d=1714670119</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1874,7 +1613,7 @@
 			<channel_id>Travel + Adventure HD</channel_id>
 			<int_id>21b8d789cea1590fbd59be2780d</int_id>
 			<epg_id>Travel + Adventure HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/258.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/21b8d789cea1590fbd59be2780d.png?d=1714653016</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1883,7 +1622,7 @@
 			<channel_id>Travel Channel CEE HD</channel_id>
 			<int_id>ed625f1c8febce412dacce850787f60f</int_id>
 			<epg_id>Travel Channel CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/290.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ed625f1c8febce412dacce850787f60f.png?d=1713875414</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1892,7 +1631,7 @@
 			<channel_id>Viasat History CEE HD</channel_id>
 			<int_id>5bf983ce66bf1a91a298b0f517c25cbc</int_id>
 			<epg_id>Viasat History CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/293.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/5bf983ce66bf1a91a298b0f517c25cbc.png?d=1716293714</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1901,7 +1640,7 @@
 			<channel_id>Zоопарк</channel_id>
 			<int_id>YVy4NVj</int_id>
 			<epg_id>Zоопарк</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/266.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/YVy4NVj.png?d=1711998398</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1909,15 +1648,16 @@
 			<channel_id>Бобёр</channel_id>
 			<int_id>cd070729335119578b74ffc7a1359047</int_id>
 			<epg_id>Бобёр</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/198.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/cd070729335119578b74ffc7a1359047.png?d=1713789915</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Большая Азия</caption>
 			<channel_id>Большая Азия</channel_id>
 			<int_id>oYH9gXY</int_id>
 			<epg_id>Большая Азия</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/295.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/oYH9gXY.png?d=1711998450</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1925,7 +1665,7 @@
 			<channel_id>Большая Азия HD</channel_id>
 			<int_id>086a81e0ffd7c38b5beca78a09425d7b</int_id>
 			<epg_id>Большая Азия HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/200.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/086a81e0ffd7c38b5beca78a09425d7b.png?d=1711978049</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1933,7 +1673,7 @@
 			<channel_id>В мире животных HD</channel_id>
 			<int_id>ea3ca1fc06d8f6a3ef01c1e7c8c1899c</int_id>
 			<epg_id>В мире животных HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/201.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ea3ca1fc06d8f6a3ef01c1e7c8c1899c.png?d=1711978043</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1941,7 +1681,7 @@
 			<channel_id>Вопросы и ответы</channel_id>
 			<int_id>92dc087913d650611a317346d470c379</int_id>
 			<epg_id>Вопросы и ответы</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/202.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/92dc087913d650611a317346d470c379.png?d=1713789915</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1950,7 +1690,7 @@
 			<channel_id>Глазами туриста HD</channel_id>
 			<int_id>03e11b22b3472df93d40ff05fc73eb91</int_id>
 			<epg_id>Глазами туриста HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/204.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/03e11b22b3472df93d40ff05fc73eb91.png?d=1713470416</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1959,15 +1699,15 @@
 			<channel_id>Дача HD</channel_id>
 			<int_id>da002e252be9906b7b992c0b543df3d6</int_id>
 			<epg_id>Дача HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/284.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/da002e252be9906b7b992c0b543df3d6.png?d=1715857217</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Диалоги о рыбалке</caption>
 			<channel_id>Диалоги о рыбалке</channel_id>
 			<int_id>yffyyjzzxxzt</int_id>
-			<epg_id>Диалоги о рыбалке HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/206.png</icon_url>
+			<epg_id>Диалоги о рыбалке</epg_id>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/yffyyjzzxxzt.png?d=1711998498</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1975,7 +1715,7 @@
 			<channel_id>Диалоги о рыбалке HD</channel_id>
 			<int_id>1b753ebc647f3b96f1be8ce5e852</int_id>
 			<epg_id>Диалоги о рыбалке HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/205.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/1b753ebc647f3b96f1be8ce5e852.png?d=1713519914</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1984,7 +1724,7 @@
 			<channel_id>Дикая охота HD</channel_id>
 			<int_id>10bab22b2edd3694c29bb5f737437a1e</int_id>
 			<epg_id>Дикая охота HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/207.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/10bab22b2edd3694c29bb5f737437a1e.png?d=1713517214</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1993,7 +1733,7 @@
 			<channel_id>Дикая рыбалка HD</channel_id>
 			<int_id>b623447fa96f2e4239cb4ba5c977ffc3</int_id>
 			<epg_id>Дикая рыбалка HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/208.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b623447fa96f2e4239cb4ba5c977ffc3.png?d=1713517214</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2002,7 +1742,7 @@
 			<channel_id>Дикий</channel_id>
 			<int_id>4076843ca7f6f40484fa4a015793616c</int_id>
 			<epg_id>Дикий</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/209.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4076843ca7f6f40484fa4a015793616c.png?d=1713789915</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2011,7 +1751,7 @@
 			<channel_id>Доктор</channel_id>
 			<int_id>hxTkPnb</int_id>
 			<epg_id>Доктор</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/229.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/hxTkPnb.png?d=1711998526</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2019,7 +1759,7 @@
 			<channel_id>Доктор HD</channel_id>
 			<int_id>2ac6a8c6c67e80103e70c18558d6b247</int_id>
 			<epg_id>Доктор HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/275.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2ac6a8c6c67e80103e70c18558d6b247.png?d=1718634615</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2028,40 +1768,24 @@
 			<channel_id>Домашние животные</channel_id>
 			<int_id>jyfdtd334</int_id>
 			<epg_id>Домашние животные</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/210.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/33261632c4c58bbd4ffc4290acdc72df.png?d=1711978064</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Еда</caption>
+			<caption>Еда HD</caption>
 			<channel_id>Еда</channel_id>
 			<int_id>b83278474ae64c632376651b442f05ae</int_id>
 			<epg_id>Еда</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/615.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Еда Премиум HD</caption>
-			<channel_id>Еда Премиум HD</channel_id>
-			<int_id>cbcd44ea33ab7ad6037f6d2ed568d6f0</int_id>
-			<epg_id>Еда Премиум HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/211.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b83278474ae64c632376651b442f05ae.png?d=1713813315</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Живая Планета</caption>
-			<channel_id>Живая Планета</channel_id>
-			<int_id>lugkyft45z</int_id>
-			<epg_id>Живая Планета</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/212.png</icon_url>
-			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Живая природа HD</caption>
 			<channel_id>Живая природа HD</channel_id>
 			<int_id>ff47c8da995c02e4e61ccf8d57d9c899</int_id>
 			<epg_id>Живая природа HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/213.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ff47c8da995c02e4e61ccf8d57d9c899.png?d=1711978046</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2069,7 +1793,7 @@
 			<channel_id>Загородная жизнь HD</channel_id>
 			<int_id>b66ebcd66447441192dccbbce33ef</int_id>
 			<epg_id>Загородная жизнь HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/214.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b66ebcd66447441192dccbbce33ef.png?d=1713955515</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2078,7 +1802,7 @@
 			<channel_id>Звезда Плюс HD</channel_id>
 			<int_id>6352d7e30d97618d0db51e0aead8bc3d</int_id>
 			<epg_id>Звезда Плюс HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/282.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/6352d7e30d97618d0db51e0aead8bc3d.png?d=1714672817</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2087,7 +1811,7 @@
 			<channel_id>История</channel_id>
 			<int_id>5f6d1e248ea63dd11c67b95dadeee532</int_id>
 			<epg_id>История</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/215.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/5f6d1e248ea63dd11c67b95dadeee532.png?d=1713789915</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2096,7 +1820,7 @@
 			<channel_id>Конный мир HD</channel_id>
 			<int_id>23c10f270b62626ce188cf44641ee28f</int_id>
 			<epg_id>Конный мир HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/216.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/23c10f270b62626ce188cf44641ee28f.png?d=1713940217</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2104,15 +1828,16 @@
 			<channel_id>Кто есть кто</channel_id>
 			<int_id>9b878b1af34d0d277b7c1ed0b25b94b5</int_id>
 			<epg_id>Кто есть кто</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/286.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/9b878b1af34d0d277b7c1ed0b25b94b5.png?d=1713789915</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кухня ТВ HD</caption>
+			<caption>Кухня HD</caption>
 			<channel_id>Кухня ТВ HD</channel_id>
 			<int_id>857e8ceaa341e45cf05076dbca275187</int_id>
 			<epg_id>Кухня ТВ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/298.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/857e8ceaa341e45cf05076dbca275187.png?d=1714650315</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2121,7 +1846,7 @@
 			<channel_id>Моя планета</channel_id>
 			<int_id>NCuJ8CV</int_id>
 			<epg_id>Моя планета</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/218.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/NCuJ8CV.png?d=1711999255</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2129,40 +1854,16 @@
 			<channel_id>Моя планета HD</channel_id>
 			<int_id>0847d13a08602614bb6b7822e5e1cb38</int_id>
 			<epg_id>Моя планета HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/246.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/0847d13a08602614bb6b7822e5e1cb38.png?d=1713519013</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Моя стихия</caption>
-			<channel_id>Моя стихия</channel_id>
-			<int_id>0b52cbe5ac8b84d060f9f8ab32625945</int_id>
-			<epg_id>Моя стихия</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/217.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Стиль</caption>
-			<channel_id>НТВ Стиль</channel_id>
-			<int_id>9c8fdcbe73a032ae2402af2f8dccd71a</int_id>
-			<epg_id>НТВ Стиль</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/251.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наука 2.0</caption>
-			<channel_id>Наука 2.0</channel_id>
-			<int_id>OeO8zO4</int_id>
-			<epg_id>Наука 2.0</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/219.png</icon_url>
-			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Наука HD</caption>
 			<channel_id>Наука HD</channel_id>
 			<int_id>fb7f0d9c3a8021ccb97dd8b6b4a6d9c2</int_id>
 			<epg_id>Наука HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/220.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/fb7f0d9c3a8021ccb97dd8b6b4a6d9c2.png?d=1713953716</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2171,7 +1872,7 @@
 			<channel_id>Наша Сибирь HD</channel_id>
 			<int_id>b2c1f2109d9a7f657e7b33deebb7b261</int_id>
 			<epg_id>Наша Сибирь HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/221.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b2c1f2109d9a7f657e7b33deebb7b261.png?d=1711978049</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2179,7 +1880,7 @@
 			<channel_id>Наша тема HD</channel_id>
 			<int_id>170c7715036875e5ea12c37a169b3f12</int_id>
 			<epg_id>Наша тема HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/222.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/170c7715036875e5ea12c37a169b3f12.png?d=1713940217</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2187,7 +1888,7 @@
 			<channel_id>Оружие</channel_id>
 			<int_id>dfdb6b6ef2450a3800a9a9cb7414b029</int_id>
 			<epg_id>Оружие</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/197.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/dfdb6b6ef2450a3800a9a9cb7414b029.png?d=1713789915</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2196,24 +1897,16 @@
 			<channel_id>Охота и рыбалка</channel_id>
 			<int_id>e7b73fb39bfc56fb6fca26e8f33fc0cb</int_id>
 			<epg_id>Охота и рыбалка</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/223.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/e7b73fb39bfc56fb6fca26e8f33fc0cb.png?d=1716544818</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Охотник и рыболов HD</caption>
 			<channel_id>Охотник и рыболов HD</channel_id>
 			<int_id>952b9d9b804fd06e909e8c5dadf</int_id>
 			<epg_id>Охотник и рыболов HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/224.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ПОЕХАЛИ! HD</caption>
-			<channel_id>ПОЕХАЛИ! HD</channel_id>
-			<int_id>9811d468207b5eee08c98101afcc678f</int_id>
-			<epg_id>ПОЕХАЛИ! HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/274.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/952b9d9b804fd06e909e8c5dadf.png?d=1713517214</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2222,7 +1915,7 @@
 			<channel_id>Первый космический HD</channel_id>
 			<int_id>499b7cc06a1d1861c2b9df891da3c8b1</int_id>
 			<epg_id>Первый космический HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/234.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/499b7cc06a1d1861c2b9df891da3c8b1.png?d=1713953716</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2231,7 +1924,7 @@
 			<channel_id>Приключения HD</channel_id>
 			<int_id>6298aea89ffd5782a4be554494a47787</int_id>
 			<epg_id>Приключения HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/225.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/6298aea89ffd5782a4be554494a47787.png?d=1713508213</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2240,15 +1933,7 @@
 			<channel_id>Психология 21</channel_id>
 			<int_id>7QfnIKv</int_id>
 			<epg_id>Психология 21</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/268.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТАЙНА</caption>
-			<channel_id>ТАЙНА</channel_id>
-			<int_id>50c8f225f6d89437a2d52ee2f7460e34</int_id>
-			<epg_id>ТАЙНА</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/271.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/7QfnIKv.png?d=1711999637</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2256,66 +1941,34 @@
 			<channel_id>Телеканал Е HD</channel_id>
 			<int_id>68fedec777358f7d02b6b42d6ea7653c</int_id>
 			<epg_id>Телеканал Е HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/245.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/68fedec777358f7d02b6b42d6ea7653c.png?d=1714650315</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Телеканал Театр</caption>
-			<channel_id>Телеканал Театр</channel_id>
-			<int_id>9FLgi7f</int_id>
-			<epg_id>Телеканал Театр</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/296.png</icon_url>
-			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Техно 24</caption>
 			<channel_id>Техно 24</channel_id>
 			<int_id>42b68707193370a8537ffa38b59e1701</int_id>
 			<epg_id>Техно 24</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/230.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/42b68707193370a8537ffa38b59e1701.png?d=1714650315</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Точка отрыва</caption>
-			<channel_id>Точка отрыва</channel_id>
-			<int_id>54929e7a75600540e0bac6968c0bd9d6</int_id>
-			<epg_id>Точка отрыва</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/231.png</icon_url>
-			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Усадьба</caption>
 			<channel_id>Усадьба</channel_id>
 			<int_id>6065625ae173e2f61b8004f78c1d07b8</int_id>
 			<epg_id>Усадьба</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/232.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/6065625ae173e2f61b8004f78c1d07b8.png?d=1716544818</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>BOX Docu. HD</caption>
-			<channel_id>BOX Docu. HD</channel_id>
-			<int_id>b8c3c311215558a756efb3ae2e62ed54</int_id>
-			<epg_id>BOX Docu. HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/642.png</icon_url>
-			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Stories HD</caption>
 			<channel_id>BOX Stories HD</channel_id>
 			<int_id>83ca5887106ee2a2e66e926490af8b58</int_id>
 			<epg_id>BOX Stories HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/652.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Kosmo HD</caption>
-			<channel_id>Kosmo HD</channel_id>
-			<int_id>6c1f401d14b5864a9fe77a46a6be18d8</int_id>
-			<epg_id>Kosmo HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/647.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/83ca5887106ee2a2e66e926490af8b58.png?d=1711978067</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2323,7 +1976,7 @@
 			<channel_id>National Geographic CEE</channel_id>
 			<int_id>mC13NpI</int_id>
 			<epg_id>National Geographic CEE</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/254.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/mC13NpI.png?d=1711997461</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2331,8 +1984,8 @@
 			<caption>National Geographic CEE HD</caption>
 			<channel_id>National Geographic CEE HD</channel_id>
 			<int_id>2314fd25a64d8e11bcea9101331aa5ac</int_id>
-			<epg_id>National Geographic CEE</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/650.png</icon_url>
+			<epg_id>National Geographic CEE HD</epg_id>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2314fd25a64d8e11bcea9101331aa5ac.png?d=1713875414</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2340,8 +1993,8 @@
 			<caption>National Geographic Wild CEE</caption>
 			<channel_id>National Geographic Wild CEE</channel_id>
 			<int_id>6LdiIzJ</int_id>
-			<epg_id>National Geographic Wild CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/252.png</icon_url>
+			<epg_id>National Geographic Wild CEE</epg_id>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/6LdiIzJ.png?d=1711997486</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2350,7 +2003,7 @@
 			<channel_id>National Geographic Wild CEE HD</channel_id>
 			<int_id>7fec12a3178f6ba7efb5a453c</int_id>
 			<epg_id>National Geographic Wild CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/253.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/7fec12a3178f6ba7efb5a453c.png?d=1717695017</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2359,17 +2012,8 @@
 			<channel_id>Terra HD</channel_id>
 			<int_id>3e874c7ab7e81fedc389d9d306c8e</int_id>
 			<epg_id>Terra HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/255.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/3e874c7ab7e81fedc389d9d306c8e.png?d=1713512714</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>2X2 HD</caption>
-			<channel_id>2X2 HD</channel_id>
-			<int_id>74529654ca8cf48af11b90ed4ebbc4ee</int_id>
-			<epg_id>2X2 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/319.png</icon_url>
-			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
@@ -2377,15 +2021,16 @@
 			<channel_id>Ani</channel_id>
 			<int_id>29d1e2357d7c14db51e885053a58ec67</int_id>
 			<epg_id>Ani</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/315.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/29d1e2357d7c14db51e885053a58ec67.png?d=1713789915</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Anime HD</caption>
 			<channel_id>BOX Anime HD</channel_id>
 			<int_id>0c7e7885d670c64d8543bebf3fc4be5a</int_id>
 			<epg_id>BOX Anime HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/604.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/0c7e7885d670c64d8543bebf3fc4be5a.png?d=1711977920</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2393,16 +2038,7 @@
 			<channel_id>BOX M.Serial HD</channel_id>
 			<int_id>bf892e361c42f3e624caeed7f66a030f</int_id>
 			<epg_id>BOX M.Serial HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/606.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Boomerang</caption>
-			<channel_id>Boomerang</channel_id>
-			<int_id>f91022004ce9aab1397c498ec1ee684b</int_id>
-			<epg_id>Boomerang</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/331.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/bf892e361c42f3e624caeed7f66a030f.png?d=1713519914</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2411,7 +2047,7 @@
 			<channel_id>Cartoon Network</channel_id>
 			<int_id>19d281ba42c600066ebaf016320720b3</int_id>
 			<epg_id>Cartoon Network</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/328.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/1f1dd86af4cfe6e8ba1bea589b4e11ee.png?d=1714670119</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2420,31 +2056,25 @@
 			<channel_id>Gulli Girl</channel_id>
 			<int_id>ca0057efb0ddf4fbd2da8316d02ff41b</int_id>
 			<epg_id>Gulli Girl</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/309.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ca0057efb0ddf4fbd2da8316d02ff41b.png?d=1713789915</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>JimJam CEE</caption>
 			<channel_id>JimJam CEE</channel_id>
 			<int_id>31c01e25f4db50d00a47a379d3d64c98</int_id>
 			<epg_id>JimJam CEE</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/317.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/31c01e25f4db50d00a47a379d3d64c98.png?d=1713789915</icon_url>
 			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KidZone</caption>
-			<channel_id>KidZone</channel_id>
-			<int_id>627f549dff310b5a0898f85bf26f5874</int_id>
-			<epg_id>KidZone</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/330.png</icon_url>
-			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nick Jr.</caption>
 			<channel_id>Nick Jr.</channel_id>
 			<int_id>0e693c110a4df9ecaaf6bf51d5aa4959</int_id>
 			<epg_id>Nick Jr.</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/302.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/0e693c110a4df9ecaaf6bf51d5aa4959.png?d=1713789915</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2453,24 +2083,16 @@
 			<channel_id>Nick Jr. HD</channel_id>
 			<int_id>bbc1b5b64ad5e61e13f0e00ce233e0ff</int_id>
 			<epg_id>Nick Jr. HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/640.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/bbc1b5b64ad5e61e13f0e00ce233e0ff.png?d=1713812416</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nickelodeon HD</caption>
 			<channel_id>Nickelodeon HD</channel_id>
 			<int_id>d8dab5d8122e05867dfeeb7eb31b8f89</int_id>
 			<epg_id>Nickelodeon HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/304.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Nicktoons</caption>
-			<channel_id>Nicktoons</channel_id>
-			<int_id>8569ee0e2fd91fbbc3f2dd0d2514fd02</int_id>
-			<epg_id>Nicktoons</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/324.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/d8dab5d8122e05867dfeeb7eb31b8f89.png?d=1713812416</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2479,7 +2101,7 @@
 			<channel_id>Niki Junior HD</channel_id>
 			<int_id>ba51dbb4f32b87ab0c66f05dfb3b8a94</int_id>
 			<epg_id>Niki Junior HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/332.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ba51dbb4f32b87ab0c66f05dfb3b8a94.png?d=1711978188</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2487,7 +2109,7 @@
 			<channel_id>Niki Kids HD</channel_id>
 			<int_id>3d6b5cc6ae397d0936d77b08baa84d8f</int_id>
 			<epg_id>Niki Kids HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/333.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/3d6b5cc6ae397d0936d77b08baa84d8f.png?d=1711978189</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2495,7 +2117,7 @@
 			<channel_id>TiJi</channel_id>
 			<int_id>2d6c2cc54c8fb19668287681f55ba6d1</int_id>
 			<epg_id>TiJi</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/314.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2d6c2cc54c8fb19668287681f55ba6d1.png?d=1716876915</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2504,31 +2126,16 @@
 			<channel_id>В гостях у сказки HD</channel_id>
 			<int_id>9a2b9ca132b5687af389b1003bb5cd23</int_id>
 			<epg_id>В гостях у сказки HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/316.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/9a2b9ca132b5687af389b1003bb5cd23.png?d=1713812416</icon_url>
 			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Детский Мир</caption>
-			<channel_id>Детский Мир</channel_id>
-			<int_id>5432c4125a8674c6a4cfb8f975f87708</int_id>
-			<epg_id>Детский Мир</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/311.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Капитан Фантастика HD</caption>
-			<channel_id>Капитан Фантастика HD</channel_id>
-			<int_id>1770e936d75789528c6f1cc29a76</int_id>
-			<epg_id>Капитан Фантастика HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/300.png</icon_url>
-			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Карусель</caption>
 			<channel_id>Карусель</channel_id>
 			<int_id>d7760ff677584fcec3610490a1a5e43e</int_id>
 			<epg_id>Карусель</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/618.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/8ugvuuu611f.png?d=1711998764</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2537,7 +2144,7 @@
 			<channel_id>Карусель HD</channel_id>
 			<int_id>d7760ff677584fcec3610490a1a5e43e</int_id>
 			<epg_id>Карусель HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/301.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/d7760ff677584fcec3610490a1a5e43e.png?d=1713812416</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2546,7 +2153,7 @@
 			<channel_id>Мама</channel_id>
 			<int_id>356bb9fcb74d6d42f378068ad6bdd5a8</int_id>
 			<epg_id>Мама</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/327.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/356bb9fcb74d6d42f378068ad6bdd5a8.png?d=1713542415</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2554,7 +2161,7 @@
 			<channel_id>Мульт</channel_id>
 			<int_id>ZkzZQZE</int_id>
 			<epg_id>Мульт</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/306.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ZkzZQZE.png?d=1711999344</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2562,16 +2169,7 @@
 			<channel_id>Мульт HD</channel_id>
 			<int_id>2ed0864f02468fc3484e47f69c1f8d6e</int_id>
 			<epg_id>Мульт HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/307.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мультиландия</caption>
-			<channel_id>Мультиландия</channel_id>
-			<int_id>07ec3bd2613f4e7903e26d0565a5a9ce</int_id>
-			<epg_id>Мультиландия</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/320.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2ed0864f02468fc3484e47f69c1f8d6e.png?d=1713813315</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2580,7 +2178,7 @@
 			<channel_id>Мультимузыка</channel_id>
 			<int_id>bc7d82f427c44a9d2699a0f31e6b411d</int_id>
 			<epg_id>Мультимузыка</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/312.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/bc7d82f427c44a9d2699a0f31e6b411d.png?d=1711978107</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2588,7 +2186,7 @@
 			<channel_id>Радость Моя</channel_id>
 			<int_id>2Q9a3pe</int_id>
 			<epg_id>Радость Моя</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/321.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2Q9a3pe.png?d=1711999965</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2596,40 +2194,34 @@
 			<channel_id>Рыжий</channel_id>
 			<int_id>e72ccc4429ba73f3f4a1806e1d41ed8f</int_id>
 			<epg_id>Рыжий</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/323.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/e72ccc4429ba73f3f4a1806e1d41ed8f.png?d=1714650315</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>СТС Kids HD</caption>
 			<channel_id>СТС Kids HD</channel_id>
 			<int_id>04643be9524575d2e84638bcbc439ee4</int_id>
 			<epg_id>СТС Kids HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/310.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/04643be9524575d2e84638bcbc439ee4.png?d=1718634615</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Смайлик ТВ</caption>
-			<channel_id>Смайлик ТВ</channel_id>
-			<int_id>360fad5f72ea16e6208fcb26b58da88a</int_id>
-			<epg_id>Смайлик ТВ</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/322.png</icon_url>
-			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Советские мультфильмы</caption>
 			<channel_id>Советские мультфильмы</channel_id>
 			<int_id>fc0d82392a98cda60abca46ef45</int_id>
 			<epg_id>Советские мультфильмы</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/326.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/fc0d82392a98cda60abca46ef45.png?d=1714670119</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Телеканал О!</caption>
 			<channel_id>Телеканал О!</channel_id>
 			<int_id>d3c0431e864df6e7dc6db42ef454b3fb</int_id>
 			<epg_id>Телеканал О!</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/305.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/d3c0431e864df6e7dc6db42ef454b3fb.png?d=1713789915</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2638,50 +2230,8 @@
 			<channel_id>Уникум</channel_id>
 			<int_id>1ab2630cf044103c89c7770ab14a239b</int_id>
 			<epg_id>Уникум</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/313.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/1ab2630cf044103c89c7770ab14a239b.png?d=1717575315</icon_url>
 			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>СуперГерои</caption>
-			<channel_id>СуперГерои</channel_id>
-			<int_id>94e3b2d8c1bdeaef6e5337eec429f6ef</int_id>
-			<epg_id>СуперГерои</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/644.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>BOX Be ON Edge HD</caption>
-			<channel_id>BOX Be ON Edge HD</channel_id>
-			<int_id>41cd00e23fa3930b84c4d977eb832ebb</int_id>
-			<epg_id>BOX Be ON Edge HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/625.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>DAZN 1 Bar HD</caption>
-			<channel_id>DAZN 1 Bar HD</channel_id>
-			<int_id>801b1c71bacba0ad14d953f803f8535b</int_id>
-			<epg_id>DAZN 1 Bar HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/369.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>DAZN 2 Bar HD</caption>
-			<channel_id>DAZN 2 Bar HD</channel_id>
-			<int_id>21a63b4107eb61f960273c74837b0466</int_id>
-			<epg_id>DAZN 2 Bar HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/370.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>DAZN F1 HD</caption>
-			<channel_id>DAZN F1 HD</channel_id>
-			<int_id>d144c1e8355fac7df3d887e748638e04</int_id>
-			<epg_id>DAZN F1 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/387.png</icon_url>
-			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
@@ -2689,7 +2239,7 @@
 			<channel_id>Eurosport 1 CEE HD</channel_id>
 			<int_id>f8cd78967a770c914d669ac365b34d20</int_id>
 			<epg_id>Eurosport 1 CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/391.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/f8cd78967a770c914d669ac365b34d20.png?d=1713874515</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2698,7 +2248,7 @@
 			<channel_id>Eurosport 2 CEE HD</channel_id>
 			<int_id>9c834999192699a65840d8c066bc4253</int_id>
 			<epg_id>Eurosport 2 CEE HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/417.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/9c834999192699a65840d8c066bc4253.png?d=1713874515</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2707,7 +2257,7 @@
 			<channel_id>Extreme Sports HD</channel_id>
 			<int_id>d4cd7b53eb656c22c9c183d2cf1702c3</int_id>
 			<epg_id>Extreme Sports HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/344.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/d4cd7b53eb656c22c9c183d2cf1702c3.png?d=1711977949</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2715,15 +2265,7 @@
 			<channel_id>Fast FunBox</channel_id>
 			<int_id>1QDD2gr</int_id>
 			<epg_id>Fast FunBox</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/347.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fast FunBox HD</caption>
-			<channel_id>Fast FunBox HD</channel_id>
-			<int_id>844aa5c54077c3b9e193f26fb0371468</int_id>
-			<epg_id>Fast FunBox HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/348.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/1QDD2gr.png?d=1711996106</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2731,7 +2273,7 @@
 			<channel_id>Fight Box</channel_id>
 			<int_id>mzE9J2K</int_id>
 			<epg_id>Fight Box</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/345.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/mzE9J2K.png?d=1711996245</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2739,7 +2281,7 @@
 			<channel_id>FightBox HD</channel_id>
 			<int_id>e15548d33a7fa06bc83bb6027c649fb3</int_id>
 			<epg_id>FightBox HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/346.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/777ghfdd5mn.png?d=1712000567</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2747,7 +2289,7 @@
 			<channel_id>KHL</channel_id>
 			<int_id>2572abd1575735ba8bc582b38aed4640</int_id>
 			<epg_id>KHL</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/435.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2572abd1575735ba8bc582b38aed4640.png?d=1713465915</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2756,7 +2298,7 @@
 			<channel_id>KHL HD</channel_id>
 			<int_id>8a0956c97c0eba87b2f6b843908b3158</int_id>
 			<epg_id>KHL HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/436.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/8a0956c97c0eba87b2f6b843908b3158.png?d=1714127416</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2765,7 +2307,7 @@
 			<channel_id>KHL Prime HD</channel_id>
 			<int_id>231142dca683b52f428af4fa9a3b7d6d</int_id>
 			<epg_id>KHL Prime HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/437.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/231142dca683b52f428af4fa9a3b7d6d.png?d=1717695017</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2774,7 +2316,7 @@
 			<channel_id>MMA-TV HD</channel_id>
 			<int_id>18f95f876cd65c2384db322988f734eb</int_id>
 			<epg_id>MMA-TV HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/438.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/18f95f876cd65c2384db322988f734eb.png?d=1717695017</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2783,7 +2325,7 @@
 			<channel_id>NBA TV HD</channel_id>
 			<int_id>77b28730059aa3a87aea4b60780a0bf1</int_id>
 			<epg_id>NBA TV HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/343.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/77b28730059aa3a87aea4b60780a0bf1.png?d=1713519914</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2792,7 +2334,7 @@
 			<channel_id>NHL Network HD</channel_id>
 			<int_id>bdd2278b63aadc050b229358eb2154de</int_id>
 			<epg_id>NHL Network HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/359.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/bdd2278b63aadc050b229358eb2154de.png?d=1713519013</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2801,7 +2343,7 @@
 			<channel_id>Nova Sport 1 HD</channel_id>
 			<int_id>711e7fb1f889e99527f11ebf21178f92</int_id>
 			<epg_id>Nova Sport 1 HD</epg_id>
-			<icon_url>https://lk.filmax-tv.ru/images/logo/958.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/67f8d74e308d3be537929c3e2c87f78a.png?d=1711978010</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2810,16 +2352,7 @@
 			<channel_id>Nova Sport 2 HD</channel_id>
 			<int_id>51b0753bae64c103cadee02962958f0c</int_id>
 			<epg_id>Nova Sport 2 HD</epg_id>
-			<icon_url>https://lk.filmax-tv.ru/images/logo/959.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ORF Sport + HD</caption>
-			<channel_id>ORF Sport + HD</channel_id>
-			<int_id>4517d7f61d91661e93538398ae3f6671</int_id>
-			<epg_id>ORF Sport + HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/376.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/d9fcab74d822f1828ae7676e8e02d171.png?d=1711978010</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2828,7 +2361,7 @@
 			<channel_id>Polsat Sport Extra HD</channel_id>
 			<int_id>b59429ef6a4889ff730db4004d5734dc</int_id>
 			<epg_id>Polsat Sport Extra HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/395.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b59429ef6a4889ff730db4004d5734dc.png?d=1713457814</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2837,24 +2370,16 @@
 			<channel_id>Polsat Sport HD</channel_id>
 			<int_id>5dfb37b02467b5387ab559a6aa3f6698</int_id>
 			<epg_id>Polsat Sport HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/396.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/5dfb37b02467b5387ab559a6aa3f6698.png?d=1713516313</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat Sport News HD</caption>
-			<channel_id>Polsat Sport News HD</channel_id>
-			<int_id>710d48a73c6d0afe81f59008ed24afdc</int_id>
-			<epg_id>Polsat Sport News HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/397.png</icon_url>
-			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Polsat Sport Premium 1 HD</caption>
 			<channel_id>Polsat Sport Premium 1 HD</channel_id>
 			<int_id>5b904bff333bc9ea1a28cf8c366c0d6c</int_id>
 			<epg_id>Polsat Sport Premium 1 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/398.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/5b904bff333bc9ea1a28cf8c366c0d6c.png?d=1711977964</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2862,7 +2387,7 @@
 			<channel_id>Polsat Sport Premium 2 HD</channel_id>
 			<int_id>98818826a59f4b4e999867a847c2cd44</int_id>
 			<epg_id>Polsat Sport Premium 2 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/399.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/98818826a59f4b4e999867a847c2cd44.png?d=1711977964</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2870,7 +2395,7 @@
 			<channel_id>Polsat Sport Premium 3 HD</channel_id>
 			<int_id>416e9f37c4f4674d2a5acd1d0c0b8a15</int_id>
 			<epg_id>Polsat Sport Premium 3 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/400.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/416e9f37c4f4674d2a5acd1d0c0b8a15.png?d=1711977964</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2878,7 +2403,7 @@
 			<channel_id>Polsat Sport Premium 4 HD</channel_id>
 			<int_id>0bafd7fce65f43ac5aae9f21448725cf</int_id>
 			<epg_id>Polsat Sport Premium 4 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/401.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/0bafd7fce65f43ac5aae9f21448725cf.png?d=1711977965</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2886,7 +2411,7 @@
 			<channel_id>Polsat Sport Premium 5 HD</channel_id>
 			<int_id>b93e476091f2a14481983b151303891f</int_id>
 			<epg_id>Polsat Sport Premium 5 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/402.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b93e476091f2a14481983b151303891f.png?d=1711977965</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2894,7 +2419,7 @@
 			<channel_id>Polsat Sport Premium 6 HD</channel_id>
 			<int_id>9de72fa213ef735214dfcc9e02806836</int_id>
 			<epg_id>Polsat Sport Premium 6 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/403.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/9de72fa213ef735214dfcc9e02806836.png?d=1711977965</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2902,7 +2427,7 @@
 			<channel_id>Qazsport HD</channel_id>
 			<int_id>4653c176c85d77e720a810372b5626f6</int_id>
 			<epg_id>Qazsport HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/393.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4653c176c85d77e720a810372b5626f6.png?d=1715760018</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2911,7 +2436,7 @@
 			<channel_id>Russian Extreme HD</channel_id>
 			<int_id>0fbcdb977295bbbb57aa0479202cb112</int_id>
 			<epg_id>Russian Extreme HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/351.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/0fbcdb977295bbbb57aa0479202cb112.png?d=1713507313</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2920,7 +2445,7 @@
 			<channel_id>Setanta Sports 1 HD</channel_id>
 			<int_id>988bc2ee400703f47f50e192e573e177</int_id>
 			<epg_id>Setanta Sports 1 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/353.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/988bc2ee400703f47f50e192e573e177.png?d=1717695017</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2929,70 +2454,7 @@
 			<channel_id>Setanta Sports 2 HD</channel_id>
 			<int_id>9c2eb891b1d1913f3f3165b0063574f6</int_id>
 			<epg_id>Setanta Sports 2 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/354.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Sports UA HD</caption>
-			<channel_id>Setanta Sports UA HD</channel_id>
-			<int_id>ac6858eebe9fbab67d1d953e80a5e56a</int_id>
-			<epg_id>Setanta Sports UA HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/355.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Sports+ UA HD</caption>
-			<channel_id>Setanta Sports+ UA HD</channel_id>
-			<int_id>6be32d8a84554bc6d45f64482706c4d8</int_id>
-			<epg_id>Setanta Sports+ UA HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/356.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sky Sport 1 HD</caption>
-			<channel_id>Sky Sport 1 HD</channel_id>
-			<int_id>3bc107c0afa7fc5c4aec7b75299518b1</int_id>
-			<epg_id>Sky Sport 1 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/378.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sky Sports F1 HD</caption>
-			<channel_id>Sky Sports F1 HD</channel_id>
-			<int_id>059a916f46786752d2d4857eeddcc499</int_id>
-			<epg_id>Sky Sports F1 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/389.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sport 1 HD Lietuva</caption>
-			<channel_id>Sport 1 HD Lietuva</channel_id>
-			<int_id>932eab5d9b74f520d1f0688c3011ede2</int_id>
-			<epg_id>Sport 1 HD Lietuva</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/357.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sport Klub HD</caption>
-			<channel_id>Sport Klub HD</channel_id>
-			<int_id>0c956afcc32c4d17223f50308ac9b7d0</int_id>
-			<epg_id>Sport Klub HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/377.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sport digital HD</caption>
-			<channel_id>Sport digital HD</channel_id>
-			<int_id>53b72ee13a9b35b0918316c27ca09277</int_id>
-			<epg_id>Sport digital HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/385.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/9c2eb891b1d1913f3f3165b0063574f6.png?d=1717695017</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3001,7 +2463,7 @@
 			<channel_id>SuperTennis HD</channel_id>
 			<int_id>b1411f728b38e9487bd8c27a1558ca5a</int_id>
 			<epg_id>SuperTennis HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/360.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b1411f728b38e9487bd8c27a1558ca5a.png?d=1713513617</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3010,73 +2472,51 @@
 			<channel_id>Trace Sport Stars HD</channel_id>
 			<int_id>a65cdc16e6d133cf059f4f457d823cd9</int_id>
 			<epg_id>Trace Sport Stars HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/405.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/a65cdc16e6d133cf059f4f457d823cd9.png?d=1713542415</icon_url>
 			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>nSport+ HD</caption>
-			<channel_id>nSport+ HD</channel_id>
-			<int_id>58f5aecb2e0d00009b628ce1b8b1a954</int_id>
-			<epg_id>nSport+ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/386.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Авто 24 HD</caption>
 			<channel_id>Авто 24 HD</channel_id>
 			<int_id>ee51075aef8c2dbf122acc0fc511e5dd</int_id>
 			<epg_id>Авто 24 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/337.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ee51075aef8c2dbf122acc0fc511e5dd.png?d=1713813316</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Авто плюс HD</caption>
 			<channel_id>Авто плюс HD</channel_id>
 			<int_id>f2b6a1c0be4033386c12e203ec0d5fa9</int_id>
 			<epg_id>Авто плюс HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/418.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/f2b6a1c0be4033386c12e203ec0d5fa9.png?d=1713940217</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Беларусь 5 HD</caption>
 			<channel_id>Беларусь 5 HD</channel_id>
 			<int_id>19605d15293f4c1bcaf7e35948b8eef3</int_id>
 			<epg_id>Беларусь 5 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/334.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/19605d15293f4c1bcaf7e35948b8eef3.png?d=1713517214</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Бокс ТВ</caption>
-			<channel_id>Бокс ТВ</channel_id>
-			<int_id>zE21G03</int_id>
-			<epg_id>Бокс ТВ</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/419.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Драйв</caption>
+			<caption>Драйв HD</caption>
 			<channel_id>Драйв</channel_id>
 			<int_id>38a4985f91c2a3ad66df6bcca3ffbc16</int_id>
 			<epg_id>Драйв</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/335.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/38a4985f91c2a3ad66df6bcca3ffbc16.png?d=1713813316</icon_url>
 			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>МИР БАСКЕТБОЛА</caption>
-			<channel_id>МИР БАСКЕТБОЛА</channel_id>
-			<int_id>07701d9bc8e749c81b76ead0872220fa</int_id>
-			<epg_id>МИР БАСКЕТБОЛА</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/368.png</icon_url>
-			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч!</caption>
 			<channel_id>Матч!</channel_id>
 			<int_id>bmIY7iY</int_id>
-			<epg_id>Матч! HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/338.png</icon_url>
+			<epg_id>Матч!</epg_id>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/bmIY7iY.png?d=1711999005</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3084,7 +2524,7 @@
 			<channel_id>Матч! HD</channel_id>
 			<int_id>e13e088ee752718e45b5370fe9a28c50</int_id>
 			<epg_id>Матч! HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/339.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/e13e088ee752718e45b5370fe9a28c50.png?d=1718653514</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3093,7 +2533,7 @@
 			<channel_id>Матч! Арена</channel_id>
 			<int_id>tOLbHHp</int_id>
 			<epg_id>Матч! Арена</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/420.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/tOLbHHp.png?d=1713384638</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3101,7 +2541,7 @@
 			<channel_id>Матч! Арена HD</channel_id>
 			<int_id>85a775aa23f012044b9461488e689116</int_id>
 			<epg_id>Матч! Арена HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/421.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/85a775aa23f012044b9461488e689116.png?d=1717695017</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3110,7 +2550,7 @@
 			<channel_id>Матч! Боец HD</channel_id>
 			<int_id>617593767602230053039217687dcb64</int_id>
 			<epg_id>Матч! Боец HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/422.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/617593767602230053039217687dcb64.png?d=1717695017</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3119,7 +2559,7 @@
 			<channel_id>Матч! Игра</channel_id>
 			<int_id>WwX7wJI</int_id>
 			<epg_id>Матч! Игра</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/423.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/WwX7wJI.png?d=1711999052</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3127,7 +2567,7 @@
 			<channel_id>Матч! Игра HD</channel_id>
 			<int_id>3e53181898106d61a9cd9d4b4157b1f0</int_id>
 			<epg_id>Матч! Игра HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/424.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/3e53181898106d61a9cd9d4b4157b1f0.png?d=1717695017</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3136,7 +2576,7 @@
 			<channel_id>Матч! Премьер</channel_id>
 			<int_id>fjMjF11</int_id>
 			<epg_id>Матч! Премьер</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/425.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/fjMjF11.png?d=1711999073</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3144,7 +2584,7 @@
 			<channel_id>Матч! Премьер HD</channel_id>
 			<int_id>c4512b86db2a90013747054fbf775559</int_id>
 			<epg_id>Матч! Премьер HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/426.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/c4512b86db2a90013747054fbf775559.png?d=1717695017</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3153,7 +2593,7 @@
 			<channel_id>Матч! Страна</channel_id>
 			<int_id>vcVryE5</int_id>
 			<epg_id>Матч! Страна</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/427.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/vcVryE5.png?d=1711999091</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3161,7 +2601,7 @@
 			<channel_id>Матч! Страна HD</channel_id>
 			<int_id>6467d0471541ce1bf3afe3e4d11f4377</int_id>
 			<epg_id>Матч! Страна HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/428.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/6467d0471541ce1bf3afe3e4d11f4377.png?d=1713788115</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3170,7 +2610,7 @@
 			<channel_id>Матч! Футбол 1</channel_id>
 			<int_id>lFqPsao</int_id>
 			<epg_id>Матч! Футбол 1</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/429.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/lFqPsao.png?d=1711999112</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3178,7 +2618,7 @@
 			<channel_id>Матч! Футбол 1 HD</channel_id>
 			<int_id>94de502ffcf196ab78801841206c642d</int_id>
 			<epg_id>Матч! Футбол 1 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/430.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/94de502ffcf196ab78801841206c642d.png?d=1717695017</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3187,7 +2627,7 @@
 			<channel_id>Матч! Футбол 2</channel_id>
 			<int_id>BkJ2Xq9</int_id>
 			<epg_id>Матч! Футбол 2</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/431.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/BkJ2Xq9.png?d=1711999131</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3195,7 +2635,7 @@
 			<channel_id>Матч! Футбол 2 HD</channel_id>
 			<int_id>82173d67718d9564d91739037224daee</int_id>
 			<epg_id>Матч! Футбол 2 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/432.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/82173d67718d9564d91739037224daee.png?d=1717695017</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3204,7 +2644,7 @@
 			<channel_id>Матч! Футбол 3</channel_id>
 			<int_id>BINOMOQ</int_id>
 			<epg_id>Матч! Футбол 3</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/433.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/BINOMOQ.png?d=1711999151</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3212,16 +2652,7 @@
 			<channel_id>Матч! Футбол 3 HD</channel_id>
 			<int_id>b7de02034e087e387c7dab3de2e6b9f6</int_id>
 			<epg_id>Матч! Футбол 3 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/434.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Моторспорт ТВ HD</caption>
-			<channel_id>Моторспорт ТВ HD</channel_id>
-			<int_id>205c01305e73f804fb6a7296872b79a9</int_id>
-			<epg_id>Моторспорт ТВ HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/340.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b7de02034e087e387c7dab3de2e6b9f6.png?d=1717695017</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3230,7 +2661,7 @@
 			<channel_id>Спортивный HD</channel_id>
 			<int_id>2735bf9bcb34d0c67285092b1f3a255a</int_id>
 			<epg_id>Спортивный HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/361.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2735bf9bcb34d0c67285092b1f3a255a.png?d=1714650315</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3238,7 +2669,7 @@
 			<channel_id>Старт HD</channel_id>
 			<int_id>5f19c04cb397c452a5afdb90e6ed2283</int_id>
 			<epg_id>Старт HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/341.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/5f19c04cb397c452a5afdb90e6ed2283.png?d=1715017519</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3247,7 +2678,7 @@
 			<channel_id>Футбол</channel_id>
 			<int_id>8lKwYvZ</int_id>
 			<epg_id>Футбол</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/404.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/8lKwYvZ.png?d=1712000376</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3255,7 +2686,7 @@
 			<channel_id>Футбол HD</channel_id>
 			<int_id>715fef8704497096cf06a1069be0d9b4</int_id>
 			<epg_id>Футбол HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/342.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/715fef8704497096cf06a1069be0d9b4.png?d=1714650315</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3263,7 +2694,7 @@
 			<channel_id>Футбольный HD</channel_id>
 			<int_id>68f58ff03e8ab893300c97b32046c5e0</int_id>
 			<epg_id>Футбольный HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/390.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/68f58ff03e8ab893300c97b32046c5e0.png?d=1714650315</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3272,23 +2703,15 @@
 			<channel_id>Хоккейный HD</channel_id>
 			<int_id>23e9934bbea5a408a8c747e4a75438b2</int_id>
 			<epg_id>Хоккейный HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/358.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/23e9934bbea5a408a8c747e4a75438b2.png?d=1714650315</icon_url>
 			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>1HD Music Television</caption>
-			<channel_id>1HD Music Television</channel_id>
-			<int_id>908fe186718583fd7fcbed97ef9e179c</int_id>
-			<epg_id>1HD Music Television</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/441.png</icon_url>
-			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>4Ever Music HD</caption>
 			<channel_id>4Ever Music HD</channel_id>
 			<int_id>ac0bce2a5e3f7c3af98ff6a9eaa228ce</int_id>
 			<epg_id>4Ever Music HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/476.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/ac0bce2a5e3f7c3af98ff6a9eaa228ce.png?d=1713263413</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3296,7 +2719,7 @@
 			<channel_id>AIVA HD</channel_id>
 			<int_id>f6ebf9aaf152862575b2985f2480d2ca</int_id>
 			<epg_id>AIVA HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/478.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/f6ebf9aaf152862575b2985f2480d2ca.png?d=1711978124</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3304,7 +2727,7 @@
 			<channel_id>Bridge TV</channel_id>
 			<int_id>92b2ad13c6b391f4c559782d2b53e26b</int_id>
 			<epg_id>Bridge TV</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/454.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/92b2ad13c6b391f4c559782d2b53e26b.png?d=1711978120</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3312,7 +2735,7 @@
 			<channel_id>Bridge TV Classic</channel_id>
 			<int_id>355e3bd7e0a3184f323889ccb453add2</int_id>
 			<epg_id>Bridge TV Classic</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/474.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/355e3bd7e0a3184f323889ccb453add2.png?d=1711978121</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3320,7 +2743,7 @@
 			<channel_id>Bridge TV Deluxe HD</channel_id>
 			<int_id>d35075dd3c4da522e6c982c52c632ee8</int_id>
 			<epg_id>Bridge TV Deluxe HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/453.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/d35075dd3c4da522e6c982c52c632ee8.png?d=1711978119</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3328,31 +2751,7 @@
 			<channel_id>Bridge TV Hits HD</channel_id>
 			<int_id>89aaca362bee502664c40c0c3eb249c2</int_id>
 			<epg_id>Bridge TV Hits HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/473.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Bridge TV Русский Хит</caption>
-			<channel_id>Bridge TV Русский Хит</channel_id>
-			<int_id>ac3c4d927142291cbb4ca0f37d07f603</int_id>
-			<epg_id>Bridge TV Русский Хит</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/475.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Clubbing TV HD</caption>
-			<channel_id>Clubbing TV HD</channel_id>
-			<int_id>0c6ac7b43532ccddb2e086772c21e22c</int_id>
-			<epg_id>Clubbing TV HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/440.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Deluxe music HD</caption>
-			<channel_id>Deluxe music HD</channel_id>
-			<int_id>5cecbc8ede425aebe804531a69e54f34</int_id>
-			<epg_id>Deluxe music HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/471.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/89aaca362bee502664c40c0c3eb249c2.png?d=1711978121</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3360,7 +2759,7 @@
 			<channel_id>EU Music HD</channel_id>
 			<int_id>22211a3f1bbea1513b7690d674f6d8b3</int_id>
 			<epg_id>EU Music HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/470.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/22211a3f1bbea1513b7690d674f6d8b3.png?d=1715856315</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3368,15 +2767,7 @@
 			<channel_id>Europa plus TV</channel_id>
 			<int_id>Vw9O0iq</int_id>
 			<epg_id>Europa plus TV</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/482.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Europa plus TV HD</caption>
-			<channel_id>Europa plus TV HD</channel_id>
-			<int_id>5b75ae83696d52746becc681887efd08</int_id>
-			<epg_id>Europa plus TV HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/455.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/Vw9O0iq.png?d=1711990644</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3384,31 +2775,31 @@
 			<channel_id>MCM Top HD</channel_id>
 			<int_id>e3f5597c457572c9a1e18c20389b991c</int_id>
 			<epg_id>MCM Top HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/477.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/e3f5597c457572c9a1e18c20389b991c.png?d=1711978127</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MTV 00s</caption>
+			<caption>MTV 00&apos;s</caption>
 			<channel_id>MTV 00s</channel_id>
 			<int_id>36759b63ccd8533482a7c9173a10f274</int_id>
 			<epg_id>MTV 00s</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/466.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/36759b63ccd8533482a7c9173a10f274.png?d=1713113114</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MTV 80s</caption>
+			<caption>MTV 80&apos;s</caption>
 			<channel_id>MTV 80s</channel_id>
 			<int_id>4f38d3063dc0291dcde9a4f0456f0f34</int_id>
 			<epg_id>MTV 80s</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/612.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4f38d3063dc0291dcde9a4f0456f0f34.png?d=1713358815</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MTV 90s</caption>
+			<caption>MTV 90&apos;s</caption>
 			<channel_id>MTV 90s</channel_id>
 			<int_id>44b65349d7fe07be2ad094540a3ca701</int_id>
 			<epg_id>MTV 90s</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/479.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/44b65349d7fe07be2ad094540a3ca701.png?d=1713113114</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3416,7 +2807,7 @@
 			<channel_id>MTV Club</channel_id>
 			<int_id>bb1e5afde7ede0ff32714963bedb6106</int_id>
 			<epg_id>MTV Club</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/456.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/bb1e5afde7ede0ff32714963bedb6106.png?d=1711978123</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3424,7 +2815,7 @@
 			<channel_id>MTV Hits</channel_id>
 			<int_id>c237351a1411492781d181cdeb8b0397</int_id>
 			<epg_id>MTV Hits</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/459.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/c237351a1411492781d181cdeb8b0397.png?d=1711978122</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3432,7 +2823,7 @@
 			<channel_id>MTV Live HD</channel_id>
 			<int_id>fc288f7f3a787d8fb76b7ac4f27e5f70</int_id>
 			<epg_id>MTV Live HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/460.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/fc288f7f3a787d8fb76b7ac4f27e5f70.png?d=1711978122</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3440,7 +2831,7 @@
 			<channel_id>Mezzo</channel_id>
 			<int_id>XCTlOTu</int_id>
 			<epg_id>Mezzo</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/467.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/XCTlOTu.png?d=1711997415</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3448,23 +2839,7 @@
 			<channel_id>Mezzo Live HD</channel_id>
 			<int_id>850faf2f5eb1852728cf782c6fede006</int_id>
 			<epg_id>Mezzo Live HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/469.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MusicBox GOLD</caption>
-			<channel_id>MusicBox GOLD</channel_id>
-			<int_id>a014bd21ebbbd7104388b8283443de4f</int_id>
-			<epg_id>MusicBox GOLD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/461.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MusicBox RU HD</caption>
-			<channel_id>MusicBox RU HD</channel_id>
-			<int_id>04d7cf3300ed3f39104cad20c39aeaa1</int_id>
-			<epg_id>MusicBox RU HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/464.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/850faf2f5eb1852728cf782c6fede006.png?d=1713263413</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3472,23 +2847,7 @@
 			<channel_id>O!2 HD</channel_id>
 			<int_id>9095768ddfcd8f87ccb34d9b39d397e3</int_id>
 			<epg_id>O!2 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/448.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>RU.TV</caption>
-			<channel_id>RU.TV</channel_id>
-			<int_id>k5fN9jc</int_id>
-			<epg_id>RU.TV</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/462.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>RU.TV HD</caption>
-			<channel_id>RU.TV HD</channel_id>
-			<int_id>245942b9a643471e7c0821e83b7229fb</int_id>
-			<epg_id>RU.TV HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/463.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/9095768ddfcd8f87ccb34d9b39d397e3.png?d=1711978124</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3496,47 +2855,7 @@
 			<channel_id>Stingray iConcerts HD</channel_id>
 			<int_id>f5537ba8145a0031d6514bda60b05f05</int_id>
 			<epg_id>Stingray iConcerts HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/457.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Жара</caption>
-			<channel_id>Жара</channel_id>
-			<int_id>2Wiq9q9</int_id>
-			<epg_id>Жара</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/442.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Жара HD</caption>
-			<channel_id>Жара HD</channel_id>
-			<int_id>29332e94a648d0f1862e45bab465ee5d</int_id>
-			<epg_id>Жара HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/443.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>М1 HD</caption>
-			<channel_id>М1 HD</channel_id>
-			<int_id>1ef03c0e1a05b6e261ea7dda94fff0f3</int_id>
-			<epg_id>М1 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/444.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>М2 HD</caption>
-			<channel_id>М2 HD</channel_id>
-			<int_id>98b8004945ae3aaddcdc6647f8564f61</int_id>
-			<epg_id>М2 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/445.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Муз ТВ</caption>
-			<channel_id>Муз ТВ</channel_id>
-			<int_id>6458ae39f6a65681e0b04b74665bfbfa</int_id>
-			<epg_id>Муз ТВ</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/446.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/f5537ba8145a0031d6514bda60b05f05.png?d=1712000754</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3544,39 +2863,7 @@
 			<channel_id>Музыка первого</channel_id>
 			<int_id>1f8b208e96b3d936f13bfa4a55c68415</int_id>
 			<epg_id>Музыка первого</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/447.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Первый Музыкальный RU</caption>
-			<channel_id>Первый Музыкальный RU</channel_id>
-			<int_id>6e0ff1d808bb4ed46961227</int_id>
-			<epg_id>Первый Музыкальный RU</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/449.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Страна FM</caption>
-			<channel_id>Страна FM</channel_id>
-			<int_id>z1AshZ5</int_id>
-			<epg_id>Страна FM</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/472.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНТ MUSIC</caption>
-			<channel_id>ТНТ MUSIC</channel_id>
-			<int_id>o0JVwJ5</int_id>
-			<epg_id>ТНТ MUSIC</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/450.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНТ MUSIC HD</caption>
-			<channel_id>ТНТ MUSIC HD</channel_id>
-			<int_id>23d32df242848668796ecb84b5623eea</int_id>
-			<epg_id>ТНТ MUSIC HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/451.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/1f8b208e96b3d936f13bfa4a55c68415.png?d=1713263413</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3584,23 +2871,15 @@
 			<channel_id>Шансон ТВ</channel_id>
 			<int_id>43bd5208a980ea3b3dc85527cda23b9c</int_id>
 			<epg_id>Шансон ТВ</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/452.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/43bd5208a980ea3b3dc85527cda23b9c.png?d=1711978119</icon_url>
 			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>78 канал HD</caption>
-			<channel_id>78 канал HD</channel_id>
-			<int_id>e1e4fd57e37ab0bbae094f5a3a119c0d</int_id>
-			<epg_id>78 канал HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/499.png</icon_url>
-			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>8 Канал</caption>
 			<channel_id>8 Канал</channel_id>
 			<int_id>Sv9a5rY</int_id>
 			<epg_id>8 Канал</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/495.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/Sv9a5rY.png?d=1711989811</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3608,15 +2887,7 @@
 			<channel_id>BOX Game HD</channel_id>
 			<int_id>2f41290673174ba93f69061f3c20d1d3</int_id>
 			<epg_id>BOX Game HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/504.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>CBS Reality</caption>
-			<channel_id>CBS Reality</channel_id>
-			<int_id>da7c8273062e19953ab894bd97688bb7</int_id>
-			<epg_id>CBS Reality</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/490.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2f41290673174ba93f69061f3c20d1d3.png?d=1711978089</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3624,7 +2895,7 @@
 			<channel_id>Deutsche Welle</channel_id>
 			<int_id>eeNekwv</int_id>
 			<epg_id>Deutsche Welle</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/488.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/eeNekwv.png?d=1711990234</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3632,7 +2903,7 @@
 			<channel_id>Fashion TV HD</channel_id>
 			<int_id>4ee80d587ae69736cfcc68de62f47713</int_id>
 			<epg_id>Fashion TV HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/494.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/4ee80d587ae69736cfcc68de62f47713.png?d=1714653016</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3640,33 +2911,15 @@
 			<channel_id>Gagsnetwork HD</channel_id>
 			<int_id>2dad78bf4048f65169ee58a1dbaf3411</int_id>
 			<epg_id>Gagsnetwork HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/501.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2dad78bf4048f65169ee58a1dbaf3411.png?d=1714649415</icon_url>
 			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>RTVI</caption>
-			<channel_id>RTVI</channel_id>
-			<int_id>6e1a107d02c2b218bf8f0ae0a6574479</int_id>
-			<epg_id>RTVI</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/500.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Дождь HD</caption>
-			<channel_id>Дождь HD</channel_id>
-			<int_id>cff00aae52ecc6bdfafbbdd62c61ffad</int_id>
-			<epg_id>Дождь HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/486.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Зал суда HD</caption>
 			<channel_id>Зал суда HD</channel_id>
 			<int_id>2e537674c697057469a2e13483acf0e5</int_id>
 			<epg_id>Зал суда HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/502.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/2e537674c697057469a2e13483acf0e5.png?d=1714649415</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3674,24 +2927,7 @@
 			<channel_id>КВН ТВ</channel_id>
 			<int_id>d946e5502588b72ddc022327543f9c37</int_id>
 			<epg_id>КВН ТВ</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/598.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мир 24 HD</caption>
-			<channel_id>Мир 24 HD</channel_id>
-			<int_id>f5411a8935905ce18c4ee9da8c349dbc</int_id>
-			<epg_id>Мир 24 HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/487.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Москва Доверие</caption>
-			<channel_id>Москва Доверие</channel_id>
-			<int_id>a8762f82d721a139ea2467a90b743f12</int_id>
-			<epg_id>Москва Доверие</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/485.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/d946e5502588b72ddc022327543f9c37.png?d=1713789015</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3700,15 +2936,16 @@
 			<channel_id>НТВ Право</channel_id>
 			<int_id>547b50cf408d99cbfcce2486ad56e97c</int_id>
 			<epg_id>НТВ Право</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/496.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/547b50cf408d99cbfcce2486ad56e97c.png?d=1713789915</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Сарафан</caption>
 			<channel_id>Сарафан</channel_id>
 			<int_id>f7773602ead49c2a28f75430ade06bd7</int_id>
 			<epg_id>Сарафан</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/498.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/79b703f28c32967cb8a18da4c54c8c8c.png?d=1713789015</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3717,117 +2954,9 @@
 			<channel_id>Телекафе</channel_id>
 			<int_id>b426f8176af83b421cc6172c8c1fe75c</int_id>
 			<epg_id>Телекафе</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/506.png</icon_url>
+			<icon_url>https://filmax-tv.ru/storage/images/channels/b426f8176af83b421cc6172c8c1fe75c.png?d=1716542115</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Babes TV HD</caption>
-			<channel_id>Babes TV HD</channel_id>
-			<int_id>120d24a960c3d5abc72f2fe5167fd3b5</int_id>
-			<epg_id>Babes TV HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/586.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Blue Hustler HD</caption>
-			<channel_id>Blue Hustler HD</channel_id>
-			<int_id>9355828ab8506869d2da9e02dee4</int_id>
-			<epg_id>Blue Hustler HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/596.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Dorcel HD</caption>
-			<channel_id>Dorcel HD</channel_id>
-			<int_id>0afedb79cc11d631645950826664e576</int_id>
-			<epg_id>Dorcel HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/591.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Exxxotica HD</caption>
-			<channel_id>Exxxotica HD</channel_id>
-			<int_id>1302ff572fb5419b58ca15d42381f26c</int_id>
-			<epg_id>Exxxotica HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/592.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>O-La-La HD</caption>
-			<channel_id>O-La-La HD</channel_id>
-			<int_id>5411fdb33896775dfca4bd6081e1eae4</int_id>
-			<epg_id>O-La-La HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/585.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Penthouse Quickies HD</caption>
-			<channel_id>Penthouse Quickies HD</channel_id>
-			<int_id>57e91101389d0ce1db904912e4</int_id>
-			<epg_id>Penthouse Quickies HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/589.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Private TV HD</caption>
-			<channel_id>Private TV HD</channel_id>
-			<int_id>76fc7fd976c890da1dc065539654f905</int_id>
-			<epg_id>Private TV HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/588.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Redlight HD</caption>
-			<channel_id>Redlight HD</channel_id>
-			<int_id>33fdcf5088e0984c10ad4dfb16faaae0</int_id>
-			<epg_id>Redlight HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/587.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>VIVID TV</caption>
-			<channel_id>VIVID TV</channel_id>
-			<int_id>984836e6f050396013b204a4d0556635</int_id>
-			<epg_id>VIVID TV</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/594.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Vivid Red TV HD</caption>
-			<channel_id>Vivid Red TV HD</channel_id>
-			<int_id>0c8b6bb2da50d0ca0a963e4ea55e1</int_id>
-			<epg_id>Vivid Red TV HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/590.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>XXL</caption>
-			<channel_id>XXL</channel_id>
-			<int_id>99d3a60f32f5c0b78d2594187939c526</int_id>
-			<epg_id>XXL</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/595.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Русская ночь HD</caption>
-			<channel_id>Русская ночь HD</channel_id>
-			<int_id>63748286881a1603377a9c7557022272</int_id>
-			<epg_id>Русская ночь HD</epg_id>
-			<icon_url>http://lk.filmax-tv.ru/images/logo/601.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
 		</tv_channel>
 	</tv_channels>
 </tv_info>

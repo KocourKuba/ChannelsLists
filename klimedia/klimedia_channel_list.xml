@@ -389,6 +389,14 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>KLI Сериал HD</caption>
+			<channel_id>kliserial</channel_id>
+			<epg_id>KLI Сериал HD</epg_id>
+			<icon_url>http://klimedia.space/logo/kliserial.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Твоё ТВ HD</caption>
 			<channel_id>tvoetv</channel_id>
 			<epg_id>Твоё ТВ HD</epg_id>
@@ -1298,6 +1306,41 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Sunset Movie</caption>
+			<channel_id>SunsetMovie</channel_id>
+			<epg_id>Sunset Movie</epg_id>
+			<icon_url>https://Stream.sunset-media.ru:443/images/sQAkeg16MxV5RnzWc9IShAh7POwV4BEl_BzqDrJfTeoLoC_aF5mNq2cLm7Yzv68T.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем КиноЭкшен</caption>
+			<channel_id>41333</channel_id>
+			<epg_id>Сити Эдем КиноЭкшен</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем КиноМистика</caption>
+			<channel_id>40783</channel_id>
+			<epg_id>Сити Эдем КиноМистика</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем КиноКомедия</caption>
+			<channel_id>41331</channel_id>
+			<epg_id>Сити Эдем КиноКомедия</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем КиноДетектив</caption>
+			<channel_id>41327</channel_id>
+			<epg_id>Сити Эдем КиноДетектив</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Первый HD</caption>
 			<channel_id>pervyhd50</channel_id>
 			<epg_id>Первый HD</epg_id>
@@ -1676,13 +1719,6 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>France 24 HD</caption>
-			<channel_id>France24</channel_id>
-			<epg_id>France 24 HD</epg_id>
-			<icon_url>https://epgx.site/p/france24.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>СТС Love</caption>
 			<channel_id>sts-love</channel_id>
 			<epg_id>СТС Love</epg_id>
@@ -1744,13 +1780,6 @@
 			<caption>ПРНК HD</caption>
 			<channel_id>1RNKHD</channel_id>
 			<epg_id>ПРНК HD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Танцуй!</caption>
-			<channel_id>tanc</channel_id>
-			<epg_id>Танцуй!</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -1886,14 +1915,6 @@
 			<epg_id>Киносат</epg_id>
 			<icon_url>https://epgx.site/p/kinosat.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Лавстори</caption>
-			<channel_id>levstore</channel_id>
-			<epg_id>Лавстори</epg_id>
-			<icon_url>https://epgx.site/p/lavstori.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Epic Drama HD</caption>
@@ -2748,6 +2769,20 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>JUST TV</caption>
+			<channel_id>memfs</channel_id>
+			<epg_id>JUST TV</epg_id>
+			<icon_url>https://epgx.site/p/7d7.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>LIVE:Полицейский с Рублевки</caption>
+			<channel_id>RuCsPSXGYx</channel_id>
+			<epg_id>LIVE:Полицейский с Рублевки</epg_id>
+			<icon_url>https://tv.taurer.org/iptv_content/logos/LVPOLICE_TEMP.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Матч! Футбол 1 FHD</caption>
 			<channel_id>MatchFutbol1HD</channel_id>
 			<epg_id>Матч! Футбол 1 FHD</epg_id>
@@ -3460,13 +3495,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>CGTN Русский</caption>
-			<channel_id>CGTN_Rus</channel_id>
-			<epg_id>CGTN Русский</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>НТВ Стиль</caption>
 			<channel_id>ntv_stil</channel_id>
 			<epg_id>НТВ Стиль</epg_id>
@@ -3774,13 +3802,6 @@
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Глазами туриста HD</caption>
-			<channel_id>glazami_turistahd</channel_id>
-			<epg_id>Глазами туриста HD</epg_id>
-			<icon_url>https://epgx.site/p/glazami-turista.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Неизвестная Планета HD</caption>
 			<channel_id>newsplanet</channel_id>
 			<epg_id>Неизвестная Планета HD</epg_id>
@@ -3798,13 +3819,6 @@
 			<caption>Travel Channel HD</caption>
 			<channel_id>TravelChannelHD</channel_id>
 			<epg_id>Travel Channel HD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Travel + Adventure HD</caption>
-			<channel_id>Travelplusadventure</channel_id>
-			<epg_id>Travel + Adventure HD</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
@@ -3889,6 +3903,34 @@
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Sunset Space</caption>
+			<channel_id>SunsetSpace</channel_id>
+			<epg_id>Sunset Space</epg_id>
+			<icon_url>https://Stream.sunset-media.ru:443/images/sQAkeg16MxV5RnzWc9IShFzSNjcs8_eDgFjhBeNLc2tTkEZBR7ykMJ3S-gR4wPr1.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>World-1</caption>
+			<channel_id>MDTTv32fck</channel_id>
+			<epg_id>World-1</epg_id>
+			<icon_url>https://tv.taurer.org/iptv_content/logos/W1_TEMP.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кулинар HD</caption>
+			<channel_id>DgFExKzqEa</channel_id>
+			<epg_id>Кулинар HD</epg_id>
+			<icon_url>https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Quality HD</caption>
+			<channel_id>MDTTv32fbs</channel_id>
+			<epg_id>Quality HD</epg_id>
+			<icon_url>https://tv.taurer.org/iptv_content/logos/QUALITYHD_TEMP.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Кино UHD</caption>
 			<channel_id>KINO_UHD</channel_id>
 			<epg_id>Кино UHD</epg_id>
@@ -3921,13 +3963,6 @@
 			<channel_id>TRAVEL_XP_4K</channel_id>
 			<epg_id>TravelXP 4K</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Love Nature 4K</caption>
-			<channel_id>LoveNature4</channel_id>
-			<epg_id>Love Nature 4K</epg_id>
-			<icon_url>http://epg.it999.ru/img2/2801.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4176,17 +4211,38 @@
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТипТоп</caption>
-			<channel_id>sovcomedy</channel_id>
-			<epg_id>ТипТоп</epg_id>
-			<icon_url>https://operators.1tvch.ru/system/pic_folder/channels/logo_images/original/%D0%A2%D0%98%D0%9F%D0%A2%D0%9E%D0%9F_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%81_%D0%BE%D0%B1%D0%B2%D0%BE%D0%B4%D0%BA%D0%BE%D0%B9_72.png?1653572862</icon_url>
-			<tv_category_id>11</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Da Vinci Kids</caption>
 			<channel_id>DaVinciKids</channel_id>
 			<epg_id>Da Vinci Kids</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sunset Kids</caption>
+			<channel_id>SunsetKids</channel_id>
+			<epg_id>Sunset Kids</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ninja</caption>
+			<channel_id>RuCsPSXGYe</channel_id>
+			<epg_id>Ninja</epg_id>
+			<icon_url>https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KidsPlanet</caption>
+			<channel_id>DgFExKzqEw</channel_id>
+			<epg_id>KidsPlanet</epg_id>
+			<icon_url>https://tv.taurer.org/iptv_content/logos/KIDSPLANET_TEMP.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KidsPlanet+</caption>
+			<channel_id>RuCsPSXGYg</channel_id>
+			<epg_id>KidsPlanet+</epg_id>
+			<icon_url>https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4327,13 +4383,6 @@
 			<caption>MCM TOP</caption>
 			<channel_id>MCMTOP</channel_id>
 			<epg_id>MCM TOP</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Mezzo</caption>
-			<channel_id>MuzzikTV</channel_id>
-			<epg_id>Mezzo</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
@@ -4584,13 +4633,6 @@
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Mafi2a TV</caption>
-			<channel_id>Mafi2aMusicTV</channel_id>
-			<epg_id>Mafi2a TV</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>О2 ТВ</caption>
 			<channel_id>O2TV_HD</channel_id>
 			<epg_id>О2 ТВ</epg_id>
@@ -4602,6 +4644,27 @@
 			<channel_id>Retro_CZ</channel_id>
 			<epg_id>Retro CZ</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sunset Music</caption>
+			<channel_id>SunsetMusic</channel_id>
+			<epg_id>Sunset Music</epg_id>
+			<icon_url>https://Stream.sunset-media.ru:443/images/sQAkeg16MxV5RnzWc9IShHYkawu4cuDwM1EsPYHuAZXyi63RWmS8e8EpMCBblPXT.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Groovezzo</caption>
+			<channel_id>MDTTv32fbk</channel_id>
+			<epg_id>Groovezzo</epg_id>
+			<icon_url>https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TRANCE IS STAR  RADIO</caption>
+			<channel_id>tisradio_video</channel_id>
+			<epg_id>TRANCE IS STAR  RADIO</epg_id>
+			<icon_url>https://i.postimg.cc/yxHSb61W/trl2.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -5785,13 +5848,6 @@
 			<tv_category_id>21</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Ісландія</caption>
-			<channel_id>Islandiay</channel_id>
-			<epg_id>Ісландія</epg_id>
-			<icon_url>https://epgx.site/p/islandiya.png</icon_url>
-			<tv_category_id>21</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>ТЕТ HD</caption>
 			<channel_id>tvukopa</channel_id>
 			<epg_id>ТЕТ HD</epg_id>
@@ -5820,23 +5876,9 @@
 			<tv_category_id>21</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>8 канал HD</caption>
-			<channel_id>8kanaluk</channel_id>
-			<epg_id>8 канал HD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>21</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Star Cinema HD UA</caption>
 			<channel_id>ICTV</channel_id>
 			<epg_id>Star Cinema HD UA</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>21</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Канал 24 HD</caption>
-			<channel_id>kanal24hd</channel_id>
-			<epg_id>Канал 24 HD</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>21</tv_category_id>
 		</tv_channel>

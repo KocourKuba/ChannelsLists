@@ -60,11 +60,6 @@
 			<icon_url>plugin_file://icons/categories/3.png</icon_url>
 		</tv_category>
 		<tv_category>
-			<id>13</id>
-			<caption>4К</caption>
-			<icon_url>plugin_file://icons/categories/4k.png</icon_url>
-		</tv_category>
-		<tv_category>
 			<id>14</id>
 			<caption>XXX</caption>
 			<icon_url>plugin_file://icons/categories/33.png</icon_url>
@@ -3258,6 +3253,30 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>KBC-Союзмультзал</caption>
+			<channel_id>3628</channel_id>
+			<epg_id>KBC-Союзмультзал</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Family Animation HD</caption>
+			<channel_id>3629</channel_id>
+			<epg_id>KBC-Family Animation HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КиноМульт</caption>
+			<channel_id>3622</channel_id>
+			<epg_id>kinomult</epg_id>
+			<icon_url>https://ip-tv.dev/images/ico/kinomult.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>M-1 Global</caption>
 			<channel_id>M-1Global</channel_id>
 			<epg_id>m1global</epg_id>
@@ -4698,57 +4717,49 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ViP Sport 14</caption>
+			<caption>Vital Sport 1</caption>
 			<channel_id>3049</channel_id>
-			<epg_id>ViP Sport 14</epg_id>
+			<epg_id>Vital Sport 1</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ViP Sport 15</caption>
+			<caption>Vital Sport 2</caption>
 			<channel_id>3051</channel_id>
-			<epg_id>ViP Sport 15</epg_id>
+			<epg_id>Vital Sport 2</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ViP Sport 16</caption>
+			<caption>Vital Sport 3</caption>
 			<channel_id>3053</channel_id>
-			<epg_id>ViP Sport 16</epg_id>
+			<epg_id>Vital Sport 3</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ViP Sport 17</caption>
+			<caption>Vital Sport 4</caption>
 			<channel_id>3055</channel_id>
-			<epg_id>ViP Sport 17</epg_id>
+			<epg_id>Vital Sport 4</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ViP Sport 18</caption>
+			<caption>Vital Sport 5</caption>
 			<channel_id>3057</channel_id>
-			<epg_id>ViP Sport 18</epg_id>
+			<epg_id>Vital Sport 5</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ViP Sport 19</caption>
+			<caption>Vital Sport 6</caption>
 			<channel_id>3059</channel_id>
-			<epg_id>ViP Sport 19</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ViP Sport 20</caption>
-			<channel_id>3060</channel_id>
-			<epg_id>ViP Sport 20</epg_id>
+			<epg_id>Vital Sport 6</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
@@ -4882,7 +4893,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju TV1000</caption>
+			<caption>Viju TV1000</caption>
 			<channel_id>TV1000</channel_id>
 			<epg_id>tv1000</epg_id>
 			<icon_url>https://epgx.site/p/tv1000.png</icon_url>
@@ -4890,7 +4901,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju TV1000 HD</caption>
+			<caption>Viju TV1000 HD</caption>
 			<channel_id>177</channel_id>
 			<epg_id>tv1000</epg_id>
 			<icon_url>https://epgx.site/p/tv1000.png</icon_url>
@@ -4898,7 +4909,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju TV1000 Action</caption>
+			<caption>Viju TV1000 Action</caption>
 			<channel_id>TV1000Action</channel_id>
 			<epg_id>tv1000-action</epg_id>
 			<icon_url>https://epgx.site/p/tv1000action.png</icon_url>
@@ -4906,7 +4917,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju TV1000 Action HD</caption>
+			<caption>Viju TV1000 Action HD</caption>
 			<channel_id>178</channel_id>
 			<epg_id>tv1000-action</epg_id>
 			<icon_url>https://epgx.site/p/tv1000action.png</icon_url>
@@ -4914,7 +4925,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju TV1000 Русское Кино</caption>
+			<caption>Viju TV1000 Русское Кино</caption>
 			<channel_id>TV1000RUS</channel_id>
 			<epg_id>tv1000-russkoe-kino</epg_id>
 			<icon_url>https://epgx.site/p/tv1000ruskino.png</icon_url>
@@ -4922,7 +4933,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju TV1000 Русское HD</caption>
+			<caption>Viju TV1000 Русское HD</caption>
 			<channel_id>179</channel_id>
 			<epg_id>tv1000-russkoe-kino</epg_id>
 			<icon_url>https://epgx.site/p/tv1000ruskino.png</icon_url>
@@ -4994,7 +5005,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju+ Premiere</caption>
+			<caption>Viju+ Premiere</caption>
 			<channel_id>VIPPremiere</channel_id>
 			<epg_id>vip-premiere</epg_id>
 			<icon_url>https://epgx.site/p/vip-premiere.png</icon_url>
@@ -5002,7 +5013,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju+ Premiere FHD</caption>
+			<caption>Viju+ Premiere FHD</caption>
 			<channel_id>1466</channel_id>
 			<epg_id>vip-premiere</epg_id>
 			<icon_url>https://epgx.site/p/vip-premiere.png</icon_url>
@@ -5010,7 +5021,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju+ Megahit</caption>
+			<caption>Viju+ Megahit HD</caption>
 			<channel_id>VIPMegahit</channel_id>
 			<epg_id>vip-megahit</epg_id>
 			<icon_url>https://epgx.site/p/vip-megahit.png</icon_url>
@@ -5018,7 +5029,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju+ Megahit FHD</caption>
+			<caption>Viju+ Megahit FHD</caption>
 			<channel_id>1467</channel_id>
 			<epg_id>vip-megahit</epg_id>
 			<icon_url>https://epgx.site/p/vip-megahit.png</icon_url>
@@ -5026,7 +5037,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju+ Comedy</caption>
+			<caption>Viju+ Comedy</caption>
 			<channel_id>VIPComedy</channel_id>
 			<epg_id>vip-comedy</epg_id>
 			<icon_url>https://epgx.site/p/vip-comedy.png</icon_url>
@@ -5034,7 +5045,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju+ Comedy FHD</caption>
+			<caption>Viju+ Comedy FHD</caption>
 			<channel_id>1471</channel_id>
 			<epg_id>vip-comedy</epg_id>
 			<icon_url>https://epgx.site/p/vip-comedy.png</icon_url>
@@ -5042,7 +5053,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju+ Serial</caption>
+			<caption>Viju+ Serial</caption>
 			<channel_id>198</channel_id>
 			<epg_id>vip-serial</epg_id>
 			<icon_url>https://epgx.site/p/vip-serial.png</icon_url>
@@ -7818,10 +7829,10 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju TV1000 Новелла</caption>
+			<caption>Viju TV1000 Новелла</caption>
 			<channel_id>3591</channel_id>
-			<epg_id>viju-tv1000-novella</epg_id>
-			<icon_url>https://epgx.site/p/viju-tv1000-novella.png</icon_url>
+			<epg_id>Viju-tv1000-novella</epg_id>
+			<icon_url>https://epgx.site/p/Viju-tv1000-novella.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -9102,6 +9113,182 @@
 			<channel_id>3585</channel_id>
 			<epg_id>Кино без границ HD</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Comics HD</caption>
+			<channel_id>727</channel_id>
+			<epg_id>kbc-comics</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/39800.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-В.О.В. HD</caption>
+			<channel_id>728</channel_id>
+			<epg_id>kbc-vov</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/39821.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Elite comedy&apos;s HD</caption>
+			<channel_id>729</channel_id>
+			<epg_id>kbc-elite-comedys</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/35448.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Fantastic HD</caption>
+			<channel_id>730</channel_id>
+			<epg_id>kbc-fantastic</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/39795.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-History HD</caption>
+			<channel_id>731</channel_id>
+			<epg_id>kbc-history</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/39796.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Newfilm HD</caption>
+			<channel_id>732</channel_id>
+			<epg_id>kbc-newfilm</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/39048.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-WAR HD</caption>
+			<channel_id>733</channel_id>
+			<epg_id>kbc-premium</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/35525.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Russian Комедия HD</caption>
+			<channel_id>734</channel_id>
+			<epg_id>kbc-russian-comedia</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/36168.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Видак HD</caption>
+			<channel_id>735</channel_id>
+			<epg_id>kbc-vidak</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/36251.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-ГАЙ Ritchie &amp; Tarantino</caption>
+			<channel_id>736</channel_id>
+			<epg_id>kbc-ritchie-tarantino</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/39819.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-ДрамаTic HD</caption>
+			<channel_id>737</channel_id>
+			<epg_id>kbc-dramatic</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/36732.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Кошмарное HD</caption>
+			<channel_id>739</channel_id>
+			<epg_id>kbc-koshmar</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/36277.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Страна СССР</caption>
+			<channel_id>740</channel_id>
+			<epg_id>kbc-sssr</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/36506.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Легендарное</caption>
+			<channel_id>741</channel_id>
+			<epg_id>KBC-Легендарное</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Шпионское HD</caption>
+			<channel_id>742</channel_id>
+			<epg_id>kbc-spy</epg_id>
+			<icon_url>https://iptv.online/epg/icon/KBC/39820.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-СпортМикс HD</caption>
+			<channel_id>743</channel_id>
+			<epg_id>KBC-СпортМикс HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Вестерн HD</caption>
+			<channel_id>3623</channel_id>
+			<epg_id>KBC-Вестерн HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Animals HD</caption>
+			<channel_id>3624</channel_id>
+			<epg_id>KBC-Animals HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-ГОБЛИН HD</caption>
+			<channel_id>3625</channel_id>
+			<epg_id>KBC-ГОБЛИН HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-АНИМЕ HD</caption>
+			<channel_id>3626</channel_id>
+			<epg_id>KBC-АНИМЕ HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-MusKino HD</caption>
+			<channel_id>3627</channel_id>
+			<epg_id>KBC-MusKino HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Глухарь + Карпов</caption>
+			<channel_id>3631</channel_id>
+			<epg_id>cineman-gluhar</epg_id>
+			<icon_url>https://epgx.site/p/cineman-gluhar.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -10874,7 +11061,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju+ Planet</caption>
+			<caption>Viju+ Planet</caption>
 			<channel_id>ViasatNatureHistoryHD</channel_id>
 			<epg_id>viasat-nature-history-hd</epg_id>
 			<icon_url>https://epgx.site/p/viasat-nature-history-hd.png</icon_url>
@@ -13450,131 +13637,11 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Fashion One 4K</caption>
-			<channel_id>FashionOne4K</channel_id>
-			<epg_id>fashion-one-4k</epg_id>
-			<icon_url>https://epgx.site/p/fashion-one-4k.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MyZen TV 4K</caption>
-			<channel_id>Festival4K</channel_id>
-			<epg_id>myzen-tv</epg_id>
-			<icon_url>https://epgx.site/p/myzen-tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Home 4K</caption>
-			<channel_id>HOME4K</channel_id>
-			<epg_id>home-4k</epg_id>
-			<icon_url>https://epgx.site/p/home-4k</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Love Nature 4K</caption>
-			<channel_id>210</channel_id>
-			<epg_id>love-nature-4k</epg_id>
-			<icon_url>https://epgx.site/p/love-nature-4k.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Russian Extreme Ultra HD</caption>
-			<channel_id>269</channel_id>
-			<epg_id>russian-extreme-uhd</epg_id>
-			<icon_url>https://epgx.site/p/russian-extreme-uhd.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ultra HD Cinema</caption>
-			<channel_id>189</channel_id>
-			<epg_id>ultra-hd-cinema</epg_id>
-			<icon_url>https://epgx.site/p/ultra-hd-cinema.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кино UHD</caption>
-			<channel_id>304</channel_id>
-			<epg_id>kino-ultra-hd</epg_id>
-			<icon_url>https://epgx.site/p/kino-ultra-hd.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сериал UHD 4k</caption>
-			<channel_id>311</channel_id>
-			<epg_id>serial-ultrahd</epg_id>
-			<icon_url>http://epg.it999.ru/img/2749.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наша Сибирь 4K</caption>
-			<channel_id>296</channel_id>
-			<epg_id>nasha-sibir-4k</epg_id>
-			<icon_url>https://epgx.site/p/nasha-sibir-4k.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Insight UHD</caption>
-			<channel_id>744</channel_id>
-			<epg_id>insight-ultra-hd</epg_id>
-			<icon_url>https://epgx.site/p/insight-ultra-hd.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Films 60 fps HD</caption>
-			<channel_id>746</channel_id>
-			<epg_id>UZ Films 60 fps HD</epg_id>
+			<caption>KBC-Наш Rock</caption>
+			<channel_id>3013</channel_id>
+			<epg_id>KBC-Наш Rock</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Nature 4K HDR</caption>
-			<channel_id>3323</channel_id>
-			<epg_id>UZ Nature 4K HDR</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ 4k Klip UHD</caption>
-			<channel_id>747</channel_id>
-			<epg_id>iptv6334</epg_id>
-			<icon_url>http://epg.it999.ru/img/6334.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MUSEUM 4k</caption>
-			<channel_id>785</channel_id>
-			<epg_id>museum-4k</epg_id>
-			<icon_url>https://epgx.site/p/museum-4k.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Quadro 4k</caption>
-			<channel_id>787</channel_id>
-			<epg_id>quadro4k</epg_id>
-			<icon_url>https://epgx.site/p/quadro4k.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Nasa UHD</caption>
-			<channel_id>3143</channel_id>
-			<epg_id>Nasa UHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>13</tv_category_id>
+			<tv_category_id>12</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>

@@ -40,6 +40,11 @@
 			<icon_url>plugin_file://icons/categories/4.png</icon_url>
 		</tv_category>
 		<tv_category>
+			<id>8</id>
+			<caption>Развлекательные</caption>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+		</tv_category>
+		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
@@ -2799,6 +2804,13 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>BCU Action HDR</caption>
+			<channel_id>bcu_actionhdr</channel_id>
+			<epg_id>BCU Action HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Матч! HD</caption>
 			<channel_id>match-tvhd</channel_id>
 			<epg_id>match-tv</epg_id>
@@ -3629,6 +3641,13 @@
 			<epg_id>bloomberg</epg_id>
 			<icon_url>http://p.playtv.pro/picons/upl/9/bloomberg.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Just TV</caption>
+			<channel_id>jutstv</channel_id>
+			<epg_id>Just TV</epg_id>
+			<icon_url>https://p.playtv.pro/picons/upl/10/jutstv.png</icon_url>
+			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 	</tv_channels>
 </tv_info>
