@@ -66,19 +66,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -645,7 +645,7 @@
 			<tvg_id>ch590</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/590.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>2</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Premiere HD</caption>
@@ -1156,195 +1156,6 @@
 			<icon_url>http://troya.one/images/chIcons/525.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: ITV 3 HD</caption>
-			<channel_id>ch1004</channel_id>
-			<epg_id>ch1004</epg_id>
-			<tvg_id>ch1004</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1004.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: ITV 4 HD</caption>
-			<channel_id>ch1005</channel_id>
-			<epg_id>ch1005</epg_id>
-			<tvg_id>ch1005</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1005.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky News HD</caption>
-			<channel_id>ch1018</channel_id>
-			<epg_id>ch1018</epg_id>
-			<tvg_id>ch1018</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1018.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Comedy Central</caption>
-			<channel_id>ch1006</channel_id>
-			<epg_id>ch1006</epg_id>
-			<tvg_id>ch1006</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1006.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Crime+ Inv HD</caption>
-			<channel_id>ch1007</channel_id>
-			<epg_id>ch1007</epg_id>
-			<tvg_id>ch1007</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1007.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Witness HD</caption>
-			<channel_id>ch1008</channel_id>
-			<epg_id>ch1008</epg_id>
-			<tvg_id>ch1008</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1008.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Showcase HD</caption>
-			<channel_id>ch1009</channel_id>
-			<epg_id>ch1009</epg_id>
-			<tvg_id>ch1009</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1009.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky History HD</caption>
-			<channel_id>ch1010</channel_id>
-			<epg_id>ch1010</epg_id>
-			<tvg_id>ch1010</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1010.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky History 2 HD</caption>
-			<channel_id>ch1011</channel_id>
-			<epg_id>ch1011</epg_id>
-			<tvg_id>ch1011</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1011.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Alibi HD</caption>
-			<channel_id>ch1012</channel_id>
-			<epg_id>ch1012</epg_id>
-			<tvg_id>ch1012</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1012.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Colors HD</caption>
-			<channel_id>ch1013</channel_id>
-			<epg_id>ch1013</epg_id>
-			<tvg_id>ch1013</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1013.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: 5 Star HD</caption>
-			<channel_id>ch1014</channel_id>
-			<epg_id>ch1014</epg_id>
-			<tvg_id>ch1014</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1014.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Film4 HD</caption>
-			<channel_id>ch1016</channel_id>
-			<epg_id>ch1016</epg_id>
-			<tvg_id>ch1016</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1016.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Gold HD</caption>
-			<channel_id>ch1017</channel_id>
-			<epg_id>ch1017</epg_id>
-			<tvg_id>ch1017</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1017.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Talk TV HD</caption>
-			<channel_id>ch1019</channel_id>
-			<epg_id>ch1019</epg_id>
-			<tvg_id>ch1019</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1019.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: TLC HD</caption>
-			<channel_id>ch1020</channel_id>
-			<epg_id>ch1020</epg_id>
-			<tvg_id>ch1020</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1020.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Utsav Plus HD</caption>
-			<channel_id>ch1024</channel_id>
-			<epg_id>ch1024</epg_id>
-			<tvg_id>ch1024</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1024.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Dave HD</caption>
-			<channel_id>ch1015</channel_id>
-			<epg_id>ch1015</epg_id>
-			<tvg_id>ch1015</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1015.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: E4 HD</caption>
-			<channel_id>ch1021</channel_id>
-			<epg_id>ch1021</epg_id>
-			<tvg_id>ch1021</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1021.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Utsav Gold HD</caption>
-			<channel_id>ch1023</channel_id>
-			<epg_id>ch1023</epg_id>
-			<tvg_id>ch1023</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1023.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Zee TV HD</caption>
-			<channel_id>ch1025</channel_id>
-			<epg_id>ch1025</epg_id>
-			<tvg_id>ch1025</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1025.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Kinoliving</caption>
@@ -3137,24 +2948,6 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>UK: W HD</caption>
-			<channel_id>ch2066</channel_id>
-			<epg_id>ch2066</epg_id>
-			<tvg_id>ch2066</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2066.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>PL: Warner TV</caption>
-			<channel_id>ch2065</channel_id>
-			<epg_id>ch2065</epg_id>
-			<tvg_id>ch2065</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2065.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>KLI Action HD</caption>
 			<channel_id>ch2278</channel_id>
 			<epg_id>ch2278</epg_id>
@@ -4115,6 +3908,270 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Oasis Action</caption>
+			<channel_id>ch2510</channel_id>
+			<epg_id>ch2510</epg_id>
+			<tvg_id>ch2510</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2510.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Comedy</caption>
+			<channel_id>ch2653</channel_id>
+			<epg_id>ch2653</epg_id>
+			<tvg_id>ch2653</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2653.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Soviet Comedy</caption>
+			<channel_id>ch2688</channel_id>
+			<epg_id>ch2688</epg_id>
+			<tvg_id>ch2688</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2688.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Anime</caption>
+			<channel_id>ch2649</channel_id>
+			<epg_id>ch2649</epg_id>
+			<tvg_id>ch2649</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2649.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Detective</caption>
+			<channel_id>ch2657</channel_id>
+			<epg_id>ch2657</epg_id>
+			<tvg_id>ch2657</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2657.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Drama</caption>
+			<channel_id>ch2660</channel_id>
+			<epg_id>ch2660</epg_id>
+			<tvg_id>ch2660</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2660.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis DC</caption>
+			<channel_id>ch2655</channel_id>
+			<epg_id>ch2655</epg_id>
+			<tvg_id>ch2655</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2655.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Marvel</caption>
+			<channel_id>ch2675</channel_id>
+			<epg_id>ch2675</epg_id>
+			<tvg_id>ch2675</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2675.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Family</caption>
+			<channel_id>ch2662</channel_id>
+			<epg_id>ch2662</epg_id>
+			<tvg_id>ch2662</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2662.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Мелодрама</caption>
+			<channel_id>ch2676</channel_id>
+			<epg_id>ch2676</epg_id>
+			<tvg_id>ch2676</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2676.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Horror</caption>
+			<channel_id>ch2666</channel_id>
+			<epg_id>ch2666</epg_id>
+			<tvg_id>ch2666</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2666.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Old Horrors</caption>
+			<channel_id>ch2678</channel_id>
+			<epg_id>ch2678</epg_id>
+			<tvg_id>ch2678</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2678.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Comedy Horrors</caption>
+			<channel_id>ch2654</channel_id>
+			<epg_id>ch2654</epg_id>
+			<tvg_id>ch2654</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2654.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Biography</caption>
+			<channel_id>ch2650</channel_id>
+			<epg_id>ch2650</epg_id>
+			<tvg_id>ch2650</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2650.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Mafia</caption>
+			<channel_id>ch2674</channel_id>
+			<epg_id>ch2674</epg_id>
+			<tvg_id>ch2674</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2674.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Фантастика</caption>
+			<channel_id>ch2663</channel_id>
+			<epg_id>ch2663</epg_id>
+			<tvg_id>ch2663</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2663.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Тайны Смолвиля</caption>
+			<channel_id>ch2687</channel_id>
+			<epg_id>ch2687</epg_id>
+			<tvg_id>ch2687</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2687.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Ufo And Aliens</caption>
+			<channel_id>ch1442</channel_id>
+			<epg_id>ch1442</epg_id>
+			<tvg_id>ch1442</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1442.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Alien and Predator</caption>
+			<channel_id>ch2647</channel_id>
+			<epg_id>ch2647</epg_id>
+			<tvg_id>ch2647</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2647.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Celentano Brando Connery</caption>
+			<channel_id>ch2652</channel_id>
+			<epg_id>ch2652</epg_id>
+			<tvg_id>ch2652</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2652.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Demon Slayer and Dororo</caption>
+			<channel_id>ch2656</channel_id>
+			<epg_id>ch2656</epg_id>
+			<tvg_id>ch2656</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2656.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Serkan Bolat</caption>
+			<channel_id>ch2686</channel_id>
+			<epg_id>ch2686</epg_id>
+			<tvg_id>ch2686</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2686.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Миядзаки</caption>
+			<channel_id>ch2677</channel_id>
+			<epg_id>ch2677</epg_id>
+			<tvg_id>ch2677</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2677.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis In English</caption>
+			<channel_id>ch1443</channel_id>
+			<epg_id>ch1443</epg_id>
+			<tvg_id>ch1443</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1443.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis RUS Драма</caption>
+			<channel_id>ch2682</channel_id>
+			<epg_id>ch2682</epg_id>
+			<tvg_id>ch2682</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2682.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis RUS Комедии</caption>
+			<channel_id>ch2681</channel_id>
+			<epg_id>ch2681</epg_id>
+			<tvg_id>ch2681</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2681.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis RUS Сериалы</caption>
+			<channel_id>ch2684</channel_id>
+			<epg_id>ch2684</epg_id>
+			<tvg_id>ch2684</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2684.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis RUS Сериалы Драма</caption>
+			<channel_id>ch2685</channel_id>
+			<epg_id>ch2685</epg_id>
+			<tvg_id>ch2685</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2685.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Superheroes Сериалы</caption>
+			<channel_id>ch2690</channel_id>
+			<epg_id>ch2690</epg_id>
+			<tvg_id>ch2690</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2690.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Корейские Сериалы</caption>
+			<channel_id>ch2667</channel_id>
+			<epg_id>ch2667</epg_id>
+			<tvg_id>ch2667</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2667.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Латиноамериканские Сериалы</caption>
+			<channel_id>ch2669</channel_id>
+			<epg_id>ch2669</epg_id>
+			<tvg_id>ch2669</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2669.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis USA Сериалы</caption>
+			<channel_id>ch2694</channel_id>
+			<epg_id>ch2694</epg_id>
+			<tvg_id>ch2694</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2694.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Кухня Отель</caption>
+			<channel_id>ch2668</channel_id>
+			<epg_id>ch2668</epg_id>
+			<tvg_id>ch2668</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2668.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>BCU Kids 4K</caption>
 			<channel_id>ch1428</channel_id>
 			<epg_id>ch1428</epg_id>
@@ -4364,7 +4421,7 @@
 			<tvg_id>ch1438</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1438.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-			<archive>3</archive>
+			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4K Фантастика</caption>
@@ -4373,7 +4430,7 @@
 			<tvg_id>ch1439</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1439.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-			<archive>3</archive>
+			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4k Anime</caption>
@@ -4828,15 +4885,6 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>UK: 5 USA HD</caption>
-			<channel_id>ch1022</channel_id>
-			<epg_id>ch1022</epg_id>
-			<tvg_id>ch1022</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1022.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>KLI Kids HD</caption>
 			<channel_id>ch2264</channel_id>
 			<epg_id>ch2264</epg_id>
@@ -5065,7 +5113,7 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Малыш</caption>
+			<caption>Супергерои</caption>
 			<channel_id>ch617</channel_id>
 			<epg_id>ch617</epg_id>
 			<tvg_id>ch617</tvg_id>
@@ -5310,127 +5358,68 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>AL: Tring Sport 1 HD</caption>
-			<channel_id>ch1098</channel_id>
-			<epg_id>ch1098</epg_id>
-			<tvg_id>ch1098</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1098.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<caption>Oasis Blocks</caption>
+			<channel_id>ch2651</channel_id>
+			<epg_id>ch2651</epg_id>
+			<tvg_id>ch2651</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2651.png</icon_url>
+			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>AL: Tring Sport 2 HD</caption>
-			<channel_id>ch1099</channel_id>
-			<epg_id>ch1099</epg_id>
-			<tvg_id>ch1099</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1099.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<caption>Oasis Disney Classic</caption>
+			<channel_id>ch2658</channel_id>
+			<epg_id>ch2658</epg_id>
+			<tvg_id>ch2658</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2658.png</icon_url>
+			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>BE: Eleven Pro League 1 HD</caption>
-			<channel_id>ch1066</channel_id>
-			<epg_id>ch1066</epg_id>
-			<tvg_id>ch1066</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1066.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>2</archive>
+			<caption>Oasis Disney Мультсериалы</caption>
+			<channel_id>ch2659</channel_id>
+			<epg_id>ch2659</epg_id>
+			<tvg_id>ch2659</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2659.png</icon_url>
+			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>AR: Bein Sports 1 HD</caption>
-			<channel_id>ch227</channel_id>
-			<epg_id>ch227</epg_id>
-			<tvg_id>ch227</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/227.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<caption>Oasis Pixar</caption>
+			<channel_id>ch2680</channel_id>
+			<epg_id>ch2680</epg_id>
+			<tvg_id>ch2680</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2680.png</icon_url>
+			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>BE: Eleven Pro League 2 HD</caption>
-			<channel_id>ch1716</channel_id>
-			<epg_id>ch1716</epg_id>
-			<tvg_id>ch1716</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1716.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
+			<caption>Oasis Лосяш</caption>
+			<channel_id>ch2673</channel_id>
+			<epg_id>ch2673</epg_id>
+			<tvg_id>ch2673</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2673.png</icon_url>
+			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>AR: Bein Sports 2 HD</caption>
-			<channel_id>ch228</channel_id>
-			<epg_id>ch228</epg_id>
-			<tvg_id>ch228</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/228.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<caption>Oasis RUS Мульт</caption>
+			<channel_id>ch2683</channel_id>
+			<epg_id>ch2683</epg_id>
+			<tvg_id>ch2683</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2683.png</icon_url>
+			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>BE:Eleven Pro League 3 HD</caption>
-			<channel_id>ch1717</channel_id>
-			<epg_id>ch1717</epg_id>
-			<tvg_id>ch1717</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1717.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
+			<caption>Oasis Сквидвард</caption>
+			<channel_id>ch2689</channel_id>
+			<epg_id>ch2689</epg_id>
+			<tvg_id>ch2689</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2689.png</icon_url>
+			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>AR: Bein Sports 3 HD</caption>
-			<channel_id>ch229</channel_id>
-			<epg_id>ch229</epg_id>
-			<tvg_id>ch229</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/229.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AR: Bein Sports 4 HD</caption>
-			<channel_id>ch230</channel_id>
-			<epg_id>ch230</epg_id>
-			<tvg_id>ch230</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/230.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AR: Bein Sports 5 HD</caption>
-			<channel_id>ch231</channel_id>
-			<epg_id>ch231</epg_id>
-			<tvg_id>ch231</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/231.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AR: Bein Sports 6 HD</caption>
-			<channel_id>ch232</channel_id>
-			<epg_id>ch232</epg_id>
-			<tvg_id>ch232</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/232.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AR: Bein Sports 7 HD</caption>
-			<channel_id>ch1062</channel_id>
-			<epg_id>ch1062</epg_id>
-			<tvg_id>ch1062</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1062.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SR: Arena Sport Premium 1 HD</caption>
-			<channel_id>ch1063</channel_id>
-			<epg_id>ch1063</epg_id>
-			<tvg_id>ch1063</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1063.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SR: Arena Sport Premium 2 HD</caption>
-			<channel_id>ch1064</channel_id>
-			<epg_id>ch1064</epg_id>
-			<tvg_id>ch1064</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1064.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SR: Arena Sport Premium 3 HD</caption>
-			<channel_id>ch1065</channel_id>
-			<epg_id>ch1065</epg_id>
-			<tvg_id>ch1065</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1065.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<caption>Oasis Tom And Jerry</caption>
+			<channel_id>ch2693</channel_id>
+			<epg_id>ch2693</epg_id>
+			<tvg_id>ch2693</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2693.png</icon_url>
+			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Box Be ON Edge 1 Live HD</caption>
@@ -5460,63 +5449,6 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>CA: Fight Network HD</caption>
-			<channel_id>ch1337</channel_id>
-			<epg_id>ch1337</epg_id>
-			<tvg_id>ch1337</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1337.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>CH: Blue Sport 1 HD</caption>
-			<channel_id>ch2096</channel_id>
-			<epg_id>ch2096</epg_id>
-			<tvg_id>ch2096</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2096.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>CH: Blue Sport 2 HD</caption>
-			<channel_id>ch2097</channel_id>
-			<epg_id>ch2097</epg_id>
-			<tvg_id>ch2097</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2097.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>CZ: Nova Sport 2 HD</caption>
-			<channel_id>ch2109</channel_id>
-			<epg_id>ch2109</epg_id>
-			<tvg_id>ch2109</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2109.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ES: DAZN F1 HD</caption>
-			<channel_id>ch765</channel_id>
-			<epg_id>ch765</epg_id>
-			<tvg_id>ch765</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/765.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ES: DAZN LaLiga 2 HD</caption>
-			<channel_id>ch2107</channel_id>
-			<epg_id>ch2107</epg_id>
-			<tvg_id>ch2107</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2107.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ES: DAZN LaLiga HD</caption>
-			<channel_id>ch2106</channel_id>
-			<epg_id>ch2106</epg_id>
-			<tvg_id>ch2106</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2106.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Eurosport 1 HD</caption>
 			<channel_id>ch039</channel_id>
 			<epg_id>ch039</epg_id>
@@ -5533,250 +5465,6 @@
 			<icon_url>http://troya.one/images/chIcons/71.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Extreme Sports</caption>
-			<channel_id>ch476</channel_id>
-			<epg_id>ch476</epg_id>
-			<tvg_id>ch476</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/476.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>FI: C More Max HD</caption>
-			<channel_id>ch144</channel_id>
-			<epg_id>ch144</epg_id>
-			<tvg_id>ch144</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/144.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>FI: MTV Urheilu 1 HD</caption>
-			<channel_id>ch1103</channel_id>
-			<epg_id>ch1103</epg_id>
-			<tvg_id>ch1103</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1103.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>FI: MTV Urheilu 2 HD</caption>
-			<channel_id>ch1090</channel_id>
-			<epg_id>ch1090</epg_id>
-			<tvg_id>ch1090</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1090.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fast and FunBox HD</caption>
-			<channel_id>ch358</channel_id>
-			<epg_id>ch358</epg_id>
-			<tvg_id>ch358</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/358.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>FightBox HD</caption>
-			<channel_id>ch359</channel_id>
-			<epg_id>ch359</epg_id>
-			<tvg_id>ch359</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/359.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>HR: Arena Sport 1 HD</caption>
-			<channel_id>ch1338</channel_id>
-			<epg_id>ch1338</epg_id>
-			<tvg_id>ch1338</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1338.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HR: Arena Sport 2 HD</caption>
-			<channel_id>ch1339</channel_id>
-			<epg_id>ch1339</epg_id>
-			<tvg_id>ch1339</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1339.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HR: Arena Sport 3 HD</caption>
-			<channel_id>ch1340</channel_id>
-			<epg_id>ch1340</epg_id>
-			<tvg_id>ch1340</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1340.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HR: Arena Sport 4 HD</caption>
-			<channel_id>ch1341</channel_id>
-			<epg_id>ch1341</epg_id>
-			<tvg_id>ch1341</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1341.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HR: Arena Sport 5 HD</caption>
-			<channel_id>ch1342</channel_id>
-			<epg_id>ch1342</epg_id>
-			<tvg_id>ch1342</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1342.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HR: Arena Sport 6 HD</caption>
-			<channel_id>ch1343</channel_id>
-			<epg_id>ch1343</epg_id>
-			<tvg_id>ch1343</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1343.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Viaplay Sports 1 HD</caption>
-			<channel_id>ch1718</channel_id>
-			<epg_id>ch1718</epg_id>
-			<tvg_id>ch1718</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1718.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Viaplay Sports 2 HD</caption>
-			<channel_id>ch1719</channel_id>
-			<epg_id>ch1719</epg_id>
-			<tvg_id>ch1719</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1719.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport Football</caption>
-			<channel_id>ch2243</channel_id>
-			<epg_id>ch2243</epg_id>
-			<tvg_id>ch2243</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2243.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport PSL</caption>
-			<channel_id>ch2252</channel_id>
-			<epg_id>ch2252</epg_id>
-			<tvg_id>ch2252</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2252.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport Variety 1</caption>
-			<channel_id>ch2253</channel_id>
-			<epg_id>ch2253</epg_id>
-			<tvg_id>ch2253</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2253.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport Variety 2</caption>
-			<channel_id>ch2254</channel_id>
-			<epg_id>ch2254</epg_id>
-			<tvg_id>ch2254</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2254.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport Variety 3</caption>
-			<channel_id>ch1617</channel_id>
-			<epg_id>ch1617</epg_id>
-			<tvg_id>ch1617</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1617.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport Variety 4</caption>
-			<channel_id>ch1618</channel_id>
-			<epg_id>ch1618</epg_id>
-			<tvg_id>ch1618</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1618.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport MaXimo</caption>
-			<channel_id>ch1619</channel_id>
-			<epg_id>ch1619</epg_id>
-			<tvg_id>ch1619</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1619.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport Cricket</caption>
-			<channel_id>ch2244</channel_id>
-			<epg_id>ch2244</epg_id>
-			<tvg_id>ch2244</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2244.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport Golf</caption>
-			<channel_id>ch2245</channel_id>
-			<epg_id>ch2245</epg_id>
-			<tvg_id>ch2245</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2245.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport Grandstand</caption>
-			<channel_id>ch2246</channel_id>
-			<epg_id>ch2246</epg_id>
-			<tvg_id>ch2246</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2246.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport Motorsport</caption>
-			<channel_id>ch2247</channel_id>
-			<epg_id>ch2247</epg_id>
-			<tvg_id>ch2247</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2247.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport La Liga</caption>
-			<channel_id>ch2248</channel_id>
-			<epg_id>ch2248</epg_id>
-			<tvg_id>ch2248</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2248.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport Rugby</caption>
-			<channel_id>ch2249</channel_id>
-			<epg_id>ch2249</epg_id>
-			<tvg_id>ch2249</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2249.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport Tennis</caption>
-			<channel_id>ch2250</channel_id>
-			<epg_id>ch2250</epg_id>
-			<tvg_id>ch2250</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2250.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport Premier League</caption>
-			<channel_id>ch2251</channel_id>
-			<epg_id>ch2251</epg_id>
-			<tvg_id>ch2251</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2251.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>INT: Sport Klub 5 HD</caption>
-			<channel_id>ch1715</channel_id>
-			<epg_id>ch1715</epg_id>
-			<tvg_id>ch1715</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1715.png</icon_url>
-			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>KZ: QazSport HD</caption>
@@ -5811,227 +5499,6 @@
 			<epg_id>ch137</epg_id>
 			<tvg_id>ch137</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/137.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MMA-TV</caption>
-			<channel_id>ch526</channel_id>
-			<epg_id>ch526</epg_id>
-			<tvg_id>ch526</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/526.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MY: Astro Cricket</caption>
-			<channel_id>ch1988</channel_id>
-			<epg_id>ch1988</epg_id>
-			<tvg_id>ch1988</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1988.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>NL: Ziggo Sport Racing HD</caption>
-			<channel_id>ch2119</channel_id>
-			<epg_id>ch2119</epg_id>
-			<tvg_id>ch2119</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2119.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>NL: Ziggo Sport Tennis HD</caption>
-			<channel_id>ch2118</channel_id>
-			<epg_id>ch2118</epg_id>
-			<tvg_id>ch2118</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2118.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MY: Astro Supersport 2 HD</caption>
-			<channel_id>ch1990</channel_id>
-			<epg_id>ch1990</epg_id>
-			<tvg_id>ch1990</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1990.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MY: Astro Supersport 3 HD</caption>
-			<channel_id>ch1991</channel_id>
-			<epg_id>ch1991</epg_id>
-			<tvg_id>ch1991</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1991.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MY: Astro Supersport 4 HD</caption>
-			<channel_id>ch1992</channel_id>
-			<epg_id>ch1992</epg_id>
-			<tvg_id>ch1992</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1992.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>HK: Now Sports 3 HD</caption>
-			<channel_id>ch1738</channel_id>
-			<epg_id>ch1738</epg_id>
-			<tvg_id>ch1738</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1738.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MY: Astro Supersport HD</caption>
-			<channel_id>ch1989</channel_id>
-			<epg_id>ch1989</epg_id>
-			<tvg_id>ch1989</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1989.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Max Premiere HD</caption>
-			<channel_id>ch599</channel_id>
-			<epg_id>ch599</epg_id>
-			<tvg_id>ch599</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/599.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>4</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>NBA TV HD</caption>
-			<channel_id>ch725</channel_id>
-			<epg_id>ch725</epg_id>
-			<tvg_id>ch725</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/725.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>NL: ESPN 2 HD</caption>
-			<channel_id>ch2196</channel_id>
-			<epg_id>ch2196</epg_id>
-			<tvg_id>ch2196</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2196.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>NL: ESPN HD</caption>
-			<channel_id>ch2202</channel_id>
-			<epg_id>ch2202</epg_id>
-			<tvg_id>ch2202</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2202.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>PT: Eleven Sports 1 HD</caption>
-			<channel_id>ch2098</channel_id>
-			<epg_id>ch2098</epg_id>
-			<tvg_id>ch2098</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2098.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>PT: Eleven Sports 1 UHD</caption>
-			<channel_id>ch2104</channel_id>
-			<epg_id>ch2104</epg_id>
-			<tvg_id>ch2104</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2104.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>PT: Eleven Sports 2 HD</caption>
-			<channel_id>ch2099</channel_id>
-			<epg_id>ch2099</epg_id>
-			<tvg_id>ch2099</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2099.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>PT: Eleven Sports 3 HD</caption>
-			<channel_id>ch2100</channel_id>
-			<epg_id>ch2100</epg_id>
-			<tvg_id>ch2100</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2100.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>PT: Eleven Sports 4 HD</caption>
-			<channel_id>ch2101</channel_id>
-			<epg_id>ch2101</epg_id>
-			<tvg_id>ch2101</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2101.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>PT: Eleven Sports 5 HD</caption>
-			<channel_id>ch2102</channel_id>
-			<epg_id>ch2102</epg_id>
-			<tvg_id>ch2102</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2102.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>PT: Eleven Sports 6 HD</caption>
-			<channel_id>ch2103</channel_id>
-			<epg_id>ch2103</epg_id>
-			<tvg_id>ch2103</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2103.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>PT: Sport TV 1 HD</caption>
-			<channel_id>ch1705</channel_id>
-			<epg_id>ch1705</epg_id>
-			<tvg_id>ch1705</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1705.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>PT: Sport TV 2 HD</caption>
-			<channel_id>ch1706</channel_id>
-			<epg_id>ch1706</epg_id>
-			<tvg_id>ch1706</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1706.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>PT: Sport TV 3 HD</caption>
-			<channel_id>ch1707</channel_id>
-			<epg_id>ch1707</epg_id>
-			<tvg_id>ch1707</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1707.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>PT: Sport TV 4 HD</caption>
-			<channel_id>ch1708</channel_id>
-			<epg_id>ch1708</epg_id>
-			<tvg_id>ch1708</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1708.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>PT: Sport TV 5 HD</caption>
-			<channel_id>ch1709</channel_id>
-			<epg_id>ch1709</epg_id>
-			<tvg_id>ch1709</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1709.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>PT: Sport TV 6 HD</caption>
-			<channel_id>ch1710</channel_id>
-			<epg_id>ch1710</epg_id>
-			<tvg_id>ch1710</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1710.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -6072,147 +5539,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Russian Extreme Ultra</caption>
-			<channel_id>ch378</channel_id>
-			<epg_id>ch378</epg_id>
-			<tvg_id>ch378</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/378.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SE: TV4 Fotboll HD</caption>
-			<channel_id>ch1114</channel_id>
-			<epg_id>ch1114</epg_id>
-			<tvg_id>ch1114</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1114.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SE: C More Golf HD</caption>
-			<channel_id>ch1115</channel_id>
-			<epg_id>ch1115</epg_id>
-			<tvg_id>ch1115</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1115.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SE: V Sport 1 HD</caption>
-			<channel_id>ch1109</channel_id>
-			<epg_id>ch1109</epg_id>
-			<tvg_id>ch1109</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1109.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SE: V Sport Extra</caption>
-			<channel_id>ch1687</channel_id>
-			<epg_id>ch1687</epg_id>
-			<tvg_id>ch1687</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1687.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SE: V Sport Football HD</caption>
-			<channel_id>ch1110</channel_id>
-			<epg_id>ch1110</epg_id>
-			<tvg_id>ch1110</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1110.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SE: V Sport Golf HD</caption>
-			<channel_id>ch1111</channel_id>
-			<epg_id>ch1111</epg_id>
-			<tvg_id>ch1111</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1111.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SE: V Sport Motor</caption>
-			<channel_id>ch1688</channel_id>
-			<epg_id>ch1688</epg_id>
-			<tvg_id>ch1688</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1688.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SE: V Sport Premium</caption>
-			<channel_id>ch1689</channel_id>
-			<epg_id>ch1689</epg_id>
-			<tvg_id>ch1689</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1689.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SE: V Sport UHD</caption>
-			<channel_id>ch1690</channel_id>
-			<epg_id>ch1690</epg_id>
-			<tvg_id>ch1690</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1690.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SE: V Sport Vinter</caption>
-			<channel_id>ch1691</channel_id>
-			<epg_id>ch1691</epg_id>
-			<tvg_id>ch1691</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1691.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SR: Sport Klub 1 HD</caption>
-			<channel_id>ch1711</channel_id>
-			<epg_id>ch1711</epg_id>
-			<tvg_id>ch1711</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1711.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SR: Sport Klub 2 HD</caption>
-			<channel_id>ch1712</channel_id>
-			<epg_id>ch1712</epg_id>
-			<tvg_id>ch1712</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1712.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SR: Sport Klub 3 HD</caption>
-			<channel_id>ch1713</channel_id>
-			<epg_id>ch1713</epg_id>
-			<tvg_id>ch1713</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1713.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SR: Sport Klub 4 HD</caption>
-			<channel_id>ch1714</channel_id>
-			<epg_id>ch1714</epg_id>
-			<tvg_id>ch1714</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1714.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Sports 1 HD</caption>
-			<channel_id>ch1993</channel_id>
-			<epg_id>ch1993</epg_id>
-			<tvg_id>ch1993</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1993.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Sports 2 HD</caption>
-			<channel_id>ch477</channel_id>
-			<epg_id>ch477</epg_id>
-			<tvg_id>ch477</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/477.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Sky High Fight+ HD</caption>
 			<channel_id>ch1981</channel_id>
 			<epg_id>ch1981</epg_id>
@@ -6220,390 +5546,6 @@
 			<icon_url>http://troya.one/images/chIcons/1981.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UA: Setanta Sports Ukraine HD</caption>
-			<channel_id>ch146</channel_id>
-			<epg_id>ch146</epg_id>
-			<tvg_id>ch146</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/146.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UA: Setanta Sports+ Ukraine HD</caption>
-			<channel_id>ch333</channel_id>
-			<epg_id>ch333</epg_id>
-			<tvg_id>ch333</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/333.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: TNT Sport 1 HD</caption>
-			<channel_id>ch236</channel_id>
-			<epg_id>ch236</epg_id>
-			<tvg_id>ch236</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/236.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: TNT Sport 2 HD</caption>
-			<channel_id>ch334</channel_id>
-			<epg_id>ch334</epg_id>
-			<tvg_id>ch334</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/334.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: TNT Sport 3 HD</caption>
-			<channel_id>ch233</channel_id>
-			<epg_id>ch233</epg_id>
-			<tvg_id>ch233</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/233.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: TNT Sport 4 HD</caption>
-			<channel_id>ch2002</channel_id>
-			<epg_id>ch2002</epg_id>
-			<tvg_id>ch2002</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2002.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: TNT Sport 5 (Event Only)</caption>
-			<channel_id>ch2081</channel_id>
-			<epg_id>ch2081</epg_id>
-			<tvg_id>ch2081</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2081.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: TNT Sport 6 (Event Only)</caption>
-			<channel_id>ch2082</channel_id>
-			<epg_id>ch2082</epg_id>
-			<tvg_id>ch2082</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2082.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: TNT Sport 7 (Event Only)</caption>
-			<channel_id>ch2083</channel_id>
-			<epg_id>ch2083</epg_id>
-			<tvg_id>ch2083</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2083.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: TNT Sport 8 (Event Only)</caption>
-			<channel_id>ch2084</channel_id>
-			<epg_id>ch2084</epg_id>
-			<tvg_id>ch2084</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2084.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: TNT Sport 9 (Event Only)</caption>
-			<channel_id>ch2085</channel_id>
-			<epg_id>ch2085</epg_id>
-			<tvg_id>ch2085</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2085.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Atlantic HD</caption>
-			<channel_id>ch2114</channel_id>
-			<epg_id>ch2114</epg_id>
-			<tvg_id>ch2114</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2114.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Crime HD</caption>
-			<channel_id>ch2134</channel_id>
-			<epg_id>ch2134</epg_id>
-			<tvg_id>ch2134</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2134.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Nature HD</caption>
-			<channel_id>ch2115</channel_id>
-			<epg_id>ch2115</epg_id>
-			<tvg_id>ch2115</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2115.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Sports Action HD</caption>
-			<channel_id>ch2105</channel_id>
-			<epg_id>ch2105</epg_id>
-			<tvg_id>ch2105</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2105.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Sports Arena HD</caption>
-			<channel_id>ch074</channel_id>
-			<epg_id>ch074</epg_id>
-			<tvg_id>ch074</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/74.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Sports Cricket HD</caption>
-			<channel_id>ch235</channel_id>
-			<epg_id>ch235</epg_id>
-			<tvg_id>ch235</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/235.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Sports F1 HD</caption>
-			<channel_id>ch513</channel_id>
-			<epg_id>ch513</epg_id>
-			<tvg_id>ch513</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/513.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Sports Football HD</caption>
-			<channel_id>ch314</channel_id>
-			<epg_id>ch314</epg_id>
-			<tvg_id>ch314</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/314.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Sports Golf HD</caption>
-			<channel_id>ch306</channel_id>
-			<epg_id>ch306</epg_id>
-			<tvg_id>ch306</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/306.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Sports Main Event HD</caption>
-			<channel_id>ch335</channel_id>
-			<epg_id>ch335</epg_id>
-			<tvg_id>ch335</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/335.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Sports Mix HD</caption>
-			<channel_id>ch234</channel_id>
-			<epg_id>ch234</epg_id>
-			<tvg_id>ch234</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/234.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Sports News HD</caption>
-			<channel_id>ch1061</channel_id>
-			<epg_id>ch1061</epg_id>
-			<tvg_id>ch1061</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1061.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Sports Premier League HD</caption>
-			<channel_id>ch1554</channel_id>
-			<epg_id>ch1554</epg_id>
-			<tvg_id>ch1554</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1554.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Sports Racing HD</caption>
-			<channel_id>ch1100</channel_id>
-			<epg_id>ch1100</epg_id>
-			<tvg_id>ch1100</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1100.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: CBS Sports Network HD</caption>
-			<channel_id>ch1330</channel_id>
-			<epg_id>ch1330</epg_id>
-			<tvg_id>ch1330</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1330.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: ESPN 2 HD</caption>
-			<channel_id>ch1626</channel_id>
-			<epg_id>ch1626</epg_id>
-			<tvg_id>ch1626</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1626.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: ESPN 3 HD</caption>
-			<channel_id>ch1627</channel_id>
-			<epg_id>ch1627</epg_id>
-			<tvg_id>ch1627</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1627.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: ESPN HD</caption>
-			<channel_id>ch1625</channel_id>
-			<epg_id>ch1625</epg_id>
-			<tvg_id>ch1625</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1625.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: FOX Sports 1 HD</caption>
-			<channel_id>ch1331</channel_id>
-			<epg_id>ch1331</epg_id>
-			<tvg_id>ch1331</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1331.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: FOX Sports 2 HD</caption>
-			<channel_id>ch1332</channel_id>
-			<epg_id>ch1332</epg_id>
-			<tvg_id>ch1332</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1332.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: FUBO Sports Network HD</caption>
-			<channel_id>ch1336</channel_id>
-			<epg_id>ch1336</epg_id>
-			<tvg_id>ch1336</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1336.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: MLB Network HD</caption>
-			<channel_id>ch1329</channel_id>
-			<epg_id>ch1329</epg_id>
-			<tvg_id>ch1329</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1329.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: NBC Sports Network HD</caption>
-			<channel_id>ch1333</channel_id>
-			<epg_id>ch1333</epg_id>
-			<tvg_id>ch1333</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1333.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: NFL Network HD</caption>
-			<channel_id>ch1328</channel_id>
-			<epg_id>ch1328</epg_id>
-			<tvg_id>ch1328</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1328.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: NHL Network HD</caption>
-			<channel_id>ch1067</channel_id>
-			<epg_id>ch1067</epg_id>
-			<tvg_id>ch1067</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1067.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: Tennis Channel HD</caption>
-			<channel_id>ch1623</channel_id>
-			<epg_id>ch1623</epg_id>
-			<tvg_id>ch1623</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1623.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: Tennis Channel International HD</caption>
-			<channel_id>ch1624</channel_id>
-			<epg_id>ch1624</epg_id>
-			<tvg_id>ch1624</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1624.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: UFC Fight Pass HD</caption>
-			<channel_id>ch322</channel_id>
-			<epg_id>ch322</epg_id>
-			<tvg_id>ch322</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/322.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: WWE Network HD</caption>
-			<channel_id>ch1334</channel_id>
-			<epg_id>ch1334</epg_id>
-			<tvg_id>ch1334</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1334.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: World Fishing Network HD</caption>
-			<channel_id>ch1335</channel_id>
-			<epg_id>ch1335</epg_id>
-			<tvg_id>ch1335</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1335.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viju+ Sport</caption>
-			<channel_id>ch064</channel_id>
-			<epg_id>ch064</epg_id>
-			<tvg_id>ch064</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/64.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viju+ Sport HD</caption>
-			<channel_id>ch475</channel_id>
-			<epg_id>ch475</epg_id>
-			<tvg_id>ch475</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/475.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>БОКС ТВ</caption>
-			<channel_id>ch037</channel_id>
-			<epg_id>ch037</epg_id>
-			<tvg_id>ch037</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/37.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Драйв</caption>
-			<channel_id>ch536</channel_id>
-			<epg_id>ch536</epg_id>
-			<tvg_id>ch536</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/536.png</icon_url>
-			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Живи Активно HD</caption>
@@ -6622,47 +5564,11 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>КХЛ HD</caption>
-			<channel_id>ch034</channel_id>
-			<epg_id>ch034</epg_id>
-			<tvg_id>ch034</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/34.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>КХЛ Prime HD</caption>
-			<channel_id>ch138</channel_id>
-			<epg_id>ch138</epg_id>
-			<tvg_id>ch138</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/138.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Конный Мир HD</caption>
 			<channel_id>ch133</channel_id>
 			<epg_id>ch133</epg_id>
 			<tvg_id>ch133</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/133.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>МАТЧ! БОЕЦ</caption>
-			<channel_id>ch036</channel_id>
-			<epg_id>ch036</epg_id>
-			<tvg_id>ch036</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/36.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! HD</caption>
-			<channel_id>ch609</channel_id>
-			<epg_id>ch609</epg_id>
-			<tvg_id>ch609</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/609.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -6676,65 +5582,11 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Матч! Арена HD</caption>
-			<channel_id>ch055</channel_id>
-			<epg_id>ch055</epg_id>
-			<tvg_id>ch055</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/55.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Планета</caption>
-			<channel_id>ch688</channel_id>
-			<epg_id>ch688</epg_id>
-			<tvg_id>ch688</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/688.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Премьер HD</caption>
-			<channel_id>ch698</channel_id>
-			<epg_id>ch698</epg_id>
-			<tvg_id>ch698</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/698.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Страна</caption>
-			<channel_id>ch471</channel_id>
-			<epg_id>ch471</epg_id>
-			<tvg_id>ch471</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/471.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 1 HD</caption>
-			<channel_id>ch695</channel_id>
-			<epg_id>ch695</epg_id>
-			<tvg_id>ch695</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/695.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Матч! Футбол 1 SD</caption>
 			<channel_id>ch2123</channel_id>
 			<epg_id>ch2123</epg_id>
 			<tvg_id>ch2123</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2123.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 2 HD</caption>
-			<channel_id>ch696</channel_id>
-			<epg_id>ch696</epg_id>
-			<tvg_id>ch696</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/696.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -6748,38 +5600,11 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Матч! Футбол 3 HD</caption>
-			<channel_id>ch697</channel_id>
-			<epg_id>ch697</epg_id>
-			<tvg_id>ch697</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/697.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Матч! Футбол 3 SD</caption>
 			<channel_id>ch2125</channel_id>
 			<epg_id>ch2125</epg_id>
 			<tvg_id>ch2125</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2125.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мир Баскетбола</caption>
-			<channel_id>ch567</channel_id>
-			<epg_id>ch567</epg_id>
-			<tvg_id>ch567</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/567.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>NL: Ziggo Sport Golf HD</caption>
-			<channel_id>ch147</channel_id>
-			<epg_id>ch147</epg_id>
-			<tvg_id>ch147</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/147.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -6793,14 +5618,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Старт HD</caption>
-			<channel_id>ch662</channel_id>
-			<epg_id>ch662</epg_id>
-			<tvg_id>ch662</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/662.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Точка отрыва</caption>
 			<channel_id>ch048</channel_id>
 			<epg_id>ch048</epg_id>
@@ -6808,14 +5625,6 @@
 			<icon_url>http://troya.one/images/chIcons/48.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Футбол HD</caption>
-			<channel_id>ch1702</channel_id>
-			<epg_id>ch1702</epg_id>
-			<tvg_id>ch1702</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1702.png</icon_url>
-			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Футбольный HD</caption>
@@ -6836,73 +5645,11 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Матч! FHD</caption>
-			<channel_id>ch057</channel_id>
-			<epg_id>ch057</epg_id>
-			<tvg_id>ch057</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/57.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 1 FHD</caption>
-			<channel_id>ch061</channel_id>
-			<epg_id>ch061</epg_id>
-			<tvg_id>ch061</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/61.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 2 FHD</caption>
-			<channel_id>ch062</channel_id>
-			<epg_id>ch062</epg_id>
-			<tvg_id>ch062</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/62.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 3 FHD</caption>
-			<channel_id>ch063</channel_id>
-			<epg_id>ch063</epg_id>
-			<tvg_id>ch063</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/63.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Премьер FHD</caption>
-			<channel_id>ch135</channel_id>
-			<epg_id>ch135</epg_id>
-			<tvg_id>ch135</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/135.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Матч! Премьер SD</caption>
 			<channel_id>ch2005</channel_id>
 			<epg_id>ch2005</epg_id>
 			<tvg_id>ch2005</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2005.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Игра FHD</caption>
-			<channel_id>ch056</channel_id>
-			<epg_id>ch056</epg_id>
-			<tvg_id>ch056</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/56.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Sports 1 HD (Uncomp)</caption>
-			<channel_id>ch828</channel_id>
-			<epg_id>ch828</epg_id>
-			<tvg_id>ch828</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/828.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -6912,15 +5659,6 @@
 			<tvg_id>ch700</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/700.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Старт Триумф</caption>
-			<channel_id>ch2502</channel_id>
-			<epg_id>ch2502</epg_id>
-			<tvg_id>ch2502</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2502.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Box Sport Cast 1 Live</caption>
@@ -6983,238 +5721,6 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ViP Sport 1 (Sport Event)</caption>
-			<channel_id>ch2558</channel_id>
-			<epg_id>ch2558</epg_id>
-			<tvg_id>ch2558</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2558.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ViP Sport 2 (Sport Event)</caption>
-			<channel_id>ch2559</channel_id>
-			<epg_id>ch2559</epg_id>
-			<tvg_id>ch2559</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2559.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ViP Sport 3 (Sport Event)</caption>
-			<channel_id>ch2560</channel_id>
-			<epg_id>ch2560</epg_id>
-			<tvg_id>ch2560</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2560.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ViP Sport 4 (Sport Event)</caption>
-			<channel_id>ch2561</channel_id>
-			<epg_id>ch2561</epg_id>
-			<tvg_id>ch2561</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2561.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ViP Sport 5 (Sport Event)</caption>
-			<channel_id>ch2562</channel_id>
-			<epg_id>ch2562</epg_id>
-			<tvg_id>ch2562</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2562.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ViP Sport 6 (Sport Event)</caption>
-			<channel_id>ch2563</channel_id>
-			<epg_id>ch2563</epg_id>
-			<tvg_id>ch2563</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2563.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ViP Sport 7 (Sport Event)</caption>
-			<channel_id>ch2564</channel_id>
-			<epg_id>ch2564</epg_id>
-			<tvg_id>ch2564</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2564.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ViP Sport 8 (Sport Event)</caption>
-			<channel_id>ch2565</channel_id>
-			<epg_id>ch2565</epg_id>
-			<tvg_id>ch2565</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2565.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ViP Sport 9 (Sport Event)</caption>
-			<channel_id>ch2566</channel_id>
-			<epg_id>ch2566</epg_id>
-			<tvg_id>ch2566</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2566.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ViP Sport 10 (Sport Event)</caption>
-			<channel_id>ch2567</channel_id>
-			<epg_id>ch2567</epg_id>
-			<tvg_id>ch2567</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2567.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ViP Sport 11 (Sport Event)</caption>
-			<channel_id>ch2568</channel_id>
-			<epg_id>ch2568</epg_id>
-			<tvg_id>ch2568</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2568.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ViP Sport 12 (Sport Event)</caption>
-			<channel_id>ch2569</channel_id>
-			<epg_id>ch2569</epg_id>
-			<tvg_id>ch2569</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2569.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ViP Sport 13 (Sport Event)</caption>
-			<channel_id>ch2570</channel_id>
-			<epg_id>ch2570</epg_id>
-			<tvg_id>ch2570</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2570.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Vital Sport 1 (Sport Event)</caption>
-			<channel_id>ch2571</channel_id>
-			<epg_id>ch2571</epg_id>
-			<tvg_id>ch2571</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2571.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Vital Sport 2 (Sport Event)</caption>
-			<channel_id>ch2572</channel_id>
-			<epg_id>ch2572</epg_id>
-			<tvg_id>ch2572</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2572.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Vital Sport 3 (Sport Event)</caption>
-			<channel_id>ch2573</channel_id>
-			<epg_id>ch2573</epg_id>
-			<tvg_id>ch2573</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2573.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Vital Sport 4 (Sport Event)</caption>
-			<channel_id>ch2574</channel_id>
-			<epg_id>ch2574</epg_id>
-			<tvg_id>ch2574</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2574.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Vital Sport 5 (Sport Event)</caption>
-			<channel_id>ch2575</channel_id>
-			<epg_id>ch2575</epg_id>
-			<tvg_id>ch2575</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2575.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Vital Sport 6 (Sport Event)</caption>
-			<channel_id>ch2576</channel_id>
-			<epg_id>ch2576</epg_id>
-			<tvg_id>ch2576</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2576.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pimple TV 1 (Sport Event)</caption>
-			<channel_id>ch2577</channel_id>
-			<epg_id>ch2577</epg_id>
-			<tvg_id>ch2577</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2577.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pimple TV 2 (Sport Event)</caption>
-			<channel_id>ch2578</channel_id>
-			<epg_id>ch2578</epg_id>
-			<tvg_id>ch2578</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2578.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pimple TV 3 (Sport Event)</caption>
-			<channel_id>ch2579</channel_id>
-			<epg_id>ch2579</epg_id>
-			<tvg_id>ch2579</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2579.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pimple TV 4 (Sport Event)</caption>
-			<channel_id>ch2580</channel_id>
-			<epg_id>ch2580</epg_id>
-			<tvg_id>ch2580</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2580.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pimple TV 5 (Sport Event)</caption>
-			<channel_id>ch2581</channel_id>
-			<epg_id>ch2581</epg_id>
-			<tvg_id>ch2581</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2581.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pimple TV 6 (Sport Event)</caption>
-			<channel_id>ch2582</channel_id>
-			<epg_id>ch2582</epg_id>
-			<tvg_id>ch2582</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2582.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fint Ga 1 (Sport Event)</caption>
-			<channel_id>ch2583</channel_id>
-			<epg_id>ch2583</epg_id>
-			<tvg_id>ch2583</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2583.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fint Ga 2 (Sport Event)</caption>
-			<channel_id>ch2584</channel_id>
-			<epg_id>ch2584</epg_id>
-			<tvg_id>ch2584</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2584.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fint Ga 3 (Sport Event)</caption>
-			<channel_id>ch2585</channel_id>
-			<epg_id>ch2585</epg_id>
-			<tvg_id>ch2585</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2585.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fint Ga 4 (Sport Event)</caption>
-			<channel_id>ch2586</channel_id>
-			<epg_id>ch2586</epg_id>
-			<tvg_id>ch2586</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2586.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Box Sport Cast HD</caption>
 			<channel_id>ch2467</channel_id>
 			<epg_id>ch2467</epg_id>
@@ -7241,55 +5747,6 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MY: Astro Supersport 4K</caption>
-			<channel_id>ch2132</channel_id>
-			<epg_id>ch2132</epg_id>
-			<tvg_id>ch2132</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2132.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>CZ: Nova Sport 1 HD</caption>
-			<channel_id>ch2108</channel_id>
-			<epg_id>ch2108</epg_id>
-			<tvg_id>ch2108</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2108.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>NL: ESPN 3 HD</caption>
-			<channel_id>ch2111</channel_id>
-			<epg_id>ch2111</epg_id>
-			<tvg_id>ch2111</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2111.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>NL: ESPN 4 HD</caption>
-			<channel_id>ch2112</channel_id>
-			<epg_id>ch2112</epg_id>
-			<tvg_id>ch2112</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2112.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>NL: Ziggo Sport Select HD</caption>
-			<channel_id>ch2113</channel_id>
-			<epg_id>ch2113</epg_id>
-			<tvg_id>ch2113</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2113.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Sports 2 HD (Uncomp)</caption>
-			<channel_id>ch2116</channel_id>
-			<epg_id>ch2116</epg_id>
-			<tvg_id>ch2116</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2116.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Box Be ON Edge Live 3 HD</caption>
 			<channel_id>ch711</channel_id>
 			<epg_id>ch711</epg_id>
@@ -7306,126 +5763,6 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>NL: Ziggo Sport Docu HD</caption>
-			<channel_id>ch2515</channel_id>
-			<epg_id>ch2515</epg_id>
-			<tvg_id>ch2515</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2515.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>NL: Ziggo Sport Voetbal</caption>
-			<channel_id>ch1881</channel_id>
-			<epg_id>ch1881</epg_id>
-			<tvg_id>ch1881</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1881.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HK: Now Sports 1 HD</caption>
-			<channel_id>ch2753</channel_id>
-			<epg_id>ch2753</epg_id>
-			<tvg_id>ch2753</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2753.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HK: Now Sports 2 HD</caption>
-			<channel_id>ch2755</channel_id>
-			<epg_id>ch2755</epg_id>
-			<tvg_id>ch2755</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2755.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HK: Now Sports 4 HD</caption>
-			<channel_id>ch1905</channel_id>
-			<epg_id>ch1905</epg_id>
-			<tvg_id>ch1905</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1905.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HK: Now Sports 5 HD</caption>
-			<channel_id>ch1906</channel_id>
-			<epg_id>ch1906</epg_id>
-			<tvg_id>ch1906</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1906.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HK: Now Sports 6 HD</caption>
-			<channel_id>ch1907</channel_id>
-			<epg_id>ch1907</epg_id>
-			<tvg_id>ch1907</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1907.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HK: Now Sports 7 HD</caption>
-			<channel_id>ch1908</channel_id>
-			<epg_id>ch1908</epg_id>
-			<tvg_id>ch1908</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1908.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HK: Now Sports PL 1 HD</caption>
-			<channel_id>ch1909</channel_id>
-			<epg_id>ch1909</epg_id>
-			<tvg_id>ch1909</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1909.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HK: Now Sports PL 2 HD (Ondemand)</caption>
-			<channel_id>ch1910</channel_id>
-			<epg_id>ch1910</epg_id>
-			<tvg_id>ch1910</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1910.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HK: Now Sports PL 3 HD (Ondemand)</caption>
-			<channel_id>ch2783</channel_id>
-			<epg_id>ch2783</epg_id>
-			<tvg_id>ch2783</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2783.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HK: Now Sports PL 4 HD (Ondemand)</caption>
-			<channel_id>ch721</channel_id>
-			<epg_id>ch721</epg_id>
-			<tvg_id>ch721</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/721.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HK: Now Sports PL 5 HD (Ondemand)</caption>
-			<channel_id>ch2784</channel_id>
-			<epg_id>ch2784</epg_id>
-			<tvg_id>ch2784</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2784.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HK: Now Sports PL 6 HD (Ondemand)</caption>
-			<channel_id>ch2785</channel_id>
-			<epg_id>ch2785</epg_id>
-			<tvg_id>ch2785</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2785.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AF: SuperSport Action</caption>
-			<channel_id>ch2786</channel_id>
-			<epg_id>ch2786</epg_id>
-			<tvg_id>ch2786</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2786.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Box AutoTrend HD</caption>
 			<channel_id>ch2810</channel_id>
 			<epg_id>ch2810</epg_id>
@@ -7434,91 +5771,19 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Megogo Gong HD</caption>
-			<channel_id>ch2824</channel_id>
-			<epg_id>ch2824</epg_id>
-			<tvg_id>ch2824</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2824.png</icon_url>
+			<caption>Oasis Фитнес</caption>
+			<channel_id>ch2665</channel_id>
+			<epg_id>ch2665</epg_id>
+			<tvg_id>ch2665</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2665.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Megogo Футбол 1 HD</caption>
-			<channel_id>ch1183</channel_id>
-			<epg_id>ch1183</epg_id>
-			<tvg_id>ch1183</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1183.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Megogo Футбол 2 HD</caption>
-			<channel_id>ch2086</channel_id>
-			<epg_id>ch2086</epg_id>
-			<tvg_id>ch2086</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2086.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Megogo Футбол 3 HD</caption>
-			<channel_id>ch2087</channel_id>
-			<epg_id>ch2087</epg_id>
-			<tvg_id>ch2087</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2087.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Megogo Футбол 4 HD</caption>
-			<channel_id>ch2088</channel_id>
-			<epg_id>ch2088</epg_id>
-			<tvg_id>ch2088</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2088.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Megogo Футбол 5 HD</caption>
-			<channel_id>ch154</channel_id>
-			<epg_id>ch154</epg_id>
-			<tvg_id>ch154</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/154.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Megogo Футбол 6 HD</caption>
-			<channel_id>ch182</channel_id>
-			<epg_id>ch182</epg_id>
-			<tvg_id>ch182</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/182.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Megogo Футбол 7 HD</caption>
-			<channel_id>ch2516</channel_id>
-			<epg_id>ch2516</epg_id>
-			<tvg_id>ch2516</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2516.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>EURO2024 Event 1</caption>
-			<channel_id>ch2811</channel_id>
-			<epg_id>ch2811</epg_id>
-			<tvg_id>ch2811</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2811.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>EURO2024 Event 2</caption>
-			<channel_id>ch2812</channel_id>
-			<epg_id>ch2812</epg_id>
-			<tvg_id>ch2812</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2812.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>EURO2024 Event 3</caption>
-			<channel_id>ch2813</channel_id>
-			<epg_id>ch2813</epg_id>
-			<tvg_id>ch2813</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2813.png</icon_url>
+			<caption>Oasis WWE In English</caption>
+			<channel_id>ch2695</channel_id>
+			<epg_id>ch2695</epg_id>
+			<tvg_id>ch2695</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2695.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -8554,14 +6819,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>PL: Eleven Sports 1 4K</caption>
-			<channel_id>ch637</channel_id>
-			<epg_id>ch637</epg_id>
-			<tvg_id>ch637</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/637.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>GE: Comedie+ HD</caption>
 			<channel_id>ch416</channel_id>
 			<epg_id>ch416</epg_id>
@@ -8647,14 +6904,6 @@
 			<icon_url>http://troya.one/images/chIcons/446.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UA: English Club TV HD</caption>
-			<channel_id>ch680</channel_id>
-			<epg_id>ch680</epg_id>
-			<tvg_id>ch680</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/680.png</icon_url>
-			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Viju History `HD</caption>
@@ -8888,6 +7137,30 @@
 			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Oasis Учим Kитайский</caption>
+			<channel_id>ch2670</channel_id>
+			<epg_id>ch2670</epg_id>
+			<tvg_id>ch2670</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2670.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Учим Английский</caption>
+			<channel_id>ch2671</channel_id>
+			<epg_id>ch2671</epg_id>
+			<tvg_id>ch2671</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2671.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Учим Испанский</caption>
+			<channel_id>ch2672</channel_id>
+			<epg_id>ch2672</epg_id>
+			<tvg_id>ch2672</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2672.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Animal Planet HD</caption>
 			<channel_id>ch124</channel_id>
 			<epg_id>ch124</epg_id>
@@ -8954,14 +7227,6 @@
 			<epg_id>ch728</epg_id>
 			<tvg_id>ch728</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/728.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UA: Рыбалка HD</caption>
-			<channel_id>ch731</channel_id>
-			<epg_id>ch731</epg_id>
-			<tvg_id>ch731</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/731.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -9125,6 +7390,46 @@
 			<epg_id>ch2847</epg_id>
 			<tvg_id>ch2847</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2847.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Animals</caption>
+			<channel_id>ch2648</channel_id>
+			<epg_id>ch2648</epg_id>
+			<tvg_id>ch2648</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2648.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Рыбалка</caption>
+			<channel_id>ch2664</channel_id>
+			<epg_id>ch2664</epg_id>
+			<tvg_id>ch2664</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2664.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Наша Планета</caption>
+			<channel_id>ch2679</channel_id>
+			<epg_id>ch2679</epg_id>
+			<tvg_id>ch2679</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2679.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Выживание</caption>
+			<channel_id>ch2691</channel_id>
+			<epg_id>ch2691</epg_id>
+			<tvg_id>ch2691</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2691.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Выжить Вместе</caption>
+			<channel_id>ch2692</channel_id>
+			<epg_id>ch2692</epg_id>
+			<tvg_id>ch2692</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2692.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -9319,14 +7624,6 @@
 			<icon_url>http://troya.one/images/chIcons/549.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: NFL Red Zone HD</caption>
-			<channel_id>ch108</channel_id>
-			<epg_id>ch108</epg_id>
-			<tvg_id>ch108</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/108.png</icon_url>
-			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Viju Explore HD</caption>
@@ -9697,6 +7994,14 @@
 			<epg_id>ch2881</epg_id>
 			<tvg_id>ch2881</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2881.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Друзья Друзя</caption>
+			<channel_id>ch2661</channel_id>
+			<epg_id>ch2661</epg_id>
+			<tvg_id>ch2661</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2661.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -10376,13 +8681,12 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Clarity4K Angel XXX</caption>
+			<caption>Clarity4K Города</caption>
 			<channel_id>ch1440</channel_id>
 			<epg_id>ch1440</epg_id>
 			<tvg_id>ch1440</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1440.png</icon_url>
 			<tv_category_id>13</tv_category_id>
-			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
 			<caption>Prokop TV XXX</caption>
