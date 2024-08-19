@@ -71,19 +71,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -2287,7 +2287,7 @@
 		<tv_channel>
 			<caption>НТВ Сериал</caption>
 			<channel_id>bigteisti1/ntvserial</channel_id>
-			<epg_id>304</epg_id>
+			<epg_id>303</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/films/ntv-serial.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>1</archive>
@@ -3210,8 +3210,9 @@
 			<caption>Твоё ТВ HD</caption>
 			<channel_id>bigteisti6/tvoe_tv</channel_id>
 			<epg_id>651</epg_id>
-			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/tvoetv.png</icon_url>
+			<icon_url>https://streaming-elbrus.su/img/logos/kinoInt/tvoetvhd.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ATV Kinoman HD</caption>
@@ -4359,7 +4360,7 @@
 		<tv_channel>
 			<caption>Eurosport 1 HD</caption>
 			<channel_id>bigteisti6/eurosport_1</channel_id>
-			<epg_id>2052</epg_id>
+			<epg_id>789</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/eurosport1.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4367,7 +4368,7 @@
 		<tv_channel>
 			<caption>Eurosport 2 HD</caption>
 			<channel_id>bigteisti6/eurosport_2</channel_id>
-			<epg_id>eurosport2</epg_id>
+			<epg_id>790</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/eurosport2.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4375,7 +4376,7 @@
 		<tv_channel>
 			<caption>Eurosport 1 HD CEE</caption>
 			<channel_id>bigteisti6/eurosport_1_cee</channel_id>
-			<epg_id>eurosport1-cee</epg_id>
+			<epg_id>789</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/eurosport1-cee.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4383,7 +4384,7 @@
 		<tv_channel>
 			<caption>Eurosport 2 HD CEE</caption>
 			<channel_id>bigteisti6/eurosport_2_cee</channel_id>
-			<epg_id>eurosport2-cee</epg_id>
+			<epg_id>790</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/eurosport2-cee.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4407,7 +4408,7 @@
 		<tv_channel>
 			<caption>Конный Мир HD</caption>
 			<channel_id>bigteisti1/KONNIYMIR</channel_id>
-			<epg_id>6863</epg_id>
+			<epg_id>794</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/konny-mir.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4511,7 +4512,7 @@
 		<tv_channel>
 			<caption>Setanta Sports UA+ HD</caption>
 			<channel_id>bigteisti6/Setanta_Sportsplus_UA_HD</channel_id>
-			<epg_id>setanta-plus-ua</epg_id>
+			<epg_id>797</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/setanta-plus-ua.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4519,7 +4520,7 @@
 		<tv_channel>
 			<caption>Setanta Sports UA HD</caption>
 			<channel_id>bigteisti6/Setanta_Sports_UA_HD</channel_id>
-			<epg_id>2370</epg_id>
+			<epg_id>796</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/setanta-ua.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4543,7 +4544,7 @@
 		<tv_channel>
 			<caption>Setanta Qazaqstan HD</caption>
 			<channel_id>bigteisti6/setanta_qas</channel_id>
-			<epg_id>setanta-kz</epg_id>
+			<epg_id>800</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/setanta-kz.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4591,7 +4592,7 @@
 		<tv_channel>
 			<caption>NHL</caption>
 			<channel_id>bigteisti3/NHL_RU</channel_id>
-			<epg_id>nhl</epg_id>
+			<epg_id>1076</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/nhl.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
@@ -4606,14 +4607,14 @@
 		<tv_channel>
 			<caption>Prime Fight HD</caption>
 			<channel_id>bigteisti3/prime_fight</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>1078</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/prime_fight.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>FightBox HD</caption>
 			<channel_id>bigteisti1/fightbox_hd</channel_id>
-			<epg_id>6743</epg_id>
+			<epg_id>1069</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/fightbox-hd.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4627,10 +4628,10 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Моторспорт ТВ</caption>
+			<caption>Eurosport 4K</caption>
 			<channel_id>bigteisti9/MOTORSPORT</channel_id>
-			<epg_id>motorsportv-tv</epg_id>
-			<icon_url>http://streaming-elbrus.su/img/logos/sport/motorsportv-tv.png</icon_url>
+			<epg_id>1067</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/4k/eurosport-4k.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -4645,7 +4646,7 @@
 		<tv_channel>
 			<caption>Русский экстрим</caption>
 			<channel_id>bigteisti6/russkiiy_aekstrim</channel_id>
-			<epg_id>russky-ekstrim</epg_id>
+			<epg_id>1071</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/rus-extrim.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
@@ -4659,7 +4660,7 @@
 		<tv_channel>
 			<caption>Точка отрыва</caption>
 			<channel_id>bigteisti2/dG9jaGthX290cnl2YQ</channel_id>
-			<epg_id>6983</epg_id>
+			<epg_id>1070</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/start.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4690,7 +4691,7 @@
 		<tv_channel>
 			<caption>Спортивный HD</caption>
 			<channel_id>bigteisti6/sportivnbIiy_HD</channel_id>
-			<epg_id>sportivny</epg_id>
+			<epg_id>1077</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/sportivny.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4698,14 +4699,14 @@
 		<tv_channel>
 			<caption>QSport Arena HD</caption>
 			<channel_id>bigteisti6/qsport_arena</channel_id>
-			<epg_id>q-sport-int</epg_id>
+			<epg_id>1081</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/qsport-kg.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>NBA TV</caption>
 			<channel_id>bigteisti3/nba_tv</channel_id>
-			<epg_id>bein-sports-nba</epg_id>
+			<epg_id>1080</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/nba-tv.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
@@ -4720,7 +4721,7 @@
 		<tv_channel>
 			<caption>Go3 Sport 1 HD</caption>
 			<channel_id>bigteisti9/TV3_Sport_LT</channel_id>
-			<epg_id>3380</epg_id>
+			<epg_id>1082</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/baltic/tvplay-sports.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4728,7 +4729,7 @@
 		<tv_channel>
 			<caption>Go3 Sport Open HD</caption>
 			<channel_id>bigteisti9/tv3_sport_open_LT</channel_id>
-			<epg_id>tv3-sport-open</epg_id>
+			<epg_id>1085</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/tv3-sport-open.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4736,7 +4737,7 @@
 		<tv_channel>
 			<caption>Go3 Sport 2 HD</caption>
 			<channel_id>bigteisti9/TV3_Sport_2_LT</channel_id>
-			<epg_id>3381</epg_id>
+			<epg_id>1083</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/baltic/tvplay-sports-plus.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4744,7 +4745,7 @@
 		<tv_channel>
 			<caption>Fast&amp;FunBox</caption>
 			<channel_id>bigteisti8/fast_fun_box</channel_id>
-			<epg_id>6742</epg_id>
+			<epg_id>1068</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/fastfunbox-hd.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4752,7 +4753,7 @@
 		<tv_channel>
 			<caption>NHL Network HD</caption>
 			<channel_id>bigteisti1/nhl</channel_id>
-			<epg_id>nhl</epg_id>
+			<epg_id>1076</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/nhl.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4781,7 +4782,7 @@
 		<tv_channel>
 			<caption>Canal+ Sport 1 PL</caption>
 			<channel_id>bigteisti13/Y2FuYWxfcGx1c19zcG9ydF8x</channel_id>
-			<epg_id>canal-pl-sport-1</epg_id>
+			<epg_id>1103</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/canal-pl-sport.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4789,7 +4790,7 @@
 		<tv_channel>
 			<caption>Canal+ Sport 2 PL</caption>
 			<channel_id>bigteisti13/Y2FuYWxfcGx1c19zcG9ydF8y</channel_id>
-			<epg_id>canal-pl-sport-2</epg_id>
+			<epg_id>1104</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/canal-pl-sport-2.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4797,7 +4798,7 @@
 		<tv_channel>
 			<caption>Canal+ Sport 3 PL</caption>
 			<channel_id>bigteisti13/Y2FuYWxfcGx1c19zcG9ydF8z</channel_id>
-			<epg_id>canal-pl-sport-3</epg_id>
+			<epg_id>1105</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/canal-pl-sport-3.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4805,7 +4806,7 @@
 		<tv_channel>
 			<caption>Canal+ Sport 4 PL</caption>
 			<channel_id>bigteisti13/Y2FuYWxfcGx1c19zcG9ydF80</channel_id>
-			<epg_id>canal-pl-sport-4</epg_id>
+			<epg_id>1106</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/canal-pl-sport-4.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4813,7 +4814,7 @@
 		<tv_channel>
 			<caption>Fox Sport 1</caption>
 			<channel_id>bigteisti13/Zm94X3Nwb3J0XzE</channel_id>
-			<epg_id>4558</epg_id>
+			<epg_id>1110</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/fs1.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4821,7 +4822,7 @@
 		<tv_channel>
 			<caption>Fox Sport 2</caption>
 			<channel_id>bigteisti13/Zm94X3Nwb3J0XzI</channel_id>
-			<epg_id>4559</epg_id>
+			<epg_id>1111</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/fs2.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4829,7 +4830,7 @@
 		<tv_channel>
 			<caption>ESPN HD</caption>
 			<channel_id>bigteisti13/ZXNwbl9oZF9zcG9ydA</channel_id>
-			<epg_id>ESPN (US)</epg_id>
+			<epg_id>1101</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/espn.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4837,7 +4838,7 @@
 		<tv_channel>
 			<caption>ESPN 2</caption>
 			<channel_id>bigteisti13/ZXNwbl8yX3Nwb3J0</channel_id>
-			<epg_id>ESPN 2 (US)</epg_id>
+			<epg_id>1102</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/espn2.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4845,21 +4846,21 @@
 		<tv_channel>
 			<caption>DAZN 1 HD</caption>
 			<channel_id>bigteisti3/dazn_1_hd</channel_id>
-			<epg_id>daznbar1</epg_id>
+			<epg_id>1094</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/daznbar1.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>DAZN 2 HD</caption>
 			<channel_id>bigteisti3/dazn_2_hd</channel_id>
-			<epg_id>daznbar2</epg_id>
+			<epg_id>1095</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/daznbar2.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>BT Sport 1</caption>
 			<channel_id>bigteisti13/YnRfc3BvcnRfMQ</channel_id>
-			<epg_id>bt-sport1</epg_id>
+			<epg_id>1089</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/bt-sport1.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4867,7 +4868,7 @@
 		<tv_channel>
 			<caption>BT Sport 2</caption>
 			<channel_id>bigteisti13/YnRfc3BvcnRfMg</channel_id>
-			<epg_id>bt-sport2</epg_id>
+			<epg_id>1090</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/bt-sport2.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4875,7 +4876,7 @@
 		<tv_channel>
 			<caption>BT Sport 3</caption>
 			<channel_id>bigteisti13/YnRfc3BvcnRfMw</channel_id>
-			<epg_id>bt-sport3</epg_id>
+			<epg_id>1091</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/bt-sport3.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4883,7 +4884,7 @@
 		<tv_channel>
 			<caption>BT Sport ESPN</caption>
 			<channel_id>bigteisti13/YnRfc3BvcnRfZXNwbg</channel_id>
-			<epg_id>bt-sport-espn</epg_id>
+			<epg_id>1092</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/bt-sport-espn.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4891,7 +4892,7 @@
 		<tv_channel>
 			<caption>Polsat Sport</caption>
 			<channel_id>bigteisti13/cG9sc2F0X3Nwb3J0X2hk</channel_id>
-			<epg_id>polsat-sport</epg_id>
+			<epg_id>1120</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/polsat-sport.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4899,7 +4900,7 @@
 		<tv_channel>
 			<caption>Polsat Sport Fight</caption>
 			<channel_id>bigteisti13/cG9sc2F0X3Nwb3J0X2ZpZ2h0</channel_id>
-			<epg_id>polsat-sport-fight</epg_id>
+			<epg_id>1122</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/polsat-sport-fight.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4907,7 +4908,7 @@
 		<tv_channel>
 			<caption>Polsat Sport News</caption>
 			<channel_id>bigteisti13/cG9sc2F0X3Nwb3J0X25ld3M</channel_id>
-			<epg_id>polsat-sport-news</epg_id>
+			<epg_id>1123</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/polsat-sport-news.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4915,7 +4916,7 @@
 		<tv_channel>
 			<caption>Polsat Sport Extra</caption>
 			<channel_id>bigteisti13/cG9sc2F0X3Nwb3J0X2V4dHJh</channel_id>
-			<epg_id>polsat-sport-extra</epg_id>
+			<epg_id>1121</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/polsat-sport-extra.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4923,7 +4924,7 @@
 		<tv_channel>
 			<caption>Polsat Sport Premium 1</caption>
 			<channel_id>bigteisti13/cG9sc2F0X3Nwb3J0X3ByZW1pdW1fMQ</channel_id>
-			<epg_id>polsat-sport-pr1</epg_id>
+			<epg_id>1124</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/polsat-sport-pr1.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4931,7 +4932,7 @@
 		<tv_channel>
 			<caption>Polsat Sport Premium 2</caption>
 			<channel_id>bigteisti13/cG9sc2F0X3Nwb3J0X3ByZW1pdW1fMg</channel_id>
-			<epg_id>polsat-sport-pr2</epg_id>
+			<epg_id>1125</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/polsat-sport-pr2.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4939,14 +4940,14 @@
 		<tv_channel>
 			<caption>SuperTennis</caption>
 			<channel_id>bigteisti6/c3VwZXJ0ZW5uaXM</channel_id>
-			<epg_id>supertennis</epg_id>
+			<epg_id>1079</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/supertennis.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>DAZN F1</caption>
 			<channel_id>bigteisti13/bW92aXN0YXJfZm9ybXVsYV8x</channel_id>
-			<epg_id>5088</epg_id>
+			<epg_id>1131</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/daznf1.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4954,7 +4955,7 @@
 		<tv_channel>
 			<caption>BeIN Sport 1</caption>
 			<channel_id>bigteisti13/YmVpbl9zcG9ydHNfMQ</channel_id>
-			<epg_id>bein-sport-1</epg_id>
+			<epg_id>1096</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/bein-sport-1.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4962,7 +4963,7 @@
 		<tv_channel>
 			<caption>BeIN Sport 2</caption>
 			<channel_id>bigteisti13/YmVpbl9zcG9ydHNfMg</channel_id>
-			<epg_id>bein-sport-2</epg_id>
+			<epg_id>1097</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/bein-sport-2.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4970,7 +4971,7 @@
 		<tv_channel>
 			<caption>BeIN Sport 3</caption>
 			<channel_id>bigteisti13/YmVpbl9zcG9ydHNfMw</channel_id>
-			<epg_id>bein-sport-3</epg_id>
+			<epg_id>1098</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/bein-sport-3.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4978,7 +4979,7 @@
 		<tv_channel>
 			<caption>Eleven Sports 1</caption>
 			<channel_id>bigteisti13/ZWxldmVuX3Nwb3J0c18xX1BM</channel_id>
-			<epg_id>eleven-sports-1</epg_id>
+			<epg_id>1116</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/eleven-sports-1.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4986,7 +4987,7 @@
 		<tv_channel>
 			<caption>Eleven Sports 2</caption>
 			<channel_id>bigteisti13/ZWxldmVuX3Nwb3J0c18yX1BM</channel_id>
-			<epg_id>eleven-sports-2</epg_id>
+			<epg_id>1117</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/eleven-sports-2.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -4994,7 +4995,7 @@
 		<tv_channel>
 			<caption>Eleven Sports 3</caption>
 			<channel_id>bigteisti13/ZWxldmVuX3Nwb3J0c18zX1BM</channel_id>
-			<epg_id>eleven-sports-3</epg_id>
+			<epg_id>1118</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/eleven-sports-3.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5002,7 +5003,7 @@
 		<tv_channel>
 			<caption>Eleven Sports 4</caption>
 			<channel_id>bigteisti13/ZWxldmVuX3Nwb3J0c180X1BM</channel_id>
-			<epg_id>eleven-sports-4</epg_id>
+			<epg_id>1119</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/eleven-sports-4.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5010,14 +5011,14 @@
 		<tv_channel>
 			<caption>Q Sport League HD</caption>
 			<channel_id>bigteisti3/qsport_qaz</channel_id>
-			<epg_id>q-sport-ext</epg_id>
+			<epg_id>1132</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/q-sport-ext.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>SPORTDIGITAL FUSSBALL (DE)</caption>
 			<channel_id>bigteisti8/SPORTDIGITAL_DE</channel_id>
-			<epg_id>sportdigital-fussball</epg_id>
+			<epg_id>1133</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/DE/sportdigital-fussball.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5040,49 +5041,49 @@
 		<tv_channel>
 			<caption>Sport 1 HD IL</caption>
 			<channel_id>bigteisti3/SPORT_1_IL</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>1072</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/sport1il.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport 2 HD IL</caption>
 			<channel_id>bigteisti3/SPORT_2_IL</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>1073</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/sport2il.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport 3 IL</caption>
 			<channel_id>bigteisti3/SPORT_3_IL</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>1074</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/sport3il.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport 4 HD IL</caption>
 			<channel_id>bigteisti3/SPORT_4_IL</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>1075</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/sport4il.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport 5 HD IL</caption>
 			<channel_id>bigteisti3/SPORT_5_IL</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>1128</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/5sport.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport 5 Gold IL</caption>
 			<channel_id>bigteisti3/SPORT_5_GOLD_IL</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>1127</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/5gold.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport 5 Live IL</caption>
 			<channel_id>bigteisti3/SPORT_5_LIVE_IL</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>1129</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/baltic/filmzone-plus.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
@@ -5120,7 +5121,7 @@
 		<tv_channel>
 			<caption>Setanta Sports HD MD</caption>
 			<channel_id>bigteisti8/Setanta_plus_MD</channel_id>
-			<epg_id>2370</epg_id>
+			<epg_id>1099</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/setanta-ua.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5136,7 +5137,7 @@
 		<tv_channel>
 			<caption>ViP Sport Fint GA 1</caption>
 			<channel_id>bigteisti1/PROKOP_FINT_GA_1</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5144,7 +5145,7 @@
 		<tv_channel>
 			<caption>ViP Sport Fint GA 2</caption>
 			<channel_id>bigteisti1/PROKOP_FINT_GA_2</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5152,7 +5153,7 @@
 		<tv_channel>
 			<caption>ViP Sport Fint GA 3</caption>
 			<channel_id>bigteisti1/PROKOP_FINT_GA_3</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5160,7 +5161,7 @@
 		<tv_channel>
 			<caption>ViP Sport Fint GA 4</caption>
 			<channel_id>bigteisti1/PROKOP_FINT_GA_4</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5168,7 +5169,7 @@
 		<tv_channel>
 			<caption>ViP Sport Pimple TV 1</caption>
 			<channel_id>bigteisti1/PROKOP_PIMPLE_TV_1</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5176,7 +5177,7 @@
 		<tv_channel>
 			<caption>ViP Sport Pimple TV 2</caption>
 			<channel_id>bigteisti1/PROKOP_PIMPLE_TV_2</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5184,7 +5185,7 @@
 		<tv_channel>
 			<caption>ViP Sport Pimple TV 3</caption>
 			<channel_id>bigteisti1/PROKOP_PIMPLE_TV_3</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5192,7 +5193,7 @@
 		<tv_channel>
 			<caption>ViP Sport Pimple TV 4</caption>
 			<channel_id>bigteisti1/PROKOP_PIMPLE_TV_4</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5200,7 +5201,7 @@
 		<tv_channel>
 			<caption>ViP Sport Pimple TV 5</caption>
 			<channel_id>bigteisti1/PROKOP_PIMPLE_TV_5</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5208,7 +5209,7 @@
 		<tv_channel>
 			<caption>ViP Sport Online 1</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_1</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5216,7 +5217,7 @@
 		<tv_channel>
 			<caption>ViP Sport Online 2</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_2</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5224,7 +5225,7 @@
 		<tv_channel>
 			<caption>ViP Sport Online 3</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_3</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5232,7 +5233,7 @@
 		<tv_channel>
 			<caption>ViP Sport Online 4</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_4</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5240,7 +5241,7 @@
 		<tv_channel>
 			<caption>ViP Sport Online 5</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_5</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5248,7 +5249,7 @@
 		<tv_channel>
 			<caption>ViP Sport Online 6</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_6</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5256,7 +5257,7 @@
 		<tv_channel>
 			<caption>ViP Sport Online 7</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_7</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5264,7 +5265,7 @@
 		<tv_channel>
 			<caption>ViP Sport Online 8</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_8</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5272,7 +5273,7 @@
 		<tv_channel>
 			<caption>ViP Sport Online 9</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_9</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5280,7 +5281,7 @@
 		<tv_channel>
 			<caption>ViP Sport Online 10</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_10</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5288,7 +5289,7 @@
 		<tv_channel>
 			<caption>ViP Sport Online 11</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_11</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5296,7 +5297,7 @@
 		<tv_channel>
 			<caption>ViP Sport Online 12</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_12</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5304,7 +5305,7 @@
 		<tv_channel>
 			<caption>ViP Sport Online 13</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_13</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5312,7 +5313,7 @@
 		<tv_channel>
 			<caption>ViP Sport Vital 1</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_14</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5320,7 +5321,7 @@
 		<tv_channel>
 			<caption>ViP Sport Vital 2</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_15</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5328,7 +5329,7 @@
 		<tv_channel>
 			<caption>ViP Sport Vital 3</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_16</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5336,7 +5337,7 @@
 		<tv_channel>
 			<caption>ViP Sport Vital 4</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_17</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5344,7 +5345,7 @@
 		<tv_channel>
 			<caption>ViP Sport Vital 5</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_18</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5352,7 +5353,7 @@
 		<tv_channel>
 			<caption>ViP Sport Vital 6</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_19</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5360,7 +5361,7 @@
 		<tv_channel>
 			<caption>ViP Sport Pimple TV 6</caption>
 			<channel_id>bigteisti1/PROKOP_SPORT_ONLINE_20</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/vipsport.jpg</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5368,7 +5369,7 @@
 		<tv_channel>
 			<caption>Окко Спорт HD</caption>
 			<channel_id>bigteisti2/okko_sport</channel_id>
-			<epg_id>okko-sport</epg_id>
+			<epg_id>1130</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/sldkfwefsderfgiqS.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5376,7 +5377,7 @@
 		<tv_channel>
 			<caption>Setanta Sports Baltic HD</caption>
 			<channel_id>bigteisti2/SETANTA_SPORTS_BALTIC</channel_id>
-			<epg_id>setanta1-lt</epg_id>
+			<epg_id>1099</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/setanta1-lt.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5384,7 +5385,7 @@
 		<tv_channel>
 			<caption>Sport 1 Baltic</caption>
 			<channel_id>bigteisti2/SPORTS_1_BALTIC</channel_id>
-			<epg_id>sport1-baltic</epg_id>
+			<epg_id>1087</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/sport1-baltic.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5392,7 +5393,7 @@
 		<tv_channel>
 			<caption>Sport 2 Baltic</caption>
 			<channel_id>bigteisti2/SPORTS_2_BALTIC</channel_id>
-			<epg_id>sport2-baltic</epg_id>
+			<epg_id>1088</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/sport2-baltic.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5400,7 +5401,7 @@
 		<tv_channel>
 			<caption>Diema Sport 1 HD</caption>
 			<channel_id>bigteisti2/DIEMA_SPORTS_1_HD</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>1107</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/diema-sport.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5408,7 +5409,7 @@
 		<tv_channel>
 			<caption>Diema Sport 2 HD</caption>
 			<channel_id>bigteisti2/DIEMA_SPORTS_2_HD</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>1108</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/diema-sport-2.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5416,7 +5417,7 @@
 		<tv_channel>
 			<caption>Diema Sport 3 HD</caption>
 			<channel_id>bigteisti2/DIEMA_SPORTS_3_HD</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>1109</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/diema-sport-3.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5424,18 +5425,18 @@
 		<tv_channel>
 			<caption>Setanta Sports 1 HD Georgia</caption>
 			<channel_id>bigteisti2/08936903</channel_id>
-			<epg_id>setanta1-ge</epg_id>
+			<epg_id>798</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/setanta1-ge.png</icon_url>
 			<tv_category_id>12</tv_category_id>
-			<archive>1</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Setanta Sports 2 HD Georgia</caption>
 			<channel_id>bigteisti2/08936902</channel_id>
-			<epg_id>setanta2-ge</epg_id>
+			<epg_id>799</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/setanta2-ge.png</icon_url>
 			<tv_category_id>12</tv_category_id>
-			<archive>1</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч! Премьер HD orig</caption>
@@ -5448,7 +5449,7 @@
 		<tv_channel>
 			<caption>Go3 Sport 3 HD</caption>
 			<channel_id>bigteisti9/08936901</channel_id>
-			<epg_id>tv3-sport-3</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/tv3-sport-3.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5456,7 +5457,7 @@
 		<tv_channel>
 			<caption>Go3 Sport 4 HD</caption>
 			<channel_id>bigteisti9/08936902</channel_id>
-			<epg_id>6699</epg_id>
+			<epg_id>1086</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/tv3-sport-4.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>1</archive>
@@ -5472,42 +5473,42 @@
 		<tv_channel>
 			<caption>Суспильне Спорт HD</caption>
 			<channel_id>bigteisti8/08936908</channel_id>
-			<epg_id>suspilne-sport-ua</epg_id>
+			<epg_id>1093</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/suspilne-sport-ua.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>DIGI Sport 1 HD</caption>
 			<channel_id>bigteisti8/08936904</channel_id>
-			<epg_id>digisport1</epg_id>
+			<epg_id>1112</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/digisport1.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>DIGI Sport 2 HD</caption>
 			<channel_id>bigteisti8/08936905</channel_id>
-			<epg_id>digisport2</epg_id>
+			<epg_id>1113</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/digisport2.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>DIGI Sport 3 HD</caption>
 			<channel_id>bigteisti8/08936906</channel_id>
-			<epg_id>digisport3</epg_id>
+			<epg_id>1114</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/digisport3.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>DIGI Sport 4 HD</caption>
 			<channel_id>bigteisti8/08936907</channel_id>
-			<epg_id>digisport4</epg_id>
+			<epg_id>1115</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/digisport4.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>One 2 IL</caption>
 			<channel_id>bigteisti3/08936909</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>1100</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/region/one-2-il.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 		</tv_channel>
@@ -5578,7 +5579,7 @@
 		<tv_channel>
 			<caption>MyZen 4K</caption>
 			<channel_id>bigteisti9/myzen_4k</channel_id>
-			<epg_id>myzen-tv</epg_id>
+			<epg_id>1134</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/uhd/myzen-tv.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
@@ -5615,7 +5616,7 @@
 		<tv_channel>
 			<caption>Love Nature 4K</caption>
 			<channel_id>bigteisti6/Love_Nature_4K</channel_id>
-			<epg_id>love-nature-4k</epg_id>
+			<epg_id>1135</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/uhd/love-nature-4k.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 			<archive>1</archive>
@@ -5631,7 +5632,7 @@
 		<tv_channel>
 			<caption>Сериал UHD</caption>
 			<channel_id>bigteisti6/seriAl_UHD</channel_id>
-			<epg_id>serial-ultrahd</epg_id>
+			<epg_id>1136</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/uhd/serial-ultrahd.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 			<archive>1</archive>
@@ -5639,7 +5640,7 @@
 		<tv_channel>
 			<caption>Кино UHD</caption>
 			<channel_id>bigteisti6/kino_UHD</channel_id>
-			<epg_id>kino-ultra-hd</epg_id>
+			<epg_id>1137</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/uhd/kinouhd.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 			<archive>1</archive>
@@ -5655,14 +5656,14 @@
 		<tv_channel>
 			<caption>NASA UHD</caption>
 			<channel_id>bigteisti2/NASA_UHD</channel_id>
-			<epg_id>nasa4k</epg_id>
+			<epg_id>567</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/uhd/nasa4k.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Eleven Sports 1 4K PL</caption>
 			<channel_id>bigteisti8/SKY_SPORT_BUNDESLIGA_UHD</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>1116</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/DE/sky-sport-bl1.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
@@ -5676,7 +5677,7 @@
 		<tv_channel>
 			<caption>Rai 4K</caption>
 			<channel_id>bigteisti8/UHD_1_DE</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/uhd/rai4k.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 			<archive>1</archive>
@@ -5684,7 +5685,7 @@
 		<tv_channel>
 			<caption>TRT 4K</caption>
 			<channel_id>bigteisti9/TRT_4K</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/turk/TRT_4K.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
@@ -5714,7 +5715,7 @@
 		<tv_channel>
 			<caption>FUNBOX UHD</caption>
 			<channel_id>bigteisti13/FUNBOX_UHD</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>579</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/uhd/funboxuhd.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 			<archive>1</archive>
@@ -5729,14 +5730,14 @@
 		<tv_channel>
 			<caption>Sport 5 4K IL</caption>
 			<channel_id>bigteisti8/08936902</channel_id>
-			<epg_id>yes-sport-5-4k</epg_id>
+			<epg_id>1126</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/yes-sport-5-4k.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>DIGI 4K</caption>
 			<channel_id>bigteisti8/08936903</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>1138</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/region/digi4k.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
