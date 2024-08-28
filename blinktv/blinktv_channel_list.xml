@@ -1,0 +1,5031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv_info>
+	<version_info>
+		<list_version>8</list_version>
+	</version_info>
+	<tv_categories>
+		<tv_category>
+			<id>1</id>
+			<caption>Федеральные | Federal</caption>
+			<icon_url>plugin_file://icons/categories/1.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>2</id>
+			<caption>Информационные | Information</caption>
+			<icon_url>plugin_file://icons/categories/4.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>3</id>
+			<caption>Киноканалы | Movie channels</caption>
+			<icon_url>plugin_file://icons/categories/2.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>4</id>
+			<caption>Кинотеатры | Cinemas</caption>
+			<icon_url>plugin_file://icons/categories/kinozal.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>5</id>
+			<caption>Спортивные | Sports</caption>
+			<icon_url>plugin_file://icons/categories/6.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>6</id>
+			<caption>Познавательные | Educational</caption>
+			<icon_url>plugin_file://icons/categories/22.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>7</id>
+			<caption>Музыкальные | Musical</caption>
+			<icon_url>plugin_file://icons/categories/3.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>8</id>
+			<caption>Детские | Childish</caption>
+			<icon_url>plugin_file://icons/categories/7.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>9</id>
+			<caption>Развлекательные | Entertainment</caption>
+			<icon_url>plugin_file://icons/categories/8.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>10</id>
+			<caption>Международные | International</caption>
+			<icon_url>plugin_file://icons/categories/14.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>11</id>
+			<caption>Региональные | Regional</caption>
+			<icon_url>plugin_file://icons/categories/20.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>12</id>
+			<caption>Порно Каналы | Porn Channels 18+</caption>
+			<icon_url>plugin_file://icons/categories/33.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>32798</id>
+			<caption>Favorites</caption>
+			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
+			<special_group>##favorites##</special_group>
+		</tv_category>
+		<tv_category>
+			<id>32807</id>
+			<caption>All Channels</caption>
+			<icon_url>plugin_file://icons/categories/all.png</icon_url>
+			<special_group>##all_channels##</special_group>
+		</tv_category>
+		<tv_category>
+			<id>32808</id>
+			<caption>History</caption>
+			<icon_url>plugin_file://icons/categories/history.png</icon_url>
+			<special_group>##playback_history_tv_group##</special_group>
+		</tv_category>
+	</tv_categories>
+	<tv_channels>
+		<tv_channel>
+			<caption>Первый канал HD</caption>
+			<channel_id>Perviy</channel_id>
+			<epg_id>146</epg_id>
+			<icon_url>https://blinktv.cc/ico/PERVIYKANALHD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый канал</caption>
+			<channel_id>Perviyksd</channel_id>
+			<epg_id>146</epg_id>
+			<icon_url>https://blinktv.cc/ico/Perviyyy.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый канал (+4)</caption>
+			<channel_id>Perviy4</channel_id>
+			<epg_id>3026</epg_id>
+			<icon_url>https://blinktv.cc/ico/Pervi4.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 1 HD</caption>
+			<channel_id>Russia1hd</channel_id>
+			<epg_id>711</epg_id>
+			<icon_url>https://blinktv.cc/ico/ROSSIYA1HD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 1</caption>
+			<channel_id>rossiya1</channel_id>
+			<epg_id>711</epg_id>
+			<icon_url>https://blinktv.cc/ico/Russia.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 1 (+4)</caption>
+			<channel_id>Rossiyaplu4</channel_id>
+			<epg_id>3001</epg_id>
+			<icon_url>https://blinktv.cc/ico/Russian4.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ HD</caption>
+			<channel_id>NtvHd</channel_id>
+			<epg_id>162</epg_id>
+			<icon_url>https://blinktv.cc/ico/NTVHD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ</caption>
+			<channel_id>Ntvsd</channel_id>
+			<epg_id>162</epg_id>
+			<icon_url>https://blinktv.cc/ico/Ntvsd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ (+4)</caption>
+			<channel_id>Ntv4</channel_id>
+			<epg_id>2964</epg_id>
+			<icon_url>https://blinktv.cc/ico/Ntv4.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Рен ТВ HD</caption>
+			<channel_id>Rentvhd</channel_id>
+			<epg_id>18</epg_id>
+			<icon_url>https://blinktv.cc/ico/RENTVHD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Рен ТВ</caption>
+			<channel_id>Rentvsd</channel_id>
+			<epg_id>18</epg_id>
+			<icon_url>https://blinktv.cc/ico/Yvrvhy6.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВЦ</caption>
+			<channel_id>Tvc</channel_id>
+			<epg_id>649</epg_id>
+			<icon_url>https://blinktv.cc/ico/TVC.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звезда HD</caption>
+			<channel_id>ZvezdaHD</channel_id>
+			<epg_id>405</epg_id>
+			<icon_url>https://blinktv.cc/ico/ZVEZDAHD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звезда</caption>
+			<channel_id>zvezda</channel_id>
+			<epg_id>405</epg_id>
+			<icon_url>https://blinktv.cc/ico/ZVEZDAHD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звезда Плюс HD</caption>
+			<channel_id>ZvezdaPlusHD</channel_id>
+			<epg_id>4661</epg_id>
+			<icon_url>https://blinktv.cc/ico/ZVEZDAPLUSHD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звезда Плюс</caption>
+			<channel_id>ZvezdaPlus</channel_id>
+			<epg_id>4661</epg_id>
+			<icon_url>https://blinktv.cc/ico/ZVEZDAPLUSHD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Че!</caption>
+			<channel_id>Che</channel_id>
+			<epg_id>1598</epg_id>
+			<icon_url>https://blinktv.cc/ico/Che.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Перец International</caption>
+			<channel_id>Perec</channel_id>
+			<epg_id>5651</epg_id>
+			<icon_url>https://blinktv.cc/ico/PeretsInternational.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>МИР HD</caption>
+			<channel_id>mir</channel_id>
+			<epg_id>726</epg_id>
+			<icon_url>https://blinktv.cc/ico/MIR.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС HD</caption>
+			<channel_id>Stshd</channel_id>
+			<epg_id>79</epg_id>
+			<icon_url>https://blinktv.cc/ico/STSHD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС</caption>
+			<channel_id>Stssd</channel_id>
+			<epg_id>79</epg_id>
+			<icon_url>https://blinktv.cc/ico/STSHD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС Love</caption>
+			<channel_id>sts_love</channel_id>
+			<epg_id>СТС Love</epg_id>
+			<icon_url>https://blinktv.cc/ico/sts-love.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ HD</caption>
+			<channel_id>Tnthd</channel_id>
+			<epg_id>353</epg_id>
+			<icon_url>https://blinktv.cc/ico/TNTHD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ</caption>
+			<channel_id>Tntsd</channel_id>
+			<epg_id>353</epg_id>
+			<icon_url>https://blinktv.cc/ico/Tnt.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ (+4)</caption>
+			<channel_id>tntplus4</channel_id>
+			<epg_id>3023</epg_id>
+			<icon_url>https://blinktv.cc/ico/tntplus4.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ4 HD</caption>
+			<channel_id>Tnt4hd</channel_id>
+			<epg_id>1649</epg_id>
+			<icon_url>https://blinktv.cc/ico/TNT4HD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ4</caption>
+			<channel_id>tnt4sd</channel_id>
+			<epg_id>1649</epg_id>
+			<icon_url>https://blinktv.cc/ico/TNT4HD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ4 (+4)</caption>
+			<channel_id>tnt4plus4</channel_id>
+			<epg_id>1649</epg_id>
+			<icon_url>https://blinktv.cc/ico/TNT4HD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятница! HD</caption>
+			<channel_id>Pyatnicahd</channel_id>
+			<epg_id>Пятница! HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/PYATNICAHD.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятница!</caption>
+			<channel_id>Fridaysd</channel_id>
+			<epg_id>1003</epg_id>
+			<icon_url>https://blinktv.cc/ico/Friday1233.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Суббота HD</caption>
+			<channel_id>subbota</channel_id>
+			<epg_id>2288</epg_id>
+			<icon_url>https://blinktv.cc/ico/subbota.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Суббота</caption>
+			<channel_id>Subbota11</channel_id>
+			<epg_id>2288</epg_id>
+			<icon_url>https://blinktv.cc/ico/subbota.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ю HD</caption>
+			<channel_id>you</channel_id>
+			<epg_id>898</epg_id>
+			<icon_url>https://blinktv.cc/ico/Utv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ю</caption>
+			<channel_id>Utv</channel_id>
+			<epg_id>898</epg_id>
+			<icon_url>https://blinktv.cc/ico/Utv.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний HD</caption>
+			<channel_id>Homedh</channel_id>
+			<epg_id>304</epg_id>
+			<icon_url>https://blinktv.cc/ico/domashny.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний</caption>
+			<channel_id>Domsd</channel_id>
+			<epg_id>304</epg_id>
+			<icon_url>https://blinktv.cc/ico/domashny.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ3 HD</caption>
+			<channel_id>tv3</channel_id>
+			<epg_id>698</epg_id>
+			<icon_url>https://blinktv.cc/ico/Tv3.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ3</caption>
+			<channel_id>Tv3sd</channel_id>
+			<epg_id>698</epg_id>
+			<icon_url>https://blinktv.cc/ico/Tv3.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КВН ТВ</caption>
+			<channel_id>Kvn</channel_id>
+			<epg_id>1700</epg_id>
+			<icon_url>https://blinktv.cc/ico/Cvn.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ОТР</caption>
+			<channel_id>otr</channel_id>
+			<epg_id>1000</epg_id>
+			<icon_url>https://blinktv.cc/ico/OTR.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятый канал</caption>
+			<channel_id>5canalru</channel_id>
+			<epg_id>427</epg_id>
+			<icon_url>https://blinktv.cc/ico/PYATIYKANAL.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сарафан</caption>
+			<channel_id>sarafan</channel_id>
+			<epg_id>663</epg_id>
+			<icon_url>https://blinktv.cc/ico/Sarafan.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия-Культура</caption>
+			<channel_id>russiak</channel_id>
+			<epg_id>187</epg_id>
+			<icon_url>https://blinktv.cc/ico/ROSSIYAK.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Красная линия</caption>
+			<channel_id>krasnoelinii</channel_id>
+			<epg_id>Красная линия</epg_id>
+			<icon_url>https://blinktv.cc/ico/Krasnoin.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>360 HD</caption>
+			<channel_id>360hd</channel_id>
+			<epg_id>2265</epg_id>
+			<icon_url>https://blinktv.cc/ico/360hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 24</caption>
+			<channel_id>Rossiya24</channel_id>
+			<epg_id>1683</epg_id>
+			<icon_url>https://blinktv.cc/ico/ROSSIYA24.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дождь HD</caption>
+			<channel_id>Dozhd</channel_id>
+			<epg_id>2399</epg_id>
+			<icon_url>https://blinktv.cc/ico/DOJD.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дождь</caption>
+			<channel_id>Rainf</channel_id>
+			<epg_id>2399</epg_id>
+			<icon_url>https://blinktv.cc/ico/DOJD.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>РБК HD</caption>
+			<channel_id>rbk</channel_id>
+			<epg_id>146</epg_id>
+			<icon_url>https://blinktv.cc/ico/RBK.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RTVI HD</caption>
+			<channel_id>RTVI</channel_id>
+			<epg_id>2401</epg_id>
+			<icon_url>https://blinktv.cc/ico/RTVi.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Euronews</caption>
+			<channel_id>Euronews</channel_id>
+			<epg_id>2266</epg_id>
+			<icon_url>https://blinktv.cc/ico/EuronewsRus.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>France 24 HD</caption>
+			<channel_id>France_24_HD</channel_id>
+			<epg_id>2127</epg_id>
+			<icon_url>https://blinktv.cc/ico/France24.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Москва 24</caption>
+			<channel_id>msc24</channel_id>
+			<epg_id>Москва 24</epg_id>
+			<icon_url>https://blinktv.cc/ico/Moscow24.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>360 Новости HD</caption>
+			<channel_id>360n</channel_id>
+			<epg_id>360-news</epg_id>
+			<icon_url>https://blinktv.cc/ico/360newsHD.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Deutsche Welle</caption>
+			<channel_id>DW</channel_id>
+			<epg_id>deutsche-welle-eu</epg_id>
+			<icon_url>https://blinktv.cc/ico/Deutschwelle.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>МИР 24 HD</caption>
+			<channel_id>mir24</channel_id>
+			<epg_id>МИР 24 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Mir24.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Настоящее время HD</caption>
+			<channel_id>nast_vremia</channel_id>
+			<epg_id>Настоящее время HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/nastvremia.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Известия HD</caption>
+			<channel_id>izvestia</channel_id>
+			<epg_id>2271</epg_id>
+			<icon_url>https://blinktv.cc/ico/Izvest.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Вместе-РФ FHD</caption>
+			<channel_id>vmesterf</channel_id>
+			<epg_id>2398</epg_id>
+			<icon_url>https://blinktv.cc/ico/Vmesterf.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дума ТВ</caption>
+			<channel_id>duma_tv</channel_id>
+			<epg_id>Дума ТВ</epg_id>
+			<icon_url>https://blinktv.cc/ico/dumatv.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ЛДПР ТВ</caption>
+			<channel_id>ldprtv</channel_id>
+			<epg_id>2465</epg_id>
+			<icon_url>https://blinktv.cc/ico/ldpr.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Соловьёв LIVE HD</caption>
+			<channel_id>solo_live</channel_id>
+			<epg_id>Соловьёв LIVE HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Soloviev.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RT Doc HD</caption>
+			<channel_id>rtdov</channel_id>
+			<epg_id>2295</epg_id>
+			<icon_url>https://blinktv.cc/ico/Rtdochd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RT Doc</caption>
+			<channel_id>rt-news</channel_id>
+			<epg_id>2295</epg_id>
+			<icon_url>https://blinktv.cc/ico/Rtdoc.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еспресо TV</caption>
+			<channel_id>Ratnik_HD</channel_id>
+			<epg_id>2096</epg_id>
+			<icon_url>https://blinktv.cc/ico/2096.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинопремьера HD</caption>
+			<channel_id>kinopremierahd</channel_id>
+			<epg_id>566</epg_id>
+			<icon_url>https://blinktv.cc/ico/KinopremiereHD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинохит HD</caption>
+			<channel_id>kinoxit</channel_id>
+			<epg_id>542</epg_id>
+			<icon_url>https://blinktv.cc/ico/kinoxit.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинохит</caption>
+			<channel_id>kinohitt</channel_id>
+			<epg_id>542</epg_id>
+			<icon_url>https://blinktv.cc/ico/kinoxit.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киноужас HD</caption>
+			<channel_id>kinoujashd</channel_id>
+			<epg_id>2493</epg_id>
+			<icon_url>https://blinktv.cc/ico/KINOUJASHD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносвидание HD</caption>
+			<channel_id>kinosvidaniye</channel_id>
+			<epg_id>462</epg_id>
+			<icon_url>https://blinktv.cc/ico/kinosvidanie.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносвидание</caption>
+			<channel_id>Kinosvidaniee</channel_id>
+			<epg_id>462</epg_id>
+			<icon_url>https://blinktv.cc/ico/kinosvidanie.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинокомедия HD</caption>
+			<channel_id>kinokomediyahd</channel_id>
+			<epg_id>821</epg_id>
+			<icon_url>https://blinktv.cc/ico/Kinocomedi.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинокомедия</caption>
+			<channel_id>Kinokemedyyy</channel_id>
+			<epg_id>821</epg_id>
+			<icon_url>https://blinktv.cc/ico/Kinocomedi.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносемья HD</caption>
+			<channel_id>kinosemhfd</channel_id>
+			<epg_id>987</epg_id>
+			<icon_url>https://blinktv.cc/ico/KINOSEMYA.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносемья</caption>
+			<channel_id>Kinofamilyy</channel_id>
+			<epg_id>987</epg_id>
+			<icon_url>https://blinktv.cc/ico/KINOSEMYA.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киномикс HD</caption>
+			<channel_id>kinomikshd</channel_id>
+			<epg_id>644</epg_id>
+			<icon_url>https://blinktv.cc/ico/Kinmix.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киномикс</caption>
+			<channel_id>Kinomiksss</channel_id>
+			<epg_id>644</epg_id>
+			<icon_url>https://blinktv.cc/ico/Kinmix.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносерия HD</caption>
+			<channel_id>kinoseriyahd</channel_id>
+			<epg_id>799</epg_id>
+			<icon_url>https://blinktv.cc/ico/Kinser.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносерия</caption>
+			<channel_id>Kinoseriyya</channel_id>
+			<epg_id>799</epg_id>
+			<icon_url>https://blinktv.cc/ico/Kinser.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мужское кино HD</caption>
+			<channel_id>MujskoeKinoHD</channel_id>
+			<epg_id>1584</epg_id>
+			<icon_url>https://blinktv.cc/ico/Mujkino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мужское кино</caption>
+			<channel_id>Mijkinooo</channel_id>
+			<epg_id>1584</epg_id>
+			<icon_url>https://blinktv.cc/ico/Mujkino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше Новое Кино HD</caption>
+			<channel_id>nasnokihd</channel_id>
+			<epg_id>485</epg_id>
+			<icon_url>https://blinktv.cc/ico/Nashehd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше Новое Кино</caption>
+			<channel_id>NasheNovoeKinoHD</channel_id>
+			<epg_id>485</epg_id>
+			<icon_url>https://blinktv.cc/ico/Nashehd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Победа HD</caption>
+			<channel_id>shokhd</channel_id>
+			<epg_id>2447</epg_id>
+			<icon_url>https://blinktv.cc/ico/Pobeda.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>День Победы HD</caption>
+			<channel_id>Pobedahd</channel_id>
+			<epg_id>2773</epg_id>
+			<icon_url>https://blinktv.cc/ico/Dayofpobed.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Время</caption>
+			<channel_id>vremi</channel_id>
+			<epg_id>669</epg_id>
+			<icon_url>https://blinktv.cc/ico/Vrema.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Epic Drama HD</caption>
+			<channel_id>EpicDramaHD</channel_id>
+			<epg_id>2229</epg_id>
+			<icon_url>https://blinktv.cc/ico/EpicDrama.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Т24</caption>
+			<channel_id>texno24</channel_id>
+			<epg_id>2762</epg_id>
+			<icon_url>https://blinktv.cc/ico/texno24.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Премиальное HD</caption>
+			<channel_id>premiumhd</channel_id>
+			<epg_id>2732</epg_id>
+			<icon_url>https://blinktv.cc/ico/PREMIALNOEHD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кошмар HD</caption>
+			<channel_id>KoshmHD</channel_id>
+			<epg_id>Кошмар HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/koshmarhd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше HD</caption>
+			<channel_id>StrahHD</channel_id>
+			<epg_id>2018</epg_id>
+			<icon_url>https://blinktv.cc/ico/Nashe12.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НСТ</caption>
+			<channel_id>nst</channel_id>
+			<epg_id>518</epg_id>
+			<icon_url>https://blinktv.cc/ico/nst.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>1FILMAX</caption>
+			<channel_id>1FILMAX</channel_id>
+			<epg_id>1FILMAX</epg_id>
+			<icon_url>https://blinktv.cc/ico/tv-1filmax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>2FILMAX</caption>
+			<channel_id>2FILMAX</channel_id>
+			<epg_id>2FILMAX</epg_id>
+			<icon_url>https://blinktv.cc/ico/tv-2filmax.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Amedia Hit HD</caption>
+			<channel_id>Amedia_Hit_HD</channel_id>
+			<epg_id>2007</epg_id>
+			<icon_url>https://blinktv.cc/ico/amediahit.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Amedia 1</caption>
+			<channel_id>Amedia_1</channel_id>
+			<epg_id>1371</epg_id>
+			<icon_url>https://blinktv.cc/ico/A1.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Amedia 2</caption>
+			<channel_id>Amedia_2</channel_id>
+			<epg_id>2492</epg_id>
+			<icon_url>https://blinktv.cc/ico/A2.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Amedia Premium HD</caption>
+			<channel_id>Amedia_Premium</channel_id>
+			<epg_id>1372</epg_id>
+			<icon_url>https://blinktv.cc/ico/AMEDIAPREMIUM.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fox HD</caption>
+			<channel_id>FoxHD</channel_id>
+			<epg_id>1031</epg_id>
+			<icon_url>https://blinktv.cc/ico/FOXHD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FAN</caption>
+			<channel_id>FANHD</channel_id>
+			<epg_id>2359</epg_id>
+			<icon_url>https://blinktv.cc/ico/FANHD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bollywood HD</caption>
+			<channel_id>BOLLYWOOD</channel_id>
+			<epg_id>1395</epg_id>
+			<icon_url>https://blinktv.cc/ico/bollywood.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV XXI</caption>
+			<channel_id>TV_XXI</channel_id>
+			<epg_id>309</epg_id>
+			<icon_url>https://blinktv.cc/ico/xxi.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинобоевик HD</caption>
+			<channel_id>kinoboevhd</channel_id>
+			<epg_id>Кинобоевик HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/kinoboevik.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>START Air HD</caption>
+			<channel_id>START_Air_HD</channel_id>
+			<epg_id>6241</epg_id>
+			<icon_url>https://blinktv.cc/ico/startair.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>START World HD</caption>
+			<channel_id>START_World</channel_id>
+			<epg_id>6240</epg_id>
+			<icon_url>https://blinktv.cc/ico/startworld.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир Сериала</caption>
+			<channel_id>mir-ser</channel_id>
+			<epg_id>2275</epg_id>
+			<icon_url>https://blinktv.cc/ico/mirseriala.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cinema</caption>
+			<channel_id>Cinema</channel_id>
+			<epg_id>2754</epg_id>
+			<icon_url>https://blinktv.cc/ico/cinema.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 HD</caption>
+			<channel_id>TV1000</channel_id>
+			<epg_id>127</epg_id>
+			<icon_url>https://blinktv.cc/ico/tv1000.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 Action HD</caption>
+			<channel_id>TV1000_Action</channel_id>
+			<epg_id>125</epg_id>
+			<icon_url>https://blinktv.cc/ico/tv1000act.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 Новелла HD</caption>
+			<channel_id>viju_TV1000_novella</channel_id>
+			<epg_id>viju-tv1000-novella</epg_id>
+			<icon_url>https://blinktv.cc/ico/tv1000nov.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 Русское кино HD</caption>
+			<channel_id>tv1000ru</channel_id>
+			<epg_id>267</epg_id>
+			<icon_url>https://blinktv.cc/ico/tv1000ru.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Хит HD</caption>
+			<channel_id>ntv_hit</channel_id>
+			<epg_id>2041</epg_id>
+			<icon_url>https://blinktv.cc/ico/ntvhit.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Сериал</caption>
+			<channel_id>ntv_serial</channel_id>
+			<epg_id>1754</epg_id>
+			<icon_url>https://blinktv.cc/ico/ntvser.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kinojam 1 HD</caption>
+			<channel_id>Kinojam_1</channel_id>
+			<epg_id>4466</epg_id>
+			<icon_url>https://blinktv.cc/ico/kinojam1.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kinojam 2 HD</caption>
+			<channel_id>Kinojam_2</channel_id>
+			<epg_id>4467</epg_id>
+			<icon_url>https://blinktv.cc/ico/kinojam2.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мосфильм. Золотая коллекция HD</caption>
+			<channel_id>mosfilm</channel_id>
+			<epg_id>3357</epg_id>
+			<icon_url>https://blinktv.cc/ico/mosfzco.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский детектив</caption>
+			<channel_id>russ_detectiv</channel_id>
+			<epg_id>1570</epg_id>
+			<icon_url>https://blinktv.cc/ico/russiadetectv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский Роман</caption>
+			<channel_id>russ_roman</channel_id>
+			<epg_id>401</epg_id>
+			<icon_url>https://blinktv.cc/ico/russiaroman.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еврокино</caption>
+			<channel_id>Evrokino</channel_id>
+			<epg_id>352</epg_id>
+			<icon_url>https://blinktv.cc/ico/Evrokino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Flixsnip</caption>
+			<channel_id>Flixsnip</channel_id>
+			<epg_id>774</epg_id>
+			<icon_url>https://blinktv.cc/ico/FlixSnip.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Hollywood HD</caption>
+			<channel_id>Hollywood</channel_id>
+			<epg_id>934</epg_id>
+			<icon_url>https://blinktv.cc/ico/HollywoodHD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Страшное HD</caption>
+			<channel_id>stracnoe</channel_id>
+			<epg_id>2857</epg_id>
+			<icon_url>https://blinktv.cc/ico/strasnohd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино 1 International</caption>
+			<channel_id>kino1bin</channel_id>
+			<epg_id>6258</epg_id>
+			<icon_url>https://blinktv.cc/ico/kino1int.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Видеокасета VHS</caption>
+			<channel_id>vhs</channel_id>
+			<epg_id>6005</epg_id>
+			<icon_url>https://blinktv.cc/ico/Videovhs.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ Megahit HD</caption>
+			<channel_id>Vip_Megahit_HD</channel_id>
+			<epg_id>1012</epg_id>
+			<icon_url>https://blinktv.cc/ico/VijuMegahitHD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ Comedy HD</caption>
+			<channel_id>Vip_Comedy_HD</channel_id>
+			<epg_id>1011</epg_id>
+			<icon_url>https://blinktv.cc/ico/VijuComedyHD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ Premiere HD</caption>
+			<channel_id>Vip_Premiere_HD</channel_id>
+			<epg_id>1013</epg_id>
+			<icon_url>https://blinktv.cc/ico/VijuPremiereHD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>.Sci-Fi</caption>
+			<channel_id>.Sci-Fi</channel_id>
+			<epg_id>516</epg_id>
+			<icon_url>https://blinktv.cc/ico/scifi.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Арсенал HD</caption>
+			<channel_id>arsenalhd</channel_id>
+			<epg_id>2768</epg_id>
+			<icon_url>https://blinktv.cc/ico/Arsen.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дом Кино Премиум HD</caption>
+			<channel_id>dom_prem_hd</channel_id>
+			<epg_id>2020</epg_id>
+			<icon_url>https://blinktv.cc/ico/Domkprem.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дом кино</caption>
+			<channel_id>dome_kino</channel_id>
+			<epg_id>834</epg_id>
+			<icon_url>https://blinktv.cc/ico/Domk.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ultra HD Cinema</caption>
+			<channel_id>Ultra_HD_Cinema</channel_id>
+			<epg_id>2743</epg_id>
+			<icon_url>https://blinktv.cc/ico/ultrahd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино ТВ HD</caption>
+			<channel_id>Kinotv</channel_id>
+			<epg_id>Кино ТВ HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Kinotv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дорама HD</caption>
+			<channel_id>doramahd</channel_id>
+			<epg_id>dorama</epg_id>
+			<icon_url>https://blinktv.cc/ico/RKGS5.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Родное Кино</caption>
+			<channel_id>rodnoe_kino</channel_id>
+			<epg_id>rodnoe-kino</epg_id>
+			<icon_url>https://blinktv.cc/ico/RODKIN.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Plan B HD</caption>
+			<channel_id>planbhd</channel_id>
+			<epg_id>6643</epg_id>
+			<icon_url>https://blinktv.cc/ico/WER5.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>.black</caption>
+			<channel_id>.black</channel_id>
+			<epg_id>.black</epg_id>
+			<icon_url>https://blinktv.cc/ico/sony-turbo.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Star Cinema</caption>
+			<channel_id>Star_Cinema_HD</channel_id>
+			<epg_id>2145</epg_id>
+			<icon_url>https://blinktv.cc/ico/star-cinema.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Star Family</caption>
+			<channel_id>Star_Family_HD</channel_id>
+			<epg_id>9162</epg_id>
+			<icon_url>https://blinktv.cc/ico/star-family.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Иллюзион+</caption>
+			<channel_id>Illiuzion</channel_id>
+			<epg_id>2403</epg_id>
+			<icon_url>https://blinktv.cc/ico/illuzion-plus.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Феникс плюс Кино HD</caption>
+			<channel_id>Fenik_Kino_HD</channel_id>
+			<epg_id>2404</epg_id>
+			<icon_url>https://blinktv.cc/ico/feniks-plus-kino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Timeless Dizi Channel</caption>
+			<channel_id>Timeless_Dizi_Channel_HD</channel_id>
+			<epg_id>6724</epg_id>
+			<icon_url>https://blinktv.cc/ico/timeless-dizi.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Шокирующее HD</caption>
+			<channel_id>shock_hd</channel_id>
+			<epg_id>2309</epg_id>
+			<icon_url>https://blinktv.cc/ico/shockhd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Индийское кино</caption>
+			<channel_id>india_kino</channel_id>
+			<epg_id>798</epg_id>
+			<icon_url>https://blinktv.cc/ico/Indiantea.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Остросюжетное HD</caption>
+			<channel_id>ostro_hd</channel_id>
+			<epg_id>1588</epg_id>
+			<icon_url>https://blinktv.cc/ico/Ostroplot.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Film.Ua Drama HD</caption>
+			<channel_id>Film.Ua_Drama_HD</channel_id>
+			<epg_id>Film.Ua Drama HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Filmua.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Film.Ua Drama</caption>
+			<channel_id>Film.Ua_Drama</channel_id>
+			<epg_id>Film.Ua Drama</epg_id>
+			<icon_url>https://blinktv.cc/ico/Filmua.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Романтичное HD</caption>
+			<channel_id>roman_hd</channel_id>
+			<epg_id>Романтичное HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Romantici.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Комедийное HD</caption>
+			<channel_id>comediii_hd</channel_id>
+			<epg_id>Комедийное HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/comeddddd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>.Sci-Fi HD</caption>
+			<channel_id>.Sci-Fi_HD</channel_id>
+			<epg_id>516</epg_id>
+			<icon_url>https://blinktv.cc/ico/scifi.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino World HD</caption>
+			<channel_id>Viasat_Kino_World</channel_id>
+			<epg_id>Viasat Kino World HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/ViasatKinoWorld.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino Action HD</caption>
+			<channel_id>Viasat_Kino_Action_HD</channel_id>
+			<epg_id>7944</epg_id>
+			<icon_url>https://blinktv.cc/ico/Viasatkina.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino HD</caption>
+			<channel_id>Viasat_Kino_HD</channel_id>
+			<epg_id>Viasat Kino HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Viasatkin.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Comedy Central HD</caption>
+			<channel_id>Comedy_Central_HD</channel_id>
+			<epg_id>920</epg_id>
+			<icon_url>https://blinktv.cc/ico/Centarrr.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Comedy Central</caption>
+			<channel_id>Comedy_Central</channel_id>
+			<epg_id>920</epg_id>
+			<icon_url>https://blinktv.cc/ico/Centarrr.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Go3 Films HD</caption>
+			<channel_id>Go3_Films_HD</channel_id>
+			<epg_id>6292</epg_id>
+			<icon_url>https://blinktv.cc/ico/Go33.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еврокино HD</caption>
+			<channel_id>Evrokino_hd</channel_id>
+			<epg_id>352</epg_id>
+			<icon_url>https://blinktv.cc/ico/Evrokino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Комедия (ВГТРК)</caption>
+			<channel_id>comed_vgrkt</channel_id>
+			<epg_id>Комедия (ВГТРК)</epg_id>
+			<icon_url>https://blinktv.cc/ico/Komedyya.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Про Любовь HD</caption>
+			<channel_id>pro_love</channel_id>
+			<epg_id>2829</epg_id>
+			<icon_url>https://blinktv.cc/ico/Prolubov.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Хит HD</caption>
+			<channel_id>hit_hd</channel_id>
+			<epg_id>2041</epg_id>
+			<icon_url>https://blinktv.cc/ico/Hithddd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DetectiveJam HD</caption>
+			<channel_id>DetectiveJam_HD</channel_id>
+			<epg_id>7901</epg_id>
+			<icon_url>https://blinktv.cc/ico/DetectiveJam.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>FamilyJam HD</caption>
+			<channel_id>FamilyJam_HD</channel_id>
+			<epg_id>7902</epg_id>
+			<icon_url>https://blinktv.cc/ico/Familyjam.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fox Life</caption>
+			<channel_id>Fox_Life</channel_id>
+			<epg_id>Fox Life</epg_id>
+			<icon_url>https://blinktv.cc/ico/Foxlife.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fox</caption>
+			<channel_id>Fox</channel_id>
+			<epg_id>1031</epg_id>
+			<icon_url>https://blinktv.cc/ico/FOX.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV XXI HD</caption>
+			<channel_id>tvxxihd</channel_id>
+			<epg_id>309</epg_id>
+			<icon_url>https://blinktv.cc/ico/xxi.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000</caption>
+			<channel_id>Tv1000sd</channel_id>
+			<epg_id>127</epg_id>
+			<icon_url>https://blinktv.cc/ico/tv1000.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 Action</caption>
+			<channel_id>Tv1000actionsd</channel_id>
+			<epg_id>125</epg_id>
+			<icon_url>https://blinktv.cc/ico/tv1000act.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 Русское кино</caption>
+			<channel_id>Tv1000rusd</channel_id>
+			<epg_id>267</epg_id>
+			<icon_url>https://blinktv.cc/ico/tv1000ru.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Cinema HD</caption>
+			<channel_id>KLI_Cinema_HD</channel_id>
+			<epg_id>6106</epg_id>
+			<icon_url>https://blinktv.cc/ico/KLICINEMA.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Comedy HD</caption>
+			<channel_id>KLI_Comedy_Hd</channel_id>
+			<epg_id>6106</epg_id>
+			<icon_url>https://blinktv.cc/ico/KLICOMEDY.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI History HD</caption>
+			<channel_id>KLI_History_HD</channel_id>
+			<epg_id>6233</epg_id>
+			<icon_url>https://blinktv.cc/ico/KLIHISTORY.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Premium HD</caption>
+			<channel_id>KLI_Premium_HD</channel_id>
+			<epg_id>6234</epg_id>
+			<icon_url>https://blinktv.cc/ico/KLIPREMIUM.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Russian HD</caption>
+			<channel_id>KLI_Russian_HD</channel_id>
+			<epg_id>6235</epg_id>
+			<icon_url>https://blinktv.cc/ico/KLIRUSSIAN.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Fantastic HD</caption>
+			<channel_id>KLI_Fantastic_HD</channel_id>
+			<epg_id>7175</epg_id>
+			<icon_url>https://blinktv.cc/ico/KLIFANTASTICA.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI VHS HD</caption>
+			<channel_id>KLI_VHS_HD</channel_id>
+			<epg_id>6395</epg_id>
+			<icon_url>https://blinktv.cc/ico/KLIVHS.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Thriller HD</caption>
+			<channel_id>KLI_Thriller_HD</channel_id>
+			<epg_id>6396</epg_id>
+			<icon_url>https://blinktv.cc/ico/kliaction.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI СССР HD</caption>
+			<channel_id>kli_ssr_hd</channel_id>
+			<epg_id>6397</epg_id>
+			<icon_url>https://blinktv.cc/ico/KLICCCP.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Family HD</caption>
+			<channel_id>KLI_Family_HD</channel_id>
+			<epg_id>6398</epg_id>
+			<icon_url>https://blinktv.cc/ico/klifamily.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Киносерия HD</caption>
+			<channel_id>KLI_kinoser_HD</channel_id>
+			<epg_id>6830</epg_id>
+			<icon_url>https://blinktv.cc/ico/KLIKinosetial.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Horror FHD</caption>
+			<channel_id>KLI_Horror_FHD</channel_id>
+			<epg_id>7229</epg_id>
+			<icon_url>https://blinktv.cc/ico/KLIHorror.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Action HD</caption>
+			<channel_id>KLI_Action_HD</channel_id>
+			<epg_id>7172</epg_id>
+			<icon_url>https://blinktv.cc/ico/kli_action.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Humor FHD</caption>
+			<channel_id>KLI_Humor_FHD</channel_id>
+			<epg_id>7173</epg_id>
+			<icon_url>https://blinktv.cc/ico/klihumor.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI DRAMA HD</caption>
+			<channel_id>KLI_DRAMA_HD</channel_id>
+			<epg_id>7174</epg_id>
+			<icon_url>https://blinktv.cc/ico/kliDrama.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Fantasy HD</caption>
+			<channel_id>KLI_Fantasy_HD</channel_id>
+			<epg_id>7175</epg_id>
+			<icon_url>https://blinktv.cc/ico/klifantasy.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Docu HD</caption>
+			<channel_id>KLI_Docu_HD</channel_id>
+			<epg_id>7661</epg_id>
+			<icon_url>https://blinktv.cc/ico/klidocu.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI NETFLIX</caption>
+			<channel_id>KLI_NETFLIX</channel_id>
+			<epg_id>7898</epg_id>
+			<icon_url>https://blinktv.cc/ico/klinetflixX.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Marvel HD</caption>
+			<channel_id>KLI_Marvel_HD</channel_id>
+			<epg_id>KLI Marvel HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/klimarvel.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Новинки HD</caption>
+			<channel_id>kli_nov_Hd</channel_id>
+			<epg_id>KLI Новинки HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/klinovinci.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Franchise HD</caption>
+			<channel_id>KLI_Franchise_HD</channel_id>
+			<epg_id>KLI Franchise HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Klifranchise.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Новогодний</caption>
+			<channel_id>kli_neyr</channel_id>
+			<epg_id>KLI Новогодний</epg_id>
+			<icon_url>https://blinktv.cc/ico/klinovogodi.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI UHD 4K</caption>
+			<channel_id>KLI_UHD_4K</channel_id>
+			<epg_id>KLI UHD 4K</epg_id>
+			<icon_url>https://blinktv.cc/ico/BlinkTV.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Новинки ULTRA 4K</caption>
+			<channel_id>KLI_new_ULTRA_4K</channel_id>
+			<epg_id>KLI Новинки ULTRA 4K</epg_id>
+			<icon_url>https://blinktv.cc/ico/klinovinci.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Легендарное HD</caption>
+			<channel_id>39826</channel_id>
+			<epg_id>kbc-ultra</epg_id>
+			<icon_url>https://blinktv.cc/ico/39826KBty.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Кошмарное HD</caption>
+			<channel_id>36277</channel_id>
+			<epg_id>kbc-koshmar</epg_id>
+			<icon_url>https://blinktv.cc/ico/36277kbc.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Видак HD</caption>
+			<channel_id>36251</channel_id>
+			<epg_id>kbc-vidak</epg_id>
+			<icon_url>https://blinktv.cc/ico/36251kbc.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-ДрамаTic HD</caption>
+			<channel_id>36732</channel_id>
+			<epg_id>kbc-dramatic</epg_id>
+			<icon_url>https://blinktv.cc/ico/36732kbc.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Elite comedys HD</caption>
+			<channel_id>35448</channel_id>
+			<epg_id>kbc-elite-comedys</epg_id>
+			<icon_url>https://blinktv.cc/ico/kbcelitcomedy.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Russian Комедия HD</caption>
+			<channel_id>36168</channel_id>
+			<epg_id>kbc-russian-comedia</epg_id>
+			<icon_url>https://blinktv.cc/ico/36168kbc.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-В.О.В. HD</caption>
+			<channel_id>39821</channel_id>
+			<epg_id>kbc-vov</epg_id>
+			<icon_url>https://blinktv.cc/ico/39821kbc.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Страна СССР</caption>
+			<channel_id>36506</channel_id>
+			<epg_id>KBC-Страна СССР</epg_id>
+			<icon_url>https://blinktv.cc/ico/36506kbc.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Шпионское HD</caption>
+			<channel_id>39820</channel_id>
+			<epg_id>kbc-spy</epg_id>
+			<icon_url>https://blinktv.cc/ico/Spionkcvg.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Comics HD</caption>
+			<channel_id>39800</channel_id>
+			<epg_id>kbc-comics</epg_id>
+			<icon_url>https://blinktv.cc/ico/39800-601c3f898f187.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-History HD</caption>
+			<channel_id>39796</channel_id>
+			<epg_id>kbc-history</epg_id>
+			<icon_url>https://blinktv.cc/ico/39796Eaqwd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Fantastic HD</caption>
+			<channel_id>39795</channel_id>
+			<epg_id>kbc-fantastic</epg_id>
+			<icon_url>https://blinktv.cc/ico/39795fdsDER.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-MusKino HD</caption>
+			<channel_id>39822</channel_id>
+			<epg_id>kbc-muskino</epg_id>
+			<icon_url>https://blinktv.cc/ico/39822ITCUYF.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-WAR HD</caption>
+			<channel_id>42051</channel_id>
+			<epg_id>kbc-war</epg_id>
+			<icon_url>https://blinktv.cc/ico/42051YUFTf.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Вестерн HD</caption>
+			<channel_id>39825</channel_id>
+			<epg_id>kbc-western</epg_id>
+			<icon_url>https://blinktv.cc/ico/39825WRSR.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-СпортМикс HD</caption>
+			<channel_id>35525</channel_id>
+			<epg_id>kbc-sportmiks</epg_id>
+			<icon_url>https://blinktv.cc/ico/35525HDTI.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Newfilm HD</caption>
+			<channel_id>39048</channel_id>
+			<epg_id>kbc-newfilm</epg_id>
+			<icon_url>https://blinktv.cc/ico/39048GFG.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-ГАЙ Ritchie &amp;amp; Tarantino</caption>
+			<channel_id>39819</channel_id>
+			<epg_id>kbc-ritchie-tarantino</epg_id>
+			<icon_url>https://blinktv.cc/ico/39819HFGH.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-ГОБЛИН HD</caption>
+			<channel_id>42054</channel_id>
+			<epg_id>kbc-goblin</epg_id>
+			<icon_url>https://blinktv.cc/ico/42054FDQO.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ClarityHD FishingTV</caption>
+			<channel_id>ClarityHD_FishingTV</channel_id>
+			<epg_id>ClarityHD FishingTV</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k UFO</caption>
+			<channel_id>Clarity4k_UFO</channel_id>
+			<epg_id>Clarity4k UFO</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Молодежные комедии</caption>
+			<channel_id>Clarity4K_molodoznoe</channel_id>
+			<epg_id>Clarity4K Молодежные комедии</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k Вселенная</caption>
+			<channel_id>Clarity4k_vsel</channel_id>
+			<epg_id>Clarity4k Вселенная</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Фантастика (siries)</caption>
+			<channel_id>Clarity4K_fantastic_serias</channel_id>
+			<epg_id>Clarity4K Фантастика (siries)</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k Драмы</caption>
+			<channel_id>clariti_drama</channel_id>
+			<epg_id>Clarity4k Драмы</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k Боевик</caption>
+			<channel_id>Clarity4k_boevik</channel_id>
+			<epg_id>Clarity4k Боевик</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Ужасы</caption>
+			<channel_id>Clarity4K_uzasa</channel_id>
+			<epg_id>Clarity4K Ужасы</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Фэнтези</caption>
+			<channel_id>Clarity4K_fantazy</channel_id>
+			<epg_id>Clarity4K Фэнтези</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k Русские сериалы</caption>
+			<channel_id>Clarity4k_russia_serias</channel_id>
+			<epg_id>Clarity4k Русские сериалы</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Комедия СССР 2</caption>
+			<channel_id>Clarity4K_comed_sssr2</channel_id>
+			<epg_id>Clarity4K Комедия СССР 2</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K BluesString</caption>
+			<channel_id>Clarity4K_BluesString</channel_id>
+			<epg_id>Clarity4K BluesString</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Комедия СССР 1</caption>
+			<channel_id>Clarity4K_comed_sssr1</channel_id>
+			<epg_id>Clarity4K Комедия СССР 1</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k Anime アニメ</caption>
+			<channel_id>Clarity4k_Anime</channel_id>
+			<epg_id>Clarity4k Anime アニメ</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Киношарм</caption>
+			<channel_id>Clarity4K_kinosharm</channel_id>
+			<epg_id>Clarity4K Киношарм</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Netflix</caption>
+			<channel_id>Clarity4K_Netflix</channel_id>
+			<epg_id>Clarity4K Netflix</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Приключения</caption>
+			<channel_id>Clarity4K_pricluchenia</channel_id>
+			<epg_id>Clarity4K Приключения</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k DeepMe</caption>
+			<channel_id>Clarity4k_DeepMe</channel_id>
+			<epg_id>Clarity4k DeepMe</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Ужасы VHS (siries)</caption>
+			<channel_id>Clarity4K_uzas_vhs</channel_id>
+			<epg_id>Clarity4K Ужасы VHS (siries)</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k Боевик (VHS)</caption>
+			<channel_id>Clarity4k_boevic_vhs</channel_id>
+			<epg_id>Clarity4k Боевик (VHS)</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Комедия</caption>
+			<channel_id>Clarity4K_comedy</channel_id>
+			<epg_id>Clarity4K Комедия</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k КиноФраншизы</caption>
+			<channel_id>Clarity4k_filmfrans</channel_id>
+			<epg_id>Clarity4k КиноФраншизы</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K КиноСССР</caption>
+			<channel_id>Clarity4K_kinosssr</channel_id>
+			<epg_id>Clarity4K КиноСССР</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k Классика кино</caption>
+			<channel_id>Clarity4k_classic_kino</channel_id>
+			<epg_id>Clarity4k Классика кино</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K КиноНовинки</caption>
+			<channel_id>Clarity4K_kino_new</channel_id>
+			<epg_id>Clarity4K КиноНовинки</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k Сумеречный Эфир</caption>
+			<channel_id>Clarity4k_sumer</channel_id>
+			<epg_id>Clarity4k Сумеречный Эфир</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Фантастика</caption>
+			<channel_id>Clarity4K_fantastica</channel_id>
+			<epg_id>Clarity4K Фантастика</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Asia</caption>
+			<channel_id>Clarity4K_Asia</channel_id>
+			<epg_id>Clarity4K Asia</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Galaxy Films</caption>
+			<channel_id>Clarity4K_Galaxy_Films</channel_id>
+			<epg_id>Clarity4K Galaxy Films</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Космомир</caption>
+			<channel_id>Clarity4K_kosmomir</channel_id>
+			<epg_id>Clarity4K Космомир</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K HBO series</caption>
+			<channel_id>Clarity4KHBOseries</channel_id>
+			<epg_id>Clarity4K HBO series</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Комедия (VHS)</caption>
+			<channel_id>Clarity4K_comed_vhs</channel_id>
+			<epg_id>Clarity4K Комедия (VHS)</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Ужасы (VHS)</caption>
+			<channel_id>Clarity4K_uzas_vhss</channel_id>
+			<epg_id>Clarity4K Ужасы (VHS)</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Gamefilm</caption>
+			<channel_id>Clarity4K_Gamefilm</channel_id>
+			<epg_id>Clarity4K Gamefilm</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Семейный</caption>
+			<channel_id>Clarity4K_famili</channel_id>
+			<epg_id>Clarity4K Семейный</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Триллер</caption>
+			<channel_id>Clarity4K_thriller</channel_id>
+			<epg_id>Clarity4K Триллер</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye Media</caption>
+			<channel_id>Eye_Media</channel_id>
+			<epg_id>6207</epg_id>
+			<icon_url>https://blinktv.cc/ico/eyemedia.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye Oscar</caption>
+			<channel_id>Eye_Oscar</channel_id>
+			<epg_id>6208</epg_id>
+			<icon_url>https://blinktv.cc/ico/eyefrozen.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye Frozen</caption>
+			<channel_id>Eye_Frozen</channel_id>
+			<epg_id>6209</epg_id>
+			<icon_url>https://blinktv.cc/ico/eyecriminal.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye Modern</caption>
+			<channel_id>Eye_Modern</channel_id>
+			<epg_id>6211</epg_id>
+			<icon_url>https://blinktv.cc/ico/eyemodern.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye Family</caption>
+			<channel_id>Eye_Family</channel_id>
+			<epg_id>7908</epg_id>
+			<icon_url>https://blinktv.cc/ico/eyefamily.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye History</caption>
+			<channel_id>Eye_History</channel_id>
+			<epg_id>7909</epg_id>
+			<icon_url>https://blinktv.cc/ico/eyehistory.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye Western</caption>
+			<channel_id>Eye_Western</channel_id>
+			<epg_id>7910</epg_id>
+			<icon_url>https://blinktv.cc/ico/Eyewest.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye Drive</caption>
+			<channel_id>Eye_Drive</channel_id>
+			<epg_id>7911</epg_id>
+			<icon_url>https://blinktv.cc/ico/Eyedri.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye Cyber</caption>
+			<channel_id>Eye_Cyber</channel_id>
+			<epg_id>7942</epg_id>
+			<icon_url>https://blinktv.cc/ico/eyecyber.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем - КиноДрама</caption>
+			<channel_id>seti_drama</channel_id>
+			<epg_id>Сити Эдем - КиноДрама</epg_id>
+			<icon_url>https://blinktv.cc/ico/Kinodramaa.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем - КиноКлассика</caption>
+			<channel_id>seti_klaas</channel_id>
+			<epg_id>Сити Эдем - КиноКлассика</epg_id>
+			<icon_url>https://blinktv.cc/ico/Kinoclassi1c.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем - КиноЭкшен</caption>
+			<channel_id>siti_eksin</channel_id>
+			<epg_id>Сити Эдем - КиноЭкшен</epg_id>
+			<icon_url>https://blinktv.cc/ico/Kinoekshen.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем - КиноМистика</caption>
+			<channel_id>siti_fg</channel_id>
+			<epg_id>Сити Эдем - КиноМистика</epg_id>
+			<icon_url>https://blinktv.cc/ico/kinmistika.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем - КиноКомедия</caption>
+			<channel_id>siti_comed</channel_id>
+			<epg_id>Сити Эдем - КиноКомедия</epg_id>
+			<icon_url>https://blinktv.cc/ico/Kinokomedi1si.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем - КиноДетектив</caption>
+			<channel_id>siti_dec</channel_id>
+			<epg_id>Сити Эдем - КиноДетектив</epg_id>
+			<icon_url>https://blinktv.cc/ico/siti-edem-kinodetektiv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сити Эдем - КиноНовелла</caption>
+			<channel_id>siti_novel</channel_id>
+			<epg_id>Сити Эдем - КиноНовелла</epg_id>
+			<icon_url>https://blinktv.cc/ico/telen1ovella.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH epoch</caption>
+			<channel_id>SKY_HIGH_epoch</channel_id>
+			<epg_id>5449</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyhighepoch.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH heroes</caption>
+			<channel_id>SKY_HIGH_heroes</channel_id>
+			<epg_id>5448</epg_id>
+			<icon_url>https://blinktv.cc/ico/skyhighheroes.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH spirit</caption>
+			<channel_id>SKY_HIGH_spirit</channel_id>
+			<epg_id>5452</epg_id>
+			<icon_url>https://blinktv.cc/ico/skyhighspirit.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH SERIES</caption>
+			<channel_id>SKY_HIGH_SERIES</channel_id>
+			<epg_id>5447</epg_id>
+			<icon_url>https://blinktv.cc/ico/skyhigheeries.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH fresh HDR</caption>
+			<channel_id>SKY_HIGH_fresh_HDR</channel_id>
+			<epg_id>6066</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyfresd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH FUTURE</caption>
+			<channel_id>SKY_HIGH_FUTURE</channel_id>
+			<epg_id>5588</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyfuturee.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH fresh HD</caption>
+			<channel_id>SKY_HIGH_fresh_HD</channel_id>
+			<epg_id>6066</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyhighfresh.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH 3D</caption>
+			<channel_id>SKY_HIGH_3D</channel_id>
+			<epg_id>SKY HIGH 3D</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyhighmix3d.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH BY SLONKA</caption>
+			<channel_id>SKY_HIGH_BY_SLONKA</channel_id>
+			<epg_id>SKY HIGH BY SLONKA</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH ADULT</caption>
+			<channel_id>SKY_HIGH_ADULT</channel_id>
+			<epg_id>5632</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyhighadult.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH RUSSIAN</caption>
+			<channel_id>SKY_HIGH_RUSSIAN</channel_id>
+			<epg_id>SKY HIGH RUSSIAN</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH fresh 60</caption>
+			<channel_id>SKY_HIGH_fresh_60</channel_id>
+			<epg_id>5450</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyhighfreshhd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH kids USSR</caption>
+			<channel_id>SKY_HIGH_kids_USSR</channel_id>
+			<epg_id>SKY HIGH kids USSR</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH anime</caption>
+			<channel_id>SKY_HIGH_anime</channel_id>
+			<epg_id>6827</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyhighanime.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH mix 4K</caption>
+			<channel_id>SKY_HIGH_mix_4K</channel_id>
+			<epg_id>6186</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyhightmix4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH UHD HDR</caption>
+			<channel_id>SKY_HIGH_UHD_HDR</channel_id>
+			<epg_id>6204</epg_id>
+			<icon_url>https://blinktv.cc/ico/SKYHIGHUHDHDR.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH VHS UHD</caption>
+			<channel_id>SKY_HIGH_VHS_UHD</channel_id>
+			<epg_id>6203</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyhighvhshdr.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH orig</caption>
+			<channel_id>SKY_HIGH_orig</channel_id>
+			<epg_id>SKY HIGH orig</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Cinema</caption>
+			<channel_id>Fresh_Cinema</channel_id>
+			<epg_id>Fresh Cinema</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Comedy</caption>
+			<channel_id>Fresh_Comedy</channel_id>
+			<epg_id>Fresh Comedy</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Premiere</caption>
+			<channel_id>Fresh_Premiere</channel_id>
+			<epg_id>Fresh Premiere</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Family</caption>
+			<channel_id>Fresh_Family</channel_id>
+			<epg_id>Fresh Family</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Rating</caption>
+			<channel_id>Fresh_Rating</channel_id>
+			<epg_id>Fresh Rating</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh VHS</caption>
+			<channel_id>Fresh_VHS</channel_id>
+			<epg_id>Fresh VHS</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Fantastic</caption>
+			<channel_id>Fresh_Fantastic</channel_id>
+			<epg_id>Fresh Fantastic</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Series</caption>
+			<channel_id>Fresh_Series</channel_id>
+			<epg_id>Fresh Series</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Horror</caption>
+			<channel_id>Fresh_Horror</channel_id>
+			<epg_id>Fresh Horror</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Adventure</caption>
+			<channel_id>Fresh_Adventure</channel_id>
+			<epg_id>Fresh Adventure</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Romantic</caption>
+			<channel_id>Fresh_Romantic</channel_id>
+			<epg_id>Fresh Romantic</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Russian</caption>
+			<channel_id>Fresh_Russian</channel_id>
+			<epg_id>Fresh Russian</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Thriller</caption>
+			<channel_id>Fresh_Thriller</channel_id>
+			<epg_id>Fresh Thriller</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Soviet</caption>
+			<channel_id>Fresh_Soviet</channel_id>
+			<epg_id>Fresh Soviet</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh TV Armenia</caption>
+			<channel_id>Fresh_TV_Armenia</channel_id>
+			<epg_id>Fresh TV Armenia</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic VHS</caption>
+			<channel_id>Magic_VHS</channel_id>
+			<epg_id>Magic VHS</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Karate</caption>
+			<channel_id>Magic_Karate</channel_id>
+			<epg_id>Magic Karate</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Comedy</caption>
+			<channel_id>Magic_Comedy</channel_id>
+			<epg_id>Magic Comedy</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Horror</caption>
+			<channel_id>Magic_Horror</channel_id>
+			<epg_id>Magic Horror</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Galaxy</caption>
+			<channel_id>Magic_Galaxy</channel_id>
+			<epg_id>Magic Galaxy</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Action</caption>
+			<channel_id>Magic_Action</channel_id>
+			<epg_id>Magic Action</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Thriller</caption>
+			<channel_id>Magic_Thriller</channel_id>
+			<epg_id>Magic Thriller</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Family</caption>
+			<channel_id>Magic_Family</channel_id>
+			<epg_id>Magic Family</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Love</caption>
+			<channel_id>Magic_Love</channel_id>
+			<epg_id>Magic Love</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Adventure</caption>
+			<channel_id>Magic_Adventure</channel_id>
+			<epg_id>Magic Adventure</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Russian</caption>
+			<channel_id>Magic_Russian</channel_id>
+			<epg_id>Magic Russian</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Kinorating HD</caption>
+			<channel_id>Bcukinoratinghd</channel_id>
+			<epg_id>BCU Kinorating HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Kinozakaz HD</caption>
+			<channel_id>BCUKinozakazHD</channel_id>
+			<epg_id>BCU Kinozakaz HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Filmystic HD</caption>
+			<channel_id>BCUFilmysticHD</channel_id>
+			<epg_id>BCU Filmystic HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU History HD</caption>
+			<channel_id>BCUHistoryHD</channel_id>
+			<epg_id>BCU History HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Marvel HD</caption>
+			<channel_id>BCUMarvelHD</channel_id>
+			<epg_id>BCU Marvel HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Reality HD</caption>
+			<channel_id>BCURealityHD</channel_id>
+			<epg_id>BCU Reality HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Ruserial HD</caption>
+			<channel_id>BCURuserialHD</channel_id>
+			<epg_id>BCU Ruserial HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Russian HD</caption>
+			<channel_id>BCURussianHD</channel_id>
+			<epg_id>BCU Russian HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Stars HD</caption>
+			<channel_id>BCUStarsHD</channel_id>
+			<epg_id>BCU Stars HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU TruMotion HD</caption>
+			<channel_id>BCUTruMotionHD</channel_id>
+			<epg_id>BCU TruMotion HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Ultra 4K</caption>
+			<channel_id>BCUUltra4K</channel_id>
+			<epg_id>BCU Ultra 4K</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU VHS HD</caption>
+			<channel_id>BCUVHSHD</channel_id>
+			<epg_id>BCU VHS HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Romantic HD</caption>
+			<channel_id>BCURomantikaHA</channel_id>
+			<epg_id>BCU Romantic HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Сваты HD</caption>
+			<channel_id>BCUSvatiHD</channel_id>
+			<epg_id>BCU Сваты HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU СССР HD</caption>
+			<channel_id>BCUKINOZSSSRHD</channel_id>
+			<epg_id>BCU СССР HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Кинозал Premiere 1 HD</caption>
+			<channel_id>BCUKINOZ1RHD</channel_id>
+			<epg_id>BCU Кинозал Premiere 1 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Кинозал Premiere 2 HD</caption>
+			<channel_id>BCUKINOZ2RHD</channel_id>
+			<epg_id>BCU Кинозал Premiere 2 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Кинозал Premiere 3 HD</caption>
+			<channel_id>BCUKINOZ3RHD</channel_id>
+			<epg_id>BCU Кинозал Premiere 3 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Action HD</caption>
+			<channel_id>bcuactionhd</channel_id>
+			<epg_id>bcu-action</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-action.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Premiere Ultra 4K</caption>
+			<channel_id>bcu-premiere-4k</channel_id>
+			<epg_id>bcu-premiere-4k</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-premiere-4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Premiere HD</caption>
+			<channel_id>bcu-premiere</channel_id>
+			<epg_id>bcu-premiere</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-premi.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Catastrophe HD</caption>
+			<channel_id>bcu-catastrophe</channel_id>
+			<epg_id>bcu-catastrophe</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-catastrophe.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Cinema HD</caption>
+			<channel_id>bcu-cinema</channel_id>
+			<epg_id>bcu-cinema</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Cinema+ HD</caption>
+			<channel_id>bcu-cinemaplus</channel_id>
+			<epg_id>bcu-cinemaplus</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-cinemaplus.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Comedy HD</caption>
+			<channel_id>bcu-comedy</channel_id>
+			<epg_id>bcu-comedy</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-comedy.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Cosmo HD</caption>
+			<channel_id>bcu-cosmo</channel_id>
+			<epg_id>bcu-cosmo</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-cosmo.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Criminal HD</caption>
+			<channel_id>bcu-criminal</channel_id>
+			<epg_id>bcu-criminal</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-criminal.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Fantastic HD</caption>
+			<channel_id>bcu-fantastic</channel_id>
+			<epg_id>bcu-fantastic</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-fantastic.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Franchise HD</caption>
+			<channel_id>yosso_grand</channel_id>
+			<epg_id>BOX Franchise HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Hybrid HD</caption>
+			<channel_id>YossoTVVHS</channel_id>
+			<epg_id>BOX Hybrid HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Oscar HD</caption>
+			<channel_id>yosso_kids</channel_id>
+			<epg_id>BOX Oscar HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Memory HD</caption>
+			<channel_id>yosso_rusfilm</channel_id>
+			<epg_id>BOX Memory HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Serial HD</caption>
+			<channel_id>yosso_sexy</channel_id>
+			<epg_id>BOX Serial HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Spy HD</caption>
+			<channel_id>yosso_musichits</channel_id>
+			<epg_id>BOX Spy HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Western HD</caption>
+			<channel_id>yosso_tragichnoe</channel_id>
+			<epg_id>BOX Western HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Gangster HD</caption>
+			<channel_id>box_gangster</channel_id>
+			<epg_id>BOX Gangster HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Zombie HD</caption>
+			<channel_id>box_zombie</channel_id>
+			<epg_id>BOX Zombie HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Cyber HD</caption>
+			<channel_id>box_cyber</channel_id>
+			<epg_id>BOX Cyber HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TOP Cinema</caption>
+			<channel_id>TOPCinema</channel_id>
+			<epg_id>TOP Cinema</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TOP BUDO</caption>
+			<channel_id>TOPBUDO</channel_id>
+			<epg_id>TOP BUDO</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TOP 80s</caption>
+			<channel_id>top_80</channel_id>
+			<epg_id>TOP 80s</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TOP USSR</caption>
+			<channel_id>top_ussr</channel_id>
+			<epg_id>TOP USSR</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TOP MIX</caption>
+			<channel_id>TOPMIX</channel_id>
+			<epg_id>TOP MIX</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TOP Великолепный Век</caption>
+			<channel_id>top_velikolepniy</channel_id>
+			<epg_id>TOP Великолепный Век</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Relax Action</caption>
+			<channel_id>RelaxAction</channel_id>
+			<epg_id>Relax Action</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Relax Horror</caption>
+			<channel_id>RelaxHorror</channel_id>
+			<epg_id>Relax Horror</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Relax Thriller</caption>
+			<channel_id>RelaxThriller</channel_id>
+			<epg_id>Relax Thriller</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Relax Comedy</caption>
+			<channel_id>RelaxComedy</channel_id>
+			<epg_id>Relax Comedy</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Relax Russian</caption>
+			<channel_id>RelaxRussian</channel_id>
+			<epg_id>Relax Russian</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Relax Fantasy</caption>
+			<channel_id>RelaxFantasy</channel_id>
+			<epg_id>Relax Fantasy</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Relax Drama</caption>
+			<channel_id>RelaxDrama</channel_id>
+			<epg_id>Relax Drama</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 1 HD</caption>
+			<channel_id>setanta1hd</channel_id>
+			<epg_id>setanta-sports</epg_id>
+			<icon_url>https://blinktv.cc/ico/SetantaSports1HD.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 2 HD</caption>
+			<channel_id>setanta2hd</channel_id>
+			<epg_id>setanta-sports-plus</epg_id>
+			<icon_url>https://blinktv.cc/ico/SetantaSports2HD.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Ukraine HD</caption>
+			<channel_id>SetantaSportsUkraine</channel_id>
+			<epg_id>Setanta Ukraine HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/setanta-ua.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Ukraine Plus HD</caption>
+			<channel_id>setantaua</channel_id>
+			<epg_id>Setanta Ukraine Plus HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/setanta-plus-ua.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 1 HD KZ</caption>
+			<channel_id>setanta1kz</channel_id>
+			<epg_id>setanta1-kz</epg_id>
+			<icon_url>https://blinktv.cc/ico/SetantaSports1HD.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 2 HD KZ</caption>
+			<channel_id>setanta2kz</channel_id>
+			<epg_id>setanta2-kz</epg_id>
+			<icon_url>https://blinktv.cc/ico/SetantaSports2HD.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Qazaqstan HD</caption>
+			<channel_id>setanraqz</channel_id>
+			<epg_id>setanta-kz</epg_id>
+			<icon_url>https://blinktv.cc/ico/SetantaQazaqstan.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Qazaqstan HD RU</caption>
+			<channel_id>setanta</channel_id>
+			<epg_id>setanta-kz</epg_id>
+			<icon_url>https://blinktv.cc/ico/SetantaQazaqstan.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! HD</caption>
+			<channel_id>matchhd</channel_id>
+			<epg_id>Матч! HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/MATCHHD.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч Премьер HD</caption>
+			<channel_id>matchprem</channel_id>
+			<epg_id>Матч Премьер HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Premiermach.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч Премьер</caption>
+			<channel_id>Premiermach</channel_id>
+			<epg_id>Матч Премьер</epg_id>
+			<icon_url>https://blinktv.cc/ico/Premiermach.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 1 HD</caption>
+			<channel_id>matchf1hd</channel_id>
+			<epg_id>Матч! Футбол 1 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Machfutbol1.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 2 HD</caption>
+			<channel_id>matchf2hd</channel_id>
+			<epg_id>Матч! Футбол 2 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Futboll2.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 3 HD</caption>
+			<channel_id>matchf3hd</channel_id>
+			<epg_id>Матч! Футбол 3 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Machfutbol3.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Боец HD</caption>
+			<channel_id>boec</channel_id>
+			<epg_id>Матч! Боец HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Matchboez.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Удар HD</caption>
+			<channel_id>udar</channel_id>
+			<epg_id>Удар HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Udar.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MMA-TV HD</caption>
+			<channel_id>mmatvhd</channel_id>
+			<epg_id>MMA-TV HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Mmacom.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Бокс ТВ</caption>
+			<channel_id>bokstv</channel_id>
+			<epg_id>Бокс ТВ</epg_id>
+			<icon_url>https://blinktv.cc/ico/Bocks.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Футбол HD</caption>
+			<channel_id>futbol</channel_id>
+			<epg_id>Футбол HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Futbolhd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KHL</caption>
+			<channel_id>khlhd</channel_id>
+			<epg_id>KHL</epg_id>
+			<icon_url>https://blinktv.cc/ico/KHLHD.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 1 HD</caption>
+			<channel_id>eurosport1hd</channel_id>
+			<epg_id>Eurosport 1 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Eurosport1.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 2 HD</caption>
+			<channel_id>eurosport2hd</channel_id>
+			<epg_id>Eurosport 2 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Eurosport2.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Qazsport HD</caption>
+			<channel_id>qazsporthd</channel_id>
+			<epg_id>kazsport</epg_id>
+			<icon_url>https://blinktv.cc/ico/QazSport.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Планета</caption>
+			<channel_id>math_planet</channel_id>
+			<epg_id>Матч! Планета</epg_id>
+			<icon_url>https://blinktv.cc/ico/Planetmatch.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт HD</caption>
+			<channel_id>start</channel_id>
+			<epg_id>Старт HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Start.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт Триумф HD</caption>
+			<channel_id>start_trim</channel_id>
+			<epg_id>Старт Триумф HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/StartTri.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ClarityHD American Football</caption>
+			<channel_id>ClarityHD_American_Football</channel_id>
+			<epg_id>ClarityHD American Football</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k Единоборства</caption>
+			<channel_id>Clarity4k_borba</channel_id>
+			<epg_id>Clarity4k Единоборства</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 1</caption>
+			<channel_id>ViP_Sport_1</channel_id>
+			<epg_id>ViP Sport 1</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 2</caption>
+			<channel_id>ViP_Sport_2</channel_id>
+			<epg_id>ViP Sport 2</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 3</caption>
+			<channel_id>ViP_Sport_3</channel_id>
+			<epg_id>ViP Sport 3</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 4</caption>
+			<channel_id>ViP_Sport_4</channel_id>
+			<epg_id>ViP Sport 4</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 5</caption>
+			<channel_id>ViP_Sport_5</channel_id>
+			<epg_id>ViP Sport 5</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 6</caption>
+			<channel_id>ViP_Sport_6</channel_id>
+			<epg_id>ViP Sport 6</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 7</caption>
+			<channel_id>ViP_Sport_7</channel_id>
+			<epg_id>ViP Sport 7</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 9</caption>
+			<channel_id>ViP_Sport_9</channel_id>
+			<epg_id>ViP Sport 9</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 10</caption>
+			<channel_id>ViP_Sport_10</channel_id>
+			<epg_id>ViP Sport 10</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 11</caption>
+			<channel_id>ViP_Sport_11</channel_id>
+			<epg_id>ViP Sport 11</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 12</caption>
+			<channel_id>ViP_Sport_12</channel_id>
+			<epg_id>ViP Sport 12</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 13</caption>
+			<channel_id>ViP_Sport_13</channel_id>
+			<epg_id>ViP Sport 13</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>FintGa 1</caption>
+			<channel_id>FintGa1</channel_id>
+			<epg_id>FintGa 1</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>FintGa 2</caption>
+			<channel_id>FintGa2</channel_id>
+			<epg_id>FintGa 2</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>FintGa 3</caption>
+			<channel_id>FintGa3</channel_id>
+			<epg_id>FintGa 3</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>FintGa 4</caption>
+			<channel_id>FintGa4</channel_id>
+			<epg_id>FintGa 4</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pimple 1</caption>
+			<channel_id>Pimple1</channel_id>
+			<epg_id>Pimple 1</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pimple 2</caption>
+			<channel_id>Pimple2</channel_id>
+			<epg_id>Pimple 2</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pimple 3</caption>
+			<channel_id>Pimple3</channel_id>
+			<epg_id>Pimple 3</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pimple 4</caption>
+			<channel_id>Pimple4</channel_id>
+			<epg_id>Pimple 4</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pimple 5</caption>
+			<channel_id>Pimple5</channel_id>
+			<epg_id>Pimple 5</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pimple 6</caption>
+			<channel_id>Pimple6</channel_id>
+			<epg_id>Pimple 6</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vital Sport 1</caption>
+			<channel_id>Vital_Sport_1</channel_id>
+			<epg_id>Vital Sport 1</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vital Sport 2</caption>
+			<channel_id>Vital_Sport_2</channel_id>
+			<epg_id>Vital Sport 2</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vital Sport 3</caption>
+			<channel_id>Vital_Sport_3</channel_id>
+			<epg_id>Vital Sport 3</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vital Sport 4</caption>
+			<channel_id>Vital_Sport_4</channel_id>
+			<epg_id>Vital Sport 4</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vital Sport 5</caption>
+			<channel_id>Vital_Sport_5</channel_id>
+			<epg_id>Vital Sport 5</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vital Sport 6</caption>
+			<channel_id>Vital_Sport_6</channel_id>
+			<epg_id>Vital Sport 6</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Sport</caption>
+			<channel_id>Viasat_Sport</channel_id>
+			<epg_id>Viasat Sport</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA LIVE</caption>
+			<channel_id>NBA_LIVE</channel_id>
+			<epg_id>NBA LIVE</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dubai Sports 2 HD</caption>
+			<channel_id>dubaisport2</channel_id>
+			<epg_id>Dubai Sports 2 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dubai Sports 3 HD</caption>
+			<channel_id>dubaisport3</channel_id>
+			<epg_id>Dubai Sports 3 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH FIGHT</caption>
+			<channel_id>SKY_HIGH_FIGHT</channel_id>
+			<epg_id>5559</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyhighfight.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Страна HD</caption>
+			<channel_id>matchstranahd</channel_id>
+			<epg_id>Матч! Страна HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Страна</caption>
+			<channel_id>matchstrana</channel_id>
+			<epg_id>Матч! Страна</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч!</caption>
+			<channel_id>match</channel_id>
+			<epg_id>Матч!</epg_id>
+			<icon_url>https://blinktv.cc/ico/MATCHHD.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Игра HD</caption>
+			<channel_id>matcigrahd</channel_id>
+			<epg_id>Матч! Игра HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Игра</caption>
+			<channel_id>matcigra</channel_id>
+			<epg_id>Матч! Игра</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Боец</caption>
+			<channel_id>Matchboez</channel_id>
+			<epg_id>Матч! Боец</epg_id>
+			<icon_url>https://blinktv.cc/ico/Matchboez.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 1</caption>
+			<channel_id>MatchFutbol1</channel_id>
+			<epg_id>Матч! Футбол 1</epg_id>
+			<icon_url>https://blinktv.cc/ico/Machfutbol1.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 2</caption>
+			<channel_id>MatchFutbol2</channel_id>
+			<epg_id>Матч! Футбол 2</epg_id>
+			<icon_url>https://blinktv.cc/ico/Futboll2.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 3</caption>
+			<channel_id>MatchFutbol3</channel_id>
+			<epg_id>Матч! Футбол 3</epg_id>
+			<icon_url>https://blinktv.cc/ico/Machfutbol3.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Арена HD</caption>
+			<channel_id>matcarenahd</channel_id>
+			<epg_id>Матч! Арена HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Арена</caption>
+			<channel_id>matcarena</channel_id>
+			<epg_id>Матч! Арена</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт</caption>
+			<channel_id>startsd</channel_id>
+			<epg_id>Старт</epg_id>
+			<icon_url>https://blinktv.cc/ico/Start.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KHL Prime HD</caption>
+			<channel_id>khlprime</channel_id>
+			<epg_id>KHL Prime HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sport 1 UA</caption>
+			<channel_id>sport1ua</channel_id>
+			<epg_id>Sport 1 UA</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sport 2 UA</caption>
+			<channel_id>sport2ua</channel_id>
+			<epg_id>Sport 2 UA</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ Sport HD</caption>
+			<channel_id>vijusporthd</channel_id>
+			<epg_id>Viju+ Sport HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ Sport</caption>
+			<channel_id>vijusport</channel_id>
+			<epg_id>Viju+ Sport</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FightBox</caption>
+			<channel_id>fightboxhd</channel_id>
+			<epg_id>FightBox</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Animal Planet HD</caption>
+			<channel_id>AnimalPlanetHD</channel_id>
+			<epg_id>Animal Planet HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Animal.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>National Geographic HD</caption>
+			<channel_id>Nationalgeohd</channel_id>
+			<epg_id>National Geographic HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/NationalGeographic.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nat Geo Wild HD</caption>
+			<channel_id>Natgeowildhd</channel_id>
+			<epg_id>Nat Geo Wild HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/NatGeo.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>History HD</caption>
+			<channel_id>Historyhd</channel_id>
+			<epg_id>History HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/History HD.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>H2 HD</caption>
+			<channel_id>H2HD</channel_id>
+			<epg_id>H2 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/HISTORY2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Discovery Channel HD</caption>
+			<channel_id>DiscoveryChannelHD</channel_id>
+			<epg_id>discovery-channel</epg_id>
+			<icon_url>https://blinktv.cc/ico/DiscoveryChannelHD.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Investigation Discovery HD</caption>
+			<channel_id>InvestigationDiscovery</channel_id>
+			<epg_id>Investigation Discovery HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/InvestigationDiscoveryHD.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Бобёр</caption>
+			<channel_id>Bobyor</channel_id>
+			<epg_id>Бобёр</epg_id>
+			<icon_url>https://blinktv.cc/ico/Bob.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Совершенно Секретно</caption>
+			<channel_id>topsecret</channel_id>
+			<epg_id>Совершенно Секретно</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый Вегетарианский HD</caption>
+			<channel_id>pervverg</channel_id>
+			<epg_id>Первый Вегетарианский HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/pervveg.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Право</caption>
+			<channel_id>ntv_pravo</channel_id>
+			<epg_id>ntv-pravo</epg_id>
+			<icon_url>https://blinktv.cc/ico/ntvpravo.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Авто 24</caption>
+			<channel_id>avto24</channel_id>
+			<epg_id>Авто 24</epg_id>
+			<icon_url>https://blinktv.cc/ico/avto24.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикая рыбалка HD</caption>
+			<channel_id>dirabhd</channel_id>
+			<epg_id>Дикая рыбалка HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/dicrib.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикая охота HD</caption>
+			<channel_id>dicohota</channel_id>
+			<epg_id>Дикая охота HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/dicox.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Big Planet HD</caption>
+			<channel_id>Big_Planet_HD</channel_id>
+			<epg_id>Big Planet HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/bigplanet.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TLC HD</caption>
+			<channel_id>TLC_HD</channel_id>
+			<epg_id>tlc</epg_id>
+			<icon_url>https://blinktv.cc/ico/tlc.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Спас</caption>
+			<channel_id>Spas</channel_id>
+			<epg_id>Спас</epg_id>
+			<icon_url>https://blinktv.cc/ico/spas.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RTG HD</caption>
+			<channel_id>RTG_HD</channel_id>
+			<epg_id>RTG HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/rtg.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Неизвестная Россия HD</caption>
+			<channel_id>niii</channel_id>
+			<epg_id>Неизвестная Россия HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/neizross.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>English Club TV</caption>
+			<channel_id>English_Club_TV</channel_id>
+			<epg_id>English Club TV</epg_id>
+			<icon_url>https://blinktv.cc/ico/englishclub.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Приключения HD</caption>
+			<channel_id>priclhd</channel_id>
+			<epg_id>Приключения HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/priklyucheniya.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Зал Суда HD</caption>
+			<channel_id>zal_sud</channel_id>
+			<epg_id>Зал Суда HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/zalsuda.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Love Nature 4K</caption>
+			<channel_id>nasa_sib</channel_id>
+			<epg_id>Love Nature 4K</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ностальгия</caption>
+			<channel_id>Nastolfia</channel_id>
+			<epg_id>Ностальгия</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кто есть кто</caption>
+			<channel_id>kto_esy</channel_id>
+			<epg_id>Кто есть кто</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Загородная Жизнь</caption>
+			<channel_id>zagorod</channel_id>
+			<epg_id>Загородная Жизнь</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Орёл и решка</caption>
+			<channel_id>kli_oril</channel_id>
+			<epg_id>KLI Орёл и решка</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мужской</caption>
+			<channel_id>muzkoi</channel_id>
+			<epg_id>2444</epg_id>
+			<icon_url>https://blinktv.cc/ico/2444.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Animals HD</caption>
+			<channel_id>39823</channel_id>
+			<epg_id>kbc-animals</epg_id>
+			<icon_url>https://blinktv.cc/ico/kbcanim.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Звериный мир</caption>
+			<channel_id>Clarity4K_zvermir</channel_id>
+			<epg_id>Clarity4K Звериный мир</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Avto Blog</caption>
+			<channel_id>Clarity4K_Avto_Blog</channel_id>
+			<epg_id>Clarity4K Avto Blog</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Запал</caption>
+			<channel_id>Clarity4K_zapal</channel_id>
+			<epg_id>Clarity4K Запал</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Travel blog</caption>
+			<channel_id>Clarity4K_Travel_blog</channel_id>
+			<epg_id>Clarity4K Travel blog</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Театр</caption>
+			<channel_id>Clarity4K_taetr</channel_id>
+			<epg_id>Clarity4K Театр</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Города</caption>
+			<channel_id>Clarity4K_relax</channel_id>
+			<epg_id>Clarity4K Города</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский Экстрим UHD 4K</caption>
+			<channel_id>undrex</channel_id>
+			<epg_id>Русский Экстрим UHD 4K</epg_id>
+			<icon_url>https://blinktv.cc/ico/ultrarev.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Доктор</caption>
+			<channel_id>doctor</channel_id>
+			<epg_id>Доктор</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Калейдоскоп ТВ</caption>
+			<channel_id>cpled</channel_id>
+			<epg_id>Калейдоскоп ТВ</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Просвещение</caption>
+			<channel_id>prosvech</channel_id>
+			<epg_id>Просвещение</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Охотник и Рыболов</caption>
+			<channel_id>ohotirin</channel_id>
+			<epg_id>Охотник и Рыболов</epg_id>
+			<icon_url>https://blinktv.cc/ico/ohotirin.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Москва Доверие</caption>
+			<channel_id>mskdov</channel_id>
+			<epg_id>Москва Доверие</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>История</caption>
+			<channel_id>historyZ_ru</channel_id>
+			<epg_id>История</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кухня ТВ</caption>
+			<channel_id>kitchentv</channel_id>
+			<epg_id>Кухня ТВ</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Живи</caption>
+			<channel_id>life_active</channel_id>
+			<epg_id>Живи</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Animal Planet</caption>
+			<channel_id>PRO_Biznes</channel_id>
+			<epg_id>Animal Planet</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Усадьба</caption>
+			<channel_id>Usadba</channel_id>
+			<epg_id>Усадьба</epg_id>
+			<icon_url>https://blinktv.cc/ico/usadba.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Зоопарк</caption>
+			<channel_id>Zoopark</channel_id>
+			<epg_id>Зоопарк</epg_id>
+			<icon_url>https://blinktv.cc/ico/zoopark.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Оружие</caption>
+			<channel_id>Oruzhie</channel_id>
+			<epg_id>Оружие</epg_id>
+			<icon_url>https://blinktv.cc/ico/oruzhie.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наука 2.0 HD</caption>
+			<channel_id>Nauka</channel_id>
+			<epg_id>Наука 2.0 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/nauka-20.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикий</caption>
+			<channel_id>Dikii</channel_id>
+			<epg_id>Дикий</epg_id>
+			<icon_url>https://blinktv.cc/ico/dikiy.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Большая Азия HD</caption>
+			<channel_id>big_asia</channel_id>
+			<epg_id>Большая Азия HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/bolshaya-azia.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Travel+Adventure HD</caption>
+			<channel_id>Travel_Adventure_HD</channel_id>
+			<epg_id>Travel+Adventure HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/travel-adventure.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ocean-TV</caption>
+			<channel_id>Ocean-TV</channel_id>
+			<epg_id>Ocean-TV</epg_id>
+			<icon_url>https://blinktv.cc/ico/ocean-tv.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Red Bull TV HD</caption>
+			<channel_id>Red_Bull_TV_HD</channel_id>
+			<epg_id>Red Bull TV HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Food Time</caption>
+			<channel_id>Food_Time</channel_id>
+			<epg_id>Food Time</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH MAN</caption>
+			<channel_id>SKY_HIGH_MAN</channel_id>
+			<epg_id>5461</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skehighman.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH nature 4K</caption>
+			<channel_id>SKY_HIGH_nature_4K</channel_id>
+			<epg_id>SKY HIGH nature 4K</epg_id>
+			<icon_url>https://blinktv.cc/ico/6738.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH nature 4K HDR</caption>
+			<channel_id>SKY_HIGH_nature_4K_HDR</channel_id>
+			<epg_id>SKY HIGH nature 4K HDR</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH doc UHD</caption>
+			<channel_id>SKY_HIGH_doc_UHD</channel_id>
+			<epg_id>6339</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyhighdoc.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH doc</caption>
+			<channel_id>SKY_HIGH_doc</channel_id>
+			<epg_id>SKY HIGH doc</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH brain</caption>
+			<channel_id>SKY_HIGH_brain</channel_id>
+			<epg_id>SKY HIGH brain</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH nature</caption>
+			<channel_id>SKY_HIGH_nature</channel_id>
+			<epg_id>SKY HIGH nature</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наша Сибирь 4K</caption>
+			<channel_id>NashaSibir4K</channel_id>
+			<epg_id>Наша Сибирь 4K</epg_id>
+			<icon_url>https://blinktv.cc/ico/nashasibir.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Da Vinci Learning</caption>
+			<channel_id>Da_Vinci_Learning</channel_id>
+			<epg_id>Da Vinci Learning</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Живая планета</caption>
+			<channel_id>live_planet</channel_id>
+			<epg_id>Живая планета</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Загородный int</caption>
+			<channel_id>zagor_int</channel_id>
+			<epg_id>Загородный int</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Трофей</caption>
+			<channel_id>trofii</channel_id>
+			<epg_id>Трофей</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju History</caption>
+			<channel_id>Viju_History</channel_id>
+			<epg_id>Viju History</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju Nature</caption>
+			<channel_id>Viju_Nature</channel_id>
+			<epg_id>Viju Nature</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju Explore</caption>
+			<channel_id>Viju_Explore</channel_id>
+			<epg_id>Viju Explore</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju Explore HD</caption>
+			<channel_id>Viju_Explore_HD</channel_id>
+			<epg_id>Viju Explore HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ Planet HD</caption>
+			<channel_id>Viju_Planet_HD</channel_id>
+			<epg_id>Viju+ Planet HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>DocuBox</caption>
+			<channel_id>DocuBox</channel_id>
+			<epg_id>DocuBox</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>History 2 HD</caption>
+			<channel_id>History_2_HD</channel_id>
+			<epg_id>History 2 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>World Fashion Channel</caption>
+			<channel_id>World_Fashion_Channel</channel_id>
+			<epg_id>World Fashion Channel</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Live HD</caption>
+			<channel_id>MTV_Live_HD</channel_id>
+			<epg_id>MTV Live HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/MTVLiveHD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV 00s</caption>
+			<channel_id>MTV_00s_HD</channel_id>
+			<epg_id>MTV 00s</epg_id>
+			<icon_url>https://blinktv.cc/ico/MTV00s.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Europa Plus TV</caption>
+			<channel_id>Europaplushd</channel_id>
+			<epg_id>Europa Plus TV</epg_id>
+			<icon_url>https://blinktv.cc/ico/EuropaPlusTV.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-НАШ ROCK</caption>
+			<channel_id>39824</channel_id>
+			<epg_id>KBC-НАШ ROCK</epg_id>
+			<icon_url>https://blinktv.cc/ico/39824kbc.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Музыка Первого</caption>
+			<channel_id>GabbaritAnthem</channel_id>
+			<epg_id>Музыка Первого</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>1HD</caption>
+			<channel_id>1HD</channel_id>
+			<epg_id>1HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/1HD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CHD-TV RU Rock HD</caption>
+			<channel_id>CHD-TV_RU_Rock_HD</channel_id>
+			<epg_id>CHD-TV RU Rock HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/CHDTVRURock.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ Music HD</caption>
+			<channel_id>tntmusik</channel_id>
+			<epg_id>ТНТ Music HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Tntfusic.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV</caption>
+			<channel_id>Bridge_TV</channel_id>
+			<epg_id>Bridge TV</epg_id>
+			<icon_url>https://blinktv.cc/ico/BridgeTV.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BRIDGE TV Hits HD</caption>
+			<channel_id>BRIDGETVHits</channel_id>
+			<epg_id>BRIDGE TV Hits HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/BridgeHitsHD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BRIDGE TV Русский Хит HD</caption>
+			<channel_id>bridgetvruus</channel_id>
+			<epg_id>BRIDGE TV Русский Хит HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/BRIDGErus.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Classic</caption>
+			<channel_id>BridgeTVClassic</channel_id>
+			<epg_id>Bridge TV Classic</epg_id>
+			<icon_url>https://blinktv.cc/ico/BRIDGECLASSIC.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Rock HD</caption>
+			<channel_id>BridgeTRock</channel_id>
+			<epg_id>Bridge TV Rock HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/BridgeRock.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Шлягер</caption>
+			<channel_id>bridgetvsliger</channel_id>
+			<epg_id>Bridge TV Шлягер</epg_id>
+			<icon_url>https://blinktv.cc/ico/BRIDGEshalger.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Deluxe HD</caption>
+			<channel_id>BridgeTVDeluxe</channel_id>
+			<epg_id>Bridge TV Deluxe HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/BRIDGEDelux.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>VIVA Russia HD</caption>
+			<channel_id>vivarussia</channel_id>
+			<epg_id>VIVA Russia HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/VIVArussia.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RU.TV</caption>
+			<channel_id>RU.TV</channel_id>
+			<epg_id>RU.TV</epg_id>
+			<icon_url>https://blinktv.cc/ico/RUtv.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MusicBox Gold</caption>
+			<channel_id>MusicBox_Gold</channel_id>
+			<epg_id>MusicBox Gold</epg_id>
+			<icon_url>https://blinktv.cc/ico/MusicGold.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Russian MusicBox</caption>
+			<channel_id>Russian_MusicBox</channel_id>
+			<epg_id>Russian MusicBox</epg_id>
+			<icon_url>https://blinktv.cc/ico/Rusmusbox.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MEZZO</caption>
+			<channel_id>MEZZO</channel_id>
+			<epg_id>MEZZO</epg_id>
+			<icon_url>https://blinktv.cc/ico/Mezzo.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Музыка 1 International</caption>
+			<channel_id>muz1int</channel_id>
+			<epg_id>Музыка 1 International</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Музыка 2 International</caption>
+			<channel_id>muz2int</channel_id>
+			<epg_id>Музыка 2 International</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Music HD</caption>
+			<channel_id>KLI_Music_HD</channel_id>
+			<epg_id>6120</epg_id>
+			<icon_url>https://blinktv.cc/ico/KLIMUSIC.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI HIT90</caption>
+			<channel_id>KLI_HIT90</channel_id>
+			<epg_id>6121</epg_id>
+			<icon_url>https://blinktv.cc/ico/HIT90-1.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Retro HD</caption>
+			<channel_id>KLI_Retro_HD</channel_id>
+			<epg_id>6399</epg_id>
+			<icon_url>https://blinktv.cc/ico/KLIRetro.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Club HD</caption>
+			<channel_id>KLI_Club_HD</channel_id>
+			<epg_id>6732</epg_id>
+			<icon_url>https://blinktv.cc/ico/kliclub.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Concert HD</caption>
+			<channel_id>KLI_Concert_HD</channel_id>
+			<epg_id>7177</epg_id>
+			<icon_url>https://blinktv.cc/ico/kliconcert.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Шансон</caption>
+			<channel_id>kli_shanson</channel_id>
+			<epg_id>7590</epg_id>
+			<icon_url>https://blinktv.cc/ico/Klishan.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Millennium</caption>
+			<channel_id>KLI_Millennium</channel_id>
+			<epg_id>KLI Millennium</epg_id>
+			<icon_url>https://blinktv.cc/ico/klimillennium.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Relax HD</caption>
+			<channel_id>KLI_Relax_HD</channel_id>
+			<epg_id>KLI Relax HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/klirelax.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Latin music</caption>
+			<channel_id>Clarity4K_Latin_music</channel_id>
+			<epg_id>Clarity4K Latin music</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K France music</caption>
+			<channel_id>Clarity4K_France_music</channel_id>
+			<epg_id>Clarity4K France music</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Korean music</caption>
+			<channel_id>Clarity4K_Korean_music</channel_id>
+			<epg_id>Clarity4K Korean music</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K World Music</caption>
+			<channel_id>Clarity4K_World_Music</channel_id>
+			<epg_id>Clarity4K World Music</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Ukrainian music</caption>
+			<channel_id>Clarity4K_Ukrainian_music</channel_id>
+			<epg_id>Clarity4K Ukrainian music</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Bollywood music</caption>
+			<channel_id>Clarity4K_Bollywood_music</channel_id>
+			<epg_id>Clarity4K Bollywood music</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Russian music</caption>
+			<channel_id>Clarity4K_Russian_music</channel_id>
+			<epg_id>Clarity4K Russian music</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Heavy metal</caption>
+			<channel_id>Clarity4K_Heavy_metal</channel_id>
+			<epg_id>Clarity4K Heavy metal</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k Deep House</caption>
+			<channel_id>Clarity4k_Deep_House</channel_id>
+			<epg_id>Clarity4k Deep House</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K UrbanBlack</caption>
+			<channel_id>Clarity4K_UrbanBlack</channel_id>
+			<epg_id>Clarity4K UrbanBlack</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K RemasterWave</caption>
+			<channel_id>Clarity4K_RemasterWave</channel_id>
+			<epg_id>Clarity4K RemasterWave</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Now 70\&apos;s</caption>
+			<channel_id>Now_70</channel_id>
+			<epg_id>Now 70\&apos;s</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Now 80\&apos;s</caption>
+			<channel_id>Now_80_s</channel_id>
+			<epg_id>Now 80\&apos;s</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Now 90\&apos;s</caption>
+			<channel_id>Now_90_s</channel_id>
+			<epg_id>Now 90\&apos;s</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ocko Expres</caption>
+			<channel_id>Ocko_Expres</channel_id>
+			<epg_id>Ocko Expres</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ocko Star</caption>
+			<channel_id>Ocko_Star</channel_id>
+			<epg_id>Ocko Star</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NRJ TV Hits</caption>
+			<channel_id>nrgtv</channel_id>
+			<epg_id>NRJ TV Hits</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>4ever Music HD</caption>
+			<channel_id>4evermusic</channel_id>
+			<epg_id>4ever-music</epg_id>
+			<icon_url>https://blinktv.cc/ico/DRGD43F.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Муз ТВ HD</caption>
+			<channel_id>muz_tv_ru</channel_id>
+			<epg_id>Муз ТВ HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый музыкальный</caption>
+			<channel_id>1music</channel_id>
+			<epg_id>Первый музыкальный</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Trace Urban HD</caption>
+			<channel_id>Trace_Urban_HD</channel_id>
+			<epg_id>Trace Urban HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Жара HD</caption>
+			<channel_id>ZhARA_HD</channel_id>
+			<epg_id>Жара HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/zhara.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Hits</caption>
+			<channel_id>MTV_Hits</channel_id>
+			<epg_id>MTV Hits</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Club</caption>
+			<channel_id>MTV_Club</channel_id>
+			<epg_id>MTV Club</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV 90\&apos;s</caption>
+			<channel_id>MTV_90</channel_id>
+			<epg_id>MTV 90\&apos;s</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV HD</caption>
+			<channel_id>MTV_HD</channel_id>
+			<epg_id>MTV HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH dance</caption>
+			<channel_id>SKY_HIGH_dance</channel_id>
+			<epg_id>5455</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyhighdance.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH CONCERT</caption>
+			<channel_id>SKY_HIGH_CONCERT</channel_id>
+			<epg_id>5454</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyhighconcert.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH CLASSIC</caption>
+			<channel_id>SKY_HIGH_CLASSIC</channel_id>
+			<epg_id>5596</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skyhighclassic.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH lo-fi</caption>
+			<channel_id>SKY_HIGH_lo-fi</channel_id>
+			<epg_id>SKY HIGH lo-fi</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH MUSIC</caption>
+			<channel_id>SKY_HIGH_MUSIC</channel_id>
+			<epg_id>SKY HIGH MUSIC</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>M1</caption>
+			<channel_id>M1</channel_id>
+			<epg_id>M1</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>M2</caption>
+			<channel_id>M2</channel_id>
+			<epg_id>M2</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoon Network HD</caption>
+			<channel_id>Cartoonnetwork</channel_id>
+			<epg_id>601</epg_id>
+			<icon_url>https://blinktv.cc/ico/CartoonNetwork.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nickelodeon HD</caption>
+			<channel_id>Nickelodeon</channel_id>
+			<epg_id>Nickelodeon HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Nickelodeon.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TiJi</caption>
+			<channel_id>TiJi</channel_id>
+			<epg_id>TiJi</epg_id>
+			<icon_url>https://blinktv.cc/ico/TijiTV.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мульт HD</caption>
+			<channel_id>Multhd</channel_id>
+			<epg_id>Мульт HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/MULTHD.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мультиландия</caption>
+			<channel_id>multilandiya</channel_id>
+			<epg_id>Мультиландия</epg_id>
+			<icon_url>https://blinktv.cc/ico/Multilan.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>В Гостях у Сказки</caption>
+			<channel_id>v_gost_scasd</channel_id>
+			<epg_id>В Гостях у Сказки</epg_id>
+			<icon_url>https://blinktv.cc/ico/Skaszagos.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Рыжий</caption>
+			<channel_id>rizi</channel_id>
+			<epg_id>Рыжий</epg_id>
+			<icon_url>https://blinktv.cc/ico/Netkrasniy.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Детский Мир</caption>
+			<channel_id>detmir</channel_id>
+			<epg_id>Детский Мир</epg_id>
+			<icon_url>https://blinktv.cc/ico/Detmir.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Baby Time</caption>
+			<channel_id>Baby_Time</channel_id>
+			<epg_id>Baby Time</epg_id>
+			<icon_url>https://blinktv.cc/ico/BabyTime.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Gulli Girl</caption>
+			<channel_id>Gulli_Girl</channel_id>
+			<epg_id>Gulli Girl</epg_id>
+			<icon_url>https://blinktv.cc/ico/Gulli.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Карусель</caption>
+			<channel_id>karusel</channel_id>
+			<epg_id>Карусель</epg_id>
+			<icon_url>https://blinktv.cc/ico/karusel.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Солнце</caption>
+			<channel_id>solnce</channel_id>
+			<epg_id>Солнце</epg_id>
+			<icon_url>https://blinktv.cc/ico/solnce.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Смайлик ТВ HD</caption>
+			<channel_id>smiletv</channel_id>
+			<epg_id>Смайлик ТВ HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/cmayl.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>2x2 HD</caption>
+			<channel_id>2_2_ru</channel_id>
+			<epg_id>2x2 HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/dvaX.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Kids FHD</caption>
+			<channel_id>KLI_Kids_FHD</channel_id>
+			<epg_id>7178</epg_id>
+			<icon_url>https://blinktv.cc/ico/KLIKids.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Мультики HD</caption>
+			<channel_id>KLI_mult_HD</channel_id>
+			<epg_id>7179</epg_id>
+			<icon_url>https://blinktv.cc/ico/klimultiki.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Мультсериал HD</caption>
+			<channel_id>dushfh</channel_id>
+			<epg_id>bcu-multserial</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-multserial.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Little HD</caption>
+			<channel_id>BCULittleHD</channel_id>
+			<epg_id>BCU Little HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Kids 4K</caption>
+			<channel_id>asrohd</channel_id>
+			<epg_id>bcu-kids-4k</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-kids-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Kids HD</caption>
+			<channel_id>Scream</channel_id>
+			<epg_id>bcu-kids</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-kids.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Kids+ HD</caption>
+			<channel_id>blocbaster</channel_id>
+			<epg_id>bcu-kids-plus</epg_id>
+			<icon_url>https://blinktv.cc/ico/bcu-kids-plus.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Союзмультзал</caption>
+			<channel_id>39798</channel_id>
+			<epg_id>kbc-multzal</epg_id>
+			<icon_url>https://blinktv.cc/ico/39798kcb.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Family Animation HD</caption>
+			<channel_id>38589</channel_id>
+			<epg_id>kbc-family-animation</epg_id>
+			<icon_url>https://blinktv.cc/ico/FamilyANIM.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-АНИМЕ HD</caption>
+			<channel_id>42053</channel_id>
+			<epg_id>kbc-anime</epg_id>
+			<icon_url>https://blinktv.cc/ico/42053GGUWK.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Walt Disney</caption>
+			<channel_id>Clarity4K_Walt_Disney</channel_id>
+			<epg_id>Clarity4K Walt Disney</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Мультимир</caption>
+			<channel_id>Clarity4K_multmir</channel_id>
+			<epg_id>Clarity4K Мультимир</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Kинодети Cсср</caption>
+			<channel_id>Clarity4K_kids_sssr</channel_id>
+			<epg_id>Clarity4K Kинодети Cсср</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Мультляндия</caption>
+			<channel_id>Clarity4K_multlandia</channel_id>
+			<epg_id>Clarity4K Мультляндия</epg_id>
+			<icon_url>https://blinktv.cc/ico/logo_clarity4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мама</caption>
+			<channel_id>mama</channel_id>
+			<epg_id>Мама</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лёва HD</caption>
+			<channel_id>Liova_HD</channel_id>
+			<epg_id>Лёва HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/liova.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС Kids HD</caption>
+			<channel_id>sts-kids-hd</channel_id>
+			<epg_id>СТС Kids HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/sts-kids-hd.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Супергерои</caption>
+			<channel_id>malysh</channel_id>
+			<epg_id>malysh</epg_id>
+			<icon_url>https://blinktv.cc/ico/malysh.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nick Jr.</caption>
+			<channel_id>Nickjr</channel_id>
+			<epg_id>Nick Jr.</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BUNNY</caption>
+			<channel_id>BUNNY</channel_id>
+			<epg_id>BUNNY</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MS ANIMATED</caption>
+			<channel_id>MS_ANIMATED</channel_id>
+			<epg_id>MS ANIMATED</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Magic Disney</caption>
+			<channel_id>Magic_Disney</channel_id>
+			<epg_id>Magic Disney</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Kids</caption>
+			<channel_id>Fresh_Kids</channel_id>
+			<epg_id>Fresh Kids</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX M.Serial HD</caption>
+			<channel_id>yosso_ussr</channel_id>
+			<epg_id>BOX M.Serial HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Anime HD</caption>
+			<channel_id>box_anime</channel_id>
+			<epg_id>BOX Anime HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ПлюсПлюс</caption>
+			<channel_id>Plus_plus</channel_id>
+			<epg_id>ПлюсПлюс</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Твоё ТВ HD</caption>
+			<channel_id>tvoetvhd</channel_id>
+			<epg_id>Твоё ТВ HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/Tvoe.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Твоё ТВ HD Юмор</caption>
+			<channel_id>tvoetvhdhumor</channel_id>
+			<epg_id>Твоё ТВ HD Юмор</epg_id>
+			<icon_url>https://blinktv.cc/ico/Tvoe.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТЕЛЕКАФЕ</caption>
+			<channel_id>telecafe</channel_id>
+			<epg_id>ТЕЛЕКАФЕ</epg_id>
+			<icon_url>https://blinktv.cc/ico/Telecafe.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ПроДвижение</caption>
+			<channel_id>prodvizinia</channel_id>
+			<epg_id>ПроДвижение</epg_id>
+			<icon_url>https://blinktv.cc/ico/Promoveeee.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Стиль</caption>
+			<channel_id>ntv_stil</channel_id>
+			<epg_id>1755</epg_id>
+			<icon_url>https://blinktv.cc/ico/ntvstil.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Gags Network</caption>
+			<channel_id>Gags_Network</channel_id>
+			<epg_id>Gags Network</epg_id>
+			<icon_url>https://blinktv.cc/ico/GagsNetwork.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC+100500 (18+)</caption>
+			<channel_id>42052</channel_id>
+			<epg_id>kbc-100500</epg_id>
+			<icon_url>https://blinktv.cc/ico/kbc1000.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH standup</caption>
+			<channel_id>SKY_HIGH_standup</channel_id>
+			<epg_id>SKY HIGH standup</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Game HD</caption>
+			<channel_id>yosso_soyuzmult</channel_id>
+			<epg_id>BOX Game HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CNN International</caption>
+			<channel_id>CNN_International</channel_id>
+			<epg_id>CNN International</epg_id>
+			<icon_url>https://blinktv.cc/ico/Cnninter.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CGTN Russia</caption>
+			<channel_id>CGTN_Russia</channel_id>
+			<epg_id>CGTN Russia</epg_id>
+			<icon_url>https://blinktv.cc/ico/CGTNrussia.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия РТР</caption>
+			<channel_id>russiartr</channel_id>
+			<epg_id>Россия РТР</epg_id>
+			<icon_url>https://blinktv.cc/ico/Rusrtr.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Краснодар HD</caption>
+			<channel_id>krasnodarhd</channel_id>
+			<epg_id>Краснодар HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Волга</caption>
+			<channel_id>volga</channel_id>
+			<epg_id>Волга</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Общественное телевидение Приморья</caption>
+			<channel_id>otv_prim</channel_id>
+			<epg_id>Общественное телевидение Приморья</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Крым 24</caption>
+			<channel_id>krim24</channel_id>
+			<epg_id>Крым 24</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Penthouse Gold HD</caption>
+			<channel_id>penthousegold</channel_id>
+			<epg_id>Penthouse Gold HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Private HD</caption>
+			<channel_id>privatehd</channel_id>
+			<epg_id>Private HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Redlight HD</caption>
+			<channel_id>redlighthd</channel_id>
+			<epg_id>Redlight HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vivid Red HD</caption>
+			<channel_id>vividredhd</channel_id>
+			<epg_id>Vivid Red HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>XY Plus HD</caption>
+			<channel_id>xyplushd</channel_id>
+			<epg_id>XY Plus HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>XY Max HD</caption>
+			<channel_id>xymaxhd</channel_id>
+			<epg_id>XY Max HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Super One HD</caption>
+			<channel_id>superonehd</channel_id>
+			<epg_id>Super One HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Hustler HD</caption>
+			<channel_id>hustlerhd</channel_id>
+			<epg_id>Hustler HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Extasy 4K</caption>
+			<channel_id>extasy4k</channel_id>
+			<epg_id>Extasy 4K</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eromania 4K</caption>
+			<channel_id>eromania4k</channel_id>
+			<epg_id>Eromania 4K</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Playboy TV</caption>
+			<channel_id>playboytv</channel_id>
+			<epg_id>Playboy TV</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Babes TV</caption>
+			<channel_id>olala</channel_id>
+			<epg_id>Babes TV</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Шалун</caption>
+			<channel_id>shalun</channel_id>
+			<epg_id>Шалун</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Шёлк HD</caption>
+			<channel_id>shelk</channel_id>
+			<epg_id>Шёлк HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Blondes HD</caption>
+			<channel_id>EroluxeBlondes</channel_id>
+			<epg_id>Eroluxe Blondes HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Anal HD</caption>
+			<channel_id>EroluxeAnal</channel_id>
+			<epg_id>Eroluxe Anal HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Blowjob HD</caption>
+			<channel_id>EroluxeBlowjob</channel_id>
+			<epg_id>Eroluxe Blowjob HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Cinema HD</caption>
+			<channel_id>EroluxeCinema</channel_id>
+			<epg_id>Eroluxe Cinema HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Cosplay HD</caption>
+			<channel_id>EroluxeCosplay</channel_id>
+			<epg_id>Eroluxe Cosplay HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Ebony HD</caption>
+			<channel_id>EroluxeEbony</channel_id>
+			<epg_id>Eroluxe Ebony HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Gays HD</caption>
+			<channel_id>EroluxGays</channel_id>
+			<epg_id>Eroluxe Gays HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Erolux Gloryhole HD</caption>
+			<channel_id>EroluxGloryhole</channel_id>
+			<epg_id>Erolux Gloryhole HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Erolux Henati HD</caption>
+			<channel_id>EroluxHenati</channel_id>
+			<epg_id>Erolux Henati HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Japanese HD</caption>
+			<channel_id>EroluxeJapanese</channel_id>
+			<epg_id>Eroluxe Japanese HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Orgi HD</caption>
+			<channel_id>EroluxeOrgi</channel_id>
+			<epg_id>Eroluxe Orgi HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Massage HD</caption>
+			<channel_id>EroluxeMassage</channel_id>
+			<epg_id>Eroluxe Massage HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Lesbians HD</caption>
+			<channel_id>EroluxeLesbians</channel_id>
+			<epg_id>Eroluxe Lesbians HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe MILF HD</caption>
+			<channel_id>EroluxeMILF</channel_id>
+			<epg_id>Eroluxe MILF HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Step Family HD</caption>
+			<channel_id>EroluxeStepFamily</channel_id>
+			<epg_id>Eroluxe Step Family HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Solo HD</caption>
+			<channel_id>EroluxeSolo</channel_id>
+			<epg_id>Eroluxe Solo HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe 60FPS</caption>
+			<channel_id>Eroluxe60fps</channel_id>
+			<epg_id>Eroluxe 60FPS</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Shemales HD</caption>
+			<channel_id>EroluxeShemales</channel_id>
+			<epg_id>Eroluxe Shemales HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroluxe Russian Teens HD</caption>
+			<channel_id>EuroluxRussianTeams</channel_id>
+			<epg_id>Eroluxe Russian Teens HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurolux Pregnant HD</caption>
+			<channel_id>EuroluxPregnant</channel_id>
+			<epg_id>Eurolux Pregnant HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русская ночь</caption>
+			<channel_id>russu_slip</channel_id>
+			<epg_id>Русская ночь</epg_id>
+			<icon_url>https://blinktv.cc/ico/russkaya-noch.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Barely Legal</caption>
+			<channel_id>barely-legal</channel_id>
+			<epg_id>barely-legal</epg_id>
+			<icon_url>https://blinktv.cc/ico/barely-legal.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Blue Hustler</caption>
+			<channel_id>blue-hustler</channel_id>
+			<epg_id>Blue Hustler</epg_id>
+			<icon_url>https://blinktv.cc/ico/blue-hustler.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Brazzers TV Europe</caption>
+			<channel_id>brazzers-tv-europe</channel_id>
+			<epg_id>brazzers-tv-europe</epg_id>
+			<icon_url>https://blinktv.cc/ico/brazzers.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>French Lover</caption>
+			<channel_id>french-lover</channel_id>
+			<epg_id>french-lover</epg_id>
+			<icon_url>https://blinktv.cc/ico/french-lover.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Penthouse Quickies</caption>
+			<channel_id>exxxotica</channel_id>
+			<epg_id>Penthouse Quickies</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Charm HD</caption>
+			<channel_id>BCUSurvivalHD</channel_id>
+			<epg_id>BCU Charm HD</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>SKY HIGH SEX</caption>
+			<channel_id>SKY_HIGH_SEX</channel_id>
+			<epg_id>SKY HIGH SEX</epg_id>
+			<icon_url>https://blinktv.cc/ico/.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+	</tv_channels>
+</tv_info>
+
