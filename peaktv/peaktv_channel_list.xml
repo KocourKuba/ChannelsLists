@@ -50,11 +50,6 @@
 			<icon_url>plugin_file://icons/categories/kinozal.png</icon_url>
 		</tv_category>
 		<tv_category>
-			<id>10</id>
-			<caption>UHD (4К)</caption>
-			<icon_url>plugin_file://icons/categories/4k.png</icon_url>
-		</tv_category>
-		<tv_category>
 			<id>11</id>
 			<caption>Клубничка 18+</caption>
 			<icon_url>plugin_file://icons/categories/33.png</icon_url>
@@ -80,14 +75,6 @@
 	</tv_categories>
 	<tv_channels>
 		<tv_channel>
-			<caption>Первый Канал FHD</caption>
-			<channel_id>perviyhd1</channel_id>
-			<epg_id>Первый канал HD</epg_id>
-			<icon_url>https://epgx.site/p/pervy.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Первый Канал HD</caption>
 			<channel_id>perviyhdlow</channel_id>
 			<epg_id>Первый Канал HD</epg_id>
@@ -111,93 +98,9 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Первый Канал +1</caption>
-			<channel_id>pervyi_1</channel_id>
-			<epg_id>Первый Канал +1</epg_id>
-			<icon_url>https://epgx.site/p/pervy-pl1.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Первый Канал +2</caption>
-			<channel_id>perviy2</channel_id>
-			<epg_id>Первый Канал +2</epg_id>
-			<icon_url>https://epgx.site/p/pervy-pl2.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Первый Канал +4</caption>
-			<channel_id>perviy4</channel_id>
-			<epg_id>Первый Канал +4</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Первый Канал +6</caption>
-			<channel_id>perviy6</channel_id>
-			<epg_id>Первый Канал +6</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Первый Канал +8</caption>
-			<channel_id>perviy8</channel_id>
-			<epg_id>Первый Канал +8</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Россия 1 FHD</caption>
-			<channel_id>rossiya1hd</channel_id>
-			<epg_id>Россия 1 FHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Россия 1</caption>
 			<channel_id>ross1sd</channel_id>
 			<epg_id>Россия 1</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Россия 1 +1</caption>
-			<channel_id>rossiya1_1</channel_id>
-			<epg_id>Россия 1 +1</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Россия 1 +2</caption>
-			<channel_id>rossiya12</channel_id>
-			<epg_id>Россия 1 +2</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Россия 1 +4</caption>
-			<channel_id>rossiya14</channel_id>
-			<epg_id>Россия 1 +4</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Россия 1 +6</caption>
-			<channel_id>rossiya16</channel_id>
-			<epg_id>Россия 1 +6</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Россия 1 +8</caption>
-			<channel_id>rossiya18</channel_id>
-			<epg_id>Россия 1 +8</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
@@ -206,14 +109,6 @@
 			<channel_id>rtrplaneta</channel_id>
 			<epg_id>РТР Планета</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ FHD</caption>
-			<channel_id>ntvhd</channel_id>
-			<epg_id>НТВ HD</epg_id>
-			<icon_url>http://streaming-elbrus.su/img/logos/efir/ntv-white.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -229,35 +124,6 @@
 			<caption>НТВ</caption>
 			<channel_id>ntvsd</channel_id>
 			<epg_id>НТВ</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ +1</caption>
-			<channel_id>ntv_plus1</channel_id>
-			<epg_id>НТВ +1</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ +2</caption>
-			<channel_id>ntv2</channel_id>
-			<epg_id>НТВ +2</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ +4</caption>
-			<channel_id>ntv4</channel_id>
-			<epg_id>НТВ +4</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ +7</caption>
-			<channel_id>ntv7</channel_id>
-			<epg_id>НТВ +7</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
@@ -282,29 +148,6 @@
 			<epg_id>ТНТ</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНТ +2</caption>
-			<channel_id>tnt_2</channel_id>
-			<epg_id>ТНТ +2</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНТ +4</caption>
-			<channel_id>tnt_4</channel_id>
-			<epg_id>ТНТ +4</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНТ +7</caption>
-			<channel_id>tnt_7</channel_id>
-			<epg_id>ТНТ +7</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТНТ International</caption>
@@ -337,30 +180,6 @@
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>РЕН ТВ +2</caption>
-			<channel_id>rentv_2</channel_id>
-			<epg_id>РЕН ТВ +2</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>РЕН ТВ +4</caption>
-			<channel_id>rentv_4</channel_id>
-			<epg_id>РЕН ТВ +4</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>РЕН ТВ +7</caption>
-			<channel_id>rentv_7</channel_id>
-			<epg_id>РЕН ТВ +7</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>СТС HD</caption>
 			<channel_id>stshd</channel_id>
 			<epg_id>СТС HD</epg_id>
@@ -374,30 +193,6 @@
 			<epg_id>СТС</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>СТС +2</caption>
-			<channel_id>sts_2</channel_id>
-			<epg_id>СТС +2</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>СТС +4</caption>
-			<channel_id>sts_4</channel_id>
-			<epg_id>СТС +4</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>СТС +7</caption>
-			<channel_id>sts_7</channel_id>
-			<epg_id>СТС +7</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>СТС Love</caption>
@@ -415,57 +210,9 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТВЦ +2</caption>
-			<channel_id>tvc_2</channel_id>
-			<epg_id>ТВЦ +2</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТВЦ +4</caption>
-			<channel_id>tvc_4</channel_id>
-			<epg_id>ТВЦ +4</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТВЦ +7</caption>
-			<channel_id>tvc_7</channel_id>
-			<epg_id>ТВЦ +7</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Пятый Канал</caption>
 			<channel_id>5kanalru</channel_id>
 			<epg_id>Пятый Канал</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Пятый канал +2</caption>
-			<channel_id>5kanal_2</channel_id>
-			<epg_id>Пятый канал +2</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Пятый канал +4</caption>
-			<channel_id>5kanal_4</channel_id>
-			<epg_id>Пятый канал +4</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Пятый канал +7</caption>
-			<channel_id>5kanal_7</channel_id>
-			<epg_id>Пятый канал +7</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
@@ -486,13 +233,6 @@
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТВ 3 +4</caption>
-			<channel_id>tv3_plus4</channel_id>
-			<epg_id>ТВ 3 (+4)</epg_id>
-			<icon_url>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/240px-TV-3_logo_%282015%29.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Пятница! HD</caption>
 			<channel_id>pyatnizahd</channel_id>
 			<epg_id>Пятница! HD</epg_id>
@@ -504,13 +244,6 @@
 			<caption>Пятница!</caption>
 			<channel_id>pyatnizasd</channel_id>
 			<epg_id>Пятница!</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Пятница +4</caption>
-			<channel_id>pyatnitsa_plus4</channel_id>
-			<epg_id>Пятница +4</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
@@ -530,47 +263,12 @@
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>МИР +2</caption>
-			<channel_id>mir_plus2</channel_id>
-			<epg_id>МИР +2</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>МИР +4</caption>
-			<channel_id>mir_plus4</channel_id>
-			<epg_id>МИР +4</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Звезда</caption>
 			<channel_id>zvezda</channel_id>
 			<epg_id>Звезда</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Звезда +2</caption>
-			<channel_id>zvezda_plus2</channel_id>
-			<epg_id>Звезда +2</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Звезда +4</caption>
-			<channel_id>zvezda_plus4</channel_id>
-			<epg_id>Звезда +4</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Звезда +6</caption>
-			<channel_id>zvezda_plus6</channel_id>
-			<epg_id>Звезда +6</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Звезда Плюс</caption>
@@ -584,13 +282,6 @@
 			<caption>Россия К</caption>
 			<channel_id>rossiyak</channel_id>
 			<epg_id>Россия К</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Россия К +2</caption>
-			<channel_id>rossiak_plus2</channel_id>
-			<epg_id>Россия К +2</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
@@ -609,20 +300,6 @@
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Че +2</caption>
-			<channel_id>che_plus2</channel_id>
-			<epg_id>Че +2</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Че +4</caption>
-			<channel_id>che_plus4</channel_id>
-			<epg_id>Че +4</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ОТР</caption>
@@ -646,27 +323,6 @@
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Домашний +2</caption>
-			<channel_id>domashniy_plus2</channel_id>
-			<epg_id>Домашний +2</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Домашний +4</caption>
-			<channel_id>domashniy_plus4</channel_id>
-			<epg_id>Домашний +4</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Домашний +7</caption>
-			<channel_id>domashniy_plus7</channel_id>
-			<epg_id>Домашний +7</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ностальгия</caption>
@@ -2582,98 +2238,6 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Матч! FHD (ORIG)</caption>
-			<channel_id>matchhd</channel_id>
-			<epg_id>Матч! HD</epg_id>
-			<icon_url>http://epg.one/img/2051.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! FHD</caption>
-			<channel_id>match2orcinem</channel_id>
-			<epg_id>Матч! HD</epg_id>
-			<icon_url>http://epg.one/img/2051.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Премьер FHD (ORIG)</caption>
-			<channel_id>matchpremier</channel_id>
-			<epg_id>Матч! Премьер FHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Премьер FHD</caption>
-			<channel_id>match_premierehd</channel_id>
-			<epg_id>Матч! Премьер HD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 1 FHD (ORIG)</caption>
-			<channel_id>matchfut1</channel_id>
-			<epg_id>Матч! Футбол 1 FHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 1 FHD</caption>
-			<channel_id>match_fut1hd</channel_id>
-			<epg_id>Матч! Футбол 1 HD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 2 FHD (ORIG)</caption>
-			<channel_id>matchfut2</channel_id>
-			<epg_id>Матч! Футбол 2 FHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 2 FHD</caption>
-			<channel_id>match_fut2hd</channel_id>
-			<epg_id>Матч! Футбол 2 FHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 3 FHD (ORIG)</caption>
-			<channel_id>matchfut3</channel_id>
-			<epg_id>Матч! Футбол 3 FHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 3 FHD</caption>
-			<channel_id>match_fut3hd</channel_id>
-			<epg_id>Матч! Футбол 3 FHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Арена FHD</caption>
-			<channel_id>matcharena</channel_id>
-			<epg_id>Матч! Арена HD</epg_id>
-			<icon_url>http://streaming-elbrus.su/img/logos/sport/match-arena.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Игра FHD</caption>
-			<channel_id>matchigra</channel_id>
-			<epg_id>Матч! Игра FHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Матч! Страна HD</caption>
 			<channel_id>matchstrana</channel_id>
 			<epg_id>Матч! Страна HD</epg_id>
@@ -2695,22 +2259,6 @@
 			<epg_id>ОККО Футбол HD</epg_id>
 			<icon_url>http://epg.one/img/9325.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KHL Prime FHD</caption>
-			<channel_id>khlprime</channel_id>
-			<epg_id>KHL Prime HD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KHL FHD</caption>
-			<channel_id>kllhd</channel_id>
-			<epg_id>KHL HD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>US: NHL Network HD</caption>
@@ -2910,13 +2458,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Canal+ Sport FHD</caption>
-			<channel_id>eurosport6</channel_id>
-			<epg_id>Canal+ Sport</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>TNT SPORTS 1 HD</caption>
 			<channel_id>tntsport1</channel_id>
 			<epg_id>TNT SPORTS 1 HD</epg_id>
@@ -2927,20 +2468,6 @@
 			<caption>TNT SPORTS 2 HD</caption>
 			<channel_id>tntsports2</channel_id>
 			<epg_id>TNT SPORTS 2 HD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sky Sports F1 FHD</caption>
-			<channel_id>SkySportsF1_eng</channel_id>
-			<epg_id>Sky Sports F1 HD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Nova Sport 1 FHD</caption>
-			<channel_id>CZ_NovaSport1</channel_id>
-			<epg_id>Nova Sport 1 HD CZ</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -3306,6 +2833,20 @@
 			<channel_id>suspilnesport</channel_id>
 			<epg_id>Суспільне Спорт</epg_id>
 			<icon_url>http://epg.one/img/8872.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Peak TV Sport HD</caption>
+			<channel_id>PeakTV_SportHD</channel_id>
+			<epg_id>Megogo Спорт</epg_id>
+			<icon_url>https://peaktv.info/welcome/data/uploads/peak-logo.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>FUBO SPORTS NETWORK</caption>
+			<channel_id>USA_FUBOSPORTSNETWORK</channel_id>
+			<epg_id>Fubo Sports Net HD (EN)</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4107,13 +3648,6 @@
 			<caption>Bolt</caption>
 			<channel_id>bolt</channel_id>
 			<epg_id>Bolt</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Фантастика</caption>
-			<channel_id>fantastika</channel_id>
-			<epg_id>Фантастика</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
@@ -5328,294 +4862,6 @@
 			<epg_id>Z!Thriller HD</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eurosport 4K</caption>
-			<channel_id>Eurosport4k</channel_id>
-			<epg_id>Eurosport 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Russian Extreme Ultra 4K</caption>
-			<channel_id>russextreamultra</channel_id>
-			<epg_id>Russian Extreme Ultra 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>CineMan CCCP 4K</caption>
-			<channel_id>cineman-cccr4k</channel_id>
-			<epg_id>CineMan CCCP 4K</epg_id>
-			<icon_url>https://cineman.su/pics/Cineman-CCCP4K.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>CineMan OLD 4K</caption>
-			<channel_id>cinemanold4k</channel_id>
-			<epg_id>CineMan OLD 4K</epg_id>
-			<icon_url>https://cineman.su/pics/CineMan-Old4K.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>CineMan Relax 4K</caption>
-			<channel_id>CineMan_Relax4K</channel_id>
-			<epg_id>CineMan Relax 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>YOSSO TV Советские фильмы 4K</caption>
-			<channel_id>YOSSO_TVSSSR4K</channel_id>
-			<epg_id>YOSSO TV Советские фильмы 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>YOSSO 4K</caption>
-			<channel_id>YOSSO_TV4K</channel_id>
-			<epg_id>YOSSO 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY Легенда 4K</caption>
-			<channel_id>LIBERTYLEGENDA4K</channel_id>
-			<epg_id>LIBERTY Легенда 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY Русфильм 4K</caption>
-			<channel_id>LIBERTYRUSFILM4K</channel_id>
-			<epg_id>LIBERTY Русфильм 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY Союз 4K</caption>
-			<channel_id>LIBERTYSOYUZ4K</channel_id>
-			<epg_id>LIBERTY Союз 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY Кино Микс 4K</caption>
-			<channel_id>LIBERTYKINOMIKS4K</channel_id>
-			<epg_id>LIBERTY Кино Микс 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY Индия 4K</caption>
-			<channel_id>LIBERTYINDI4K</channel_id>
-			<epg_id>LIBERTY Индия 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY NETFLIX 4K</caption>
-			<channel_id>LIBERTYNETFLIX4K</channel_id>
-			<epg_id>LIBERTY NETFLIX 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY Семейный 4K</caption>
-			<channel_id>LIBERTYSEMEYNYY4k</channel_id>
-			<epg_id>LIBERTY Семейный 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY MARVEL 4K</caption>
-			<channel_id>LIBERTYMARVEL4K</channel_id>
-			<epg_id>LIBERTY MARVEL 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY Триллеры 4K</caption>
-			<channel_id>LIBERTYTRILLERY4K</channel_id>
-			<epg_id>LIBERTY Триллеры 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY Ужасы 4K</caption>
-			<channel_id>LIBERTYUZHAS4K</channel_id>
-			<epg_id>LIBERTY Ужасы 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY CRIMINAL 4K</caption>
-			<channel_id>LIBERTYCRIMINAL4K</channel_id>
-			<epg_id>LIBERTY CRIMINAL 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY Сериалы 4K</caption>
-			<channel_id>LIBERTYSERIALY4K</channel_id>
-			<epg_id>LIBERTY Сериалы 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty XX Век 4K</caption>
-			<channel_id>LIBERTYXXVEK4K</channel_id>
-			<epg_id>Liberty XX Век HD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY Аванпост 4K</caption>
-			<channel_id>LIBERTYAVANPOST4K</channel_id>
-			<epg_id>LIBERTY Аванпост 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY TURKFILM 4K</caption>
-			<channel_id>LIBERTYTURKFILM4K</channel_id>
-			<epg_id>LIBERTY TURKFILM 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY Мюзикл 4K</caption>
-			<channel_id>LIBERTYMYUZIKL_4K</channel_id>
-			<epg_id>LIBERTY Мюзикл 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY Куб 4K</caption>
-			<channel_id>LIBERTYCUBE4K</channel_id>
-			<epg_id>LIBERTY Куб 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY DREAMWORKS 4K</caption>
-			<channel_id>LIBERTYDREAMWORKS_4K</channel_id>
-			<epg_id>LIBERTY DREAMWORKS 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LIBERTY Мульт 4K</caption>
-			<channel_id>LIBERTYMULT4K</channel_id>
-			<epg_id>LIBERTY Мульт 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MM Flip UHD</caption>
-			<channel_id>minimax_flip</channel_id>
-			<epg_id>MM Flip UHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кино UHD</caption>
-			<channel_id>kinouhd</channel_id>
-			<epg_id>Кино UHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ultra HD Cinema</caption>
-			<channel_id>ultrahhdcinema</channel_id>
-			<epg_id>Ultra HD Cinema</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сериал UHD</caption>
-			<channel_id>serialuhd12</channel_id>
-			<epg_id>Сериал UHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Travel XP 4K</caption>
-			<channel_id>travelxp4k</channel_id>
-			<epg_id>Travel XP 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наша Сибирь 4K</caption>
-			<channel_id>nashasibir4k</channel_id>
-			<epg_id>Наша Сибирь 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Love Nature 4K</caption>
-			<channel_id>lovenature2</channel_id>
-			<epg_id>Love Nature 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Home 4K</caption>
-			<channel_id>home4k</channel_id>
-			<epg_id>Home 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Quadro 4k</caption>
-			<channel_id>quadro4k</channel_id>
-			<epg_id>Quadro 4k</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>insight UHD</caption>
-			<channel_id>insightuhd</channel_id>
-			<epg_id>insight UHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Museum 4K</caption>
-			<channel_id>museum_4K</channel_id>
-			<epg_id>Museum 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Глазами Туриста 4К</caption>
-			<channel_id>glaztur4k</channel_id>
-			<epg_id>Глазами Туриста 4K (HEVC)</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eleven Sports 1 4K</caption>
-			<channel_id>elevensp14k</channel_id>
-			<epg_id>Eleven Sports 1 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fashion TV UHD</caption>
-			<channel_id>fashintv4k</channel_id>
-			<epg_id>Fashion TV UHD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MyZen 4K</caption>
-			<channel_id>myzen_4k</channel_id>
-			<epg_id>MyZen 4K</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Extasy 4K</caption>
