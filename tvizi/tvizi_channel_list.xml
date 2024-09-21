@@ -61,25 +61,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Video On Demand</caption>
+			<caption>Медиатека</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -843,14 +843,6 @@
 			<epg_id>Телеплюс</epg_id>
 			<tvg_id>Телеплюс</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/tplus.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>БСТ</caption>
-			<channel_id>5348</channel_id>
-			<epg_id>Xbst</epg_id>
-			<tvg_id>Xbst</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/bst.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2215,7 +2207,7 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Zee TV</caption>
+			<caption>Индия</caption>
 			<channel_id>245</channel_id>
 			<epg_id>Xzee-tv</epg_id>
 			<tvg_id>Xzee-tv</tvg_id>
@@ -2752,7 +2744,7 @@
 			<channel_id>8810</channel_id>
 			<epg_id>X39821</epg_id>
 			<tvg_id>Xkbc-vov</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/23022024/logos/39821-65d85c17dff08.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/39821-65d85c17dff08.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2761,7 +2753,7 @@
 			<channel_id>8811</channel_id>
 			<epg_id>X39800</epg_id>
 			<tvg_id>Xkbc-comics</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/04022021/logos/39800-601c3f898f187.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/39800-601c3f898f187.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2770,7 +2762,7 @@
 			<channel_id>8812</channel_id>
 			<epg_id>X35448</epg_id>
 			<tvg_id>Xkbc-elite-comedys</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/17012021/logos/35448-600488c427e1e.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/35448-600488c427e1e.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2779,7 +2771,7 @@
 			<channel_id>8813</channel_id>
 			<epg_id>X39795</epg_id>
 			<tvg_id>Xkbc-fantastic</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/04022021/logos/39795-601c19c807f8a.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/39795-601c19c807f8a.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2788,7 +2780,7 @@
 			<channel_id>8814</channel_id>
 			<epg_id>X39796</epg_id>
 			<tvg_id>Xkbc-history</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/04022021/logos/39796-601c197fc25e8.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/39796-601c197fc25e8.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2797,7 +2789,7 @@
 			<channel_id>8815</channel_id>
 			<epg_id>X39048</epg_id>
 			<tvg_id>Xkbc-newfilm</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/21012021/logos/39048-6009db07cf9d0.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/39048-6009db07cf9d0.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2806,7 +2798,7 @@
 			<channel_id>8816</channel_id>
 			<epg_id>X42051</epg_id>
 			<tvg_id>Xkbc-premium</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/08032024/logos/42051-65eb84cfa1c06.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/42051-65eb84cfa1c06.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2815,7 +2807,7 @@
 			<channel_id>8817</channel_id>
 			<epg_id>X36168</epg_id>
 			<tvg_id>Xkbc-russian-comedia</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/21012021/logos/36168-6009d4d03d8ee.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/36168-6009d4d03d8ee.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2824,7 +2816,7 @@
 			<channel_id>8818</channel_id>
 			<epg_id>X36251</epg_id>
 			<tvg_id>Xkbc-vidak</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/21012021/logos/36251-6009d1a8d9ed5.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/36251-6009d1a8d9ed5.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2833,7 +2825,7 @@
 			<channel_id>8819</channel_id>
 			<epg_id>X39819</epg_id>
 			<tvg_id>Xkbc-ritchie-tarantino</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/22022021/logos/39819-6033440dc126b.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/39819-6033440dc126b.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2842,7 +2834,7 @@
 			<channel_id>8820</channel_id>
 			<epg_id>X36732</epg_id>
 			<tvg_id>Xkbc-dramatic</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/21012021/logos/36732-6009d2e288130.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/36732-6009d2e288130.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2851,7 +2843,7 @@
 			<channel_id>8821</channel_id>
 			<epg_id>X39825</epg_id>
 			<tvg_id>Xkbc-kinoteatr</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/08032024/logos/39825-65eb85d46c579.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/39825-65eb85d46c579.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2860,7 +2852,7 @@
 			<channel_id>8822</channel_id>
 			<epg_id>X36277</epg_id>
 			<tvg_id>	Xkbc-koshmar</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/21012021/logos/36277-6009d669219d3.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/36277-6009d669219d3.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2869,7 +2861,7 @@
 			<channel_id>8824</channel_id>
 			<epg_id>X36506</epg_id>
 			<tvg_id>Xkbc-sssr</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/21012021/logos/36506-6009d7a51db00.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/36506-6009d7a51db00.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2878,7 +2870,7 @@
 			<channel_id>8825</channel_id>
 			<epg_id>X42054</epg_id>
 			<tvg_id>X39822</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/05032024/logos/42054-65e74a64c6401.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/42054-65e74a64c6401.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2887,7 +2879,7 @@
 			<channel_id>8826</channel_id>
 			<epg_id>X39820</epg_id>
 			<tvg_id>Xkbc-spy</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/22022021/logos/39820-6033451916f46.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/39820-6033451916f46.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2896,7 +2888,7 @@
 			<channel_id>8828</channel_id>
 			<epg_id>X42053</epg_id>
 			<tvg_id>Xkbc-light-serial-ru</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/05032024/logos/42053-65e741fc573c3.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/42053-65e741fc573c3.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -3605,14 +3597,6 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>UZ-Юмор ТВ HD</caption>
-			<channel_id>6086</channel_id>
-			<epg_id>UZ-Юмор ТВ HD</epg_id>
-			<tvg_id>UZ-Юмор ТВ HD</tvg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>UZ-Сериал HD</caption>
 			<channel_id>6087</channel_id>
 			<epg_id>UZ-Сериал HD</epg_id>
@@ -4224,7 +4208,7 @@
 			<caption>KBC-Animals HD</caption>
 			<channel_id>8853</channel_id>
 			<epg_id>X39823</epg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/12032024/logos/39823-65f0730c6be29.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/39823-65f0730c6be29.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -4232,7 +4216,7 @@
 			<caption>KBC-MusKino HD</caption>
 			<channel_id>8854</channel_id>
 			<epg_id>X39822</epg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/12032024/logos/39822-65f0724f2ac93.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/39822-65f0724f2ac93.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -4240,7 +4224,7 @@
 			<caption>KBC-СпортМикс HD</caption>
 			<channel_id>8855</channel_id>
 			<epg_id>X35525</epg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/27032024/logos/35525-6603e5fe177f7.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/35525-6603e5fe177f7.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -4248,7 +4232,7 @@
 			<caption>KBC-Легендарное HD</caption>
 			<channel_id>8856</channel_id>
 			<epg_id>X39826</epg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/30072021/logos/39826-6103ebfca4db6.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/39826-6103ebfca4db6.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -4611,15 +4595,6 @@
 			<epg_id>Xxokkejny</epg_id>
 			<tvg_id>Xxokkejny</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/xokkejny.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ruh TV</caption>
-			<channel_id>7182</channel_id>
-			<epg_id>Xruh-tv</epg_id>
-			<tvg_id>Xruh-tv</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/ruh-tv.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -5331,20 +5306,6 @@
 			<channel_id>524</channel_id>
 			<epg_id>Xupltv1</epg_id>
 			<icon_url>https://ip-tv.dev/images/ico/upltv1.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>УПЛ ТВ 5</caption>
-			<channel_id>530</channel_id>
-			<epg_id>Xupltv5</epg_id>
-			<icon_url>https://ip-tv.dev/images/ico/upl.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>УПЛ ТВ 6</caption>
-			<channel_id>532</channel_id>
-			<epg_id>Xupltv6</epg_id>
-			<icon_url>https://ip-tv.dev/images/ico/upl.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -7068,7 +7029,7 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Bridge TV hits HD</caption>
+			<caption>Bridge TV hits</caption>
 			<channel_id>7352</channel_id>
 			<epg_id>Xbridge-tv-dance</epg_id>
 			<tvg_id>Xbridge-tv-dance</tvg_id>
@@ -7424,7 +7385,7 @@
 			<channel_id>8829</channel_id>
 			<epg_id>X42052</epg_id>
 			<tvg_id>Xkbc-second-hit</tvg_id>
-			<icon_url>https://ip-tv.devhttps://img.catcast.tv/uploads/21022024/logos/42052-65d5e628a395c.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/42052-65d5e628a395c.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>5</archive>
 			<protected>1</protected>
@@ -7472,7 +7433,7 @@
 			<caption>Bridge TV</caption>
 			<channel_id>184</channel_id>
 			<epg_id>Xbridge-tv</epg_id>
-			<icon_url>https://ip-tv.dev/imaged/ico/bridge-tv.png</icon_url>
+			<icon_url>https://ip-tv.dev/images/ico/bridge-tv.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>

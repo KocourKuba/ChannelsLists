@@ -140,7 +140,7 @@
 			<tvg_id>tnt</tvg_id>
 			<icon_url>https://st.shara.club/picons/ru/tnthd.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>7</archive>
+			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТНТ</caption>
@@ -242,7 +242,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Че</caption>
+			<caption>Че!</caption>
 			<channel_id>che</channel_id>
 			<epg_id>che</epg_id>
 			<tvg_id>che</tvg_id>
@@ -327,7 +327,7 @@
 			<tvg_id>domashny</tvg_id>
 			<icon_url>https://st.shara.club/picons/ru/domashny.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>7</archive>
+			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>РТР Планета</caption>
@@ -1891,16 +1891,9 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>CineMan Интерны</caption>
-			<channel_id>cinem_int</channel_id>
-			<epg_id>cineman-interny</epg_id>
-			<icon_url>https://st.shara.club/picons/upl/3/cinem_int.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>CineMan Универ</caption>
+			<caption>CineMan Комедийные сериалы</caption>
 			<channel_id>cinem_univ</channel_id>
-			<epg_id>cineman-univer</epg_id>
+			<epg_id>cineman-ruserials</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/3/cinem_univ.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -2209,7 +2202,7 @@
 		<tv_channel>
 			<caption>UZ TV HD</caption>
 			<channel_id>uztvhd</channel_id>
-			<epg_id>static-16</epg_id>
+			<epg_id>uztvhd</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/uztvhd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -2293,35 +2286,35 @@
 		<tv_channel>
 			<caption>UZ Кино 1 HD</caption>
 			<channel_id>uzkino1</channel_id>
-			<epg_id>6256</epg_id>
+			<epg_id>uzkino1</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/uzkino1.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>UZ Кино 2 HD</caption>
 			<channel_id>uzkino2</channel_id>
-			<epg_id>2070</epg_id>
+			<epg_id>uzkino2</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/uzkino2.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>UZ Кино 3 HD</caption>
 			<channel_id>uzkino3</channel_id>
-			<epg_id>UZ Кино 3 HD</epg_id>
+			<epg_id>uzkino3</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/uzkino3.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>UZ Кино 4 HD</caption>
 			<channel_id>uzkino4</channel_id>
-			<epg_id>UZ Кино 4 HD</epg_id>
+			<epg_id>uzkino4</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/uzkino4.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>UZ Кино 5 HD</caption>
 			<channel_id>uzkino5</channel_id>
-			<epg_id>UZ Кино 5 HD</epg_id>
+			<epg_id>uzkino5</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/uzkino5.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -2405,6 +2398,7 @@
 			<epg_id>bcu_catastr</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/bcu_catastr.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Action HD</caption>
@@ -2436,6 +2430,7 @@
 			<epg_id>bcu_crime</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/bcu_crime.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Comedy HD</caption>
@@ -2443,6 +2438,7 @@
 			<epg_id>bcu_comedy</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/bcu_comedy.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Kinorating HD</caption>
@@ -2474,6 +2470,7 @@
 			<epg_id>bcu_russian</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/bcu_russian.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU History HD</caption>
@@ -2497,6 +2494,7 @@
 			<epg_id>bcu-cosmo</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/bcu_cosmo.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Stars HD</caption>
@@ -2520,6 +2518,7 @@
 			<epg_id>bcu_cinemapl</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/bcu_cinemapl.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Ultra</caption>
@@ -2569,6 +2568,7 @@
 			<epg_id>bcu_sssr</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/bcu_sssr.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU VHS HD</caption>
@@ -2733,6 +2733,7 @@
 			<epg_id>vremia</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/3/vremya.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MÖDO New Blood</caption>
@@ -2805,6 +2806,7 @@
 			<epg_id>bcu_action</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/3/bcu_actionhdr.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч! HD</caption>
@@ -3102,7 +3104,7 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>NBA TV</caption>
+			<caption>US: NBA TV</caption>
 			<channel_id>bna</channel_id>
 			<epg_id>nbatv</epg_id>
 			<icon_url>https://st.shara.club/picons/upl/bna.png</icon_url>
@@ -3461,15 +3463,6 @@
 			<epg_id>gulli-girl</epg_id>
 			<tvg_id>gulli-girl</tvg_id>
 			<icon_url>https://st.shara.club/picons/ru/gulligirl.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Jim Jam</caption>
-			<channel_id>jimjam</channel_id>
-			<epg_id>jimjam</epg_id>
-			<tvg_id>jimjam</tvg_id>
-			<icon_url>https://st.shara.club/picons/ru/jimjam.ru.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>2</archive>
 		</tv_channel>

@@ -81,25 +81,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Video On Demand</caption>
+			<caption>Медиатека</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -218,7 +218,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>РТР-Планета Европа</caption>
+			<caption>РТР</caption>
 			<channel_id>131</channel_id>
 			<epg_id>rtr-planeta-eu</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/rtr_planeta_ru.png</icon_url>
@@ -370,7 +370,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>РЕН ТВ (+2)</caption>
+			<caption>РЕН ТВ +2</caption>
 			<channel_id>188</channel_id>
 			<epg_id>rentv-pl2</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png</icon_url>
@@ -378,7 +378,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>РЕН ТВ (+4)</caption>
+			<caption>Рен ТВ +4</caption>
 			<channel_id>193</channel_id>
 			<epg_id>rentv-pl4</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png</icon_url>
@@ -482,7 +482,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТВ Центр +2</caption>
+			<caption>ТВЦ +2</caption>
 			<channel_id>176</channel_id>
 			<epg_id>tvcentr-pl2</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/tv_centr_ru.png</icon_url>
@@ -490,7 +490,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТВ Центр +4</caption>
+			<caption>ТВЦ +4</caption>
 			<channel_id>199</channel_id>
 			<epg_id>tvcentr-pl4</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/tv_centr_ru.png</icon_url>
@@ -997,7 +997,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VIP Premiere</caption>
+			<caption>Viju+ Premiere HD</caption>
 			<channel_id>605</channel_id>
 			<epg_id>vip-premiere</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/vip-premiere-se.png</icon_url>
@@ -1005,7 +1005,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VIP Megahit</caption>
+			<caption>Viju+ Megahit HD</caption>
 			<channel_id>606</channel_id>
 			<epg_id>vip-megahit</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/vip-megahit-se.png</icon_url>
@@ -1013,7 +1013,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VIP Comedy</caption>
+			<caption>Viju+ Comedy HD</caption>
 			<channel_id>607</channel_id>
 			<epg_id>vip-comedy</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/vip-comedy-se.png</icon_url>
@@ -1469,10 +1469,10 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>FAN HD</caption>
+			<caption>Cartoon Classics</caption>
 			<channel_id>518</channel_id>
-			<epg_id>fanhd</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/fan-ru.png</icon_url>
+			<epg_id>cartoon-classics</epg_id>
+			<icon_url>http://cdn.server-iptv.live/logo/tv/cartoon-classics.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1701,7 +1701,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Матч! Арена</caption>
+			<caption>Матч! Арена HD</caption>
 			<channel_id>206</channel_id>
 			<epg_id>match-arena</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/match_ru_arena.png</icon_url>
@@ -1797,7 +1797,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat Sport</caption>
+			<caption>Viju+ Sport</caption>
 			<channel_id>215</channel_id>
 			<epg_id>viasat-sport</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/viasat-sport-east-se.png</icon_url>
@@ -1965,15 +1965,15 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat Nature/History HD</caption>
+			<caption>Дикая охота HD</caption>
 			<channel_id>407</channel_id>
-			<epg_id>viasat-nature-history-hd</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/viasat-nature-history-hd.png</icon_url>
+			<epg_id>dikaya-oxota-hd</epg_id>
+			<icon_url>http://cdn.server-iptv.live/logo/tv/dikaya-okhota-hd-ru.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat Nature</caption>
+			<caption>Viju Nature</caption>
 			<channel_id>449</channel_id>
 			<epg_id>viasat-nature</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/viasat_nature_hd.png</icon_url>
@@ -2021,7 +2021,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat Explore</caption>
+			<caption>Viju Explore</caption>
 			<channel_id>417</channel_id>
 			<epg_id>viasat-explore</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/viasat_explore_ru.png</icon_url>
@@ -2061,7 +2061,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat History</caption>
+			<caption>Viju History</caption>
 			<channel_id>410</channel_id>
 			<epg_id>viasat-history</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/viasat_history.png</icon_url>
@@ -2149,15 +2149,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Министерство идей</caption>
-			<channel_id>1848514119</channel_id>
-			<epg_id>ministerstvo-idey</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/ministerstvo_idei.jpg</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<streaming_url>https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8</streaming_url>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Бобёр</caption>
 			<channel_id>436</channel_id>
 			<epg_id>bobior</epg_id>
@@ -2198,18 +2189,10 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Наша Сибирь</caption>
-			<channel_id>429</channel_id>
-			<epg_id>nasha-sibir-4k</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/nasha_sibir.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Russian Music Box</caption>
+			<caption>Bridge Rock</caption>
 			<channel_id>457</channel_id>
-			<epg_id>russian-musicbox</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/russian-music-box-ru.png</icon_url>
+			<epg_id>bridge-tv-rock</epg_id>
+			<icon_url>http://cdn.server-iptv.live/logo/tv/bridge-tv-rock.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2531,14 +2514,14 @@
 			<caption>Солнце</caption>
 			<channel_id>500</channel_id>
 			<epg_id>solnce</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg</icon_url>
+			<icon_url>http://cdn.server-iptv.live/logo/tv/solnce.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nickelodeon</caption>
 			<channel_id>504</channel_id>
-			<epg_id>nickelodeon-cis</epg_id>
+			<epg_id>nickelodeon-ru</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/nickelodeon_us_hd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>3</archive>
@@ -2568,10 +2551,10 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>2x2</caption>
+			<caption>Kids TV</caption>
 			<channel_id>524</channel_id>
-			<epg_id>2na2</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/telekanal_2x2_ru.png</icon_url>
+			<epg_id>kidstv</epg_id>
+			<icon_url>http://cdn.server-iptv.live/logo/tv/kidstv.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2636,14 +2619,6 @@
 			<channel_id>384</channel_id>
 			<epg_id>stv-by</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/stv-by.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>TV8 Moldova</caption>
-			<channel_id>5101</channel_id>
-			<epg_id>tv8-md</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/tv8-md.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3148,22 +3123,6 @@
 			<channel_id>5017</channel_id>
 			<epg_id>baku-az</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/baku-az.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>TMB Azerbaycan</caption>
-			<channel_id>5018</channel_id>
-			<epg_id>tmb-az</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/tmb-az.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Az News TV</caption>
-			<channel_id>5019</channel_id>
-			<epg_id>az-news</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/az-news.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
