@@ -51,25 +51,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Медиатека</caption>
+			<caption>Video On Demand</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -97,7 +97,6 @@
 			<epg_id>epg4:150</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/RUSSIA1200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Россия РТР</caption>
@@ -110,10 +109,9 @@
 		<tv_channel>
 			<caption>НТВ</caption>
 			<channel_id>3</channel_id>
-			<epg_id>НТВ</epg_id>
+			<epg_id>tvteam_:НТВ</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NTV200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>НТВ Мир</caption>
@@ -121,7 +119,6 @@
 			<epg_id>iptvxone:ntv-mir</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NTVMIR200 (1).png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Дождь</caption>
@@ -134,15 +131,14 @@
 		<tv_channel>
 			<caption>ТВ ЦЕНТР</caption>
 			<channel_id>6</channel_id>
-			<epg_id>ТВ ЦЕНТР</epg_id>
+			<epg_id>tvteam_:ТВЦ</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TVC200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>rtvi</caption>
 			<channel_id>114</channel_id>
-			<epg_id>rtvi</epg_id>
+			<epg_id>tvteam_:RTVI</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/RTVI200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
@@ -153,12 +149,11 @@
 			<epg_id>iptvxone:sankt-peterburg</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/5TVRUS.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Мир 24</caption>
 			<channel_id>69</channel_id>
-			<epg_id>Мир 24</epg_id>
+			<epg_id>tvteam_:Мир 24</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MIR24200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
@@ -166,7 +161,7 @@
 		<tv_channel>
 			<caption>РБК-ТВ</caption>
 			<channel_id>186</channel_id>
-			<epg_id>РБК-ТВ</epg_id>
+			<epg_id>tvteam_:РБК НD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/RBK200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -177,12 +172,11 @@
 			<epg_id>iptvxone:rossia-24</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/R24WASHHANDS200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Euronews</caption>
 			<channel_id>82</channel_id>
-			<epg_id>Euronews</epg_id>
+			<epg_id>tvteam_:Euronews</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/EURONEWS200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
@@ -198,7 +192,7 @@
 		<tv_channel>
 			<caption>Отр</caption>
 			<channel_id>137</channel_id>
-			<epg_id>Отр</epg_id>
+			<epg_id>tvteam_:ОТР</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/OTRTV200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
@@ -225,7 +219,6 @@
 			<epg_id>iptvxone:pervy</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1RUSHD200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Россия HD</caption>
@@ -238,7 +231,7 @@
 		<tv_channel>
 			<caption>НТВ HD</caption>
 			<channel_id>146</channel_id>
-			<epg_id>НТВ HD</epg_id>
+			<epg_id>tvteam_:НТВ</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NTVHD200 (2).png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
@@ -254,7 +247,7 @@
 		<tv_channel>
 			<caption>Мир</caption>
 			<channel_id>312</channel_id>
-			<epg_id>Мир</epg_id>
+			<epg_id>tvteam_:Мир HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Mir.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
@@ -262,7 +255,7 @@
 		<tv_channel>
 			<caption>Мир HD</caption>
 			<channel_id>310</channel_id>
-			<epg_id>Мир HD</epg_id>
+			<epg_id>tvteam_:Мир HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MIRHD200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -270,7 +263,7 @@
 		<tv_channel>
 			<caption>Красная линия</caption>
 			<channel_id>295</channel_id>
-			<epg_id>Красная линия</epg_id>
+			<epg_id>tvteam_:Красная линия</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KRASNAYALINIYA200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
@@ -299,7 +292,7 @@
 		<tv_channel>
 			<caption>BBC NEWS</caption>
 			<channel_id>423</channel_id>
-			<epg_id>BBC NEWS</epg_id>
+			<epg_id>tvteam_:BBC World News Europe</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/BBC World.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
@@ -320,44 +313,42 @@
 		<tv_channel>
 			<caption>Звезда Плюс</caption>
 			<channel_id>315</channel_id>
-			<epg_id>Звезда Плюс</epg_id>
+			<epg_id>tvteam_:Звезда Плюс</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/zvezda_plyus_logo.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Deutsche Welle</caption>
 			<channel_id>773</channel_id>
-			<epg_id>Deutsche Welle</epg_id>
+			<epg_id>epg6:deutschewelle.de</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Deutsche Welle.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>BBC World News</caption>
 			<channel_id>774</channel_id>
-			<epg_id>BBC World News</epg_id>
+			<epg_id>tvteam_:BBC World News Europe</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/BBC World.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТНТ</caption>
 			<channel_id>7</channel_id>
-			<epg_id>ТНТ</epg_id>
+			<epg_id>tvteam_:ТНТ HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TNT200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>THT4</caption>
 			<channel_id>56</channel_id>
-			<epg_id>THT4</epg_id>
+			<epg_id>tvteam_:ТНТ4 HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TNT4200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>КВН ТВ</caption>
 			<channel_id>262</channel_id>
-			<epg_id>КВН ТВ</epg_id>
+			<epg_id>tvteam_:КВН ТВ</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KVNTV200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>14</archive>
@@ -365,26 +356,23 @@
 		<tv_channel>
 			<caption>СТС</caption>
 			<channel_id>5</channel_id>
-			<epg_id>СТС</epg_id>
+			<epg_id>tvteam_:СТС HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/STSTV200 (1).png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>стс love</caption>
 			<channel_id>164</channel_id>
-			<epg_id>стс love</epg_id>
+			<epg_id>tvteam_:СТС love</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/STSLOVE200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Рен-ТВ</caption>
 			<channel_id>4</channel_id>
-			<epg_id>Рен-ТВ</epg_id>
+			<epg_id>tvteam_:Рен ТВ HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/RENTV200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ЧЕ</caption>
@@ -397,7 +385,7 @@
 		<tv_channel>
 			<caption>Перец International</caption>
 			<channel_id>311</channel_id>
-			<epg_id>Перец International</epg_id>
+			<epg_id>tvteam_:Перец International</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/PEREC2200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>14</archive>
@@ -405,10 +393,9 @@
 		<tv_channel>
 			<caption>Пятница</caption>
 			<channel_id>64</channel_id>
-			<epg_id>Пятница</epg_id>
+			<epg_id>tvteam_:Пятница! HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/FRIDAY200 (1).png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Супер</caption>
@@ -424,15 +411,13 @@
 			<epg_id>iptvxone:domashny</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/DOMASHNIY200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Сарафан</caption>
 			<channel_id>20</channel_id>
-			<epg_id>Сарафан</epg_id>
+			<epg_id>tvteam_:Сарафан</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/SARAFANTV200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ю-ТВ</caption>
@@ -440,20 +425,18 @@
 			<epg_id>iptvxone:yu</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/YUTV2001.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>TV3</caption>
 			<channel_id>110</channel_id>
-			<epg_id>TV3</epg_id>
+			<epg_id>tvteam_:ТВ3</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TV3RUS200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ретро</caption>
 			<channel_id>263</channel_id>
-			<epg_id>Ретро</epg_id>
+			<epg_id>tvteam_:Ретро</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/RETROTV2001.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>14</archive>
@@ -461,7 +444,7 @@
 		<tv_channel>
 			<caption>Paramount Comedy HD</caption>
 			<channel_id>161</channel_id>
-			<epg_id>Paramount Comedy HD</epg_id>
+			<epg_id>tvteam_:Comedy Central</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/PARAMCOMEDYHD200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>14</archive>
@@ -469,10 +452,9 @@
 		<tv_channel>
 			<caption>НТВ Хит</caption>
 			<channel_id>290</channel_id>
-			<epg_id>НТВ Хит</epg_id>
+			<epg_id>tvteam_:НTВ Xит</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NTVHIT200 (1).png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>TVMChannel</caption>
@@ -484,7 +466,7 @@
 		<tv_channel>
 			<caption>2x2</caption>
 			<channel_id>43</channel_id>
-			<epg_id>2x2</epg_id>
+			<epg_id>tvteam_:2X2</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/2X2TV200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>14</archive>
@@ -492,7 +474,7 @@
 		<tv_channel>
 			<caption>Кухня ТВ</caption>
 			<channel_id>61</channel_id>
-			<epg_id>Кухня ТВ</epg_id>
+			<epg_id>tvteam_:Кухня ТВ</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Kuhnya.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>14</archive>
@@ -500,7 +482,7 @@
 		<tv_channel>
 			<caption>Ностальгия</caption>
 			<channel_id>44</channel_id>
-			<epg_id>Ностальгия</epg_id>
+			<epg_id>tvteam_:Ностальгия</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NOSTALGIA200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>14</archive>
@@ -516,7 +498,7 @@
 		<tv_channel>
 			<caption>Приключения HD</caption>
 			<channel_id>414</channel_id>
-			<epg_id>Приключения HD</epg_id>
+			<epg_id>tvteam_:Приключения HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/PRIKLUTCHENIYAHD200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
@@ -538,7 +520,7 @@
 		<tv_channel>
 			<caption>World Fashion</caption>
 			<channel_id>99</channel_id>
-			<epg_id>World Fashion</epg_id>
+			<epg_id>tvteam_:Fashion TV HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/World Fashion Channel.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>14</archive>
@@ -546,18 +528,24 @@
 		<tv_channel>
 			<caption>ТНТ HD</caption>
 			<channel_id>249</channel_id>
-			<epg_id>ТНТ HD</epg_id>
+			<epg_id>tvteam_:ТНТ HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TNTHD200.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Рен-тв HD</caption>
 			<channel_id>250</channel_id>
-			<epg_id>Рен-тв HD</epg_id>
+			<epg_id>tvteam_:Рен ТВ HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/RenTV.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ServusTV</caption>
+			<channel_id>867</channel_id>
+			<epg_id>iz_:Servus TV</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/servus.png</icon_url>
+			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Театр</caption>
@@ -565,12 +553,11 @@
 			<epg_id>iptvxone:teatr</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/t9t.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Вопросы и ответы</caption>
 			<channel_id>51</channel_id>
-			<epg_id>Вопросы и ответы</epg_id>
+			<epg_id>tvteam_:Вопросы и ответы</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Voprosi i otveti.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -578,15 +565,14 @@
 		<tv_channel>
 			<caption>Россия Культура</caption>
 			<channel_id>70</channel_id>
-			<epg_id>Россия Культура</epg_id>
+			<epg_id>tvteam_:Россия-Культуpa</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/RUSSIAK200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Авто плюс</caption>
 			<channel_id>91</channel_id>
-			<epg_id>Авто плюс</epg_id>
+			<epg_id>tvteam_:Авто плюс HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/AVTOPLUS2001.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -594,7 +580,7 @@
 		<tv_channel>
 			<caption>Еда HD</caption>
 			<channel_id>132</channel_id>
-			<epg_id>Еда HD</epg_id>
+			<epg_id>tvteam_:Еда</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/EdaHD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -602,7 +588,7 @@
 		<tv_channel>
 			<caption>Телекафе</caption>
 			<channel_id>90</channel_id>
-			<epg_id>Телекафе</epg_id>
+			<epg_id>tvteam_:Телекафе</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Telekafe.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -620,7 +606,6 @@
 			<epg_id>iptvxone:ntv-pravo</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NTVPRAVO200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Food Network</caption>
@@ -633,7 +618,7 @@
 		<tv_channel>
 			<caption>TLC</caption>
 			<channel_id>58</channel_id>
-			<epg_id>TLC</epg_id>
+			<epg_id>tvteam_:TLC HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TLC200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -641,7 +626,7 @@
 		<tv_channel>
 			<caption>Animal Planet</caption>
 			<channel_id>73</channel_id>
-			<epg_id>Animal Planet</epg_id>
+			<epg_id>tvteam_:Animal Planet</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/ANIMALPLANET200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -652,12 +637,11 @@
 			<epg_id>iptvxone:discovery-channel</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/DISCOVERYSD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Investigation Discovery</caption>
 			<channel_id>72</channel_id>
-			<epg_id>Investigation Discovery</epg_id>
+			<epg_id>tvteam_:Investigation Discovery CEE HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/DISCIDHD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -665,7 +649,7 @@
 		<tv_channel>
 			<caption>Terra</caption>
 			<channel_id>76</channel_id>
-			<epg_id>Terra</epg_id>
+			<epg_id>tvteam_:Terra HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/terra.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -681,7 +665,7 @@
 		<tv_channel>
 			<caption>National Geographic</caption>
 			<channel_id>78</channel_id>
-			<epg_id>National Geographic</epg_id>
+			<epg_id>tvteam_:National Geographic HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -689,7 +673,7 @@
 		<tv_channel>
 			<caption>Домашние животные</caption>
 			<channel_id>79</channel_id>
-			<epg_id>Домашние животные</epg_id>
+			<epg_id>tvteam_:Домашние животные</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/DOMZHIVOTNYE200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -697,7 +681,7 @@
 		<tv_channel>
 			<caption>История</caption>
 			<channel_id>80</channel_id>
-			<epg_id>История</epg_id>
+			<epg_id>tvteam_:История</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/ISTORIYARUS200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -705,7 +689,7 @@
 		<tv_channel>
 			<caption>Travel channel</caption>
 			<channel_id>81</channel_id>
-			<epg_id>Travel channel</epg_id>
+			<epg_id>tvteam_:Travel Channel HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Travel Channel.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -713,7 +697,7 @@
 		<tv_channel>
 			<caption>Телепутешествия HD</caption>
 			<channel_id>172</channel_id>
-			<epg_id>Телепутешествия HD</epg_id>
+			<epg_id>tvteam_:Телепутешествия</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/телепутешествия сер.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -721,7 +705,7 @@
 		<tv_channel>
 			<caption>History</caption>
 			<channel_id>275</channel_id>
-			<epg_id>History</epg_id>
+			<epg_id>tvteam_:History HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/history.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -729,7 +713,7 @@
 		<tv_channel>
 			<caption>Viju History HD</caption>
 			<channel_id>84</channel_id>
-			<epg_id>Viju History HD</epg_id>
+			<epg_id>tvteam_:Viju History `HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/VIASATHISTORY200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -737,7 +721,7 @@
 		<tv_channel>
 			<caption>Viju Explore HD</caption>
 			<channel_id>83</channel_id>
-			<epg_id>Viju Explore HD</epg_id>
+			<epg_id>tvteam_:Viju Explore HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/VIASATEXPLORE200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -745,7 +729,7 @@
 		<tv_channel>
 			<caption>Viju Nature HD</caption>
 			<channel_id>85</channel_id>
-			<epg_id>Viju Nature HD</epg_id>
+			<epg_id>tvteam_:Viju Nature HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/VIASATNATURE200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -753,7 +737,7 @@
 		<tv_channel>
 			<caption>Da Vinci Learning</caption>
 			<channel_id>86</channel_id>
-			<epg_id>Da Vinci Learning</epg_id>
+			<epg_id>tvteam_:Da Vinci</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/DAVINCI200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -764,12 +748,11 @@
 			<epg_id>iptvxone:365-dnej</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/365DNEYTV200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ocean TV</caption>
 			<channel_id>67</channel_id>
-			<epg_id>Ocean TV</epg_id>
+			<epg_id>tvteam_:Ocean TV</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/OCEANTVHD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -777,7 +760,7 @@
 		<tv_channel>
 			<caption>Охота и Рыбалка</caption>
 			<channel_id>63</channel_id>
-			<epg_id>Охота и Рыбалка</epg_id>
+			<epg_id>tvteam_:Охота и рыбалка</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/OHOTAYRYBALKA200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -785,7 +768,7 @@
 		<tv_channel>
 			<caption>Бобер</caption>
 			<channel_id>162</channel_id>
-			<epg_id>Бобер</epg_id>
+			<epg_id>tvteam_:БОБЁР</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/bober.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -793,7 +776,7 @@
 		<tv_channel>
 			<caption>24 техно</caption>
 			<channel_id>185</channel_id>
-			<epg_id>24 техно</epg_id>
+			<epg_id>tvteam_:Техно 24</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TECHNO242001.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -809,7 +792,7 @@
 		<tv_channel>
 			<caption>Моя планета</caption>
 			<channel_id>144</channel_id>
-			<epg_id>Моя планета</epg_id>
+			<epg_id>tvteam_:Моя Планета HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MOYAPLANETA200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -817,7 +800,7 @@
 		<tv_channel>
 			<caption>психология 21</caption>
 			<channel_id>181</channel_id>
-			<epg_id>психология 21</epg_id>
+			<epg_id>tvteam_:Психология</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/PSIHOLOG21200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -825,7 +808,7 @@
 		<tv_channel>
 			<caption>Доктор</caption>
 			<channel_id>202</channel_id>
-			<epg_id>Доктор</epg_id>
+			<epg_id>tvteam_:Доктор</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/DOKTORTV200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -833,7 +816,7 @@
 		<tv_channel>
 			<caption>Наука 2.0</caption>
 			<channel_id>100</channel_id>
-			<epg_id>Наука 2.0</epg_id>
+			<epg_id>tvteam_:Наука 2.0</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NAUKATVRUS200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -841,7 +824,7 @@
 		<tv_channel>
 			<caption>Кто есть кто</caption>
 			<channel_id>101</channel_id>
-			<epg_id>Кто есть кто</epg_id>
+			<epg_id>tvteam_:Кто есть кто</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KTOESTKTO200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -849,7 +832,7 @@
 		<tv_channel>
 			<caption>Здоровое ТВ</caption>
 			<channel_id>119</channel_id>
-			<epg_id>Здоровое ТВ</epg_id>
+			<epg_id>tvteam_:Здоровое ТВ</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/ZDOROVOETV200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -857,7 +840,7 @@
 		<tv_channel>
 			<caption>Усадьба</caption>
 			<channel_id>17</channel_id>
-			<epg_id>Усадьба</epg_id>
+			<epg_id>tvteam_:Усадьба</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/USADBA200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -865,7 +848,7 @@
 		<tv_channel>
 			<caption>Оружие</caption>
 			<channel_id>194</channel_id>
-			<epg_id>Оружие</epg_id>
+			<epg_id>tvteam_:Оружие</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/ORUZHIE200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -888,7 +871,7 @@
 		<tv_channel>
 			<caption>Успех</caption>
 			<channel_id>154</channel_id>
-			<epg_id>Успех</epg_id>
+			<epg_id>tvteam_:Успех</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Uspeh.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -904,7 +887,7 @@
 		<tv_channel>
 			<caption>Discovery HD</caption>
 			<channel_id>170</channel_id>
-			<epg_id>Discovery HD</epg_id>
+			<epg_id>tvteam_:Discovery Channel HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/DISCOVERYHD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -912,7 +895,7 @@
 		<tv_channel>
 			<caption>Нано ТВ HD</caption>
 			<channel_id>171</channel_id>
-			<epg_id>Нано ТВ HD</epg_id>
+			<epg_id>tvteam_:Нано HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/3D_logo_NANO_SD_512_512.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -928,7 +911,7 @@
 		<tv_channel>
 			<caption>National Geographic HD</caption>
 			<channel_id>166</channel_id>
-			<epg_id>National Geographic HD</epg_id>
+			<epg_id>tvteam_:National Geographic HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -944,7 +927,7 @@
 		<tv_channel>
 			<caption>Travel+Adventure HD</caption>
 			<channel_id>160</channel_id>
-			<epg_id>Travel+Adventure HD</epg_id>
+			<epg_id>tvteam_:Travel+Adventure HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TRAVELADVENTURE200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -952,7 +935,7 @@
 		<tv_channel>
 			<caption>Travel Channel HD</caption>
 			<channel_id>252</channel_id>
-			<epg_id>Travel Channel HD</epg_id>
+			<epg_id>tvteam_:Travel Channel HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TRAVELCHANNEL200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -960,7 +943,7 @@
 		<tv_channel>
 			<caption>Animal planet HD</caption>
 			<channel_id>157</channel_id>
-			<epg_id>Animal planet HD</epg_id>
+			<epg_id>tvteam_:Animal Planet HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/ANIMALPLANETHD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -968,7 +951,7 @@
 		<tv_channel>
 			<caption>Охотник и Рыболов HD</caption>
 			<channel_id>173</channel_id>
-			<epg_id>Охотник и Рыболов HD</epg_id>
+			<epg_id>tvteam_:Охотник и рыболов HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Ohotnik i rybolov.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -976,7 +959,7 @@
 		<tv_channel>
 			<caption>HGTV</caption>
 			<channel_id>274</channel_id>
-			<epg_id>HGTV</epg_id>
+			<epg_id>tvteam_:HGTV</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/hgtv сер.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -992,7 +975,7 @@
 		<tv_channel>
 			<caption>Спас</caption>
 			<channel_id>240</channel_id>
-			<epg_id>Спас</epg_id>
+			<epg_id>tvteam_:Спас</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/SPAS200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -1007,7 +990,7 @@
 		<tv_channel>
 			<caption>В мире животных HD</caption>
 			<channel_id>389</channel_id>
-			<epg_id>В мире животных HD</epg_id>
+			<epg_id>tvteam_:В мире животных HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/animal_family_hd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -1031,7 +1014,7 @@
 		<tv_channel>
 			<caption>Viju+ Sport</caption>
 			<channel_id>15</channel_id>
-			<epg_id>Viju+ Sport</epg_id>
+			<epg_id>tvteam_:Viju+ Sport</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/VIASATSPORT200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>14</archive>
@@ -1103,7 +1086,7 @@
 		<tv_channel>
 			<caption>KHL TV Channel</caption>
 			<channel_id>25</channel_id>
-			<epg_id>KHL TV Channel</epg_id>
+			<epg_id>tvteam_:КХЛ HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KHLTV2001.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>14</archive>
@@ -1127,7 +1110,7 @@
 		<tv_channel>
 			<caption>Бокс ТВ</caption>
 			<channel_id>189</channel_id>
-			<epg_id>Бокс ТВ</epg_id>
+			<epg_id>tvteam_:БОКС ТВ</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/BOKSTV200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>14</archive>
@@ -1135,14 +1118,14 @@
 		<tv_channel>
 			<caption>MMA-TV.com HD</caption>
 			<channel_id>421</channel_id>
-			<epg_id>MMA-TV.com HD</epg_id>
+			<epg_id>tvteam_:MMA-TV</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/M1GLOBAL200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>UDAR HD</caption>
 			<channel_id>254</channel_id>
-			<epg_id>UDAR HD</epg_id>
+			<epg_id>tvteam_:UDAR TV HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/udar.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>14</archive>
@@ -1150,7 +1133,7 @@
 		<tv_channel>
 			<caption>Extreme Sports</caption>
 			<channel_id>94</channel_id>
-			<epg_id>Extreme Sports</epg_id>
+			<epg_id>tvteam_:Extreme Sports</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/EXTREMESPORTS200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>14</archive>
@@ -1158,14 +1141,14 @@
 		<tv_channel>
 			<caption>Драйв</caption>
 			<channel_id>209</channel_id>
-			<epg_id>Драйв</epg_id>
+			<epg_id>tvteam_:Драйв</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/DRAYVTV200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ЖИВИ!</caption>
 			<channel_id>176</channel_id>
-			<epg_id>ЖИВИ!</epg_id>
+			<epg_id>tvteam_:Живи!</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Zhivi.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
@@ -1189,7 +1172,7 @@
 		<tv_channel>
 			<caption>Матч Футбол 1 HD</caption>
 			<channel_id>222</channel_id>
-			<epg_id>Матч Футбол 1 HD</epg_id>
+			<epg_id>tvteam_:Матч! Футбол 1 FHD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MATCHFUTBOL1HD200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
@@ -1197,7 +1180,7 @@
 		<tv_channel>
 			<caption>Матч Футбол 2 HD</caption>
 			<channel_id>223</channel_id>
-			<epg_id>Матч Футбол 2 HD</epg_id>
+			<epg_id>tvteam_:Матч! Футбол 2 FHD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MATCHFUTBOL2HD200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
@@ -1205,7 +1188,7 @@
 		<tv_channel>
 			<caption>Матч Футбол 3 HD</caption>
 			<channel_id>224</channel_id>
-			<epg_id>Матч Футбол 3 HD</epg_id>
+			<epg_id>tvteam_:Матч! Футбол 3 FHD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MATCHFUTBOL3HD200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
@@ -1213,7 +1196,7 @@
 		<tv_channel>
 			<caption>Setanta Sports Ukraine HD</caption>
 			<channel_id>289</channel_id>
-			<epg_id>Setanta Sports Ukraine HD</epg_id>
+			<epg_id>tvteam_:UA: Setanta Sports Ukraine HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/SETANTAUA200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
@@ -1229,14 +1212,14 @@
 		<tv_channel>
 			<caption>Setanta Sports 2 HD</caption>
 			<channel_id>777</channel_id>
-			<epg_id>Setanta Sports 2 HD</epg_id>
+			<epg_id>tvteam_:Setanta Sports 2 HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/SETANTA2200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Setanta Eurasia+</caption>
 			<channel_id>261</channel_id>
-			<epg_id>Setanta Eurasia+</epg_id>
+			<epg_id>tvteam_:UA: Setanta Sports+ Ukraine HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/SETANTASPORTPLUS200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>14</archive>
@@ -1244,7 +1227,7 @@
 		<tv_channel>
 			<caption>KHL Prime HD</caption>
 			<channel_id>236</channel_id>
-			<epg_id>KHL Prime HD</epg_id>
+			<epg_id>tvteam_:КХЛ Prime HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KHLHD2001.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
@@ -1260,7 +1243,7 @@
 		<tv_channel>
 			<caption>Конный мир HD</caption>
 			<channel_id>260</channel_id>
-			<epg_id>Конный мир HD</epg_id>
+			<epg_id>tvteam_:Конный Мир HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/конный мир сер.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>14</archive>
@@ -1268,22 +1251,36 @@
 		<tv_channel>
 			<caption>Футбол</caption>
 			<channel_id>422</channel_id>
-			<epg_id>Футбол</epg_id>
+			<epg_id>tvteam_:Футбол HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/FUTBOL2001.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Sky Sports F1 HD UK</caption>
+			<channel_id>866</channel_id>
+			<epg_id>iptvxone:sky-sports-f1</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/SKYSPORTSF1200.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sports F1 HD DE</caption>
+			<channel_id>865</channel_id>
+			<epg_id>epg6:skysportf1.de</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/SKYSPORTSF1200.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Sky Sport Mix</caption>
 			<channel_id>771</channel_id>
-			<epg_id>Sky Sport Mix</epg_id>
+			<epg_id>epg6:skysportmix.de</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/R.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>NBA TV US</caption>
 			<channel_id>59</channel_id>
-			<epg_id>NBA TV US</epg_id>
+			<epg_id>tvteam_:NBA TV HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NBATV200.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>14</archive>
@@ -1291,7 +1288,7 @@
 		<tv_channel>
 			<caption>ESPN</caption>
 			<channel_id>390</channel_id>
-			<epg_id>ESPN</epg_id>
+			<epg_id>tvteam_:US: ESPN HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/ESPN_Classic_Sport.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
@@ -1312,7 +1309,7 @@
 		<tv_channel>
 			<caption>Музыка первого</caption>
 			<channel_id>127</channel_id>
-			<epg_id>Музыка первого</epg_id>
+			<epg_id>tvteam_:Музыка Первого</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MUZYKAPERVOGOV2001.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
@@ -1320,14 +1317,14 @@
 		<tv_channel>
 			<caption>MTV</caption>
 			<channel_id>129</channel_id>
-			<epg_id>MTV</epg_id>
+			<epg_id>tvteam_:MTV Club</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MTVHD200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>MTV live HD</caption>
 			<channel_id>167</channel_id>
-			<epg_id>MTV live HD</epg_id>
+			<epg_id>tvteam_:MTV Live HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MTVLIVEHD200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
@@ -1343,28 +1340,28 @@
 		<tv_channel>
 			<caption>MTV 00s</caption>
 			<channel_id>31</channel_id>
-			<epg_id>MTV 00s</epg_id>
+			<epg_id>tvteam_:MTV 00s</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/VH1TV200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Жара</caption>
 			<channel_id>280</channel_id>
-			<epg_id>Жара</epg_id>
+			<epg_id>tvteam_:Жара HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/ZHARATV200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Europa Plus TV</caption>
 			<channel_id>32</channel_id>
-			<epg_id>Europa Plus TV</epg_id>
+			<epg_id>tvteam_:Europa Plus TV HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/EUROPAPLUSTV200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Шансон ТВ</caption>
 			<channel_id>118</channel_id>
-			<epg_id>Шансон ТВ</epg_id>
+			<epg_id>tvteam_:Шансон TB</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/SHANSONTV200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
@@ -1385,23 +1382,30 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>MTV IL</caption>
+			<channel_id>1065</channel_id>
+			<epg_id>iz_:IL: MTV HD</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MTV IL.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>RU TV</caption>
 			<channel_id>175</channel_id>
-			<epg_id>RU TV</epg_id>
+			<epg_id>tvteam_:RU.TV</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/rutv сер.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Bridge tv</caption>
 			<channel_id>309</channel_id>
-			<epg_id>Bridge tv</epg_id>
+			<epg_id>tvteam_:Bridge TV</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/BRIDGETV200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Music Box Russian HD</caption>
 			<channel_id>178</channel_id>
-			<epg_id>Music Box Russian HD</epg_id>
+			<epg_id>tvteam_:Music Box Gold</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Music Box.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
@@ -1417,7 +1421,7 @@
 		<tv_channel>
 			<caption>ТНТ Music</caption>
 			<channel_id>272</channel_id>
-			<epg_id>ТНТ Music</epg_id>
+			<epg_id>tvteam_:ТНТ Music HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TNTMUSIC200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -1452,14 +1456,14 @@
 		<tv_channel>
 			<caption>Bridge TV Classic</caption>
 			<channel_id>382</channel_id>
-			<epg_id>Bridge TV Classic</epg_id>
+			<epg_id>tvteam_:Bridge TV Classic</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/BRIDGECLASSIC200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Иллюзион +</caption>
 			<channel_id>126</channel_id>
-			<epg_id>Иллюзион +</epg_id>
+			<epg_id>tvteam_:Иллюзион+</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/ILLUSIONPLUS2001.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1475,31 +1479,190 @@
 		<tv_channel>
 			<caption>Amedia 1</caption>
 			<channel_id>34</channel_id>
-			<epg_id>Amedia 1</epg_id>
+			<epg_id>tvteam_:Amedia 1 HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/AMEDIA1200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Amedia 2 HD</caption>
+			<channel_id>919</channel_id>
+			<epg_id>tvteam_:Amedia 2 HD</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/AMEDIA2200.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Победа</caption>
 			<channel_id>296</channel_id>
-			<epg_id>Победа</epg_id>
+			<epg_id>tvteam_:Победа</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/POBEDA200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Звезда</caption>
 			<channel_id>35</channel_id>
-			<epg_id>Звезда</epg_id>
+			<epg_id>tvteam_:Звезда</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/ZVEZDARUS200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>.red HD (Sony Channel HD)</caption>
+			<channel_id>926</channel_id>
+			<epg_id>iptvxone:sony-tv</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/sony.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Star Cinema HD</caption>
+			<channel_id>963</channel_id>
+			<epg_id>iptvxone:star-cinema</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/STARCINEMA200.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Star Family HD</caption>
+			<channel_id>964</channel_id>
+			<epg_id>iptvxone:star-family</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/STARFAMILY200.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дорама HD</caption>
+			<channel_id>965</channel_id>
+			<epg_id>iptvxone:dorama</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/dorama.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Filmbox</caption>
+			<channel_id>975</channel_id>
+			<epg_id>iptvxone:filmbox-ru</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/filmbox.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Filmbox Art House HD</caption>
+			<channel_id>976</channel_id>
+			<epg_id>iptvxone:filmbox-arthouse</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/film_arthouse_box.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Блокбастер HD</caption>
+			<channel_id>981</channel_id>
+			<epg_id>iptvxone:blokbaster-hd</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/BLOKBASTER200.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Про Любовь HD</caption>
+			<channel_id>986</channel_id>
+			<epg_id>iptvxone:pro-lyubov</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/PROLUBOV2200.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Хит HD</caption>
+			<channel_id>989</channel_id>
+			<epg_id>iptvxone:khit-hd</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/HIT200.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Камеди HD</caption>
+			<channel_id>990</channel_id>
+			<epg_id>iptvxone:kamedi</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KAMEDY2001.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинеко HD</caption>
+			<channel_id>991</channel_id>
+			<epg_id>iptvxone:kineko</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/kineko.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Любимое кино HD</caption>
+			<channel_id>993</channel_id>
+			<epg_id>iptvxone:lubimoe-kino</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/lubimoe-kino.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Plan B HD</caption>
+			<channel_id>994</channel_id>
+			<epg_id>iptvxone:plan-b</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/plan-b.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Романтичное HD</caption>
+			<channel_id>995</channel_id>
+			<epg_id>iptvxone:romantichnoe-hd</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/romantichnoe-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cinema HD</caption>
+			<channel_id>996</channel_id>
+			<epg_id>iptvxone:cinema-ru</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/cinema.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>VHS-ка HD</caption>
+			<channel_id>997</channel_id>
+			<epg_id>iptvxone:vhs-ka</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/vhs-ka.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>DetectiveJam</caption>
+			<channel_id>998</channel_id>
+			<epg_id>iptvxone:detectivejam</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/detectivejam.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Криминальное HD</caption>
+			<channel_id>999</channel_id>
+			<epg_id>iptvxone:kriminalnoe-hd</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/kriminalnoe-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KION Хит HD</caption>
+			<channel_id>1000</channel_id>
+			<epg_id>iptvxone:kion-xit</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/kion-xit.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sumiko HD</caption>
+			<channel_id>1001</channel_id>
+			<epg_id>iptvxone:sumiko</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/sumiko.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Suspense HD</caption>
+			<channel_id>1003</channel_id>
+			<epg_id>iptvxone:suspense</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/suspense.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино без границ HD</caption>
+			<channel_id>1004</channel_id>
+			<epg_id>iptvxone:kino-bez-granic</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/kino-bez-granic.png</icon_url>
+			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ИНДИЙСКОЕ КИНО</caption>
 			<channel_id>36</channel_id>
-			<epg_id>ИНДИЙСКОЕ КИНО</epg_id>
+			<epg_id>tvteam_:Индийское кино</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/indiyskoe_kino.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1507,7 +1670,7 @@
 		<tv_channel>
 			<caption>Кино Хит</caption>
 			<channel_id>37</channel_id>
-			<epg_id>Кино Хит</epg_id>
+			<epg_id>tvteam_:Кинохит HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KINOHIT200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1515,31 +1678,28 @@
 		<tv_channel>
 			<caption>Киномикс</caption>
 			<channel_id>38</channel_id>
-			<epg_id>Киномикс</epg_id>
+			<epg_id>tvteam_:Киномикс HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KINOMIKS200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Киносвидание</caption>
 			<channel_id>39</channel_id>
-			<epg_id>Киносвидание</epg_id>
+			<epg_id>tvteam_:Киносвидание HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KINOSVIDANIE200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кино серия</caption>
 			<channel_id>41</channel_id>
-			<epg_id>Кино серия</epg_id>
+			<epg_id>tvteam_:Киносерия HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KINOSERIA200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русский Иллюзион</caption>
 			<channel_id>124</channel_id>
-			<epg_id>Русский Иллюзион</epg_id>
+			<epg_id>tvteam_:Русский Иллюзион</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/RUSSKILLUSION2001.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1547,7 +1707,7 @@
 		<tv_channel>
 			<caption>Кинопоказ</caption>
 			<channel_id>131</channel_id>
-			<epg_id>Кинопоказ</epg_id>
+			<epg_id>tvteam_:Кинопоказ</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KINOPOKAZ2001.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1555,7 +1715,7 @@
 		<tv_channel>
 			<caption>Кино ТВ</caption>
 			<channel_id>195</channel_id>
-			<epg_id>Кино ТВ</epg_id>
+			<epg_id>tvteam_:Кино ТВ HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KINOTV2001.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1563,7 +1723,7 @@
 		<tv_channel>
 			<caption>Кинокомедия</caption>
 			<channel_id>40</channel_id>
-			<epg_id>Кинокомедия</epg_id>
+			<epg_id>tvteam_:Кинокомедия HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KINOKOMEDIA200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1571,47 +1731,49 @@
 		<tv_channel>
 			<caption>Дом Кино</caption>
 			<channel_id>128</channel_id>
-			<epg_id>Дом Кино</epg_id>
+			<epg_id>tvteam_:Дом Кино</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/DOMKINO200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Родное кино</caption>
 			<channel_id>92</channel_id>
-			<epg_id>Родное кино</epg_id>
+			<epg_id>tvteam_:Родное кино</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/RODNOEKINO200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Наше Новое Кино</caption>
 			<channel_id>42</channel_id>
-			<epg_id>Наше Новое Кино</epg_id>
+			<epg_id>tvteam_:Наше новое кино</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NASHENOVOEKINO200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Киносемья</caption>
 			<channel_id>45</channel_id>
-			<epg_id>Киносемья</epg_id>
+			<epg_id>tvteam_:Киносемья HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KINOSEMIA200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Киноужас HD</caption>
 			<channel_id>276</channel_id>
-			<epg_id>Киноужас HD</epg_id>
+			<epg_id>tvteam_:Киноужас HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KINOUZHAS200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Scream HD</caption>
+			<channel_id>948</channel_id>
+			<epg_id>iptvxone:scream</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/scream.png</icon_url>
+			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Fan HD</caption>
 			<channel_id>293</channel_id>
-			<epg_id>Fan HD</epg_id>
+			<epg_id>tvteam_:Fan HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/FANTV200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>3</archive>
@@ -1619,7 +1781,7 @@
 		<tv_channel>
 			<caption>Viju TV 1000 HD</caption>
 			<channel_id>46</channel_id>
-			<epg_id>Viju TV 1000 HD</epg_id>
+			<epg_id>tvteam_:Viju TV 1000 HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TV1000200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1627,7 +1789,7 @@
 		<tv_channel>
 			<caption>Viju TV 1000 Action HD</caption>
 			<channel_id>47</channel_id>
-			<epg_id>Viju TV 1000 Action HD</epg_id>
+			<epg_id>tvteam_:Viju TV 1000 Action HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TV1000ACTION200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1639,6 +1801,20 @@
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TV1000RUSKINO200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 новелла HD</caption>
+			<channel_id>1005</channel_id>
+			<epg_id>iptvxone:viju-tv1000-novella</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/viju-tv1000-novella.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>FlixSnip</caption>
+			<channel_id>922</channel_id>
+			<epg_id>iptvxone:flixsnip</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/FLIXSNIP200.png</icon_url>
+			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>FOX Crime</caption>
@@ -1659,7 +1835,7 @@
 		<tv_channel>
 			<caption>НСТ</caption>
 			<channel_id>155</channel_id>
-			<epg_id>НСТ</epg_id>
+			<epg_id>tvteam_:НСТ</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NSTTV200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1675,55 +1851,49 @@
 		<tv_channel>
 			<caption>Мужское кино</caption>
 			<channel_id>68</channel_id>
-			<epg_id>Мужское кино</epg_id>
+			<epg_id>tvteam_:Мужское кино HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MUZHSKOEKINO200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русский роман</caption>
 			<channel_id>10</channel_id>
-			<epg_id>Русский роман</epg_id>
+			<epg_id>tvteam_:Русский роман</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/rus_roman.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русский Детектив</caption>
 			<channel_id>151</channel_id>
-			<epg_id>Русский Детектив</epg_id>
+			<epg_id>tvteam_:Русский Детектив</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/RUSDETECTIVE200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русский Бестселлер</caption>
 			<channel_id>152</channel_id>
-			<epg_id>Русский Бестселлер</epg_id>
+			<epg_id>tvteam_:Русский бестселлер</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/RUSBESTSELLER2001.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Наш Детектив</caption>
 			<channel_id>57</channel_id>
-			<epg_id>Наш Детектив</epg_id>
+			<epg_id>tvteam_:Наше HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NASHEHD200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>НТВ Сериал</caption>
 			<channel_id>246</channel_id>
-			<epg_id>НТВ Сериал</epg_id>
+			<epg_id>tvteam_:НTВ Cериал</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NTVSERIAL200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sony Sci-Fi Россия</caption>
 			<channel_id>111</channel_id>
-			<epg_id>Sony Sci-Fi Россия</epg_id>
+			<epg_id>tvteam_:.Sci-Fi</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/SONYSCIFI200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1731,7 +1901,7 @@
 		<tv_channel>
 			<caption>Феникс кино</caption>
 			<channel_id>419</channel_id>
-			<epg_id>Феникс кино</epg_id>
+			<epg_id>tvteam_:Феникс+ Кино</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Феникс сер.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1739,7 +1909,7 @@
 		<tv_channel>
 			<caption>Kinoliving</caption>
 			<channel_id>138</channel_id>
-			<epg_id>Kinoliving</epg_id>
+			<epg_id>tvteam_:Kinoliving</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Kinoliving сер.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>7</archive>
@@ -1747,7 +1917,7 @@
 		<tv_channel>
 			<caption>Viju+ Comedy HD</caption>
 			<channel_id>104</channel_id>
-			<epg_id>Viju+ Comedy HD</epg_id>
+			<epg_id>tvteam_:Viju+ Comedy HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/VIPCOMEDY200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1755,7 +1925,7 @@
 		<tv_channel>
 			<caption>Viju+ Megahit HD</caption>
 			<channel_id>105</channel_id>
-			<epg_id>Viju+ Megahit HD</epg_id>
+			<epg_id>tvteam_:Viju+ Megahit HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/VIPMEGAHIT200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1763,7 +1933,7 @@
 		<tv_channel>
 			<caption>Viju+ Premiere HD</caption>
 			<channel_id>115</channel_id>
-			<epg_id>Viju+ Premiere HD</epg_id>
+			<epg_id>tvteam_:Viju+ Premiere HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/VIPPREMIERE200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1779,7 +1949,7 @@
 		<tv_channel>
 			<caption>Комедийное HD</caption>
 			<channel_id>258</channel_id>
-			<epg_id>Комедийное HD</epg_id>
+			<epg_id>tvteam_:Комедийное HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KOMEDIYNOEHD200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1787,7 +1957,7 @@
 		<tv_channel>
 			<caption>КИНОПРЕМЬЕРА</caption>
 			<channel_id>188</channel_id>
-			<epg_id>КИНОПРЕМЬЕРА</epg_id>
+			<epg_id>tvteam_:Кинопремьера HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KINOPREMERA200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1795,7 +1965,7 @@
 		<tv_channel>
 			<caption>Amedia premium HD</caption>
 			<channel_id>203</channel_id>
-			<epg_id>Amedia premium HD</epg_id>
+			<epg_id>tvteam_:Amedia Premium HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/AHOMEOFHBO2200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>7</archive>
@@ -1803,7 +1973,7 @@
 		<tv_channel>
 			<caption>Amedia 1 HD</caption>
 			<channel_id>192</channel_id>
-			<epg_id>Amedia 1 HD</epg_id>
+			<epg_id>tvteam_:Amedia 1 HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/AMEDIA1200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>7</archive>
@@ -1819,7 +1989,7 @@
 		<tv_channel>
 			<caption>Наш кинороман</caption>
 			<channel_id>235</channel_id>
-			<epg_id>Наш кинороман</epg_id>
+			<epg_id>tvteam_:Душевное HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/nash_kinoroman.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>7</archive>
@@ -1827,7 +1997,7 @@
 		<tv_channel>
 			<caption>Наше любимое HD</caption>
 			<channel_id>248</channel_id>
-			<epg_id>Наше любимое HD</epg_id>
+			<epg_id>tvteam_:UA: Наше Любимое Кино HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NASHELUBIMOEKINO200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1835,7 +2005,7 @@
 		<tv_channel>
 			<caption>Дом кино премиум HD</caption>
 			<channel_id>251</channel_id>
-			<epg_id>Дом кино премиум HD</epg_id>
+			<epg_id>tvteam_:Дом Кино Премиум HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/DOMKINOPREMIUMHD200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1851,7 +2021,7 @@
 		<tv_channel>
 			<caption>Amedia Hit HD</caption>
 			<channel_id>149</channel_id>
-			<epg_id>Amedia Hit HD</epg_id>
+			<epg_id>tvteam_:Amedia Hit HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/AHOMEOFHBO1200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -1859,7 +2029,7 @@
 		<tv_channel>
 			<caption>FOX HD</caption>
 			<channel_id>158</channel_id>
-			<epg_id>FOX HD</epg_id>
+			<epg_id>tvteam_:Fox HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/FOXTV200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>7</archive>
@@ -1875,7 +2045,7 @@
 		<tv_channel>
 			<caption>Комедия</caption>
 			<channel_id>303</channel_id>
-			<epg_id>Комедия</epg_id>
+			<epg_id>tvteam_:Комедия</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/RUSKOMEDY200 (1).png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -1898,14 +2068,14 @@
 		<tv_channel>
 			<caption>Мир сериала</caption>
 			<channel_id>345</channel_id>
-			<epg_id>Мир сериала</epg_id>
+			<epg_id>tvteam_:Мир сериала</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MIRSERIALA200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>black HD (Sony Turbo)</caption>
 			<channel_id>416</channel_id>
-			<epg_id>black HD (Sony Turbo)</epg_id>
+			<epg_id>tvteam_:.Black</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/SONYTURBO200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -1919,15 +2089,14 @@
 		<tv_channel>
 			<caption>Мосфильм. Золотая коллекция</caption>
 			<channel_id>351</channel_id>
-			<epg_id>Мосфильм. Золотая коллекция</epg_id>
+			<epg_id>tvteam_:Мосфильм HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/золотая коллекция сер.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Страшное HD</caption>
 			<channel_id>187</channel_id>
-			<epg_id>Страшное HD</epg_id>
+			<epg_id>tvteam_:Страшное HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/STRASHNOEHD200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>7</archive>
@@ -1941,235 +2110,263 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>CineMan</caption>
+			<channel_id>1006</channel_id>
+			<epg_id>iptvxone:cineman</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/cineman.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Триллер</caption>
+			<channel_id>1007</channel_id>
+			<epg_id>iptvxone:cineman-thriller</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/cineman-thriller.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Мелодрама</caption>
+			<channel_id>1008</channel_id>
+			<epg_id>iptvxone:cineman-melodrama</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/cineman-melodrama.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Катастрофы</caption>
+			<channel_id>1009</channel_id>
+			<epg_id>iptvxone:cineman-katastrofy</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/cineman-katastrofy.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Комедия</caption>
+			<channel_id>1010</channel_id>
+			<epg_id>iptvxone:cineman-comedy</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/cineman-comedy.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Топ</caption>
+			<channel_id>1011</channel_id>
+			<epg_id>iptvxone:cineman-top</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/cineman-top.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Ужасы</caption>
+			<channel_id>1012</channel_id>
+			<epg_id>iptvxone:cineman-uzhasy</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/cineman-uzhasy.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Action</caption>
+			<channel_id>1013</channel_id>
+			<epg_id>iptvxone:cineman-action</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/cineman-action.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Marvel</caption>
+			<channel_id>1014</channel_id>
+			<epg_id>iptvxone:cineman-marvel</epg_id>
+			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/cineman-marvel.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Наше Мужское HD</caption>
 			<channel_id>498</channel_id>
-			<epg_id>Наше Мужское HD</epg_id>
+			<epg_id>tvteam_:Наше Мужское HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/NASHEMUZHSKOE200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Newfilm 1</caption>
 			<channel_id>508</channel_id>
-			<epg_id>MM Newfilm 1</epg_id>
+			<epg_id>mm:newfilm1-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1010.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Newfilm 2</caption>
 			<channel_id>527</channel_id>
-			<epg_id>MM Newfilm 2</epg_id>
+			<epg_id>mm:newfilm2-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1011.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Newfilm 3</caption>
 			<channel_id>502</channel_id>
-			<epg_id>MM Newfilm 3</epg_id>
+			<epg_id>mm:newfilm3-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1012.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM NewFilm RU HD</caption>
 			<channel_id>505</channel_id>
-			<epg_id>MM NewFilm RU HD</epg_id>
+			<epg_id>mm:newfilmru-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1013.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ММ Боевик</caption>
 			<channel_id>504</channel_id>
-			<epg_id>ММ Боевик</epg_id>
+			<epg_id>mm:boevik-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1032.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Катастрофа</caption>
 			<channel_id>506</channel_id>
-			<epg_id>MM Катастрофа</epg_id>
+			<epg_id>mm:katastrofa-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1040.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Комедия</caption>
 			<channel_id>507</channel_id>
-			<epg_id>MM Комедия</epg_id>
+			<epg_id>mm:comedy-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1045.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Комедия USSR</caption>
 			<channel_id>503</channel_id>
-			<epg_id>MM Комедия USSR</epg_id>
+			<epg_id>mm:ussr-komedija-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1024.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Роскино</caption>
 			<channel_id>500</channel_id>
-			<epg_id>MM Роскино</epg_id>
+			<epg_id>mm:roskino-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1058.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Супергерои</caption>
 			<channel_id>510</channel_id>
-			<epg_id>MM Супергерои</epg_id>
+			<epg_id>mm:supergeroi-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1068.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Сваты HD</caption>
 			<channel_id>582</channel_id>
-			<epg_id>MM Сваты HD</epg_id>
+			<epg_id>mm:svati-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1059.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM USSR Детектив HD</caption>
 			<channel_id>511</channel_id>
-			<epg_id>MM USSR Детектив HD</epg_id>
+			<epg_id>mm:ussr-detektiv-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1022.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Кунг-Фу HD</caption>
 			<channel_id>587</channel_id>
-			<epg_id>MM Кунг-Фу HD</epg_id>
+			<epg_id>mm:kungfu-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1048.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM USSR Драма HD</caption>
 			<channel_id>578</channel_id>
-			<epg_id>MM USSR Драма HD</epg_id>
+			<epg_id>mm:ussr-fantastika-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1023.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Ужасы</caption>
 			<channel_id>588</channel_id>
-			<epg_id>MM Ужасы</epg_id>
+			<epg_id>mm:ujasi-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1072.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Крутые 90-е HD</caption>
 			<channel_id>626</channel_id>
-			<epg_id>MM Крутые 90-е HD</epg_id>
+			<epg_id>mm:krutie-90-e-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1047.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MM Flip UHD</caption>
-			<channel_id>627</channel_id>
-			<epg_id>MM Flip UHD</epg_id>
-			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1005.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM История HD</caption>
 			<channel_id>647</channel_id>
-			<epg_id>MM История HD</epg_id>
+			<epg_id>mm:istorija-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1039.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Love HD</caption>
 			<channel_id>651</channel_id>
-			<epg_id>MM Love HD</epg_id>
+			<epg_id>mm:love-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1009.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Celebrity HD</caption>
 			<channel_id>656</channel_id>
-			<epg_id>MM Celebrity HD</epg_id>
+			<epg_id>mm:celebrity-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1002.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM UFO HD</caption>
 			<channel_id>689</channel_id>
-			<epg_id>MM UFO HD</epg_id>
+			<epg_id>mm:ufo-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1020.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Боевик Classic</caption>
 			<channel_id>714</channel_id>
-			<epg_id>MM Боевик Classic</epg_id>
+			<epg_id>mm:boevik_classic-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1031.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Семейный 1 HD</caption>
 			<channel_id>721</channel_id>
-			<epg_id>MM Семейный 1 HD</epg_id>
+			<epg_id>mm:family_1-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1060.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Семейный 2 HD</caption>
 			<channel_id>722</channel_id>
-			<epg_id>MM Семейный 2 HD</epg_id>
+			<epg_id>mm:family2-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1061.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Спорт HD</caption>
 			<channel_id>740</channel_id>
-			<epg_id>MM Спорт HD</epg_id>
+			<epg_id>mm:sport-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1066.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Киберпанк HD</caption>
 			<channel_id>760</channel_id>
-			<epg_id>MM Киберпанк HD</epg_id>
+			<epg_id>mm:kiberpunk-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1042.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MS ANIMATED HD</caption>
 			<channel_id>796</channel_id>
-			<epg_id>MS ANIMATED HD</epg_id>
+			<epg_id>mm:animated-ms</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1075.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Фобия HD</caption>
 			<channel_id>757</channel_id>
-			<epg_id>MM Фобия HD</epg_id>
+			<epg_id>mm:fobija-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1074.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Dizi</caption>
@@ -2189,7 +2386,7 @@
 		<tv_channel>
 			<caption>Мама</caption>
 			<channel_id>148</channel_id>
-			<epg_id>Мама</epg_id>
+			<epg_id>tvteam_:Мама</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/mama.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -2205,7 +2402,7 @@
 		<tv_channel>
 			<caption>Cartoonito</caption>
 			<channel_id>264</channel_id>
-			<epg_id>Cartoonito</epg_id>
+			<epg_id>tvteam_:Cartoonito</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/cartoonito сер.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -2213,7 +2410,7 @@
 		<tv_channel>
 			<caption>Cartoon Network</caption>
 			<channel_id>62</channel_id>
-			<epg_id>Cartoon Network</epg_id>
+			<epg_id>tvteam_:Cartoon Network</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/CARTOONNETW200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -2245,7 +2442,7 @@
 		<tv_channel>
 			<caption>Мультиландия</caption>
 			<channel_id>54</channel_id>
-			<epg_id>Мультиландия</epg_id>
+			<epg_id>tvteam_:Мультиландия</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MULTILANDIYA200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -2253,7 +2450,7 @@
 		<tv_channel>
 			<caption>Мульт</caption>
 			<channel_id>147</channel_id>
-			<epg_id>Мульт</epg_id>
+			<epg_id>tvteam_:Мульт HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MULT200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -2261,7 +2458,7 @@
 		<tv_channel>
 			<caption>Карусель</caption>
 			<channel_id>55</channel_id>
-			<epg_id>Карусель</epg_id>
+			<epg_id>tvteam_:Карусель</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/KARUSEL200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -2269,7 +2466,7 @@
 		<tv_channel>
 			<caption>TIJI</caption>
 			<channel_id>106</channel_id>
-			<epg_id>TIJI</epg_id>
+			<epg_id>tvteam_:TiJi</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/TIJI200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -2277,7 +2474,7 @@
 		<tv_channel>
 			<caption>Gulli Girl</caption>
 			<channel_id>93</channel_id>
-			<epg_id>Gulli Girl</epg_id>
+			<epg_id>tvteam_:Gulli Girl</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/GULLIGIRL200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -2285,7 +2482,7 @@
 		<tv_channel>
 			<caption>Уникум</caption>
 			<channel_id>65</channel_id>
-			<epg_id>Уникум</epg_id>
+			<epg_id>tvteam_:Уникум HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/UNIKUM200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -2293,7 +2490,7 @@
 		<tv_channel>
 			<caption>Мультимузыка</caption>
 			<channel_id>253</channel_id>
-			<epg_id>Мультимузыка</epg_id>
+			<epg_id>tvteam_:Мультимузыка</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MULTIMUZIKA200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -2301,7 +2498,7 @@
 		<tv_channel>
 			<caption>Мульт HD</caption>
 			<channel_id>211</channel_id>
-			<epg_id>Мульт HD</epg_id>
+			<epg_id>tvteam_:Мульт HD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MULT200.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>7</archive>
@@ -2317,26 +2514,23 @@
 		<tv_channel>
 			<caption>MM USSR Мультфильм HD</caption>
 			<channel_id>801</channel_id>
-			<epg_id>MM USSR Мультфильм HD</epg_id>
+			<epg_id>mm:mult-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1025.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Tom and Jerry HD</caption>
 			<channel_id>806</channel_id>
-			<epg_id>MM Tom and Jerry HD</epg_id>
+			<epg_id>mm:tom-and-jerry-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1018.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Walt Disney HD</caption>
 			<channel_id>810</channel_id>
-			<epg_id>MM Walt Disney HD</epg_id>
+			<epg_id>mm:walt-disney-mm</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/1028.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Лёва</caption>
@@ -2463,21 +2657,21 @@
 		<tv_channel>
 			<caption>HOME 4K</caption>
 			<channel_id>450</channel_id>
-			<epg_id>HOME 4K</epg_id>
+			<epg_id>tvteam_:Home 4K</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/HOME4K200.png</icon_url>
 			<tv_category_id>20</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Глазами Туриста 4K</caption>
 			<channel_id>452</channel_id>
-			<epg_id>Глазами Туриста 4K</epg_id>
+			<epg_id>tvteam_:Глазами туриста 4K</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Глазами туриста HD.png</icon_url>
 			<tv_category_id>20</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Museum 4K</caption>
 			<channel_id>453</channel_id>
-			<epg_id>Museum 4K</epg_id>
+			<epg_id>tvteam_:Museum UHD</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/MUSEUMHD200.png</icon_url>
 			<tv_category_id>20</tv_category_id>
 		</tv_channel>
@@ -2491,15 +2685,8 @@
 		<tv_channel>
 			<caption>Ultra REX 4K</caption>
 			<channel_id>455</channel_id>
-			<epg_id>Ultra REX 4K</epg_id>
+			<epg_id>tvteam_:Russian Extreme Ultra</epg_id>
 			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/Ultra REX.jpg</icon_url>
-			<tv_category_id>20</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Love Nature 4K</caption>
-			<channel_id>457</channel_id>
-			<epg_id>Love Nature 4K</epg_id>
-			<icon_url>http://stb.uspeh.sbs/images/logo_chanel/LOVENATURE4K200.png</icon_url>
 			<tv_category_id>20</tv_category_id>
 		</tv_channel>
 		<tv_channel>

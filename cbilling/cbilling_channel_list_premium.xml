@@ -427,6 +427,14 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Перец</caption>
+			<channel_id>perec</channel_id>
+			<epg_id>perec</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/perec.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Россия 24</caption>
 			<channel_id>rossija24</channel_id>
 			<epg_id>rossija24</epg_id>
@@ -1406,6 +1414,38 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Боевики HD</caption>
+			<channel_id>boeviki-hd</channel_id>
+			<epg_id>boeviki-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/boeviki-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>4ever Drama HD</caption>
+			<channel_id>4ever-drama-hd</channel_id>
+			<epg_id>4ever-drama-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/4ever-drama-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>4ever Theater HD</caption>
+			<channel_id>4ever-theater-hd</channel_id>
+			<epg_id>4ever-theater-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/4ever-theater-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Победа HD</caption>
+			<channel_id>pobeda-hd-orig</channel_id>
+			<epg_id>pobeda-hd-orig</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/pobeda-hd-orig.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>МАТЧ! Футбол 1 HD</caption>
 			<channel_id>match-futbol-1-hd-orig</channel_id>
 			<epg_id>match-futbol-1-hd-orig</epg_id>
@@ -1748,6 +1788,46 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>NHL Network HD</caption>
+			<channel_id>nhl-network-hd-us</channel_id>
+			<epg_id>nhl-network-hd-us</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/nhl-network-hd-us.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports Baltic 1 HD</caption>
+			<channel_id>setanta-sports-baltic-hd</channel_id>
+			<epg_id>setanta-sports-baltic-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/setanta-sports-baltic-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports Baltic 2 HD</caption>
+			<channel_id>setanta-sports2-baltic-hd</channel_id>
+			<epg_id>setanta-sports2-baltic-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/setanta-sports2-baltic-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MEGOGO Спорт HD</caption>
+			<channel_id>megogo-sport-ua-hd-orig</channel_id>
+			<epg_id>megogo-sport-ua-hd-orig</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/megogo-sport-ua-hd-orig.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Драйв HD</caption>
+			<channel_id>drive-hd</channel_id>
+			<epg_id>drive-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/drive-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Детский Мир HD</caption>
 			<channel_id>detskij-mir-hd</channel_id>
 			<epg_id>detskij-mir-hd</epg_id>
@@ -1915,15 +1995,6 @@
 			<epg_id>tiji</epg_id>
 			<tvg_id>tiji</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/tiji.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>JimJam</caption>
-			<channel_id>jimjam</channel_id>
-			<epg_id>jimjam</epg_id>
-			<tvg_id>jimjam</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/jimjam.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -2666,6 +2737,30 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>History HD</caption>
+			<channel_id>history-hd</channel_id>
+			<epg_id>history-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/history-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>History 2 HD</caption>
+			<channel_id>h2-hd</channel_id>
+			<epg_id>h2-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/h2-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Усадьба HD</caption>
+			<channel_id>usadba-hd</channel_id>
+			<epg_id>usadba-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/usadba-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>1HD</caption>
 			<channel_id>1hd</channel_id>
 			<epg_id>1hd</epg_id>
@@ -2979,6 +3074,27 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Муз-ТВ</caption>
+			<channel_id>muz-tv</channel_id>
+			<epg_id>muz-tv</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/muz-tv.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>One BY HD</caption>
+			<channel_id>one-by-hd</channel_id>
+			<epg_id>one-by-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/one-by-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>One by Russia HD</caption>
+			<channel_id>one-by-russia-hd</channel_id>
+			<epg_id>one-by-russia-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/one-by-russia-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Extasy 4k</caption>
 			<channel_id>extasy-4k</channel_id>
 			<epg_id>extasy-4k</epg_id>
@@ -3124,38 +3240,59 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Blue Hustler</caption>
-			<channel_id>blue-hustler</channel_id>
-			<epg_id>blue-hustler</epg_id>
-			<tvg_id>blue-hustler</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/blue-hustler.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Русская Ночь</caption>
-			<channel_id>ruskaja-noch</channel_id>
-			<epg_id>ruskaja-noch</epg_id>
-			<tvg_id>ruskaja-noch</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/ruskaja-noch.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Playboy TV</caption>
-			<channel_id>playboy-tv</channel_id>
-			<epg_id>playboy-tv</epg_id>
-			<tvg_id>playboy-tv</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/playboy-tv.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Dorcel TV HD</caption>
 			<channel_id>dorcel-tv-hd</channel_id>
 			<epg_id>dorcel-tv-hd</epg_id>
 			<tvg_id>dorcel-tv-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/dorcel-hd.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Extasy TV HD</caption>
+			<channel_id>extasy-tv-hd</channel_id>
+			<epg_id>extasy-tv-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/extasy-tv-hd.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vixen TV HD</caption>
+			<channel_id>vixen-tv-hd</channel_id>
+			<epg_id>vixen-tv-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/vixen-tv-hd.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Evil Angel HD</caption>
+			<channel_id>evil-angel-hd</channel_id>
+			<epg_id>evil-angel-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/evil-angel-hd.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Blue Hustler HD</caption>
+			<channel_id>blue-hustler-hd</channel_id>
+			<epg_id>blue-hustler-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/blue-hustler-hd.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русская Ночь HD</caption>
+			<channel_id>ruskaja-noch-hd</channel_id>
+			<epg_id>ruskaja-noch-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/ruskaja-noch-hd.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Playboy TV HD</caption>
+			<channel_id>playboy-tv-hd</channel_id>
+			<epg_id>playboy-tv-hd</epg_id>
+			<icon_url>http://static.g-cdn.app/streams/playboy-tv-hd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
