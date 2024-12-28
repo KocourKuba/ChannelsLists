@@ -66,19 +66,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -256,13 +256,22 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>СТС HD Double</caption>
+			<channel_id>ch391</channel_id>
+			<epg_id>ch391</epg_id>
+			<tvg_id>СТС HD Double</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/391.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>KZ: Кино Боевик HD</caption>
 			<channel_id>ch2309</channel_id>
 			<epg_id>ch2309</epg_id>
 			<tvg_id>KZ: Кино Боевик HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2309.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>4</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТВЦ</caption>
@@ -279,6 +288,15 @@
 			<epg_id>ch005</epg_id>
 			<tvg_id>ТНТ HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/5.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ HD Double</caption>
+			<channel_id>ch1950</channel_id>
+			<epg_id>ch1950</epg_id>
+			<tvg_id>ТНТ HD Double</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1950.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>6</archive>
 		</tv_channel>
@@ -441,6 +459,24 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>4ever Drama HD</caption>
+			<channel_id>ch384</channel_id>
+			<epg_id>ch384</epg_id>
+			<tvg_id>4ever Drama HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/384.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>4ever Theater HD</caption>
+			<channel_id>ch385</channel_id>
+			<epg_id>ch385</epg_id>
+			<tvg_id>4ever Theater HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/385.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>AMC</caption>
 			<channel_id>ch623</channel_id>
 			<epg_id>ch623</epg_id>
@@ -522,15 +558,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>BCU Comedy HDR</caption>
-			<channel_id>ch772</channel_id>
-			<epg_id>ch772</epg_id>
-			<tvg_id>BCU Comedy HDR</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/772.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>BCU Comedy HD</caption>
 			<channel_id>ch1000</channel_id>
 			<epg_id>ch1000</epg_id>
@@ -540,11 +567,11 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>BCU Cosmo HDR</caption>
-			<channel_id>ch1003</channel_id>
-			<epg_id>ch1003</epg_id>
-			<tvg_id>BCU Cosmo HDR</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1003.png</icon_url>
+			<caption>BCU Comedy HDR</caption>
+			<channel_id>ch772</channel_id>
+			<epg_id>ch772</epg_id>
+			<tvg_id>BCU Comedy HDR</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/772.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -554,6 +581,15 @@
 			<epg_id>ch1026</epg_id>
 			<tvg_id>BCU Cosmo HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1026.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Cosmo HDR</caption>
+			<channel_id>ch1003</channel_id>
+			<epg_id>ch1003</epg_id>
+			<tvg_id>BCU Cosmo HDR</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1003.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -572,6 +608,15 @@
 			<epg_id>ch773</epg_id>
 			<tvg_id>BCU Fantastic HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/773.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Fantastic HDR</caption>
+			<channel_id>ch2705</channel_id>
+			<epg_id>ch2705</epg_id>
+			<tvg_id>BCU Fantastic HDR</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2705.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -612,20 +657,20 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>BCU Marvel HDR</caption>
-			<channel_id>ch777</channel_id>
-			<epg_id>ch777</epg_id>
-			<tvg_id>BCU Marvel HDR</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/777.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>BCU Marvel HD</caption>
 			<channel_id>ch311</channel_id>
 			<epg_id>ch311</epg_id>
 			<tvg_id>BCU Marvel HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/311.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Marvel HDR</caption>
+			<channel_id>ch777</channel_id>
+			<epg_id>ch777</epg_id>
+			<tvg_id>BCU Marvel HDR</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/777.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -648,6 +693,60 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>BCU Premiere 1 HD</caption>
+			<channel_id>ch782</channel_id>
+			<epg_id>ch782</epg_id>
+			<tvg_id>BCU Premiere 1 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/782.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Premiere 1 HDR</caption>
+			<channel_id>ch2745</channel_id>
+			<epg_id>ch2745</epg_id>
+			<tvg_id>BCU Premiere 1 HDR</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2745.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Premiere 2 HD</caption>
+			<channel_id>ch783</channel_id>
+			<epg_id>ch783</epg_id>
+			<tvg_id>BCU Premiere 2 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/783.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Premiere 2 HDR</caption>
+			<channel_id>ch2746</channel_id>
+			<epg_id>ch2746</epg_id>
+			<tvg_id>BCU Premiere 2 HDR</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2746.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Premiere 3 HD</caption>
+			<channel_id>ch784</channel_id>
+			<epg_id>ch784</epg_id>
+			<tvg_id>BCU Premiere 3 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/784.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Premiere 3 HDR</caption>
+			<channel_id>ch2747</channel_id>
+			<epg_id>ch2747</epg_id>
+			<tvg_id>BCU Premiere 3 HDR</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2747.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>BCU Premiere HD</caption>
 			<channel_id>ch778</channel_id>
 			<epg_id>ch778</epg_id>
@@ -655,6 +754,15 @@
 			<icon_url>http://troya.one/images/chIcons/778.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Premiere HDR</caption>
+			<channel_id>ch2706</channel_id>
+			<epg_id>ch2706</epg_id>
+			<tvg_id>BCU Premiere HDR</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2706.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU RUSerial HD</caption>
@@ -675,6 +783,15 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>BCU Reality OLD HD</caption>
+			<channel_id>ch2743</channel_id>
+			<epg_id>ch2743</epg_id>
+			<tvg_id>BCU Reality OLD HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2743.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>BCU Romantic HD</caption>
 			<channel_id>ch779</channel_id>
 			<epg_id>ch779</epg_id>
@@ -689,6 +806,15 @@
 			<epg_id>ch1545</epg_id>
 			<tvg_id>BCU Romantic OLD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1545.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Russia 90s HD</caption>
+			<channel_id>ch2744</channel_id>
+			<epg_id>ch2744</epg_id>
+			<tvg_id>BCU Russia 90s HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2744.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -743,33 +869,6 @@
 			<epg_id>ch781</epg_id>
 			<tvg_id>BCU VHS HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/781.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>BCU Premiere 1 HD</caption>
-			<channel_id>ch782</channel_id>
-			<epg_id>ch782</epg_id>
-			<tvg_id>BCU Premiere 1 HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/782.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>BCU Premiere 2 HD</caption>
-			<channel_id>ch783</channel_id>
-			<epg_id>ch783</epg_id>
-			<tvg_id>BCU Premiere 2 HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/783.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>BCU Premiere 3 HD</caption>
-			<channel_id>ch784</channel_id>
-			<epg_id>ch784</epg_id>
-			<tvg_id>BCU Premiere 3 HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/784.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -948,6 +1047,96 @@
 			<epg_id>ch1036</epg_id>
 			<tvg_id>CineMan Ужасы</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1036.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Korean Music</caption>
+			<channel_id>ch128</channel_id>
+			<epg_id>ch128</epg_id>
+			<tvg_id>Clarity4K Korean Music</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/128.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Travel Blog</caption>
+			<channel_id>ch1166</channel_id>
+			<epg_id>ch1166</epg_id>
+			<tvg_id>Clarity4K Travel Blog</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1166.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Боевик VHS</caption>
+			<channel_id>ch451</channel_id>
+			<epg_id>ch451</epg_id>
+			<tvg_id>Clarity4K Боевик VHS</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/451.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Звериный Мир</caption>
+			<channel_id>ch1042</channel_id>
+			<epg_id>ch1042</epg_id>
+			<tvg_id>Clarity4K Звериный Мир</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1042.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Мультимир</caption>
+			<channel_id>ch1180</channel_id>
+			<epg_id>ch1180</epg_id>
+			<tvg_id>Clarity4K Мультимир</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1180.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Ужасы VHS</caption>
+			<channel_id>ch1187</channel_id>
+			<epg_id>ch1187</epg_id>
+			<tvg_id>Clarity4K Ужасы VHS</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1187.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4K Фэнтези</caption>
+			<channel_id>ch1196</channel_id>
+			<epg_id>ch1196</epg_id>
+			<tvg_id>Clarity4K Фэнтези</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1196.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k Galaxy Films</caption>
+			<channel_id>ch1272</channel_id>
+			<epg_id>ch1272</epg_id>
+			<tvg_id>Clarity4k Galaxy Films</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1272.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clarity4k Боевик</caption>
+			<channel_id>ch1179</channel_id>
+			<epg_id>ch1179</epg_id>
+			<tvg_id>Clarity4k Боевик</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1179.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Comedy Central</caption>
+			<channel_id>ch038</channel_id>
+			<epg_id>ch038</epg_id>
+			<tvg_id>Comedy Central</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/38.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>6</archive>
 		</tv_channel>
@@ -1154,6 +1343,15 @@
 			<epg_id>ch525</epg_id>
 			<tvg_id>Hollywood HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/525.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KION Хит HD</caption>
+			<channel_id>ch382</channel_id>
+			<epg_id>ch382</epg_id>
+			<tvg_id>KION Хит HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/382.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>6</archive>
 		</tv_channel>
@@ -1794,15 +1992,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Scream</caption>
-			<channel_id>ch470</channel_id>
-			<epg_id>ch470</epg_id>
-			<tvg_id>Scream</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/470.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Plan B HD</caption>
 			<channel_id>ch459</channel_id>
 			<epg_id>ch459</epg_id>
@@ -1812,94 +2001,13 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Clarity4K Боевик VHS</caption>
-			<channel_id>ch451</channel_id>
-			<epg_id>ch451</epg_id>
-			<tvg_id>Clarity4K Боевик VHS</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/451.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Clarity4k Боевик</caption>
-			<channel_id>ch1179</channel_id>
-			<epg_id>ch1179</epg_id>
-			<tvg_id>Clarity4k Боевик</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1179.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Clarity4k Galaxy Films</caption>
-			<channel_id>ch1272</channel_id>
-			<epg_id>ch1272</epg_id>
-			<tvg_id>Clarity4k Galaxy Films</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1272.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Clarity4K Korean Music</caption>
-			<channel_id>ch128</channel_id>
-			<epg_id>ch128</epg_id>
-			<tvg_id>Clarity4K Korean Music</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/128.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Clarity4K Мультимир</caption>
-			<channel_id>ch1180</channel_id>
-			<epg_id>ch1180</epg_id>
-			<tvg_id>Clarity4K Мультимир</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1180.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Clarity4K Ужасы VHS</caption>
-			<channel_id>ch1187</channel_id>
-			<epg_id>ch1187</epg_id>
-			<tvg_id>Clarity4K Ужасы VHS</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1187.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Clarity4K Звериный Мир</caption>
-			<channel_id>ch1042</channel_id>
-			<epg_id>ch1042</epg_id>
-			<tvg_id>Clarity4K Звериный Мир</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1042.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Yosso TV 4K HDR</caption>
-			<channel_id>ch496</channel_id>
-			<epg_id>ch496</epg_id>
-			<tvg_id>Yosso TV 4K HDR</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/496.png</icon_url>
+			<caption>Scream</caption>
+			<channel_id>ch470</channel_id>
+			<epg_id>ch470</epg_id>
+			<tvg_id>Scream</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/470.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Clarity4K Travel Blog</caption>
-			<channel_id>ch1166</channel_id>
-			<epg_id>ch1166</epg_id>
-			<tvg_id>Clarity4K Travel Blog</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1166.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Clarity4K Фэнтези</caption>
-			<channel_id>ch1196</channel_id>
-			<epg_id>ch1196</epg_id>
-			<tvg_id>Clarity4K Фэнтези</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1196.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Shot</caption>
@@ -1907,15 +2015,6 @@
 			<epg_id>ch712</epg_id>
 			<tvg_id>Shot</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/712.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UA: Star Cinema HD</caption>
-			<channel_id>ch557</channel_id>
-			<epg_id>ch557</epg_id>
-			<tvg_id>UA: Star Cinema HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/557.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>6</archive>
 		</tv_channel>
@@ -1986,42 +2085,6 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viju TV 1000 HD</caption>
-			<channel_id>ch017</channel_id>
-			<epg_id>ch017</epg_id>
-			<tvg_id>Viju TV 1000 HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/17.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viju TV 1000 Action HD</caption>
-			<channel_id>ch018</channel_id>
-			<epg_id>ch018</epg_id>
-			<tvg_id>Viju TV 1000 Action HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/18.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viasat Kino World HD</caption>
-			<channel_id>ch651</channel_id>
-			<epg_id>ch651</epg_id>
-			<tvg_id>Viasat Kino World HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/651.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viju TV 1000 Русское HD</caption>
-			<channel_id>ch013</channel_id>
-			<epg_id>ch013</epg_id>
-			<tvg_id>Viju TV 1000 Русское HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/13.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>TV XXI Век</caption>
 			<channel_id>ch469</channel_id>
 			<epg_id>ch469</epg_id>
@@ -2038,6 +2101,112 @@
 			<icon_url>http://troya.one/images/chIcons/730.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>UA: Star Cinema HD</caption>
+			<channel_id>ch557</channel_id>
+			<epg_id>ch557</epg_id>
+			<tvg_id>UA: Star Cinema HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/557.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VHS-ка HD</caption>
+			<channel_id>ch383</channel_id>
+			<epg_id>ch383</epg_id>
+			<tvg_id>VHS-ка HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/383.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino Action HD</caption>
+			<channel_id>ch3079</channel_id>
+			<epg_id>ch3079</epg_id>
+			<tvg_id>Viasat Kino Action HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3079.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino Comedy HD</caption>
+			<channel_id>ch3080</channel_id>
+			<epg_id>ch3080</epg_id>
+			<tvg_id>Viasat Kino Comedy HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3080.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino HD</caption>
+			<channel_id>ch3081</channel_id>
+			<epg_id>ch3081</epg_id>
+			<tvg_id>Viasat Kino HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3081.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino Megahit HD</caption>
+			<channel_id>ch3082</channel_id>
+			<epg_id>ch3082</epg_id>
+			<tvg_id>Viasat Kino Megahit HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3082.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino World HD</caption>
+			<channel_id>ch651</channel_id>
+			<epg_id>ch651</epg_id>
+			<tvg_id>Viasat Kino World HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/651.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV 1000 Action HD</caption>
+			<channel_id>ch018</channel_id>
+			<epg_id>ch018</epg_id>
+			<tvg_id>Viju TV 1000 Action HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/18.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV 1000 HD</caption>
+			<channel_id>ch017</channel_id>
+			<epg_id>ch017</epg_id>
+			<tvg_id>Viju TV 1000 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/17.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV 1000 Русское HD</caption>
+			<channel_id>ch013</channel_id>
+			<epg_id>ch013</epg_id>
+			<tvg_id>Viju TV 1000 Русское HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/13.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 Romantica HD</caption>
+			<channel_id>ch3074</channel_id>
+			<epg_id>ch3074</epg_id>
+			<tvg_id>Viju TV1000 Romantica HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3074.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 Новелла HD</caption>
+			<channel_id>ch3075</channel_id>
+			<epg_id>ch3075</epg_id>
+			<tvg_id>Viju TV1000 Новелла HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3075.png</icon_url>
+			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Viju+ Comedy HD</caption>
@@ -2072,6 +2241,15 @@
 			<epg_id>ch701</epg_id>
 			<tvg_id>Viju+ Serial HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/701.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Yosso TV 4K HDR</caption>
+			<channel_id>ch496</channel_id>
+			<epg_id>ch496</epg_id>
+			<tvg_id>Yosso TV 4K HDR</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/496.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>6</archive>
 		</tv_channel>
@@ -2172,7 +2350,7 @@
 			<tvg_id>Yosso TV Sexy</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1302.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -2779,56 +2957,20 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Comedy Central</caption>
-			<channel_id>ch038</channel_id>
-			<epg_id>ch038</epg_id>
-			<tvg_id>Comedy Central</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/38.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KION Хит HD</caption>
-			<channel_id>ch382</channel_id>
-			<epg_id>ch382</epg_id>
-			<tvg_id>KION Хит HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/382.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>VHS-ка HD</caption>
-			<channel_id>ch383</channel_id>
-			<epg_id>ch383</epg_id>
-			<tvg_id>VHS-ка HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/383.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>4ever Drama HD</caption>
-			<channel_id>ch384</channel_id>
-			<epg_id>ch384</epg_id>
-			<tvg_id>4ever Drama HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/384.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>4ever Theater HD</caption>
-			<channel_id>ch385</channel_id>
-			<epg_id>ch385</epg_id>
-			<tvg_id>4ever Theater HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/385.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>BOX Anime HD</caption>
 			<channel_id>ch2281</channel_id>
 			<epg_id>ch2281</epg_id>
 			<tvg_id>BOX Anime HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2281.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Apocalypse HD</caption>
+			<channel_id>ch2607</channel_id>
+			<epg_id>ch2607</epg_id>
+			<tvg_id>BOX Apocalypse HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2607.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>6</archive>
 		</tv_channel>
@@ -2847,6 +2989,15 @@
 			<epg_id>ch2287</epg_id>
 			<tvg_id>BOX Fantasy HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2287.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Franchise HD</caption>
+			<channel_id>ch3056</channel_id>
+			<epg_id>ch3056</epg_id>
+			<tvg_id>BOX Franchise HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3056.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>6</archive>
 		</tv_channel>
@@ -2905,6 +3056,15 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>BOX Sitcom HD</caption>
+			<channel_id>ch401</channel_id>
+			<epg_id>ch401</epg_id>
+			<tvg_id>BOX Sitcom HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/401.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>BOX Spy HD</caption>
 			<channel_id>ch2302</channel_id>
 			<epg_id>ch2302</epg_id>
@@ -2948,6 +3108,253 @@
 			<icon_url>http://troya.one/images/chIcons/2142.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Комедийные сериалы</caption>
+			<channel_id>ch2925</channel_id>
+			<epg_id>ch2925</epg_id>
+			<tvg_id>CineMan Комедийные сериалы</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2925.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Криминальные Сериалы</caption>
+			<channel_id>ch2748</channel_id>
+			<epg_id>ch2748</epg_id>
+			<tvg_id>CineMan Криминальные Сериалы</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2748.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cobra Comedy HD</caption>
+			<channel_id>ch2854</channel_id>
+			<epg_id>ch2854</epg_id>
+			<tvg_id>Cobra Comedy HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2854.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cobra Detektiv HD</caption>
+			<channel_id>ch2850</channel_id>
+			<epg_id>ch2850</epg_id>
+			<tvg_id>Cobra Detektiv HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2850.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cobra Drama HD</caption>
+			<channel_id>ch2852</channel_id>
+			<epg_id>ch2852</epg_id>
+			<tvg_id>Cobra Drama HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2852.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cobra Melodrama HD</caption>
+			<channel_id>ch2853</channel_id>
+			<epg_id>ch2853</epg_id>
+			<tvg_id>Cobra Melodrama HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2853.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cobra Thriller HD</caption>
+			<channel_id>ch2851</channel_id>
+			<epg_id>ch2851</epg_id>
+			<tvg_id>Cobra Thriller HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2851.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Comics HD</caption>
+			<channel_id>ch2837</channel_id>
+			<epg_id>ch2837</epg_id>
+			<tvg_id>KBC-Comics HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2837.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Elite comedys HD</caption>
+			<channel_id>ch2831</channel_id>
+			<epg_id>ch2831</epg_id>
+			<tvg_id>KBC-Elite comedys HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2831.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Family Animation HD</caption>
+			<channel_id>ch2832</channel_id>
+			<epg_id>ch2832</epg_id>
+			<tvg_id>KBC-Family Animation HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2832.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Fantastic HD</caption>
+			<channel_id>ch2840</channel_id>
+			<epg_id>ch2840</epg_id>
+			<tvg_id>KBC-Fantastic HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2840.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-History HD</caption>
+			<channel_id>ch2839</channel_id>
+			<epg_id>ch2839</epg_id>
+			<tvg_id>KBC-History HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2839.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-MusKino HD</caption>
+			<channel_id>ch2846</channel_id>
+			<epg_id>ch2846</epg_id>
+			<tvg_id>KBC-MusKino HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2846.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Newfilm HD</caption>
+			<channel_id>ch2842</channel_id>
+			<epg_id>ch2842</epg_id>
+			<tvg_id>KBC-Newfilm HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2842.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Russian Комедия HD</caption>
+			<channel_id>ch2833</channel_id>
+			<epg_id>ch2833</epg_id>
+			<tvg_id>KBC-Russian Комедия HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2833.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-WAR HD</caption>
+			<channel_id>ch2845</channel_id>
+			<epg_id>ch2845</epg_id>
+			<tvg_id>KBC-WAR HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2845.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Аниме HD</caption>
+			<channel_id>ch2838</channel_id>
+			<epg_id>ch2838</epg_id>
+			<tvg_id>KBC-Аниме HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2838.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-В.О.В. HD</caption>
+			<channel_id>ch2834</channel_id>
+			<epg_id>ch2834</epg_id>
+			<tvg_id>KBC-В.О.В. HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2834.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Вестерн HD</caption>
+			<channel_id>ch2844</channel_id>
+			<epg_id>ch2844</epg_id>
+			<tvg_id>KBC-Вестерн HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2844.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Видак HD</caption>
+			<channel_id>ch2827</channel_id>
+			<epg_id>ch2827</epg_id>
+			<tvg_id>KBC-Видак HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2827.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-ГАЙ Ritchie and Tarantino HD</caption>
+			<channel_id>ch2841</channel_id>
+			<epg_id>ch2841</epg_id>
+			<tvg_id>KBC-ГАЙ Ritchie and Tarantino HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2841.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Гоблин HD</caption>
+			<channel_id>ch2843</channel_id>
+			<epg_id>ch2843</epg_id>
+			<tvg_id>KBC-Гоблин HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2843.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-ДрамаTic HD</caption>
+			<channel_id>ch2828</channel_id>
+			<epg_id>ch2828</epg_id>
+			<tvg_id>KBC-ДрамаTic HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2828.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Кошмарное HD</caption>
+			<channel_id>ch2826</channel_id>
+			<epg_id>ch2826</epg_id>
+			<tvg_id>KBC-Кошмарное HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2826.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Легендарное HD</caption>
+			<channel_id>ch2825</channel_id>
+			<epg_id>ch2825</epg_id>
+			<tvg_id>KBC-Легендарное HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2825.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-СпортМикс HD</caption>
+			<channel_id>ch2848</channel_id>
+			<epg_id>ch2848</epg_id>
+			<tvg_id>KBC-СпортМикс HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2848.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Страна СССР HD</caption>
+			<channel_id>ch2835</channel_id>
+			<epg_id>ch2835</epg_id>
+			<tvg_id>KBC-Страна СССР HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2835.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Шпионское HD</caption>
+			<channel_id>ch2836</channel_id>
+			<epg_id>ch2836</epg_id>
+			<tvg_id>KBC-Шпионское HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2836.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>KLI Action HD</caption>
@@ -3013,6 +3420,15 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>KLI Franchise HD</caption>
+			<channel_id>ch2703</channel_id>
+			<epg_id>ch2703</epg_id>
+			<tvg_id>KLI Franchise HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2703.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>KLI History HD</caption>
 			<channel_id>ch2269</channel_id>
 			<epg_id>ch2269</epg_id>
@@ -3040,11 +3456,38 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>KLI Marvel HD</caption>
+			<channel_id>ch2463</channel_id>
+			<epg_id>ch2463</epg_id>
+			<tvg_id>KLI Marvel HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2463.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Netflix HD</caption>
+			<channel_id>ch2461</channel_id>
+			<epg_id>ch2461</epg_id>
+			<tvg_id>KLI Netflix HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2461.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>KLI Premium HD</caption>
 			<channel_id>ch2266</channel_id>
 			<epg_id>ch2266</epg_id>
 			<tvg_id>KLI Premium HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2266.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Relax HD</caption>
+			<channel_id>ch2704</channel_id>
+			<epg_id>ch2704</epg_id>
+			<tvg_id>KLI Relax HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2704.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -3085,24 +3528,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Netflix HD</caption>
-			<channel_id>ch2461</channel_id>
-			<epg_id>ch2461</epg_id>
-			<tvg_id>KLI Netflix HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2461.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Marvel HD</caption>
-			<channel_id>ch2463</channel_id>
-			<epg_id>ch2463</epg_id>
-			<tvg_id>KLI Marvel HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2463.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>KLI Новинки HD</caption>
 			<channel_id>ch2464</channel_id>
 			<epg_id>ch2464</epg_id>
@@ -3110,6 +3535,149 @@
 			<icon_url>http://troya.one/images/chIcons/2464.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Однажды в России HD</caption>
+			<channel_id>ch3076</channel_id>
+			<epg_id>ch3076</epg_id>
+			<tvg_id>KLI Однажды в России HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3076.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Сериал HD</caption>
+			<channel_id>ch2932</channel_id>
+			<epg_id>ch2932</epg_id>
+			<tvg_id>KLI Сериал HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2932.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty DC FHD</caption>
+			<channel_id>ch1741</channel_id>
+			<epg_id>ch1741</epg_id>
+			<tvg_id>Liberty DC FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1741.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Fan FHD</caption>
+			<channel_id>ch1574</channel_id>
+			<epg_id>ch1574</epg_id>
+			<tvg_id>Liberty Fan FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1574.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Plankton FHD</caption>
+			<channel_id>ch2341</channel_id>
+			<epg_id>ch2341</epg_id>
+			<tvg_id>Liberty Plankton FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2341.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Аниме FHD</caption>
+			<channel_id>ch1761</channel_id>
+			<epg_id>ch1761</epg_id>
+			<tvg_id>Liberty Аниме FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1761.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Боевики FHD</caption>
+			<channel_id>ch1749</channel_id>
+			<epg_id>ch1749</epg_id>
+			<tvg_id>Liberty Боевики FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1749.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Занавес FHD</caption>
+			<channel_id>ch1760</channel_id>
+			<epg_id>ch1760</epg_id>
+			<tvg_id>Liberty Занавес FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1760.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Комедии FHD</caption>
+			<channel_id>ch1754</channel_id>
+			<epg_id>ch1754</epg_id>
+			<tvg_id>Liberty Комедии FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1754.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Короткометражный FHD</caption>
+			<channel_id>ch1745</channel_id>
+			<epg_id>ch1745</epg_id>
+			<tvg_id>Liberty Короткометражный FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1745.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Мелодрамы FHD</caption>
+			<channel_id>ch1748</channel_id>
+			<epg_id>ch1748</epg_id>
+			<tvg_id>Liberty Мелодрамы FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1748.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Сваты FHD</caption>
+			<channel_id>ch1752</channel_id>
+			<epg_id>ch1752</epg_id>
+			<tvg_id>Liberty Сваты FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1752.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Сериалы FHD</caption>
+			<channel_id>ch1755</channel_id>
+			<epg_id>ch1755</epg_id>
+			<tvg_id>Liberty Сериалы FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1755.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Шоу FHD</caption>
+			<channel_id>ch1762</channel_id>
+			<epg_id>ch1762</epg_id>
+			<tvg_id>Liberty Шоу FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1762.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MM Кинофестиваль HD</caption>
+			<channel_id>ch2501</channel_id>
+			<epg_id>ch2501</epg_id>
+			<tvg_id>MM Кинофестиваль HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2501.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MS Magic HD</caption>
+			<channel_id>ch3038</channel_id>
+			<epg_id>ch3038</epg_id>
+			<tvg_id>MS Magic HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3038.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Magic Adventure</caption>
@@ -3126,6 +3694,456 @@
 			<epg_id>ch992</epg_id>
 			<tvg_id>Magic Russian</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/992.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Action</caption>
+			<channel_id>ch2510</channel_id>
+			<epg_id>ch2510</epg_id>
+			<tvg_id>Oasis Action</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2510.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Alien and Predator</caption>
+			<channel_id>ch2647</channel_id>
+			<epg_id>ch2647</epg_id>
+			<tvg_id>Oasis Alien and Predator</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2647.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Anime</caption>
+			<channel_id>ch2649</channel_id>
+			<epg_id>ch2649</epg_id>
+			<tvg_id>Oasis Anime</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2649.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Biography</caption>
+			<channel_id>ch2650</channel_id>
+			<epg_id>ch2650</epg_id>
+			<tvg_id>Oasis Biography</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2650.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Celentano Brando Connery</caption>
+			<channel_id>ch2652</channel_id>
+			<epg_id>ch2652</epg_id>
+			<tvg_id>Oasis Celentano Brando Connery</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2652.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Comedy</caption>
+			<channel_id>ch2653</channel_id>
+			<epg_id>ch2653</epg_id>
+			<tvg_id>Oasis Comedy</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2653.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Comedy Horrors</caption>
+			<channel_id>ch2654</channel_id>
+			<epg_id>ch2654</epg_id>
+			<tvg_id>Oasis Comedy Horrors</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2654.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis DC</caption>
+			<channel_id>ch2655</channel_id>
+			<epg_id>ch2655</epg_id>
+			<tvg_id>Oasis DC</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2655.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Demon Slayer and Dororo</caption>
+			<channel_id>ch2656</channel_id>
+			<epg_id>ch2656</epg_id>
+			<tvg_id>Oasis Demon Slayer and Dororo</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2656.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Detective</caption>
+			<channel_id>ch2657</channel_id>
+			<epg_id>ch2657</epg_id>
+			<tvg_id>Oasis Detective</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2657.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Drama</caption>
+			<channel_id>ch2660</channel_id>
+			<epg_id>ch2660</epg_id>
+			<tvg_id>Oasis Drama</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2660.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Family</caption>
+			<channel_id>ch2662</channel_id>
+			<epg_id>ch2662</epg_id>
+			<tvg_id>Oasis Family</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2662.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Horror</caption>
+			<channel_id>ch2666</channel_id>
+			<epg_id>ch2666</epg_id>
+			<tvg_id>Oasis Horror</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2666.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis In English</caption>
+			<channel_id>ch1443</channel_id>
+			<epg_id>ch1443</epg_id>
+			<tvg_id>Oasis In English</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1443.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Mafia</caption>
+			<channel_id>ch2674</channel_id>
+			<epg_id>ch2674</epg_id>
+			<tvg_id>Oasis Mafia</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2674.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Marvel</caption>
+			<channel_id>ch2675</channel_id>
+			<epg_id>ch2675</epg_id>
+			<tvg_id>Oasis Marvel</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2675.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Old Horrors</caption>
+			<channel_id>ch2678</channel_id>
+			<epg_id>ch2678</epg_id>
+			<tvg_id>Oasis Old Horrors</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2678.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis RUS Драма</caption>
+			<channel_id>ch2682</channel_id>
+			<epg_id>ch2682</epg_id>
+			<tvg_id>Oasis RUS Драма</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2682.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis RUS Комедии</caption>
+			<channel_id>ch2681</channel_id>
+			<epg_id>ch2681</epg_id>
+			<tvg_id>Oasis RUS Комедии</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2681.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis RUS Сериалы</caption>
+			<channel_id>ch2684</channel_id>
+			<epg_id>ch2684</epg_id>
+			<tvg_id>Oasis RUS Сериалы</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2684.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis RUS Сериалы Драма</caption>
+			<channel_id>ch2685</channel_id>
+			<epg_id>ch2685</epg_id>
+			<tvg_id>Oasis RUS Сериалы Драма</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2685.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Serkan Bolat</caption>
+			<channel_id>ch2686</channel_id>
+			<epg_id>ch2686</epg_id>
+			<tvg_id>Oasis Serkan Bolat</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2686.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Soviet Comedy</caption>
+			<channel_id>ch2688</channel_id>
+			<epg_id>ch2688</epg_id>
+			<tvg_id>Oasis Soviet Comedy</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2688.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Superheroes Сериалы</caption>
+			<channel_id>ch2690</channel_id>
+			<epg_id>ch2690</epg_id>
+			<tvg_id>Oasis Superheroes Сериалы</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2690.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis UK Series</caption>
+			<channel_id>ch2918</channel_id>
+			<epg_id>ch2918</epg_id>
+			<tvg_id>Oasis UK Series</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2918.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis USA Series</caption>
+			<channel_id>ch2694</channel_id>
+			<epg_id>ch2694</epg_id>
+			<tvg_id>Oasis USA Series</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2694.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Ufo And Aliens</caption>
+			<channel_id>ch1442</channel_id>
+			<epg_id>ch1442</epg_id>
+			<tvg_id>Oasis Ufo And Aliens</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1442.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Доктор Кто</caption>
+			<channel_id>ch2920</channel_id>
+			<epg_id>ch2920</epg_id>
+			<tvg_id>Oasis Доктор Кто</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2920.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Корейские Сериалы</caption>
+			<channel_id>ch2667</channel_id>
+			<epg_id>ch2667</epg_id>
+			<tvg_id>Oasis Корейские Сериалы</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2667.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Кухня Отель</caption>
+			<channel_id>ch2668</channel_id>
+			<epg_id>ch2668</epg_id>
+			<tvg_id>Oasis Кухня Отель</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2668.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Латиноамериканские Сериалы</caption>
+			<channel_id>ch2669</channel_id>
+			<epg_id>ch2669</epg_id>
+			<tvg_id>Oasis Латиноамериканские Сериалы</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2669.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Мелодрама</caption>
+			<channel_id>ch2676</channel_id>
+			<epg_id>ch2676</epg_id>
+			<tvg_id>Oasis Мелодрама</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2676.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Миядзаки</caption>
+			<channel_id>ch2677</channel_id>
+			<epg_id>ch2677</epg_id>
+			<tvg_id>Oasis Миядзаки</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2677.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Саша Таня</caption>
+			<channel_id>ch2921</channel_id>
+			<epg_id>ch2921</epg_id>
+			<tvg_id>Oasis Саша Таня</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2921.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Тайны Смолвиля</caption>
+			<channel_id>ch2687</channel_id>
+			<epg_id>ch2687</epg_id>
+			<tvg_id>Oasis Тайны Смолвиля</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2687.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Фантастика</caption>
+			<channel_id>ch2663</channel_id>
+			<epg_id>ch2663</epg_id>
+			<tvg_id>Oasis Фантастика</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2663.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Чечня и Афган</caption>
+			<channel_id>ch2919</channel_id>
+			<epg_id>ch2919</epg_id>
+			<tvg_id>Oasis Чечня и Афган</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2919.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Cinema 60 FPS</caption>
+			<channel_id>ch2860</channel_id>
+			<epg_id>ch2860</epg_id>
+			<tvg_id>Prokop TV Cinema 60 FPS</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2860.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Cinema Best HD</caption>
+			<channel_id>ch2880</channel_id>
+			<epg_id>ch2880</epg_id>
+			<tvg_id>Prokop TV Cinema Best HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2880.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Comedy HD</caption>
+			<channel_id>ch2874</channel_id>
+			<epg_id>ch2874</epg_id>
+			<tvg_id>Prokop TV Comedy HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2874.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Criminal HD</caption>
+			<channel_id>ch2866</channel_id>
+			<epg_id>ch2866</epg_id>
+			<tvg_id>Prokop TV Criminal HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2866.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Detektiv HD</caption>
+			<channel_id>ch2857</channel_id>
+			<epg_id>ch2857</epg_id>
+			<tvg_id>Prokop TV Detektiv HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2857.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Fantazy HD</caption>
+			<channel_id>ch2869</channel_id>
+			<epg_id>ch2869</epg_id>
+			<tvg_id>Prokop TV Fantazy HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2869.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV History HD</caption>
+			<channel_id>ch2868</channel_id>
+			<epg_id>ch2868</epg_id>
+			<tvg_id>Prokop TV History HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2868.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Horror HD</caption>
+			<channel_id>ch2870</channel_id>
+			<epg_id>ch2870</epg_id>
+			<tvg_id>Prokop TV Horror HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2870.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Kung Fu</caption>
+			<channel_id>ch2876</channel_id>
+			<epg_id>ch2876</epg_id>
+			<tvg_id>Prokop TV Kung Fu</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2876.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Netflix HD</caption>
+			<channel_id>ch2872</channel_id>
+			<epg_id>ch2872</epg_id>
+			<tvg_id>Prokop TV Netflix HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2872.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV New Films HD</caption>
+			<channel_id>ch2875</channel_id>
+			<epg_id>ch2875</epg_id>
+			<tvg_id>Prokop TV New Films HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2875.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Serial HD</caption>
+			<channel_id>ch2871</channel_id>
+			<epg_id>ch2871</epg_id>
+			<tvg_id>Prokop TV Serial HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2871.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Вторая Мировая</caption>
+			<channel_id>ch2862</channel_id>
+			<epg_id>ch2862</epg_id>
+			<tvg_id>Prokop TV Вторая Мировая</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2862.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3153,15 +4171,6 @@
 			<epg_id>ch1962</epg_id>
 			<tvg_id>Sky High Epoch HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1962.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sky High Noir HD</caption>
-			<channel_id>ch1973</channel_id>
-			<epg_id>ch1973</epg_id>
-			<tvg_id>Sky High Noir HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1973.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>6</archive>
 		</tv_channel>
@@ -3207,6 +4216,33 @@
 			<epg_id>ch1964</epg_id>
 			<tvg_id>Sky High Man HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1964.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Mix 4K</caption>
+			<channel_id>ch1971</channel_id>
+			<epg_id>ch1971</epg_id>
+			<tvg_id>Sky High Mix 4K</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1971.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Noir HD</caption>
+			<channel_id>ch1973</channel_id>
+			<epg_id>ch1973</epg_id>
+			<tvg_id>Sky High Noir HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1973.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Orig HD</caption>
+			<channel_id>ch1976</channel_id>
+			<epg_id>ch1976</epg_id>
+			<tvg_id>Sky High Orig HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1976.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>6</archive>
 		</tv_channel>
@@ -3265,227 +4301,47 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Yosso TV Мелодрама</caption>
-			<channel_id>ch2062</channel_id>
-			<epg_id>ch2062</epg_id>
-			<tvg_id>Yosso TV Мелодрама</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2062.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Yosso TV Netflix</caption>
-			<channel_id>ch2455</channel_id>
-			<epg_id>ch2455</epg_id>
-			<tvg_id>Yosso TV Netflix</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2455.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Yosso TV Best 60fps</caption>
-			<channel_id>ch2457</channel_id>
-			<epg_id>ch2457</epg_id>
-			<tvg_id>Yosso TV Best 60fps</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2457.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MM Кинофестиваль HD</caption>
-			<channel_id>ch2501</channel_id>
-			<epg_id>ch2501</epg_id>
-			<tvg_id>MM Кинофестиваль HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2501.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty DC FHD</caption>
-			<channel_id>ch1741</channel_id>
-			<epg_id>ch1741</epg_id>
-			<tvg_id>Liberty DC FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1741.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Короткометражный FHD</caption>
-			<channel_id>ch1745</channel_id>
-			<epg_id>ch1745</epg_id>
-			<tvg_id>Liberty Короткометражный FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1745.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Мелодрамы FHD</caption>
-			<channel_id>ch1748</channel_id>
-			<epg_id>ch1748</epg_id>
-			<tvg_id>Liberty Мелодрамы FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1748.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Боевики FHD</caption>
-			<channel_id>ch1749</channel_id>
-			<epg_id>ch1749</epg_id>
-			<tvg_id>Liberty Боевики FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1749.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Сваты FHD</caption>
-			<channel_id>ch1752</channel_id>
-			<epg_id>ch1752</epg_id>
-			<tvg_id>Liberty Сваты FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1752.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Комедии FHD</caption>
-			<channel_id>ch1754</channel_id>
-			<epg_id>ch1754</epg_id>
-			<tvg_id>Liberty Комедии FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1754.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Сериалы FHD</caption>
-			<channel_id>ch1755</channel_id>
-			<epg_id>ch1755</epg_id>
-			<tvg_id>Liberty Сериалы FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1755.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Занавес FHD</caption>
-			<channel_id>ch1760</channel_id>
-			<epg_id>ch1760</epg_id>
-			<tvg_id>Liberty Занавес FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1760.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Аниме FHD</caption>
-			<channel_id>ch1761</channel_id>
-			<epg_id>ch1761</epg_id>
-			<tvg_id>Liberty Аниме FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1761.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Шоу FHD</caption>
-			<channel_id>ch1762</channel_id>
-			<epg_id>ch1762</epg_id>
-			<tvg_id>Liberty Шоу FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1762.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Fan FHD</caption>
-			<channel_id>ch1574</channel_id>
-			<epg_id>ch1574</epg_id>
-			<tvg_id>Liberty Fan FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1574.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Plankton FHD</caption>
-			<channel_id>ch2341</channel_id>
-			<epg_id>ch2341</epg_id>
-			<tvg_id>Liberty Plankton FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2341.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sky High Mix 4K</caption>
-			<channel_id>ch1971</channel_id>
-			<epg_id>ch1971</epg_id>
-			<tvg_id>Sky High Mix 4K</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1971.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sky High Orig HD</caption>
-			<channel_id>ch1976</channel_id>
-			<epg_id>ch1976</epg_id>
-			<tvg_id>Sky High Orig HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1976.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>BCU Reality OLD HD</caption>
-			<channel_id>ch2743</channel_id>
-			<epg_id>ch2743</epg_id>
-			<tvg_id>BCU Reality OLD HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2743.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>BCU Russia 90s HD</caption>
-			<channel_id>ch2744</channel_id>
-			<epg_id>ch2744</epg_id>
-			<tvg_id>BCU Russia 90s HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2744.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>CineMan Криминальные Сериалы</caption>
-			<channel_id>ch2748</channel_id>
-			<epg_id>ch2748</epg_id>
-			<tvg_id>CineMan Криминальные Сериалы</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2748.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Franchise HD</caption>
-			<channel_id>ch2703</channel_id>
-			<epg_id>ch2703</epg_id>
-			<tvg_id>KLI Franchise HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2703.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Relax HD</caption>
-			<channel_id>ch2704</channel_id>
-			<epg_id>ch2704</epg_id>
-			<tvg_id>KLI Relax HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2704.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>BOX Apocalypse HD</caption>
-			<channel_id>ch2607</channel_id>
-			<epg_id>ch2607</epg_id>
-			<tvg_id>BOX Apocalypse HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2607.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>VeleS 60FPS</caption>
 			<channel_id>ch2591</channel_id>
 			<epg_id>ch2591</epg_id>
 			<tvg_id>VeleS 60FPS</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2591.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Movie Hits</caption>
+			<channel_id>ch2598</channel_id>
+			<epg_id>ch2598</epg_id>
+			<tvg_id>VeleS Movie Hits</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2598.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Premiere</caption>
+			<channel_id>ch2595</channel_id>
+			<epg_id>ch2595</epg_id>
+			<tvg_id>VeleS Premiere</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2595.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Аниме</caption>
+			<channel_id>ch2612</channel_id>
+			<epg_id>ch2612</epg_id>
+			<tvg_id>VeleS Аниме</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2612.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Вестерн</caption>
+			<channel_id>ch2801</channel_id>
+			<epg_id>ch2801</epg_id>
+			<tvg_id>VeleS Вестерн</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2801.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3508,20 +4364,11 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VeleS Premiere</caption>
-			<channel_id>ch2595</channel_id>
-			<epg_id>ch2595</epg_id>
-			<tvg_id>VeleS Premiere</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2595.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>VeleS Страшное</caption>
-			<channel_id>ch2596</channel_id>
-			<epg_id>ch2596</epg_id>
-			<tvg_id>VeleS Страшное</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2596.png</icon_url>
+			<caption>VeleS Наше Кино</caption>
+			<channel_id>ch2802</channel_id>
+			<epg_id>ch2802</epg_id>
+			<tvg_id>VeleS Наше Кино</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2802.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3535,29 +4382,20 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VeleS Movie Hits</caption>
-			<channel_id>ch2598</channel_id>
-			<epg_id>ch2598</epg_id>
-			<tvg_id>VeleS Movie Hits</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2598.png</icon_url>
+			<caption>VeleS Семейный</caption>
+			<channel_id>ch2800</channel_id>
+			<epg_id>ch2800</epg_id>
+			<tvg_id>VeleS Семейный</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2800.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Veles Криминальный</caption>
-			<channel_id>ch2696</channel_id>
-			<epg_id>ch2696</epg_id>
-			<tvg_id>Veles Криминальный</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2696.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>VeleS Аниме</caption>
-			<channel_id>ch2612</channel_id>
-			<epg_id>ch2612</epg_id>
-			<tvg_id>VeleS Аниме</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2612.png</icon_url>
+			<caption>VeleS Страшное</caption>
+			<channel_id>ch2596</channel_id>
+			<epg_id>ch2596</epg_id>
+			<tvg_id>VeleS Страшное</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2596.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3571,674 +4409,58 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VeleS Семейный</caption>
-			<channel_id>ch2800</channel_id>
-			<epg_id>ch2800</epg_id>
-			<tvg_id>VeleS Семейный</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2800.png</icon_url>
+			<caption>Veles Криминальный</caption>
+			<channel_id>ch2696</channel_id>
+			<epg_id>ch2696</epg_id>
+			<tvg_id>Veles Криминальный</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2696.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VeleS Вестерн</caption>
-			<channel_id>ch2801</channel_id>
-			<epg_id>ch2801</epg_id>
-			<tvg_id>VeleS Вестерн</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2801.png</icon_url>
+			<caption>Veles Новогодний</caption>
+			<channel_id>ch3078</channel_id>
+			<epg_id>ch3078</epg_id>
+			<tvg_id>Veles Новогодний</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3078.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>VeleS Наше Кино</caption>
-			<channel_id>ch2802</channel_id>
-			<epg_id>ch2802</epg_id>
-			<tvg_id>VeleS Наше Кино</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2802.png</icon_url>
+			<caption>Yosso TV Best 60fps</caption>
+			<channel_id>ch2457</channel_id>
+			<epg_id>ch2457</epg_id>
+			<tvg_id>Yosso TV Best 60fps</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2457.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Легендарное HD</caption>
-			<channel_id>ch2825</channel_id>
-			<epg_id>ch2825</epg_id>
-			<tvg_id>KBC-Легендарное HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2825.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Кошмарное HD</caption>
-			<channel_id>ch2826</channel_id>
-			<epg_id>ch2826</epg_id>
-			<tvg_id>KBC-Кошмарное HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2826.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Видак HD</caption>
-			<channel_id>ch2827</channel_id>
-			<epg_id>ch2827</epg_id>
-			<tvg_id>KBC-Видак HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2827.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-ДрамаTic HD</caption>
-			<channel_id>ch2828</channel_id>
-			<epg_id>ch2828</epg_id>
-			<tvg_id>KBC-ДрамаTic HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2828.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Elite comedys HD</caption>
-			<channel_id>ch2831</channel_id>
-			<epg_id>ch2831</epg_id>
-			<tvg_id>KBC-Elite comedys HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2831.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Family Animation HD</caption>
-			<channel_id>ch2832</channel_id>
-			<epg_id>ch2832</epg_id>
-			<tvg_id>KBC-Family Animation HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2832.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Russian Комедия HD</caption>
-			<channel_id>ch2833</channel_id>
-			<epg_id>ch2833</epg_id>
-			<tvg_id>KBC-Russian Комедия HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2833.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-В.О.В. HD</caption>
-			<channel_id>ch2834</channel_id>
-			<epg_id>ch2834</epg_id>
-			<tvg_id>KBC-В.О.В. HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2834.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Страна СССР HD</caption>
-			<channel_id>ch2835</channel_id>
-			<epg_id>ch2835</epg_id>
-			<tvg_id>KBC-Страна СССР HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2835.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Шпионское HD</caption>
-			<channel_id>ch2836</channel_id>
-			<epg_id>ch2836</epg_id>
-			<tvg_id>KBC-Шпионское HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2836.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Comics HD</caption>
-			<channel_id>ch2837</channel_id>
-			<epg_id>ch2837</epg_id>
-			<tvg_id>KBC-Comics HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2837.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Аниме HD</caption>
-			<channel_id>ch2838</channel_id>
-			<epg_id>ch2838</epg_id>
-			<tvg_id>KBC-Аниме HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2838.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-History HD</caption>
-			<channel_id>ch2839</channel_id>
-			<epg_id>ch2839</epg_id>
-			<tvg_id>KBC-History HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2839.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Fantastic HD</caption>
-			<channel_id>ch2840</channel_id>
-			<epg_id>ch2840</epg_id>
-			<tvg_id>KBC-Fantastic HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2840.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-ГАЙ Ritchie and Tarantino HD</caption>
-			<channel_id>ch2841</channel_id>
-			<epg_id>ch2841</epg_id>
-			<tvg_id>KBC-ГАЙ Ritchie and Tarantino HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2841.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Newfilm HD</caption>
-			<channel_id>ch2842</channel_id>
-			<epg_id>ch2842</epg_id>
-			<tvg_id>KBC-Newfilm HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2842.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Гоблин HD</caption>
-			<channel_id>ch2843</channel_id>
-			<epg_id>ch2843</epg_id>
-			<tvg_id>KBC-Гоблин HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2843.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Вестерн HD</caption>
-			<channel_id>ch2844</channel_id>
-			<epg_id>ch2844</epg_id>
-			<tvg_id>KBC-Вестерн HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2844.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-WAR HD</caption>
-			<channel_id>ch2845</channel_id>
-			<epg_id>ch2845</epg_id>
-			<tvg_id>KBC-WAR HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2845.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-MusKino HD</caption>
-			<channel_id>ch2846</channel_id>
-			<epg_id>ch2846</epg_id>
-			<tvg_id>KBC-MusKino HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2846.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-СпортМикс HD</caption>
-			<channel_id>ch2848</channel_id>
-			<epg_id>ch2848</epg_id>
-			<tvg_id>KBC-СпортМикс HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2848.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cobra Detektiv HD</caption>
-			<channel_id>ch2850</channel_id>
-			<epg_id>ch2850</epg_id>
-			<tvg_id>Cobra Detektiv HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2850.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cobra Thriller HD</caption>
-			<channel_id>ch2851</channel_id>
-			<epg_id>ch2851</epg_id>
-			<tvg_id>Cobra Thriller HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2851.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cobra Drama HD</caption>
-			<channel_id>ch2852</channel_id>
-			<epg_id>ch2852</epg_id>
-			<tvg_id>Cobra Drama HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2852.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cobra Melodrama HD</caption>
-			<channel_id>ch2853</channel_id>
-			<epg_id>ch2853</epg_id>
-			<tvg_id>Cobra Melodrama HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2853.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cobra Comedy HD</caption>
-			<channel_id>ch2854</channel_id>
-			<epg_id>ch2854</epg_id>
-			<tvg_id>Cobra Comedy HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2854.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Detektiv HD</caption>
-			<channel_id>ch2857</channel_id>
-			<epg_id>ch2857</epg_id>
-			<tvg_id>Prokop TV Detektiv HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2857.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Cinema 60 FPS</caption>
-			<channel_id>ch2860</channel_id>
-			<epg_id>ch2860</epg_id>
-			<tvg_id>Prokop TV Cinema 60 FPS</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2860.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Вторая Мировая</caption>
-			<channel_id>ch2862</channel_id>
-			<epg_id>ch2862</epg_id>
-			<tvg_id>Prokop TV Вторая Мировая</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2862.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Criminal HD</caption>
-			<channel_id>ch2866</channel_id>
-			<epg_id>ch2866</epg_id>
-			<tvg_id>Prokop TV Criminal HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2866.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV History HD</caption>
-			<channel_id>ch2868</channel_id>
-			<epg_id>ch2868</epg_id>
-			<tvg_id>Prokop TV History HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2868.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Fantazy HD</caption>
-			<channel_id>ch2869</channel_id>
-			<epg_id>ch2869</epg_id>
-			<tvg_id>Prokop TV Fantazy HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2869.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Horror HD</caption>
-			<channel_id>ch2870</channel_id>
-			<epg_id>ch2870</epg_id>
-			<tvg_id>Prokop TV Horror HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2870.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Serial HD</caption>
-			<channel_id>ch2871</channel_id>
-			<epg_id>ch2871</epg_id>
-			<tvg_id>Prokop TV Serial HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2871.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Netflix HD</caption>
-			<channel_id>ch2872</channel_id>
-			<epg_id>ch2872</epg_id>
-			<tvg_id>Prokop TV Netflix HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2872.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Comedy HD</caption>
-			<channel_id>ch2874</channel_id>
-			<epg_id>ch2874</epg_id>
-			<tvg_id>Prokop TV Comedy HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2874.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV New Films HD</caption>
-			<channel_id>ch2875</channel_id>
-			<epg_id>ch2875</epg_id>
-			<tvg_id>Prokop TV New Films HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2875.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Kung Fu</caption>
-			<channel_id>ch2876</channel_id>
-			<epg_id>ch2876</epg_id>
-			<tvg_id>Prokop TV Kung Fu</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2876.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Cinema Best HD</caption>
-			<channel_id>ch2880</channel_id>
-			<epg_id>ch2880</epg_id>
-			<tvg_id>Prokop TV Cinema Best HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2880.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Action</caption>
-			<channel_id>ch2510</channel_id>
-			<epg_id>ch2510</epg_id>
-			<tvg_id>Oasis Action</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2510.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Comedy</caption>
-			<channel_id>ch2653</channel_id>
-			<epg_id>ch2653</epg_id>
-			<tvg_id>Oasis Comedy</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2653.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Soviet Comedy</caption>
-			<channel_id>ch2688</channel_id>
-			<epg_id>ch2688</epg_id>
-			<tvg_id>Oasis Soviet Comedy</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2688.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Anime</caption>
-			<channel_id>ch2649</channel_id>
-			<epg_id>ch2649</epg_id>
-			<tvg_id>Oasis Anime</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2649.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Detective</caption>
-			<channel_id>ch2657</channel_id>
-			<epg_id>ch2657</epg_id>
-			<tvg_id>Oasis Detective</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2657.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Drama</caption>
-			<channel_id>ch2660</channel_id>
-			<epg_id>ch2660</epg_id>
-			<tvg_id>Oasis Drama</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2660.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis DC</caption>
-			<channel_id>ch2655</channel_id>
-			<epg_id>ch2655</epg_id>
-			<tvg_id>Oasis DC</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2655.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Marvel</caption>
-			<channel_id>ch2675</channel_id>
-			<epg_id>ch2675</epg_id>
-			<tvg_id>Oasis Marvel</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2675.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Family</caption>
-			<channel_id>ch2662</channel_id>
-			<epg_id>ch2662</epg_id>
-			<tvg_id>Oasis Family</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2662.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Мелодрама</caption>
-			<channel_id>ch2676</channel_id>
-			<epg_id>ch2676</epg_id>
-			<tvg_id>Oasis Мелодрама</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2676.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Horror</caption>
-			<channel_id>ch2666</channel_id>
-			<epg_id>ch2666</epg_id>
-			<tvg_id>Oasis Horror</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2666.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Old Horrors</caption>
-			<channel_id>ch2678</channel_id>
-			<epg_id>ch2678</epg_id>
-			<tvg_id>Oasis Old Horrors</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2678.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Comedy Horrors</caption>
-			<channel_id>ch2654</channel_id>
-			<epg_id>ch2654</epg_id>
-			<tvg_id>Oasis Comedy Horrors</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2654.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Biography</caption>
-			<channel_id>ch2650</channel_id>
-			<epg_id>ch2650</epg_id>
-			<tvg_id>Oasis Biography</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2650.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Mafia</caption>
-			<channel_id>ch2674</channel_id>
-			<epg_id>ch2674</epg_id>
-			<tvg_id>Oasis Mafia</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2674.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Фантастика</caption>
-			<channel_id>ch2663</channel_id>
-			<epg_id>ch2663</epg_id>
-			<tvg_id>Oasis Фантастика</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2663.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Тайны Смолвиля</caption>
-			<channel_id>ch2687</channel_id>
-			<epg_id>ch2687</epg_id>
-			<tvg_id>Oasis Тайны Смолвиля</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2687.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Ufo And Aliens</caption>
-			<channel_id>ch1442</channel_id>
-			<epg_id>ch1442</epg_id>
-			<tvg_id>Oasis Ufo And Aliens</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1442.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Alien and Predator</caption>
-			<channel_id>ch2647</channel_id>
-			<epg_id>ch2647</epg_id>
-			<tvg_id>Oasis Alien and Predator</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2647.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Celentano Brando Connery</caption>
-			<channel_id>ch2652</channel_id>
-			<epg_id>ch2652</epg_id>
-			<tvg_id>Oasis Celentano Brando Connery</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2652.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Demon Slayer and Dororo</caption>
-			<channel_id>ch2656</channel_id>
-			<epg_id>ch2656</epg_id>
-			<tvg_id>Oasis Demon Slayer and Dororo</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2656.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Serkan Bolat</caption>
-			<channel_id>ch2686</channel_id>
-			<epg_id>ch2686</epg_id>
-			<tvg_id>Oasis Serkan Bolat</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2686.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Oasis Миядзаки</caption>
-			<channel_id>ch2677</channel_id>
-			<epg_id>ch2677</epg_id>
-			<tvg_id>Oasis Миядзаки</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2677.png</icon_url>
+			<caption>Yosso TV C-Holiday</caption>
+			<channel_id>ch394</channel_id>
+			<epg_id>ch394</epg_id>
+			<tvg_id>Yosso TV C-Holiday</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/394.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis In English</caption>
-			<channel_id>ch1443</channel_id>
-			<epg_id>ch1443</epg_id>
-			<tvg_id>Oasis In English</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1443.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis RUS Драма</caption>
-			<channel_id>ch2682</channel_id>
-			<epg_id>ch2682</epg_id>
-			<tvg_id>Oasis RUS Драма</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2682.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis RUS Комедии</caption>
-			<channel_id>ch2681</channel_id>
-			<epg_id>ch2681</epg_id>
-			<tvg_id>Oasis RUS Комедии</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2681.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis RUS Сериалы</caption>
-			<channel_id>ch2684</channel_id>
-			<epg_id>ch2684</epg_id>
-			<tvg_id>Oasis RUS Сериалы</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2684.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Oasis RUS Сериалы Драма</caption>
-			<channel_id>ch2685</channel_id>
-			<epg_id>ch2685</epg_id>
-			<tvg_id>Oasis RUS Сериалы Драма</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2685.png</icon_url>
+			<caption>Yosso TV Netflix</caption>
+			<channel_id>ch2455</channel_id>
+			<epg_id>ch2455</epg_id>
+			<tvg_id>Yosso TV Netflix</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2455.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Superheroes Сериалы</caption>
-			<channel_id>ch2690</channel_id>
-			<epg_id>ch2690</epg_id>
-			<tvg_id>Oasis Superheroes Сериалы</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2690.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Корейские Сериалы</caption>
-			<channel_id>ch2667</channel_id>
-			<epg_id>ch2667</epg_id>
-			<tvg_id>Oasis Корейские Сериалы</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2667.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Oasis Латиноамериканские Сериалы</caption>
-			<channel_id>ch2669</channel_id>
-			<epg_id>ch2669</epg_id>
-			<tvg_id>Oasis Латиноамериканские Сериалы</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2669.png</icon_url>
+			<caption>Yosso TV Мелодрама</caption>
+			<channel_id>ch2062</channel_id>
+			<epg_id>ch2062</epg_id>
+			<tvg_id>Yosso TV Мелодрама</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2062.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis USA Series</caption>
-			<channel_id>ch2694</channel_id>
-			<epg_id>ch2694</epg_id>
-			<tvg_id>Oasis USA Series</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2694.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Oasis Кухня Отель</caption>
-			<channel_id>ch2668</channel_id>
-			<epg_id>ch2668</epg_id>
-			<tvg_id>Oasis Кухня Отель</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2668.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Kids 4K</caption>
@@ -4343,7 +4565,7 @@
 			<tvg_id>Clarity4K HBO Series</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2507.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-			<archive>2</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4K Heavy Metal</caption>
@@ -4817,7 +5039,7 @@
 			<tvg_id>Ani</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/488.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Kids HD</caption>
@@ -4853,7 +5075,7 @@
 			<tvg_id>BOX M.Serial HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2293.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Baby TV</caption>
@@ -4862,16 +5084,7 @@
 			<tvg_id>Baby TV</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/489.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cartoonito</caption>
-			<channel_id>ch486</channel_id>
-			<epg_id>ch486</epg_id>
-			<tvg_id>Cartoonito</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/486.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cartoon Network</caption>
@@ -4880,7 +5093,16 @@
 			<tvg_id>Cartoon Network</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/81.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoonito</caption>
+			<channel_id>ch486</channel_id>
+			<epg_id>ch486</epg_id>
+			<tvg_id>Cartoonito</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/486.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cartoons 90</caption>
@@ -4889,7 +5111,7 @@
 			<tvg_id>Cartoons 90</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1027.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cartoons Big</caption>
@@ -4898,7 +5120,7 @@
 			<tvg_id>Cartoons Big</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1029.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cartoons Short</caption>
@@ -4907,7 +5129,7 @@
 			<tvg_id>Cartoons Short</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1028.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cineman Симпсоны</caption>
@@ -4916,7 +5138,7 @@
 			<tvg_id>Cineman Симпсоны</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1670.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Duck HD</caption>
@@ -4925,7 +5147,7 @@
 			<tvg_id>Duck HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/707.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Fresh Kids</caption>
@@ -4943,7 +5165,34 @@
 			<tvg_id>Gulli Girl</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/43.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Jetix</caption>
+			<channel_id>ch2332</channel_id>
+			<epg_id>ch2332</epg_id>
+			<tvg_id>Jetix</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2332.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Jetix Anime</caption>
+			<channel_id>ch3037</channel_id>
+			<epg_id>ch3037</epg_id>
+			<tvg_id>Jetix Anime</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3037.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Jetix Play</caption>
+			<channel_id>ch2331</channel_id>
+			<epg_id>ch2331</epg_id>
+			<tvg_id>Jetix Play</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2331.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>JimJam</caption>
@@ -4952,7 +5201,25 @@
 			<tvg_id>JimJam</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/485.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Союзмультзал</caption>
+			<channel_id>ch2829</channel_id>
+			<epg_id>ch2829</epg_id>
+			<tvg_id>KBC-Союзмультзал</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2829.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI 4K UHD</caption>
+			<channel_id>ch2867</channel_id>
+			<epg_id>ch2867</epg_id>
+			<tvg_id>KLI 4K UHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2867.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>KLI Kids HD</caption>
@@ -4961,7 +5228,7 @@
 			<tvg_id>KLI Kids HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2264.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>KLI Мультики HD</caption>
@@ -4970,7 +5237,79 @@
 			<tvg_id>KLI Мультики HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2265.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Disney FHD</caption>
+			<channel_id>ch1747</channel_id>
+			<epg_id>ch1747</epg_id>
+			<tvg_id>Liberty Disney FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1747.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Pixar FHD</caption>
+			<channel_id>ch1746</channel_id>
+			<epg_id>ch1746</epg_id>
+			<tvg_id>Liberty Pixar FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1746.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty South Park FHD</caption>
+			<channel_id>ch1753</channel_id>
+			<epg_id>ch1753</epg_id>
+			<tvg_id>Liberty South Park FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1753.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Бебимульт FHD</caption>
+			<channel_id>ch1759</channel_id>
+			<epg_id>ch1759</epg_id>
+			<tvg_id>Liberty Бебимульт FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1759.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Крош FHD</caption>
+			<channel_id>ch2620</channel_id>
+			<epg_id>ch2620</epg_id>
+			<tvg_id>Liberty Крош FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2620.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Мим FHD</caption>
+			<channel_id>ch1779</channel_id>
+			<epg_id>ch1779</epg_id>
+			<tvg_id>Liberty Мим FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1779.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Симпсоны FHD</caption>
+			<channel_id>ch1751</channel_id>
+			<epg_id>ch1751</epg_id>
+			<tvg_id>Liberty Симпсоны FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1751.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Сказки FHD</caption>
+			<channel_id>ch1778</channel_id>
+			<epg_id>ch1778</epg_id>
+			<tvg_id>Liberty Сказки FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1778.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Flip UHD</caption>
@@ -4997,6 +5336,7 @@
 			<tvg_id>MM Lesson HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1247.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Smile HD</caption>
@@ -5005,6 +5345,7 @@
 			<tvg_id>MM Smile HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1248.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Tom and Jerry HD</caption>
@@ -5013,6 +5354,7 @@
 			<tvg_id>MM Tom and Jerry HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1221.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM USSR Мультфильм HD</caption>
@@ -5048,6 +5390,7 @@
 			<tvg_id>MM Гриффины HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1954.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nick Jr</caption>
@@ -5056,7 +5399,7 @@
 			<tvg_id>Nick Jr</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/379.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nickelodeon HD</caption>
@@ -5065,372 +5408,7 @@
 			<tvg_id>Nickelodeon HD</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/479.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sky High Bunny HD</caption>
-			<channel_id>ch1956</channel_id>
-			<epg_id>ch1956</epg_id>
-			<tvg_id>Sky High Bunny HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1956.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sky High Kids USSR</caption>
-			<channel_id>ch1982</channel_id>
-			<epg_id>ch1982</epg_id>
-			<tvg_id>Sky High Kids USSR</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1982.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>TiJi</caption>
-			<channel_id>ch042</channel_id>
-			<epg_id>ch042</epg_id>
-			<tvg_id>TiJi</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/42.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Yosso TV Cartoon</caption>
-			<channel_id>ch1314</channel_id>
-			<epg_id>ch1314</epg_id>
-			<tvg_id>Yosso TV Cartoon</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1314.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Yosso TV Kids</caption>
-			<channel_id>ch1299</channel_id>
-			<epg_id>ch1299</epg_id>
-			<tvg_id>Yosso TV Kids</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1299.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Yosso TV Наше Детское</caption>
-			<channel_id>ch2061</channel_id>
-			<epg_id>ch2061</epg_id>
-			<tvg_id>Yosso TV Наше Детское</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2061.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Yosso TV Союзмульт</caption>
-			<channel_id>ch1304</channel_id>
-			<epg_id>ch1304</epg_id>
-			<tvg_id>Yosso TV Союзмульт</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1304.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>В гостях у сказки</caption>
-			<channel_id>ch119</channel_id>
-			<epg_id>ch119</epg_id>
-			<tvg_id>В гостях у сказки</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/119.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Детский мир</caption>
-			<channel_id>ch044</channel_id>
-			<epg_id>ch044</epg_id>
-			<tvg_id>Детский мир</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/44.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Канал О</caption>
-			<channel_id>ch323</channel_id>
-			<epg_id>ch323</epg_id>
-			<tvg_id>Канал О</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/323.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Капитан Фантастика HD</caption>
-			<channel_id>ch638</channel_id>
-			<epg_id>ch638</epg_id>
-			<tvg_id>Капитан Фантастика HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/638.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Карусель</caption>
-			<channel_id>ch040</channel_id>
-			<epg_id>ch040</epg_id>
-			<tvg_id>Карусель</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/40.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Лёва</caption>
-			<channel_id>ch2080</channel_id>
-			<epg_id>ch2080</epg_id>
-			<tvg_id>Лёва</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2080.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Супергерои</caption>
-			<channel_id>ch617</channel_id>
-			<epg_id>ch617</epg_id>
-			<tvg_id>Супергерои</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/617.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мама</caption>
-			<channel_id>ch082</channel_id>
-			<epg_id>ch082</epg_id>
-			<tvg_id>Мама</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/82.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мульт HD</caption>
-			<channel_id>ch045</channel_id>
-			<epg_id>ch045</epg_id>
-			<tvg_id>Мульт HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/45.png</icon_url>
-			<tv_category_id>7</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мультиландия</caption>
-			<channel_id>ch634</channel_id>
-			<epg_id>ch634</epg_id>
-			<tvg_id>Мультиландия</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/634.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мультимузыка</caption>
-			<channel_id>ch484</channel_id>
-			<epg_id>ch484</epg_id>
-			<tvg_id>Мультимузыка</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/484.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Радость Моя</caption>
-			<channel_id>ch487</channel_id>
-			<epg_id>ch487</epg_id>
-			<tvg_id>Радость Моя</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/487.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Рыжий</caption>
-			<channel_id>ch618</channel_id>
-			<epg_id>ch618</epg_id>
-			<tvg_id>Рыжий</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/618.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>СТС Kids HD</caption>
-			<channel_id>ch483</channel_id>
-			<epg_id>ch483</epg_id>
-			<tvg_id>СТС Kids HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/483.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Солнце</caption>
-			<channel_id>ch041</channel_id>
-			<epg_id>ch041</epg_id>
-			<tvg_id>Солнце</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/41.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Уникум HD</caption>
-			<channel_id>ch478</channel_id>
-			<epg_id>ch478</epg_id>
-			<tvg_id>Уникум HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/478.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Чижик</caption>
-			<channel_id>ch425</channel_id>
-			<epg_id>ch425</epg_id>
-			<tvg_id>Чижик</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/425.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>VeleS Комедия</caption>
-			<channel_id>ch2314</channel_id>
-			<epg_id>ch2314</epg_id>
-			<tvg_id>VeleS Комедия</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2314.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Yosso TV Disney</caption>
-			<channel_id>ch2456</channel_id>
-			<epg_id>ch2456</epg_id>
-			<tvg_id>Yosso TV Disney</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2456.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Pixar FHD</caption>
-			<channel_id>ch1746</channel_id>
-			<epg_id>ch1746</epg_id>
-			<tvg_id>Liberty Pixar FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1746.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Disney FHD</caption>
-			<channel_id>ch1747</channel_id>
-			<epg_id>ch1747</epg_id>
-			<tvg_id>Liberty Disney FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1747.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Симпсоны FHD</caption>
-			<channel_id>ch1751</channel_id>
-			<epg_id>ch1751</epg_id>
-			<tvg_id>Liberty Симпсоны FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1751.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty South Park FHD</caption>
-			<channel_id>ch1753</channel_id>
-			<epg_id>ch1753</epg_id>
-			<tvg_id>Liberty South Park FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1753.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Бебимульт FHD</caption>
-			<channel_id>ch1759</channel_id>
-			<epg_id>ch1759</epg_id>
-			<tvg_id>Liberty Бебимульт FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1759.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Сказки FHD</caption>
-			<channel_id>ch1778</channel_id>
-			<epg_id>ch1778</epg_id>
-			<tvg_id>Liberty Сказки FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1778.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Мим FHD</caption>
-			<channel_id>ch1779</channel_id>
-			<epg_id>ch1779</epg_id>
-			<tvg_id>Liberty Мим FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1779.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Teletoon+ HD</caption>
-			<channel_id>ch2330</channel_id>
-			<epg_id>ch2330</epg_id>
-			<tvg_id>Teletoon+ HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2330.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Jetix Play</caption>
-			<channel_id>ch2331</channel_id>
-			<epg_id>ch2331</epg_id>
-			<tvg_id>Jetix Play</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2331.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Jetix</caption>
-			<channel_id>ch2332</channel_id>
-			<epg_id>ch2332</epg_id>
-			<tvg_id>Jetix</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2332.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Liberty Крош FHD</caption>
-			<channel_id>ch2620</channel_id>
-			<epg_id>ch2620</epg_id>
-			<tvg_id>Liberty Крош FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2620.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>VeleS Kids</caption>
-			<channel_id>ch2600</channel_id>
-			<epg_id>ch2600</epg_id>
-			<tvg_id>VeleS Kids</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2600.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KBC-Союзмультзал</caption>
-			<channel_id>ch2829</channel_id>
-			<epg_id>ch2829</epg_id>
-			<tvg_id>KBC-Союзмультзал</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2829.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Сказки СССР</caption>
-			<channel_id>ch2863</channel_id>
-			<epg_id>ch2863</epg_id>
-			<tvg_id>Prokop TV Сказки СССР</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2863.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Kids HD</caption>
-			<channel_id>ch2867</channel_id>
-			<epg_id>ch2867</epg_id>
-			<tvg_id>Prokop TV Kids HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2867.png</icon_url>
-			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Blocks</caption>
@@ -5469,20 +5447,29 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Oasis Лосяш</caption>
-			<channel_id>ch2673</channel_id>
-			<epg_id>ch2673</epg_id>
-			<tvg_id>Oasis Лосяш</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2673.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Oasis RUS Мульт</caption>
 			<channel_id>ch2683</channel_id>
 			<epg_id>ch2683</epg_id>
 			<tvg_id>Oasis RUS Мульт</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/2683.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Tom And Jerry</caption>
+			<channel_id>ch2693</channel_id>
+			<epg_id>ch2693</epg_id>
+			<tvg_id>Oasis Tom And Jerry</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2693.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis Лосяш</caption>
+			<channel_id>ch2673</channel_id>
+			<epg_id>ch2673</epg_id>
+			<tvg_id>Oasis Лосяш</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2673.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -5496,12 +5483,291 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Oasis Tom And Jerry</caption>
-			<channel_id>ch2693</channel_id>
-			<epg_id>ch2693</epg_id>
-			<tvg_id>Oasis Tom And Jerry</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2693.png</icon_url>
+			<caption>Oasis Черепашки Нинзя</caption>
+			<channel_id>ch2917</channel_id>
+			<epg_id>ch2917</epg_id>
+			<tvg_id>Oasis Черепашки Нинзя</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2917.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Сказки СССР</caption>
+			<channel_id>ch2863</channel_id>
+			<epg_id>ch2863</epg_id>
+			<tvg_id>Prokop TV Сказки СССР</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2863.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Bunny HD</caption>
+			<channel_id>ch1956</channel_id>
+			<epg_id>ch1956</epg_id>
+			<tvg_id>Sky High Bunny HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1956.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Jetix HD</caption>
+			<channel_id>ch3096</channel_id>
+			<epg_id>ch3096</epg_id>
+			<tvg_id>Sky High Jetix HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3096.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Kids USSR</caption>
+			<channel_id>ch1982</channel_id>
+			<epg_id>ch1982</epg_id>
+			<tvg_id>Sky High Kids USSR</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1982.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Teletoon+ HD</caption>
+			<channel_id>ch2330</channel_id>
+			<epg_id>ch2330</epg_id>
+			<tvg_id>Teletoon+ HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2330.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TiJi</caption>
+			<channel_id>ch042</channel_id>
+			<epg_id>ch042</epg_id>
+			<tvg_id>TiJi</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/42.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Kids</caption>
+			<channel_id>ch2600</channel_id>
+			<epg_id>ch2600</epg_id>
+			<tvg_id>VeleS Kids</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2600.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Комедия</caption>
+			<channel_id>ch2314</channel_id>
+			<epg_id>ch2314</epg_id>
+			<tvg_id>VeleS Комедия</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2314.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Yosso TV Cartoon</caption>
+			<channel_id>ch1314</channel_id>
+			<epg_id>ch1314</epg_id>
+			<tvg_id>Yosso TV Cartoon</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1314.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Yosso TV Disney</caption>
+			<channel_id>ch2456</channel_id>
+			<epg_id>ch2456</epg_id>
+			<tvg_id>Yosso TV Disney</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2456.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Yosso TV Kids</caption>
+			<channel_id>ch1299</channel_id>
+			<epg_id>ch1299</epg_id>
+			<tvg_id>Yosso TV Kids</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1299.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Yosso TV Наше Детское</caption>
+			<channel_id>ch2061</channel_id>
+			<epg_id>ch2061</epg_id>
+			<tvg_id>Yosso TV Наше Детское</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2061.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Yosso TV Союзмульт</caption>
+			<channel_id>ch1304</channel_id>
+			<epg_id>ch1304</epg_id>
+			<tvg_id>Yosso TV Союзмульт</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1304.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>В гостях у сказки</caption>
+			<channel_id>ch119</channel_id>
+			<epg_id>ch119</epg_id>
+			<tvg_id>В гостях у сказки</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/119.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Детский мир</caption>
+			<channel_id>ch044</channel_id>
+			<epg_id>ch044</epg_id>
+			<tvg_id>Детский мир</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/44.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Канал О</caption>
+			<channel_id>ch323</channel_id>
+			<epg_id>ch323</epg_id>
+			<tvg_id>Канал О</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/323.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Капитан Фантастика HD</caption>
+			<channel_id>ch638</channel_id>
+			<epg_id>ch638</epg_id>
+			<tvg_id>Капитан Фантастика HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/638.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Карусель</caption>
+			<channel_id>ch040</channel_id>
+			<epg_id>ch040</epg_id>
+			<tvg_id>Карусель</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/40.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лёва</caption>
+			<channel_id>ch2080</channel_id>
+			<epg_id>ch2080</epg_id>
+			<tvg_id>Лёва</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2080.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мама</caption>
+			<channel_id>ch082</channel_id>
+			<epg_id>ch082</epg_id>
+			<tvg_id>Мама</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/82.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мульт HD</caption>
+			<channel_id>ch045</channel_id>
+			<epg_id>ch045</epg_id>
+			<tvg_id>Мульт HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/45.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мультиландия</caption>
+			<channel_id>ch634</channel_id>
+			<epg_id>ch634</epg_id>
+			<tvg_id>Мультиландия</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/634.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мультимузыка</caption>
+			<channel_id>ch484</channel_id>
+			<epg_id>ch484</epg_id>
+			<tvg_id>Мультимузыка</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/484.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Радость Моя</caption>
+			<channel_id>ch487</channel_id>
+			<epg_id>ch487</epg_id>
+			<tvg_id>Радость Моя</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/487.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Рыжий</caption>
+			<channel_id>ch618</channel_id>
+			<epg_id>ch618</epg_id>
+			<tvg_id>Рыжий</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/618.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС Kids HD</caption>
+			<channel_id>ch483</channel_id>
+			<epg_id>ch483</epg_id>
+			<tvg_id>СТС Kids HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/483.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Солнце</caption>
+			<channel_id>ch041</channel_id>
+			<epg_id>ch041</epg_id>
+			<tvg_id>Солнце</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/41.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Супергерои</caption>
+			<channel_id>ch617</channel_id>
+			<epg_id>ch617</epg_id>
+			<tvg_id>Супергерои</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/617.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Уникум HD</caption>
+			<channel_id>ch478</channel_id>
+			<epg_id>ch478</epg_id>
+			<tvg_id>Уникум HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/478.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чижик</caption>
+			<channel_id>ch425</channel_id>
+			<epg_id>ch425</epg_id>
+			<tvg_id>Чижик</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/425.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Box AutoTrend HD</caption>
+			<channel_id>ch2810</channel_id>
+			<epg_id>ch2810</epg_id>
+			<tvg_id>Box AutoTrend HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2810.png</icon_url>
+			<tv_category_id>8</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
@@ -5532,216 +5798,13 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Eurosport 1 HD</caption>
-			<channel_id>ch039</channel_id>
-			<epg_id>ch039</epg_id>
-			<tvg_id>Eurosport 1 HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/39.png</icon_url>
+			<caption>Box Be ON Edge Live 3 HD</caption>
+			<channel_id>ch711</channel_id>
+			<epg_id>ch711</epg_id>
+			<tvg_id>Box Be ON Edge Live 3 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/711.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eurosport 2 HD</caption>
-			<channel_id>ch071</channel_id>
-			<epg_id>ch071</epg_id>
-			<tvg_id>Eurosport 2 HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/71.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KZ: QazSport HD</caption>
-			<channel_id>ch474</channel_id>
-			<epg_id>ch474</epg_id>
-			<tvg_id>KZ: QazSport HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/474.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KZ: Setanta Qazaqstan HD</caption>
-			<channel_id>ch639</channel_id>
-			<epg_id>ch639</epg_id>
-			<tvg_id>KZ: Setanta Qazaqstan HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/639.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>LT: Go3 Sport 2 HD</caption>
-			<channel_id>ch622</channel_id>
-			<epg_id>ch622</epg_id>
-			<tvg_id>LT: Go3 Sport 2 HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/622.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>LT: Go3 Sport 1 HD</caption>
-			<channel_id>ch137</channel_id>
-			<epg_id>ch137</epg_id>
-			<tvg_id>LT: Go3 Sport 1 HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/137.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>RO: Digi Sport 1 HD</caption>
-			<channel_id>ch1108</channel_id>
-			<epg_id>ch1108</epg_id>
-			<tvg_id>RO: Digi Sport 1 HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1108.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>RO: Digi Sport 2 HD</caption>
-			<channel_id>ch1112</channel_id>
-			<epg_id>ch1112</epg_id>
-			<tvg_id>RO: Digi Sport 2 HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1112.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>RO: Digi Sport 3 HD</caption>
-			<channel_id>ch1113</channel_id>
-			<epg_id>ch1113</epg_id>
-			<tvg_id>RO: Digi Sport 3 HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1113.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>RO: Digi Sport 4 HD</caption>
-			<channel_id>ch1117</channel_id>
-			<epg_id>ch1117</epg_id>
-			<tvg_id>RO: Digi Sport 4 HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1117.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sky High Fight+ HD</caption>
-			<channel_id>ch1981</channel_id>
-			<epg_id>ch1981</epg_id>
-			<tvg_id>Sky High Fight+ HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1981.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Живи Активно HD</caption>
-			<channel_id>ch1880</channel_id>
-			<epg_id>ch1880</epg_id>
-			<tvg_id>Живи Активно HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1880.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Живи!</caption>
-			<channel_id>ch530</channel_id>
-			<epg_id>ch530</epg_id>
-			<tvg_id>Живи!</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/530.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Конный Мир HD</caption>
-			<channel_id>ch133</channel_id>
-			<epg_id>ch133</epg_id>
-			<tvg_id>Конный Мир HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/133.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! SD</caption>
-			<channel_id>ch2126</channel_id>
-			<epg_id>ch2126</epg_id>
-			<tvg_id>Матч! SD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2126.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 1 SD</caption>
-			<channel_id>ch2123</channel_id>
-			<epg_id>ch2123</epg_id>
-			<tvg_id>Матч! Футбол 1 SD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2123.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 2 SD</caption>
-			<channel_id>ch2124</channel_id>
-			<epg_id>ch2124</epg_id>
-			<tvg_id>Матч! Футбол 2 SD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2124.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 3 SD</caption>
-			<channel_id>ch2125</channel_id>
-			<epg_id>ch2125</epg_id>
-			<tvg_id>Матч! Футбол 3 SD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2125.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТВ Спорт HD</caption>
-			<channel_id>ch447</channel_id>
-			<epg_id>ch447</epg_id>
-			<tvg_id>ТВ Спорт HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/447.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Точка отрыва</caption>
-			<channel_id>ch048</channel_id>
-			<epg_id>ch048</epg_id>
-			<tvg_id>Точка отрыва</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/48.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мяч HD</caption>
-			<channel_id>ch708</channel_id>
-			<epg_id>ch708</epg_id>
-			<tvg_id>Мяч HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/708.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Хоккей ТВ HD</caption>
-			<channel_id>ch663</channel_id>
-			<epg_id>ch663</epg_id>
-			<tvg_id>Хоккей ТВ HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/663.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Премьер SD</caption>
-			<channel_id>ch2005</channel_id>
-			<epg_id>ch2005</epg_id>
-			<tvg_id>Матч! Премьер SD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2005.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Box Sport Cast Live 9</caption>
-			<channel_id>ch700</channel_id>
-			<epg_id>ch700</epg_id>
-			<tvg_id>Box Sport Cast Live 9</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/700.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<archive>4</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Box Sport Cast 1 Live</caption>
@@ -5813,13 +5876,28 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Liberty Автогир FHD</caption>
-			<channel_id>ch1768</channel_id>
-			<epg_id>ch1768</epg_id>
-			<tvg_id>Liberty Автогир FHD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1768.png</icon_url>
+			<caption>Box Sport Cast Live 8</caption>
+			<channel_id>ch1819</channel_id>
+			<epg_id>ch1819</epg_id>
+			<tvg_id>Box Sport Cast Live 8</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1819.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Box Sport Cast Live 9</caption>
+			<channel_id>ch700</channel_id>
+			<epg_id>ch700</epg_id>
+			<tvg_id>Box Sport Cast Live 9</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/700.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Фитнес</caption>
+			<channel_id>ch2923</channel_id>
+			<epg_id>ch2923</epg_id>
+			<tvg_id>CineMan Фитнес</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2923.png</icon_url>
+			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4k Единоборства</caption>
@@ -5830,28 +5908,188 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Box Be ON Edge Live 3 HD</caption>
-			<channel_id>ch711</channel_id>
-			<epg_id>ch711</epg_id>
-			<tvg_id>Box Be ON Edge Live 3 HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/711.png</icon_url>
+			<caption>Eurosport 1 HD</caption>
+			<channel_id>ch039</channel_id>
+			<epg_id>ch039</epg_id>
+			<tvg_id>Eurosport 1 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/39.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 2 HD</caption>
+			<channel_id>ch071</channel_id>
+			<epg_id>ch071</epg_id>
+			<tvg_id>Eurosport 2 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/71.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Extreme Sports</caption>
+			<channel_id>ch476</channel_id>
+			<epg_id>ch476</epg_id>
+			<tvg_id>Extreme Sports</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/476.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fast and FunBox HD</caption>
+			<channel_id>ch358</channel_id>
+			<epg_id>ch358</epg_id>
+			<tvg_id>Fast and FunBox HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/358.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FightBox HD</caption>
+			<channel_id>ch359</channel_id>
+			<epg_id>ch359</epg_id>
+			<tvg_id>FightBox HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/359.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fint Ga 1 (Sport Event)</caption>
+			<channel_id>ch2583</channel_id>
+			<epg_id>ch2583</epg_id>
+			<tvg_id>Fint Ga 1 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2583.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Box Sport Cast Live 8</caption>
-			<channel_id>ch1819</channel_id>
-			<epg_id>ch1819</epg_id>
-			<tvg_id>Box Sport Cast Live 8</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/1819.png</icon_url>
+			<caption>Fint Ga 2 (Sport Event)</caption>
+			<channel_id>ch2584</channel_id>
+			<epg_id>ch2584</epg_id>
+			<tvg_id>Fint Ga 2 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2584.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Box AutoTrend HD</caption>
-			<channel_id>ch2810</channel_id>
-			<epg_id>ch2810</epg_id>
-			<tvg_id>Box AutoTrend HD</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2810.png</icon_url>
+			<caption>Fint Ga 3 (Sport Event)</caption>
+			<channel_id>ch2585</channel_id>
+			<epg_id>ch2585</epg_id>
+			<tvg_id>Fint Ga 3 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2585.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fint Ga 4 (Sport Event)</caption>
+			<channel_id>ch2586</channel_id>
+			<epg_id>ch2586</epg_id>
+			<tvg_id>Fint Ga 4 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2586.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KZ: QazSport HD</caption>
+			<channel_id>ch474</channel_id>
+			<epg_id>ch474</epg_id>
+			<tvg_id>KZ: QazSport HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/474.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KZ: Setanta Qazaqstan HD</caption>
+			<channel_id>ch639</channel_id>
+			<epg_id>ch639</epg_id>
+			<tvg_id>KZ: Setanta Qazaqstan HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/639.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>LT: Go3 Sport 1 HD</caption>
+			<channel_id>ch137</channel_id>
+			<epg_id>ch137</epg_id>
+			<tvg_id>LT: Go3 Sport 1 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/137.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>LT: Go3 Sport 2 HD</caption>
+			<channel_id>ch622</channel_id>
+			<epg_id>ch622</epg_id>
+			<tvg_id>LT: Go3 Sport 2 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/622.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Автогир FHD</caption>
+			<channel_id>ch1768</channel_id>
+			<epg_id>ch1768</epg_id>
+			<tvg_id>Liberty Автогир FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1768.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MMA-TV</caption>
+			<channel_id>ch526</channel_id>
+			<epg_id>ch526</epg_id>
+			<tvg_id>MMA-TV</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/526.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Megogo Football 1 HD</caption>
+			<channel_id>ch3053</channel_id>
+			<epg_id>ch3053</epg_id>
+			<tvg_id>Megogo Football 1 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3053.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Megogo Football 2 HD</caption>
+			<channel_id>ch3054</channel_id>
+			<epg_id>ch3054</epg_id>
+			<tvg_id>Megogo Football 2 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3054.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Megogo Football 3 HD</caption>
+			<channel_id>ch3055</channel_id>
+			<epg_id>ch3055</epg_id>
+			<tvg_id>Megogo Football 3 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3055.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Megogo Спорт HD</caption>
+			<channel_id>ch3052</channel_id>
+			<epg_id>ch3052</epg_id>
+			<tvg_id>Megogo Спорт HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3052.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA TV HD</caption>
+			<channel_id>ch725</channel_id>
+			<epg_id>ch725</epg_id>
+			<tvg_id>NBA TV HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/725.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oasis WWE In English</caption>
+			<channel_id>ch2695</channel_id>
+			<epg_id>ch2695</epg_id>
+			<tvg_id>Oasis WWE In English</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2695.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Фитнес</caption>
@@ -5863,11 +6101,632 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Oasis WWE In English</caption>
-			<channel_id>ch2695</channel_id>
-			<epg_id>ch2695</epg_id>
-			<tvg_id>Oasis WWE In English</tvg_id>
-			<icon_url>http://troya.one/images/chIcons/2695.png</icon_url>
+			<caption>Pimple TV 1 (Sport Event)</caption>
+			<channel_id>ch2577</channel_id>
+			<epg_id>ch2577</epg_id>
+			<tvg_id>Pimple TV 1 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2577.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pimple TV 2 (Sport Event)</caption>
+			<channel_id>ch2578</channel_id>
+			<epg_id>ch2578</epg_id>
+			<tvg_id>Pimple TV 2 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2578.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pimple TV 3 (Sport Event)</caption>
+			<channel_id>ch2579</channel_id>
+			<epg_id>ch2579</epg_id>
+			<tvg_id>Pimple TV 3 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2579.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pimple TV 4 (Sport Event)</caption>
+			<channel_id>ch2580</channel_id>
+			<epg_id>ch2580</epg_id>
+			<tvg_id>Pimple TV 4 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2580.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pimple TV 5 (Sport Event)</caption>
+			<channel_id>ch2581</channel_id>
+			<epg_id>ch2581</epg_id>
+			<tvg_id>Pimple TV 5 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2581.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pimple TV 6 (Sport Event)</caption>
+			<channel_id>ch2582</channel_id>
+			<epg_id>ch2582</epg_id>
+			<tvg_id>Pimple TV 6 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2582.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RO: Digi Sport 1 HD</caption>
+			<channel_id>ch1108</channel_id>
+			<epg_id>ch1108</epg_id>
+			<tvg_id>RO: Digi Sport 1 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1108.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RO: Digi Sport 2 HD</caption>
+			<channel_id>ch1112</channel_id>
+			<epg_id>ch1112</epg_id>
+			<tvg_id>RO: Digi Sport 2 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1112.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RO: Digi Sport 3 HD</caption>
+			<channel_id>ch1113</channel_id>
+			<epg_id>ch1113</epg_id>
+			<tvg_id>RO: Digi Sport 3 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1113.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RO: Digi Sport 4 HD</caption>
+			<channel_id>ch1117</channel_id>
+			<epg_id>ch1117</epg_id>
+			<tvg_id>RO: Digi Sport 4 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1117.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Russian Extreme Ultra</caption>
+			<channel_id>ch378</channel_id>
+			<epg_id>ch378</epg_id>
+			<tvg_id>Russian Extreme Ultra</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/378.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 1 HD</caption>
+			<channel_id>ch1993</channel_id>
+			<epg_id>ch1993</epg_id>
+			<tvg_id>Setanta Sports 1 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1993.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 1 HD (Uncomp)</caption>
+			<channel_id>ch828</channel_id>
+			<epg_id>ch828</epg_id>
+			<tvg_id>Setanta Sports 1 HD (Uncomp)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/828.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 2 HD</caption>
+			<channel_id>ch477</channel_id>
+			<epg_id>ch477</epg_id>
+			<tvg_id>Setanta Sports 2 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/477.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 2 HD (Uncomp)</caption>
+			<channel_id>ch2116</channel_id>
+			<epg_id>ch2116</epg_id>
+			<tvg_id>Setanta Sports 2 HD (Uncomp)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2116.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky High Fight+ HD</caption>
+			<channel_id>ch1981</channel_id>
+			<epg_id>ch1981</epg_id>
+			<tvg_id>Sky High Fight+ HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1981.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 1 (Sport Event)</caption>
+			<channel_id>ch2558</channel_id>
+			<epg_id>ch2558</epg_id>
+			<tvg_id>ViP Sport 1 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2558.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 10 (Sport Event)</caption>
+			<channel_id>ch2567</channel_id>
+			<epg_id>ch2567</epg_id>
+			<tvg_id>ViP Sport 10 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2567.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 11 (Sport Event)</caption>
+			<channel_id>ch2568</channel_id>
+			<epg_id>ch2568</epg_id>
+			<tvg_id>ViP Sport 11 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2568.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 12 (Sport Event)</caption>
+			<channel_id>ch2569</channel_id>
+			<epg_id>ch2569</epg_id>
+			<tvg_id>ViP Sport 12 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2569.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 13 (Sport Event)</caption>
+			<channel_id>ch2570</channel_id>
+			<epg_id>ch2570</epg_id>
+			<tvg_id>ViP Sport 13 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2570.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 2 (Sport Event)</caption>
+			<channel_id>ch2559</channel_id>
+			<epg_id>ch2559</epg_id>
+			<tvg_id>ViP Sport 2 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2559.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 3 (Sport Event)</caption>
+			<channel_id>ch2560</channel_id>
+			<epg_id>ch2560</epg_id>
+			<tvg_id>ViP Sport 3 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2560.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 4 (Sport Event)</caption>
+			<channel_id>ch2561</channel_id>
+			<epg_id>ch2561</epg_id>
+			<tvg_id>ViP Sport 4 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2561.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 5 (Sport Event)</caption>
+			<channel_id>ch2562</channel_id>
+			<epg_id>ch2562</epg_id>
+			<tvg_id>ViP Sport 5 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2562.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 6 (Sport Event)</caption>
+			<channel_id>ch2563</channel_id>
+			<epg_id>ch2563</epg_id>
+			<tvg_id>ViP Sport 6 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2563.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 7 (Sport Event)</caption>
+			<channel_id>ch2564</channel_id>
+			<epg_id>ch2564</epg_id>
+			<tvg_id>ViP Sport 7 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2564.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 8 (Sport Event)</caption>
+			<channel_id>ch2565</channel_id>
+			<epg_id>ch2565</epg_id>
+			<tvg_id>ViP Sport 8 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2565.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ViP Sport 9 (Sport Event)</caption>
+			<channel_id>ch2566</channel_id>
+			<epg_id>ch2566</epg_id>
+			<tvg_id>ViP Sport 9 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2566.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ Sport</caption>
+			<channel_id>ch064</channel_id>
+			<epg_id>ch064</epg_id>
+			<tvg_id>Viju+ Sport</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/64.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ Sport HD</caption>
+			<channel_id>ch475</channel_id>
+			<epg_id>ch475</epg_id>
+			<tvg_id>Viju+ Sport HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/475.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vital Sport 1 (Sport Event)</caption>
+			<channel_id>ch2571</channel_id>
+			<epg_id>ch2571</epg_id>
+			<tvg_id>Vital Sport 1 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2571.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vital Sport 2 (Sport Event)</caption>
+			<channel_id>ch2572</channel_id>
+			<epg_id>ch2572</epg_id>
+			<tvg_id>Vital Sport 2 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2572.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vital Sport 3 (Sport Event)</caption>
+			<channel_id>ch2573</channel_id>
+			<epg_id>ch2573</epg_id>
+			<tvg_id>Vital Sport 3 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2573.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vital Sport 4 (Sport Event)</caption>
+			<channel_id>ch2574</channel_id>
+			<epg_id>ch2574</epg_id>
+			<tvg_id>Vital Sport 4 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2574.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vital Sport 5 (Sport Event)</caption>
+			<channel_id>ch2575</channel_id>
+			<epg_id>ch2575</epg_id>
+			<tvg_id>Vital Sport 5 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2575.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vital Sport 6 (Sport Event)</caption>
+			<channel_id>ch2576</channel_id>
+			<epg_id>ch2576</epg_id>
+			<tvg_id>Vital Sport 6 (Sport Event)</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2576.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>БОКС ТВ</caption>
+			<channel_id>ch037</channel_id>
+			<epg_id>ch037</epg_id>
+			<tvg_id>БОКС ТВ</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/37.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Драйв</caption>
+			<channel_id>ch536</channel_id>
+			<epg_id>ch536</epg_id>
+			<tvg_id>Драйв</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/536.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Живи Активно HD</caption>
+			<channel_id>ch1880</channel_id>
+			<epg_id>ch1880</epg_id>
+			<tvg_id>Живи Активно HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1880.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Живи!</caption>
+			<channel_id>ch530</channel_id>
+			<epg_id>ch530</epg_id>
+			<tvg_id>Живи!</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/530.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>КХЛ</caption>
+			<channel_id>ch034</channel_id>
+			<epg_id>ch034</epg_id>
+			<tvg_id>КХЛ</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/34.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КХЛ Prime HD</caption>
+			<channel_id>ch138</channel_id>
+			<epg_id>ch138</epg_id>
+			<tvg_id>КХЛ Prime HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/138.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Конный Мир HD</caption>
+			<channel_id>ch133</channel_id>
+			<epg_id>ch133</epg_id>
+			<tvg_id>Конный Мир HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/133.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>МАТЧ! БОЕЦ</caption>
+			<channel_id>ch036</channel_id>
+			<epg_id>ch036</epg_id>
+			<tvg_id>МАТЧ! БОЕЦ</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/36.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! FHD</caption>
+			<channel_id>ch057</channel_id>
+			<epg_id>ch057</epg_id>
+			<tvg_id>Матч! FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/57.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! HD</caption>
+			<channel_id>ch609</channel_id>
+			<epg_id>ch609</epg_id>
+			<tvg_id>Матч! HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/609.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! SD</caption>
+			<channel_id>ch2126</channel_id>
+			<epg_id>ch2126</epg_id>
+			<tvg_id>Матч! SD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2126.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Арена HD</caption>
+			<channel_id>ch055</channel_id>
+			<epg_id>ch055</epg_id>
+			<tvg_id>Матч! Арена HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/55.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Игра FHD</caption>
+			<channel_id>ch056</channel_id>
+			<epg_id>ch056</epg_id>
+			<tvg_id>Матч! Игра FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/56.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Планета</caption>
+			<channel_id>ch688</channel_id>
+			<epg_id>ch688</epg_id>
+			<tvg_id>Матч! Планета</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/688.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Премьер FHD</caption>
+			<channel_id>ch135</channel_id>
+			<epg_id>ch135</epg_id>
+			<tvg_id>Матч! Премьер FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/135.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Премьер HD</caption>
+			<channel_id>ch698</channel_id>
+			<epg_id>ch698</epg_id>
+			<tvg_id>Матч! Премьер HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/698.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Премьер SD</caption>
+			<channel_id>ch2005</channel_id>
+			<epg_id>ch2005</epg_id>
+			<tvg_id>Матч! Премьер SD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2005.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Страна</caption>
+			<channel_id>ch471</channel_id>
+			<epg_id>ch471</epg_id>
+			<tvg_id>Матч! Страна</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/471.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 1 FHD</caption>
+			<channel_id>ch061</channel_id>
+			<epg_id>ch061</epg_id>
+			<tvg_id>Матч! Футбол 1 FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/61.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 1 HD</caption>
+			<channel_id>ch695</channel_id>
+			<epg_id>ch695</epg_id>
+			<tvg_id>Матч! Футбол 1 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/695.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 1 SD</caption>
+			<channel_id>ch2123</channel_id>
+			<epg_id>ch2123</epg_id>
+			<tvg_id>Матч! Футбол 1 SD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2123.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 2 FHD</caption>
+			<channel_id>ch062</channel_id>
+			<epg_id>ch062</epg_id>
+			<tvg_id>Матч! Футбол 2 FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/62.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 2 HD</caption>
+			<channel_id>ch696</channel_id>
+			<epg_id>ch696</epg_id>
+			<tvg_id>Матч! Футбол 2 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/696.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 2 SD</caption>
+			<channel_id>ch2124</channel_id>
+			<epg_id>ch2124</epg_id>
+			<tvg_id>Матч! Футбол 2 SD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2124.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 3 FHD</caption>
+			<channel_id>ch063</channel_id>
+			<epg_id>ch063</epg_id>
+			<tvg_id>Матч! Футбол 3 FHD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/63.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 3 HD</caption>
+			<channel_id>ch697</channel_id>
+			<epg_id>ch697</epg_id>
+			<tvg_id>Матч! Футбол 3 HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/697.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 3 SD</caption>
+			<channel_id>ch2125</channel_id>
+			<epg_id>ch2125</epg_id>
+			<tvg_id>Матч! Футбол 3 SD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2125.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир Баскетбола</caption>
+			<channel_id>ch567</channel_id>
+			<epg_id>ch567</epg_id>
+			<tvg_id>Мир Баскетбола</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/567.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мяч HD</caption>
+			<channel_id>ch708</channel_id>
+			<epg_id>ch708</epg_id>
+			<tvg_id>Мяч HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/708.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Спорт HD</caption>
+			<channel_id>ch3050</channel_id>
+			<epg_id>ch3050</epg_id>
+			<tvg_id>Окко Спорт HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3050.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Футбол HD</caption>
+			<channel_id>ch3051</channel_id>
+			<epg_id>ch3051</epg_id>
+			<tvg_id>Окко Футбол HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/3051.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт HD</caption>
+			<channel_id>ch662</channel_id>
+			<epg_id>ch662</epg_id>
+			<tvg_id>Старт HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/662.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт Триумф</caption>
+			<channel_id>ch2502</channel_id>
+			<epg_id>ch2502</epg_id>
+			<tvg_id>Старт Триумф</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/2502.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ Спорт HD</caption>
+			<channel_id>ch447</channel_id>
+			<epg_id>ch447</epg_id>
+			<tvg_id>ТВ Спорт HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/447.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Точка отрыва</caption>
+			<channel_id>ch048</channel_id>
+			<epg_id>ch048</epg_id>
+			<tvg_id>Точка отрыва</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/48.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Футбол HD</caption>
+			<channel_id>ch1702</channel_id>
+			<epg_id>ch1702</epg_id>
+			<tvg_id>Футбол HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/1702.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Хоккей ТВ HD</caption>
+			<channel_id>ch663</channel_id>
+			<epg_id>ch663</epg_id>
+			<tvg_id>Хоккей ТВ HD</tvg_id>
+			<icon_url>http://troya.one/images/chIcons/663.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -7461,10 +8320,10 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky High Nature 4K HDR</caption>
+			<caption>Sky High Nature HDR</caption>
 			<channel_id>ch1980</channel_id>
 			<epg_id>ch1980</epg_id>
-			<tvg_id>Sky High Nature 4K HDR</tvg_id>
+			<tvg_id>Sky High Nature HDR</tvg_id>
 			<icon_url>http://troya.one/images/chIcons/1980.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 			<archive>6</archive>
