@@ -131,25 +131,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Медиатека</caption>
+			<caption>Video On Demand</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -824,21 +824,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH ANIME HD</caption>
-			<channel_id>19405</channel_id>
-			<epg_id>6827</epg_id>
-			<icon_url>http://epg.one/img2/6827.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH Bunny HD</caption>
-			<channel_id>14239</channel_id>
-			<epg_id>5459</epg_id>
-			<tvg_id>5459</tvg_id>
-			<icon_url>http://epg.one/img2/5459.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>WOW!TV HD</caption>
 			<channel_id>14168</channel_id>
 			<epg_id>5385</epg_id>
@@ -1078,20 +1063,6 @@
 			<icon_url>http://epg.one/img2/423.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Масяня</caption>
-			<channel_id>31670</channel_id>
-			<epg_id>8824</epg_id>
-			<icon_url>http://epg.one/img2/8824.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Сказки СССР</caption>
-			<channel_id>19317</channel_id>
-			<epg_id>6736</epg_id>
-			<icon_url>http://epg.one/img2/6736.png</icon_url>
-			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Qyzylorda KZ</caption>
@@ -1523,13 +1494,6 @@
 			<epg_id>6007</epg_id>
 			<tvg_id>6007</tvg_id>
 			<icon_url>http://epg.one/img2/6007.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cobra Comedy HD</caption>
-			<channel_id>20212</channel_id>
-			<epg_id>7904</epg_id>
-			<icon_url>http://epg.one/img2/7904.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2017,104 +1981,6 @@
 			<icon_url>http://epg.one/img2/4720.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Cinema 60 fps</caption>
-			<channel_id>19315</channel_id>
-			<epg_id>6734</epg_id>
-			<icon_url>http://epg.one/img2/6734.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Cinema Best</caption>
-			<channel_id>18147</channel_id>
-			<epg_id>6408</epg_id>
-			<icon_url>http://epg.one/img2/6408.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Comedy</caption>
-			<channel_id>18143</channel_id>
-			<epg_id>6404</epg_id>
-			<icon_url>http://epg.one/img2/6404.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Criminal</caption>
-			<channel_id>18140</channel_id>
-			<epg_id>6401</epg_id>
-			<icon_url>http://epg.one/img2/6401.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Docu</caption>
-			<channel_id>19314</channel_id>
-			<epg_id>6740</epg_id>
-			<icon_url>http://epg.one/img2/6740.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Fantazy</caption>
-			<channel_id>18144</channel_id>
-			<epg_id>6405</epg_id>
-			<icon_url>http://epg.one/img2/6405.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV History</caption>
-			<channel_id>18142</channel_id>
-			<epg_id>6403</epg_id>
-			<icon_url>http://epg.one/img2/6403.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Horror</caption>
-			<channel_id>18145</channel_id>
-			<epg_id>6406</epg_id>
-			<icon_url>http://epg.one/img2/6406.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Kung Fu</caption>
-			<channel_id>31668</channel_id>
-			<epg_id>8773</epg_id>
-			<icon_url>http://epg.one/img2/8773.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Netflix</caption>
-			<channel_id>19272</channel_id>
-			<epg_id>6601</epg_id>
-			<icon_url>http://epg.one/img2/6601.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV New Films HD</caption>
-			<channel_id>31667</channel_id>
-			<epg_id>8772</epg_id>
-			<icon_url>http://epg.one/img2/8772.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Serial</caption>
-			<channel_id>19271</channel_id>
-			<epg_id>6600</epg_id>
-			<icon_url>http://epg.one/img2/6600.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Show HD</caption>
-			<channel_id>31669</channel_id>
-			<epg_id>8774</epg_id>
-			<icon_url>http://epg.one/img2/8774.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Вторая Мировая</caption>
-			<channel_id>19316</channel_id>
-			<epg_id>7479</epg_id>
-			<icon_url>http://epg.one/img2/7479.png</icon_url>
-			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Romance HD</caption>
@@ -3271,13 +3137,6 @@
 			<channel_id>16018</channel_id>
 			<epg_id>9123</epg_id>
 			<icon_url>http://epg.one/img2/9123.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Кулинар</caption>
-			<channel_id>31683</channel_id>
-			<epg_id>7996</epg_id>
-			<icon_url>http://epg.one/img2/7996.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -5232,7 +5091,7 @@
 			<tv_category_id>17</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Квартирник HD</caption>
+			<caption>MM Новогодний HD</caption>
 			<channel_id>13035</channel_id>
 			<epg_id>5148</epg_id>
 			<tvg_id>5148</tvg_id>
@@ -5483,137 +5342,18 @@
 			<tv_category_id>17</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH ADULT HD</caption>
-			<channel_id>15166</channel_id>
-			<epg_id>5632</epg_id>
-			<icon_url>http://epg.one/img2/5632.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH BRAIN HD</caption>
-			<channel_id>19404</channel_id>
-			<epg_id>6826</epg_id>
-			<icon_url>http://epg.one/img2/6826.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH EPOCH HD</caption>
-			<channel_id>14243</channel_id>
-			<epg_id>5449</epg_id>
-			<tvg_id>5449</tvg_id>
-			<icon_url>http://epg.one/img2/5449.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH NOIR HD</caption>
-			<channel_id>16061</channel_id>
-			<epg_id>6055</epg_id>
-			<tvg_id>6055</tvg_id>
-			<icon_url>http://epg.one/img2/6055.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH FRESH HD</caption>
-			<channel_id>14244</channel_id>
-			<epg_id>5450</epg_id>
-			<tvg_id>5450</tvg_id>
-			<icon_url>http://epg.one/img2/5450.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH FRESH HDR</caption>
+			<caption>BOX Новогодний 4K</caption>
 			<channel_id>16066</channel_id>
-			<epg_id>6066</epg_id>
-			<icon_url>http://epg.one/img2/6066.png</icon_url>
+			<epg_id>7993</epg_id>
+			<icon_url>http://epg.one/img2/7993.png</icon_url>
 			<tv_category_id>18</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH FUTURE HD</caption>
-			<channel_id>15103</channel_id>
-			<epg_id>5588</epg_id>
-			<tvg_id>5588</tvg_id>
-			<icon_url>http://epg.one/img2/5588.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH HEROES HD</caption>
-			<channel_id>14242</channel_id>
-			<epg_id>5448</epg_id>
-			<tvg_id>5448</tvg_id>
-			<icon_url>http://epg.one/img2/5448.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH LO FI HD</caption>
-			<channel_id>19312</channel_id>
-			<epg_id>6726</epg_id>
-			<icon_url>http://epg.one/img2/6726.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH MIX 3D</caption>
-			<channel_id>14246</channel_id>
-			<epg_id>5451</epg_id>
-			<icon_url>http://epg.one/img2/5451.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH ORIG HD</caption>
-			<channel_id>19310</channel_id>
-			<epg_id>6725</epg_id>
-			<icon_url>http://epg.one/img2/6725.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH RUSSIAN HD</caption>
-			<channel_id>16060</channel_id>
-			<epg_id>6054</epg_id>
-			<tvg_id>6054</tvg_id>
-			<icon_url>http://epg.one/img2/6054.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH SERIES HD</caption>
+			<caption>Magic Christmas</caption>
 			<channel_id>14240</channel_id>
-			<epg_id>5447</epg_id>
+			<epg_id>9871</epg_id>
 			<tvg_id>5447</tvg_id>
-			<icon_url>http://epg.one/img2/5447.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH SPIRIT HD</caption>
-			<channel_id>14249</channel_id>
-			<epg_id>5452</epg_id>
-			<tvg_id>5452</tvg_id>
-			<icon_url>http://epg.one/img2/5452.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH STANDUP HD</caption>
-			<channel_id>19311</channel_id>
-			<epg_id>6741</epg_id>
-			<icon_url>http://epg.one/img2/6741.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH UHD HDR</caption>
-			<channel_id>17059</channel_id>
-			<epg_id>6204</epg_id>
-			<icon_url>http://epg.one/img2/6204.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH VHS UHD</caption>
-			<channel_id>17058</channel_id>
-			<epg_id>6203</epg_id>
-			<icon_url>http://epg.one/img2/6203.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH ЧБУ HD</caption>
-			<channel_id>16142</channel_id>
-			<epg_id>6139</epg_id>
-			<icon_url>http://epg.one/img2/6139.png</icon_url>
+			<icon_url>http://epg.one/img2/9871.png</icon_url>
 			<tv_category_id>18</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -7004,9 +6744,9 @@
 		<tv_channel>
 			<caption>MTV Classic</caption>
 			<channel_id>142</channel_id>
-			<epg_id>1021</epg_id>
+			<epg_id>6426</epg_id>
 			<tvg_id>1021</tvg_id>
-			<icon_url>http://epg.one/img2/1021.png</icon_url>
+			<icon_url>http://epg.one/img2/6426.png</icon_url>
 			<tv_category_id>22</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -7167,27 +6907,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Prokop TV Hip Hop</caption>
-			<channel_id>31672</channel_id>
-			<epg_id>8810</epg_id>
-			<icon_url>http://epg.one/img2/8810.png</icon_url>
-			<tv_category_id>22</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Music</caption>
-			<channel_id>18148</channel_id>
-			<epg_id>6409</epg_id>
-			<icon_url>http://epg.one/img2/6409.png</icon_url>
-			<tv_category_id>22</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Peters Pop Show</caption>
-			<channel_id>19270</channel_id>
-			<epg_id>6599</epg_id>
-			<icon_url>http://epg.one/img2/6599.png</icon_url>
-			<tv_category_id>22</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>RU TV</caption>
 			<channel_id>838</channel_id>
 			<epg_id>2277</epg_id>
@@ -7208,30 +6927,6 @@
 			<channel_id>14010</channel_id>
 			<epg_id>7556</epg_id>
 			<icon_url>http://epg.one/img2/7556.png</icon_url>
-			<tv_category_id>22</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH CLASSIC HD</caption>
-			<channel_id>15104</channel_id>
-			<epg_id>5596</epg_id>
-			<tvg_id>5596</tvg_id>
-			<icon_url>http://epg.one/img2/5596.png</icon_url>
-			<tv_category_id>22</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH CONCERT HD</caption>
-			<channel_id>14241</channel_id>
-			<epg_id>5454</epg_id>
-			<tvg_id>5454</tvg_id>
-			<icon_url>http://epg.one/img2/5454.png</icon_url>
-			<tv_category_id>22</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH DANCE HD</caption>
-			<channel_id>14250</channel_id>
-			<epg_id>5455</epg_id>
-			<tvg_id>5455</tvg_id>
-			<icon_url>http://epg.one/img2/5455.png</icon_url>
 			<tv_category_id>22</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -7858,14 +7553,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH FIGHT HD</caption>
-			<channel_id>15097</channel_id>
-			<epg_id>5559</epg_id>
-			<tvg_id>5559</tvg_id>
-			<icon_url>http://epg.one/img2/5559.png</icon_url>
-			<tv_category_id>23</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Setanta Eurasia Plus HD</caption>
 			<channel_id>270</channel_id>
 			<epg_id>2363</epg_id>
@@ -8239,8 +7926,8 @@
 		<tv_channel>
 			<caption>Luxury HD</caption>
 			<channel_id>2072</channel_id>
-			<epg_id>2759</epg_id>
-			<icon_url>http://epg.one/img2/2759.png</icon_url>
+			<epg_id>7104</epg_id>
+			<icon_url>http://epg.one/img2/7104.png</icon_url>
 			<tv_category_id>26</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -8259,14 +7946,6 @@
 			<tv_category_id>26</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH MAN HD</caption>
-			<channel_id>14245</channel_id>
-			<epg_id>5461</epg_id>
-			<tvg_id>5461</tvg_id>
-			<icon_url>http://epg.one/img2/5461.png</icon_url>
-			<tv_category_id>26</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Silk Way</caption>
 			<channel_id>20044</channel_id>
 			<epg_id>9033</epg_id>
@@ -8274,7 +7953,7 @@
 			<tv_category_id>26</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>VB ОСП-Cтудия</caption>
+			<caption>VB ОСП-Студия</caption>
 			<channel_id>16004</channel_id>
 			<epg_id>6020</epg_id>
 			<icon_url>http://epg.one/img2/6020.png</icon_url>
@@ -8901,13 +8580,6 @@
 			<icon_url>http://epg.one/img2/2280.png</icon_url>
 			<tv_category_id>27</tv_category_id>
 			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH DOC HD</caption>
-			<channel_id>18172</channel_id>
-			<epg_id>6339</epg_id>
-			<icon_url>http://epg.one/img2/6339.png</icon_url>
-			<tv_category_id>27</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>TERRA</caption>
@@ -9903,7 +9575,7 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>BAG U</caption>
+			<caption>BANG U</caption>
 			<channel_id>12170</channel_id>
 			<epg_id>4977</epg_id>
 			<icon_url>http://epg.one/img2/4977.png</icon_url>
@@ -10172,8 +9844,8 @@
 		<tv_channel>
 			<caption>Club Sweethearts HD</caption>
 			<channel_id>6168</channel_id>
-			<epg_id>9690</epg_id>
-			<icon_url>http://epg.one/img2/3137.png</icon_url>
+			<epg_id>3155</epg_id>
+			<icon_url>http://epg.one/img2/3155.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -11162,14 +10834,6 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Prokop TV XXX</caption>
-			<channel_id>19401</channel_id>
-			<epg_id>6853</epg_id>
-			<icon_url>http://epg.one/img2/6853.png</icon_url>
-			<tv_category_id>30</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Public Agent</caption>
 			<channel_id>6246</channel_id>
 			<epg_id>3215</epg_id>
@@ -11263,14 +10927,6 @@
 			<channel_id>6255</channel_id>
 			<epg_id>3224</epg_id>
 			<icon_url>http://epg.one/img2/3224.png</icon_url>
-			<tv_category_id>30</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH SEX VR</caption>
-			<channel_id>19406</channel_id>
-			<epg_id>6854</epg_id>
-			<icon_url>http://epg.one/img2/6854.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
