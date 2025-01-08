@@ -51,25 +51,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Медиатека</caption>
+			<caption>Video On Demand</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -79,7 +79,7 @@
 			<caption>Первый канал</caption>
 			<channel_id>8001</channel_id>
 			<epg_id>1</epg_id>
-			<icon_url>https://admin.admuspeh.click/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png</icon_url>
+			<icon_url>https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -566,7 +566,7 @@
 			<epg_id>345</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD%20orig.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Вопросы и ответы</caption>
@@ -582,7 +582,7 @@
 			<epg_id>313</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0%20orig.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>В мире животных HD</caption>
@@ -766,7 +766,7 @@
 			<epg_id>89</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%90%D0%B2%D1%82%D0%BE%20%D0%9F%D0%BB%D1%8E%D1%81%20orig.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Охота и Рыбалка</caption>
@@ -1086,7 +1086,7 @@
 			<epg_id>288</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%A3%D0%B4%D0%B0%D1%80%20HD%20orig.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MMA-TV HD</caption>
@@ -1094,7 +1094,7 @@
 			<epg_id>319</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/MMA-TV.com%20HD.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Бокс ТВ</caption>
@@ -1102,7 +1102,7 @@
 			<epg_id>186</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%91%D0%BE%D0%BA%D1%81%20%D0%A2%D0%92%20HD.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч!</caption>
@@ -1110,7 +1110,7 @@
 			<epg_id>15</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9C%D0%90%D0%A2%D0%A7!%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч! HD</caption>
@@ -1126,7 +1126,7 @@
 			<epg_id>26</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%91%D0%BE%D0%B5%D1%86%20HD.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч! Арена</caption>
@@ -1134,15 +1134,15 @@
 			<epg_id>17</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%90%D1%80%D0%B5%D0%BD%D0%B0%20HD%20orig.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>МАТЧ! СТРАНА</caption>
+			<caption>Матч! Страна</caption>
 			<channel_id>8019</channel_id>
 			<epg_id>18</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0%20HD.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>МАТЧ Премьер</caption>
@@ -1150,23 +1150,23 @@
 			<epg_id>22</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%20FHD.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>МАТЧ! ИГРА</caption>
+			<caption>МАТЧ! Игра</caption>
 			<channel_id>8024</channel_id>
 			<epg_id>23</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%98%D0%B3%D1%80%D0%B0%20FHD.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Матч! Футбол1</caption>
+			<caption>Матч! Футбол 1</caption>
 			<channel_id>8021</channel_id>
 			<epg_id>20</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%201%20FHD.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч! Футбол 1 HD</caption>
@@ -1198,7 +1198,7 @@
 			<epg_id>28</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20FHD.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Футбол HD</caption>
@@ -1244,7 +1244,7 @@
 			<epg_id>24</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/KHL%20HD.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>NBA TV US</caption>
@@ -1252,7 +1252,7 @@
 			<epg_id>57</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/NBA%20TV%20HD%20US.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Eurosport 1</caption>
@@ -1260,7 +1260,7 @@
 			<epg_id>13</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Eurosport%201%20HD.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Eurosport 1 HD</caption>
@@ -1299,7 +1299,7 @@
 			<epg_id>92</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Extreme%20Sports%20orig.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ESPN</caption>
@@ -1314,7 +1314,7 @@
 			<epg_id>14</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/VIASAT%20SPORT%20HD%20SE.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Живи!</caption>
@@ -1346,7 +1346,7 @@
 			<epg_id>610</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Setanta%20Sports%202%20HD.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТНТ MUSIC</caption>
@@ -1480,7 +1480,7 @@
 			<epg_id>280</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Viju TV 1000</caption>
@@ -1488,7 +1488,7 @@
 			<epg_id>45</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Viju%20TV1000%20HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Viju+ Premiere HD</caption>
@@ -1496,7 +1496,7 @@
 			<epg_id>113</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Viju+%20Premiere%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Viju+ Megahit HD</caption>
@@ -1504,7 +1504,7 @@
 			<epg_id>103</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Viju+%20Megahit%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Viju TV 1000 Action</caption>
@@ -1512,7 +1512,7 @@
 			<epg_id>46</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Viju%20TV1000%20Action%20HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Viju+ Comedy</caption>
@@ -1520,7 +1520,7 @@
 			<epg_id>102</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Viju+%20Comedy%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Vijy TV 1000 Русское Кино</caption>
@@ -1528,7 +1528,7 @@
 			<epg_id>47</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Viju%20TV1000%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Viju TV1000 новелла HD</caption>
@@ -1559,6 +1559,7 @@
 			<epg_id>366</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.%20%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Наш Детектив</caption>
@@ -1566,7 +1567,7 @@
 			<epg_id>876</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9D%D0%B0%D1%88%D0%B5%20HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русский роман</caption>
@@ -1574,7 +1575,7 @@
 			<epg_id>10</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Красная линия</caption>
@@ -1582,7 +1583,7 @@
 			<epg_id>328</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кинохит</caption>
@@ -1590,7 +1591,7 @@
 			<epg_id>36</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82%20HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Киномикс</caption>
@@ -1598,7 +1599,7 @@
 			<epg_id>37</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D1%81%20HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Киносвидание</caption>
@@ -1606,7 +1607,7 @@
 			<epg_id>38</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кинокомедия</caption>
@@ -1614,7 +1615,7 @@
 			<epg_id>39</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Киносерия</caption>
@@ -1622,7 +1623,7 @@
 			<epg_id>40</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D1%80%D0%B8%D1%8F%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Киносемья</caption>
@@ -1630,7 +1631,7 @@
 			<epg_id>44</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D1%8F%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Наше Новое Кино</caption>
@@ -1638,7 +1639,7 @@
 			<epg_id>41</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кинопремьера</caption>
@@ -1646,7 +1647,7 @@
 			<epg_id>185</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%D0%B0%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Киноужас HD</caption>
@@ -1654,7 +1655,7 @@
 			<epg_id>310</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%83%D0%B6%D0%B0%D1%81%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кинопоказ</caption>
@@ -1662,7 +1663,7 @@
 			<epg_id>130</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Индийское кино</caption>
@@ -1670,7 +1671,7 @@
 			<epg_id>35</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Мужское кино</caption>
@@ -1678,7 +1679,7 @@
 			<epg_id>66</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Наше Мужское HD</caption>
@@ -1693,7 +1694,7 @@
 			<epg_id>90</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%A0%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Дом Кино</caption>
@@ -1701,7 +1702,7 @@
 			<epg_id>127</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Дом Кино Премиум HD</caption>
@@ -1709,7 +1710,7 @@
 			<epg_id>285</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Настоящее страшное ТВ</caption>
@@ -1717,7 +1718,7 @@
 			<epg_id>153</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9D%D0%A1%D0%A2%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кино ТВ</caption>
@@ -1725,7 +1726,7 @@
 			<epg_id>192</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Еврокино</caption>
@@ -1733,7 +1734,7 @@
 			<epg_id>32</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Иллюзион+</caption>
@@ -1741,7 +1742,7 @@
 			<epg_id>125</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD+%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>• sci-fi</caption>
@@ -1749,7 +1750,7 @@
 			<epg_id>109</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/.sci-fi%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>• black</caption>
@@ -1757,7 +1758,7 @@
 			<epg_id>350</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/.black%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>• red</caption>
@@ -1780,7 +1781,7 @@
 			<epg_id>48</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/FOX%20HD%20PL.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Fox HD</caption>
@@ -1796,7 +1797,7 @@
 			<epg_id>49</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Fox%20Life%20HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Любимое HD</caption>
@@ -1848,7 +1849,7 @@
 			<epg_id>27</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20FHD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Душевное HD</caption>
@@ -1864,7 +1865,7 @@
 			<epg_id>291</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%A8%D0%BE%D0%BA%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B5%D0%B5%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русский Экстрим</caption>
@@ -1872,7 +1873,7 @@
 			<epg_id>25</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Russian%20Extreme%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русский Иллюзион</caption>
@@ -1880,7 +1881,7 @@
 			<epg_id>123</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русский Детектив</caption>
@@ -1888,7 +1889,7 @@
 			<epg_id>149</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русский бестселлер</caption>
@@ -1896,7 +1897,7 @@
 			<epg_id>150</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D0%B5%D1%81%D1%82%D1%81%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Остросюжетное HD</caption>
@@ -1912,7 +1913,7 @@
 			<epg_id>292</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D0%B9%D0%BD%D0%BE%D0%B5%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Сапфир HD</caption>
@@ -1950,7 +1951,7 @@
 			<epg_id>341</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%A4%D0%B5%D0%BD%D0%B8%D0%BA%D1%81%20%D0%BF%D0%BB%D1%8E%D1%81%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Zee TV</caption>
@@ -1966,7 +1967,7 @@
 			<epg_id>159</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Comedy%20Central%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Amedia 1</caption>
@@ -1974,7 +1975,7 @@
 			<epg_id>33</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Amedia%201%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Amedia 1 HD</caption>
@@ -2005,7 +2006,7 @@
 			<epg_id>147</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Amedia%20Hit%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Hollywood HD</caption>
@@ -2013,7 +2014,7 @@
 			<epg_id>429</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Hollywood%20HD%20orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Bollywood HD</caption>
@@ -2060,7 +2061,7 @@
 			<epg_id>348</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/Filmbox%20Arthouse%20HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Star Cinema HD</caption>

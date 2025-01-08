@@ -56,25 +56,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Медиатека</caption>
+			<caption>Video On Demand</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -568,6 +568,7 @@
 			<tvg_id>5100</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/5100.png</icon_url>
 			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТВ Центр HD</caption>
@@ -593,15 +594,6 @@
 			<icon_url>http://iptv-content.rv77.pw/220x132/6680.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>26 регион HD</caption>
-			<channel_id>22951</channel_id>
-			<epg_id>22951</epg_id>
-			<tvg_id>22951</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22951.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>HGTV [UK]</caption>
@@ -656,14 +648,6 @@
 			<icon_url>http://iptv-content.rv77.pw/220x132/23555.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Вестник Надыма</caption>
-			<channel_id>3430</channel_id>
-			<epg_id>3430</epg_id>
-			<tvg_id>3430</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/3430.png</icon_url>
-			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Время Н</caption>
@@ -846,15 +830,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Юрган</caption>
-			<channel_id>23462</channel_id>
-			<epg_id>23462</epg_id>
-			<tvg_id>23462</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/23462.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Осетия-Ирыстон</caption>
 			<channel_id>3644</channel_id>
 			<epg_id>3644</epg_id>
@@ -983,15 +958,6 @@
 			<tvg_id>6753</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/6753.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>#КтоКуда</caption>
-			<channel_id>17453</channel_id>
-			<epg_id>17453</epg_id>
-			<tvg_id>17453</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/17453.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>24 Техно</caption>
@@ -3621,14 +3587,6 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кино без границ</caption>
-			<channel_id>7006</channel_id>
-			<epg_id>7006</epg_id>
-			<tvg_id>7006</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/7006.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Sumiko HD</caption>
 			<channel_id>7007</channel_id>
 			<epg_id>7007</epg_id>
@@ -4816,14 +4774,6 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Classic Music</caption>
-			<channel_id>7276</channel_id>
-			<epg_id>7276</epg_id>
-			<tvg_id>7276</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/7276.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>BOX RU.RAP HD</caption>
 			<channel_id>20889</channel_id>
 			<epg_id>20889</epg_id>
@@ -4853,14 +4803,6 @@
 			<epg_id>21016</epg_id>
 			<tvg_id>21016</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/21016.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>192 TV</caption>
-			<channel_id>1192</channel_id>
-			<epg_id>1192</epg_id>
-			<tvg_id>1192</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/1192.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>

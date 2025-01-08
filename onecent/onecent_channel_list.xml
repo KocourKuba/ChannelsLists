@@ -56,19 +56,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -1369,15 +1369,6 @@
 			<icon_url>http://1lot.tv/ch/7737.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Comedy Central HD</caption>
-			<channel_id>6451</channel_id>
-			<epg_id>paramount-comedy-ua</epg_id>
-			<tvg_id>paramount-comedy-ua</tvg_id>
-			<icon_url>http://1lot.tv/ch/6451.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Comedy Central</caption>
@@ -4080,15 +4071,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Prokop TV Кулинар</caption>
-			<channel_id>9369</channel_id>
-			<epg_id>NewYear</epg_id>
-			<tvg_id>NewYear</tvg_id>
-			<icon_url>http://1lot.tv/ch/9369.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Kino 24</caption>
 			<channel_id>9405</channel_id>
 			<epg_id>kino-24</epg_id>
@@ -5358,87 +5340,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Prokop TV Criminal HD</caption>
-			<channel_id>8085</channel_id>
-			<epg_id>prokopcriminal</epg_id>
-			<tvg_id>prokopcriminal</tvg_id>
-			<icon_url>http://1lot.tv/ch/8085.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Fantazy HD</caption>
-			<channel_id>8086</channel_id>
-			<epg_id>prokopfantazy</epg_id>
-			<tvg_id>prokopfantazy</tvg_id>
-			<icon_url>http://1lot.tv/ch/8086.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Horror HD</caption>
-			<channel_id>8088</channel_id>
-			<epg_id>prokophorror</epg_id>
-			<tvg_id>prokophorror</tvg_id>
-			<icon_url>http://1lot.tv/ch/8088.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Serial HD</caption>
-			<channel_id>8090</channel_id>
-			<epg_id>prokopserial</epg_id>
-			<tvg_id>prokopserial</tvg_id>
-			<icon_url>http://1lot.tv/ch/8090.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Cinema Best HD</caption>
-			<channel_id>8092</channel_id>
-			<epg_id>prokopcinema</epg_id>
-			<tvg_id>prokopcinema</tvg_id>
-			<icon_url>http://1lot.tv/ch/8092.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV History HD</caption>
-			<channel_id>8093</channel_id>
-			<epg_id>prokophistory</epg_id>
-			<tvg_id>prokophistory</tvg_id>
-			<icon_url>http://1lot.tv/ch/8093.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Comedy HD</caption>
-			<channel_id>8094</channel_id>
-			<epg_id>prokopcomedy</epg_id>
-			<tvg_id>prokopcomedy</tvg_id>
-			<icon_url>http://1lot.tv/ch/8094.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Cinema 60 FPS</caption>
-			<channel_id>8097</channel_id>
-			<epg_id>prokopcinema-60fps</epg_id>
-			<tvg_id>prokopcinema-60fps</tvg_id>
-			<icon_url>http://1lot.tv/ch/8097.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Вторая мировая</caption>
-			<channel_id>8098</channel_id>
-			<epg_id>prokopcinema-v</epg_id>
-			<tvg_id>prokopcinema-v</tvg_id>
-			<icon_url>http://1lot.tv/ch/8098.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Magic VHS</caption>
 			<channel_id>8101</channel_id>
 			<epg_id>magic-vhs</epg_id>
@@ -5615,42 +5516,6 @@
 			<epg_id>eye-cyber</epg_id>
 			<tvg_id>eye-cyber</tvg_id>
 			<icon_url>http://1lot.tv/ch/8211.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Detektiv HD</caption>
-			<channel_id>8223</channel_id>
-			<epg_id>prokopdetektiv</epg_id>
-			<tvg_id>prokopdetektiv</tvg_id>
-			<icon_url>http://1lot.tv/ch/8223.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Netflix HD</caption>
-			<channel_id>8228</channel_id>
-			<epg_id>prokopnetflix</epg_id>
-			<tvg_id>prokopnetflix</tvg_id>
-			<icon_url>http://1lot.tv/ch/8228.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Kung Fu</caption>
-			<channel_id>8502</channel_id>
-			<epg_id>prokopkung-fu</epg_id>
-			<tvg_id>prokopkung-fu</tvg_id>
-			<icon_url>http://1lot.tv/ch/8502.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV HD UA</caption>
-			<channel_id>8225</channel_id>
-			<epg_id>prokoppremiere</epg_id>
-			<tvg_id>prokoppremiere</tvg_id>
-			<icon_url>http://1lot.tv/ch/8225.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -5844,51 +5709,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Cobra TV Melodrama</caption>
-			<channel_id>8759</channel_id>
-			<epg_id>cobratvmelodrama</epg_id>
-			<tvg_id>cobratvmelodrama</tvg_id>
-			<icon_url>http://1lot.tv/ch/8759.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cobra TV Comedy</caption>
-			<channel_id>8760</channel_id>
-			<epg_id>cobratvcomedy</epg_id>
-			<tvg_id>cobratvcomedy</tvg_id>
-			<icon_url>http://1lot.tv/ch/8760.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cobra TV Triller</caption>
-			<channel_id>8761</channel_id>
-			<epg_id>cobratvtriller</epg_id>
-			<tvg_id>cobratvtriller</tvg_id>
-			<icon_url>http://1lot.tv/ch/8761.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cobra TV Detektiv</caption>
-			<channel_id>8762</channel_id>
-			<epg_id>cobratvdetectiv</epg_id>
-			<tvg_id>cobratvdetectiv</tvg_id>
-			<icon_url>http://1lot.tv/ch/8762.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cobra TV Drama</caption>
-			<channel_id>8768</channel_id>
-			<epg_id>cobratvdrama</epg_id>
-			<tvg_id>cobratvdrama</tvg_id>
-			<icon_url>http://1lot.tv/ch/8768.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Diafilm Fantastic</caption>
 			<channel_id>8825</channel_id>
 			<epg_id>no_epg_cinema</epg_id>
@@ -6020,15 +5840,6 @@
 			<epg_id>kinofestival-mm</epg_id>
 			<tvg_id>kinofestival-mm</tvg_id>
 			<icon_url>http://1lot.tv/ch/9029.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV New Films HD</caption>
-			<channel_id>8089</channel_id>
-			<epg_id>prokopcinema-fhd</epg_id>
-			<tvg_id>prokopcinema-fhd</tvg_id>
-			<icon_url>http://1lot.tv/ch/8089.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -6636,15 +6447,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Prokop TV Show HD</caption>
-			<channel_id>8226</channel_id>
-			<epg_id>prokopshow</epg_id>
-			<tvg_id>prokopshow</tvg_id>
-			<icon_url>http://1lot.tv/ch/8226.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>MM OldSchool HD</caption>
 			<channel_id>8231</channel_id>
 			<epg_id>oldschool-mm</epg_id>
@@ -7064,15 +6866,6 @@
 			<epg_id>SKYHIGHDOCUHD</epg_id>
 			<tvg_id>SKYHIGHDOCUHD</tvg_id>
 			<icon_url>http://1lot.tv/ch/7972.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Cinema 4K</caption>
-			<channel_id>8249</channel_id>
-			<epg_id>prokopcinema-uhd</epg_id>
-			<tvg_id>prokopcinema-uhd</tvg_id>
-			<icon_url>http://1lot.tv/ch/8249.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -7790,7 +7583,7 @@
 		<tv_channel>
 			<caption>NBA TV</caption>
 			<channel_id>6307</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>nba-tv-us</epg_id>
 			<tvg_id>no_epg_sport</tvg_id>
 			<icon_url>http://1lot.tv/ch/6307.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -7871,7 +7664,7 @@
 		<tv_channel>
 			<caption>V Sport Football HD</caption>
 			<channel_id>7733</channel_id>
-			<epg_id>viasat-fotboll-hd</epg_id>
+			<epg_id>v-sport-football-se</epg_id>
 			<tvg_id>viasat-fotboll-hd</tvg_id>
 			<icon_url>http://1lot.tv/ch/7733.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -7898,7 +7691,7 @@
 		<tv_channel>
 			<caption>Sky Sports Mix HD</caption>
 			<channel_id>7917</channel_id>
-			<epg_id>sky-sports-mix</epg_id>
+			<epg_id>sky-sport-mix-de</epg_id>
 			<tvg_id>sky-sports-mix</tvg_id>
 			<icon_url>http://1lot.tv/ch/7917.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -7952,7 +7745,7 @@
 		<tv_channel>
 			<caption>NHL Network HD</caption>
 			<channel_id>7926</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>nhl-network-us</epg_id>
 			<tvg_id>no_epg_sport</tvg_id>
 			<icon_url>http://1lot.tv/ch/7926.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -7961,7 +7754,7 @@
 		<tv_channel>
 			<caption>NHL HD</caption>
 			<channel_id>7997</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>nhl-network-us</epg_id>
 			<tvg_id>no_epg_sport</tvg_id>
 			<icon_url>http://1lot.tv/ch/7997.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -7970,7 +7763,7 @@
 		<tv_channel>
 			<caption>NFL Network HD</caption>
 			<channel_id>7927</channel_id>
-			<epg_id>nfl-network</epg_id>
+			<epg_id>nfl-network-us</epg_id>
 			<tvg_id>nfl-network</tvg_id>
 			<icon_url>http://1lot.tv/ch/7927.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -7979,7 +7772,7 @@
 		<tv_channel>
 			<caption>MLB Network HD</caption>
 			<channel_id>7928</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>mlb-network-us</epg_id>
 			<tvg_id>no_epg</tvg_id>
 			<icon_url>http://1lot.tv/ch/7928.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -8013,7 +7806,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>NBC Sports Network HD</caption>
+			<caption>Sportsnet New York</caption>
 			<channel_id>7932</channel_id>
 			<epg_id>no_epg</epg_id>
 			<tvg_id>no_epg</tvg_id>
@@ -8159,7 +7952,7 @@
 		<tv_channel>
 			<caption>Motor Trend HD</caption>
 			<channel_id>8175</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>motor-trend-it</epg_id>
 			<tvg_id>no_epg_sport</tvg_id>
 			<icon_url>http://1lot.tv/ch/8175.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -8195,7 +7988,7 @@
 		<tv_channel>
 			<caption>Sky Sport News HD</caption>
 			<channel_id>8367</channel_id>
-			<epg_id>sky-sports-news</epg_id>
+			<epg_id>sky-sport-news-de</epg_id>
 			<tvg_id>sky-sports-news</tvg_id>
 			<icon_url>http://1lot.tv/ch/8367.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -8204,7 +7997,7 @@
 		<tv_channel>
 			<caption>Ziggo Sport 2</caption>
 			<channel_id>8368</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>ziggo-sport2-nl</epg_id>
 			<tvg_id>no_epg_sport</tvg_id>
 			<icon_url>http://1lot.tv/ch/8368.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -8240,7 +8033,7 @@
 		<tv_channel>
 			<caption>Sky Sport F1 HD</caption>
 			<channel_id>8374</channel_id>
-			<epg_id>sky-sports-f1</epg_id>
+			<epg_id>sky-sport-f1-de</epg_id>
 			<tvg_id>sky-sports-f1</tvg_id>
 			<icon_url>http://1lot.tv/ch/8374.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -8636,7 +8429,7 @@
 		<tv_channel>
 			<caption>Sport 1 HD CZ</caption>
 			<channel_id>8847</channel_id>
-			<epg_id>sport1-slo</epg_id>
+			<epg_id>sport-1-cz</epg_id>
 			<tvg_id>no_epg_sport</tvg_id>
 			<icon_url>http://1lot.tv/ch/8847.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -8645,7 +8438,7 @@
 		<tv_channel>
 			<caption>Sport 2 HD CZ</caption>
 			<channel_id>8848</channel_id>
-			<epg_id>sport2-slo</epg_id>
+			<epg_id>sport-2-cz</epg_id>
 			<tvg_id>no_epg_sport</tvg_id>
 			<icon_url>http://1lot.tv/ch/8848.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -8654,7 +8447,7 @@
 		<tv_channel>
 			<caption>Setanta Sports 3 HD</caption>
 			<channel_id>8912</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>setanta3-ge</epg_id>
 			<tvg_id>no_epg</tvg_id>
 			<icon_url>http://1lot.tv/ch/8912.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -8771,7 +8564,7 @@
 		<tv_channel>
 			<caption>V Sport Premium HD</caption>
 			<channel_id>9020</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>v-sport-premium-se</epg_id>
 			<tvg_id>no_epg</tvg_id>
 			<icon_url>http://1lot.tv/ch/9020.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -9516,15 +9309,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Prokop TV Сказки СССР</caption>
-			<channel_id>8099</channel_id>
-			<epg_id>prokopskazki-ussr</epg_id>
-			<tvg_id>prokopskazki-ussr</tvg_id>
-			<icon_url>http://1lot.tv/ch/8099.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Magic Disney</caption>
 			<channel_id>8104</channel_id>
 			<epg_id>magic-disney</epg_id>
@@ -9624,15 +9408,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Prokop TV Simpsons HD UA</caption>
-			<channel_id>8222</channel_id>
-			<epg_id>prokopsimsons</epg_id>
-			<tvg_id>prokopsimsons</tvg_id>
-			<icon_url>http://1lot.tv/ch/8222.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>MyTV Kids</caption>
 			<channel_id>8216</channel_id>
 			<epg_id>MYTVmytvkids-4</epg_id>
@@ -9669,15 +9444,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Prokop TV Масяня</caption>
-			<channel_id>8500</channel_id>
-			<epg_id>prokopmasyanya</epg_id>
-			<tvg_id>prokopmasyanya</tvg_id>
-			<icon_url>http://1lot.tv/ch/8500.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Детский Мир</caption>
 			<channel_id>8599</channel_id>
 			<epg_id>detsky-mir</epg_id>
@@ -9701,15 +9467,6 @@
 			<epg_id>no_epg_mult</epg_id>
 			<tvg_id>no_epg_mult</tvg_id>
 			<icon_url>http://1lot.tv/ch/8827.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Мульт HD UA</caption>
-			<channel_id>9214</channel_id>
-			<epg_id>Prokop_mylt_ua</epg_id>
-			<tvg_id>Prokop_mylt_ua</tvg_id>
-			<icon_url>http://1lot.tv/ch/9214.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -10434,15 +10191,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Bambarbia TВ</caption>
-			<channel_id>7673</channel_id>
-			<epg_id>bambarbia</epg_id>
-			<tvg_id>bambarbia</tvg_id>
-			<icon_url>http://1lot.tv/ch/7673.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Первый Космический HD</caption>
 			<channel_id>7703</channel_id>
 			<epg_id>eureka-hd</epg_id>
@@ -10592,15 +10340,6 @@
 			<epg_id>megamir-mm</epg_id>
 			<tvg_id>megamir-mm</tvg_id>
 			<icon_url>http://1lot.tv/ch/8056.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Docu HD</caption>
-			<channel_id>8096</channel_id>
-			<epg_id>prokopdocu</epg_id>
-			<tvg_id>prokopdocu</tvg_id>
-			<icon_url>http://1lot.tv/ch/8096.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -11721,24 +11460,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Prokop TV Music</caption>
-			<channel_id>8087</channel_id>
-			<epg_id>prokopmusic</epg_id>
-			<tvg_id>prokopmusic</tvg_id>
-			<icon_url>http://1lot.tv/ch/8087.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Peters Pop Show</caption>
-			<channel_id>8100</channel_id>
-			<epg_id>prokoprock</epg_id>
-			<tvg_id>prokoprock</tvg_id>
-			<icon_url>http://1lot.tv/ch/8100.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>MTV Hits</caption>
 			<channel_id>811</channel_id>
 			<epg_id>mtv-hits</epg_id>
@@ -11838,15 +11559,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Prokop TV Hip Hop</caption>
-			<channel_id>8501</channel_id>
-			<epg_id>prokophip-hop</epg_id>
-			<tvg_id>prokophip-hop</tvg_id>
-			<icon_url>http://1lot.tv/ch/8501.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Citrus Live HD</caption>
 			<channel_id>8253</channel_id>
 			<epg_id>c-live</epg_id>
@@ -11906,15 +11618,6 @@
 			<epg_id>no_epg_music</epg_id>
 			<tvg_id>no_epg_music</tvg_id>
 			<icon_url>http://1lot.tv/ch/8763.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>9 Волна</caption>
-			<channel_id>8349</channel_id>
-			<epg_id>acb-tv</epg_id>
-			<tvg_id>acb-tv</tvg_id>
-			<icon_url>http://1lot.tv/ch/8349.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -12212,15 +11915,6 @@
 			<epg_id>klirelax</epg_id>
 			<tvg_id>klirelax</tvg_id>
 			<icon_url>http://1lot.tv/ch/9363.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Hard and Heavy Concerts HD</caption>
-			<channel_id>9396</channel_id>
-			<epg_id>ProkopTVrockconcert</epg_id>
-			<tvg_id>ProkopTVrockconcert</tvg_id>
-			<icon_url>http://1lot.tv/ch/9396.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -13184,15 +12878,6 @@
 			<epg_id>SKYHIGHSEX</epg_id>
 			<tvg_id>SKYHIGHSEX</tvg_id>
 			<icon_url>http://1lot.tv/ch/8111.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV XXX</caption>
-			<channel_id>8227</channel_id>
-			<epg_id>prokopxxx</epg_id>
-			<tvg_id>prokopxxx</tvg_id>
-			<icon_url>http://1lot.tv/ch/8227.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
