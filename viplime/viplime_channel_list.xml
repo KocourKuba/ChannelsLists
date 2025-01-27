@@ -66,25 +66,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Video On Demand</caption>
+			<caption>Медиатека</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -1429,26 +1429,10 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Action HD</caption>
-			<channel_id>1375</channel_id>
-			<epg_id>1375</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1375.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>KLI Cinema HD</caption>
 			<channel_id>1343</channel_id>
 			<epg_id>1343</epg_id>
 			<icon_url>http://epg.cdntv.online/img/1343.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Famliy HD</caption>
-			<channel_id>1377</channel_id>
-			<epg_id>1377</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1377.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1493,14 +1477,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Retro HD</caption>
-			<channel_id>1378</channel_id>
-			<epg_id>1378</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1378.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>KLI Russian HD</caption>
 			<channel_id>1372</channel_id>
 			<epg_id>1372</epg_id>
@@ -1509,26 +1485,10 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI VHS HD</caption>
-			<channel_id>1374</channel_id>
-			<epg_id>1374</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1374.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>KLI Комедия HD</caption>
 			<channel_id>1345</channel_id>
 			<epg_id>1345</epg_id>
 			<icon_url>http://epg.cdntv.online/img/1345.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI СССР HD</caption>
-			<channel_id>1376</channel_id>
-			<epg_id>1376</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1376.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1765,30 +1725,6 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Мультик HD</caption>
-			<channel_id>1420</channel_id>
-			<epg_id>1420</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1420.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Docu HD</caption>
-			<channel_id>1421</channel_id>
-			<epg_id>1421</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1421.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Шансон</caption>
-			<channel_id>1422</channel_id>
-			<epg_id>1422</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1422.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Lorence TV</caption>
 			<channel_id>1423</channel_id>
 			<epg_id>1423</epg_id>
@@ -1800,46 +1736,6 @@
 			<channel_id>1426</channel_id>
 			<epg_id>1426</epg_id>
 			<icon_url>http://epg.cdntv.online/img/1426.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI DRAMA HD</caption>
-			<channel_id>1479</channel_id>
-			<epg_id>1479</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1479.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Humor HD</caption>
-			<channel_id>1480</channel_id>
-			<epg_id>1480</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1480.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Club HD</caption>
-			<channel_id>1482</channel_id>
-			<epg_id>1482</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1482.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Кино серия HD</caption>
-			<channel_id>1483</channel_id>
-			<epg_id>1483</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1483.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Fantasy HD</caption>
-			<channel_id>1484</channel_id>
-			<epg_id>1484</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1484.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1947,30 +1843,6 @@
 			<epg_id>1350</epg_id>
 			<icon_url>http://epg.cdntv.online/img/1350.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI NETFLIX HD</caption>
-			<channel_id>1499</channel_id>
-			<epg_id>1499</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1499.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Millennium</caption>
-			<channel_id>1500</channel_id>
-			<epg_id>1500</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1500.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Marvel HD</caption>
-			<channel_id>1501</channel_id>
-			<epg_id>1501</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1501.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Твое ТВ Юмор</caption>
@@ -2621,13 +2493,6 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Регион 29</caption>
-			<channel_id>239</channel_id>
-			<epg_id>239</epg_id>
-			<icon_url>http://epg.cdntv.online/img/239.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>С1 HD</caption>
 			<channel_id>242</channel_id>
 			<epg_id>242</epg_id>
@@ -3097,13 +2962,6 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТК центр (Красноярск)</caption>
-			<channel_id>676</channel_id>
-			<epg_id>676</epg_id>
-			<icon_url>http://epg.cdntv.online/img/676.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>ТКР (Рязань)</caption>
 			<channel_id>677</channel_id>
 			<epg_id>677</epg_id>
@@ -3209,13 +3067,6 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТРК Луч</caption>
-			<channel_id>957</channel_id>
-			<epg_id>957</epg_id>
-			<icon_url>http://epg.cdntv.online/img/957.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>МТВ Волгоград</caption>
 			<channel_id>958</channel_id>
 			<epg_id>958</epg_id>
@@ -3241,13 +3092,6 @@
 			<channel_id>968</channel_id>
 			<epg_id>968</epg_id>
 			<icon_url>http://epg.cdntv.online/img/968.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Запад 24 (Калининград)</caption>
-			<channel_id>1096</channel_id>
-			<epg_id>1096</epg_id>
-			<icon_url>http://epg.cdntv.online/img/1096.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>

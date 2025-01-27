@@ -56,25 +56,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Video On Demand</caption>
+			<caption>Медиатека</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -536,6 +536,7 @@
 			<tvg_id>1519</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/1519.png</icon_url>
 			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Мир</caption>
@@ -577,6 +578,7 @@
 			<tvg_id>3334</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/3334.png</icon_url>
 			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Домашний HD</caption>
@@ -1046,7 +1048,7 @@
 			<tvg_id>149</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/149.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MiniMax Live Planet</caption>
@@ -1719,6 +1721,7 @@
 			<tvg_id>7047</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/7047.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Big Planet</caption>
@@ -2244,7 +2247,7 @@
 			<tvg_id>101</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/101.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>FilmBox</caption>
@@ -2905,7 +2908,7 @@
 			<tvg_id>20807</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20807.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Дом Кино</caption>
@@ -3214,15 +3217,6 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Сериал UHD</caption>
-			<channel_id>17728</channel_id>
-			<epg_id>17728</epg_id>
-			<tvg_id>17728</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/17728.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>6</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Страшное HD</caption>
 			<channel_id>218</channel_id>
 			<epg_id>218</epg_id>
@@ -3281,6 +3275,7 @@
 			<tvg_id>4830</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/4830.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU COMEDY HD</caption>
@@ -3545,6 +3540,7 @@
 			<tvg_id>7310</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/7310.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU ROMANTIC h264</caption>
@@ -3569,6 +3565,7 @@
 			<tvg_id>20797</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20797.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>KINOLIVING</caption>
@@ -3609,6 +3606,7 @@
 			<tvg_id>3084</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/3084.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Мосфильм. Золотая коллекция HD</caption>
@@ -3625,6 +3623,7 @@
 			<tvg_id>2223</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/2223.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Лавстори HD</caption>
@@ -5107,7 +5106,7 @@
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Футбольный HD</caption>
+			<caption>Мяч HD</caption>
 			<channel_id>5241</channel_id>
 			<epg_id>5241</epg_id>
 			<tvg_id>5241</tvg_id>

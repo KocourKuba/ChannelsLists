@@ -46,25 +46,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Video On Demand</caption>
+			<caption>Медиатека</caption>
 			<icon_url>plugin_file://icons/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -76,7 +76,7 @@
 			<epg_id>epg1:Первый канал</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/1200px-1канал-5.svg (1).png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>21</archive>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Первый канал</caption>
@@ -100,7 +100,7 @@
 			<epg_id>epg1:Первый канал (+6)</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Perviy ORT.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Первый канал HD</caption>
@@ -140,7 +140,7 @@
 			<epg_id>epg1:Россия 1</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/RUSSIA1HD200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>НТВ</caption>
@@ -172,7 +172,7 @@
 			<epg_id>epg1:НТВ (+6)</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/NTV.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>НТВ Мир</caption>
@@ -275,7 +275,7 @@
 			<epg_id>epg1:Время</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Vremya.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Euronews</caption>
@@ -316,7 +316,7 @@
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>CNN</caption>
+			<caption>CNN US</caption>
 			<channel_id>386</channel_id>
 			<epg_id>epg1:CNN International</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/CNNHD200.png</icon_url>
@@ -375,7 +375,7 @@
 			<epg_id>epg1:ПОБЕДА</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/POBEDA200.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Иллюзион+</caption>
@@ -463,7 +463,7 @@
 			<epg_id>epg1:ДОМ КИНО</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/DOMKINO200.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Родное кино</caption>
@@ -887,7 +887,7 @@
 			<epg_id>epg1:ТНТ</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/TNTHD200.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТНТ +4</caption>
@@ -1023,6 +1023,7 @@
 			<epg_id>epg1:SHOT TV</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/SHOTTV200 (1).png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>World Fashion Channel</caption>
@@ -1373,7 +1374,7 @@
 			<epg_id>epg1:English Class HD</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/English_club.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>21</archive>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Успех</caption>
@@ -1733,6 +1734,7 @@
 			<epg_id>epg1:Драйв</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/DRAYVTV200.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ЖИВИ!</caption>
@@ -1839,9 +1841,9 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ESPN</caption>
+			<caption>ESPN2</caption>
 			<channel_id>390</channel_id>
-			<epg_id>epg1:ESPN</epg_id>
+			<epg_id>epg1:ESPN2 US</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/ESPN_Classic_Sport.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>

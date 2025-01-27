@@ -161,25 +161,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Video On Demand</caption>
+			<caption>Медиатека</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -1704,7 +1704,7 @@
 		<tv_channel>
 			<caption>Bolt HD</caption>
 			<channel_id>1592</channel_id>
-			<epg_id>Xbolt</epg_id>
+			<epg_id>Xbolt-ru</epg_id>
 			<tvg_id>Xbolt</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/bolt.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1749,15 +1749,6 @@
 		<tv_channel>
 			<caption>Comedy Central</caption>
 			<channel_id>181</channel_id>
-			<epg_id>Xparamount-comedy</epg_id>
-			<tvg_id>Xparamount-comedy</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/comedy_central.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Comedy Central HD Україна</caption>
-			<channel_id>382</channel_id>
 			<epg_id>Xparamount-comedy</epg_id>
 			<tvg_id>Xparamount-comedy</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/comedy_central.png</icon_url>
@@ -5635,24 +5626,6 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Premier Sports 1 HD</caption>
-			<channel_id>930</channel_id>
-			<epg_id>Xpremier-sports-1</epg_id>
-			<tvg_id>Xpremier-sports-1</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/premier-sports-1.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Premier Sports 2 HD</caption>
-			<channel_id>929</channel_id>
-			<epg_id>Xpremier-sports-2</epg_id>
-			<tvg_id>Xpremier-sports-2</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/premier-sports-2.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Матч! Страна HD</caption>
 			<channel_id>212</channel_id>
 			<epg_id>Xmatch-nash-sport</epg_id>
@@ -6882,22 +6855,6 @@
 			<icon_url>https://ip-tv.dev/images/ico/pes-i-ko.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>V1 Ego HD</caption>
-			<channel_id>501</channel_id>
-			<epg_id>Xv1-ego</epg_id>
-			<tvg_id>Xv1-ego</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/v1-ego.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>V1 Fem HD</caption>
-			<channel_id>502</channel_id>
-			<epg_id>Xv1-fem</epg_id>
-			<tvg_id>Xv1-fem</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/v1-fem.png</icon_url>
-			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Museum 4K</caption>
@@ -8436,15 +8393,6 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>М1</caption>
-			<channel_id>909</channel_id>
-			<epg_id>Xm1-ua</epg_id>
-			<tvg_id>Xm1-ua</tvg_id>
-			<icon_url>https://ip-tv.dev/epg/icon/m1-ua.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>МУЗ</caption>
 			<channel_id>10</channel_id>
 			<epg_id>Xmuztv</epg_id>
@@ -9060,15 +9008,6 @@
 			<epg_id>Xbelarus3</epg_id>
 			<tvg_id>Xbelarus3</tvg_id>
 			<icon_url>https://ip-tv.dev/epg/icon/belarus3.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Беларусь 4</caption>
-			<channel_id>14677</channel_id>
-			<epg_id>Xbelarus4</epg_id>
-			<tvg_id>Xbelarus4</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/belarus4.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -13060,38 +12999,6 @@
 			<tv_category_id>22</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>EPT 1</caption>
-			<channel_id>5901</channel_id>
-			<epg_id>EPT 1</epg_id>
-			<tvg_id>EPT 1</tvg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>22</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>EPT NEWS HD</caption>
-			<channel_id>5925</channel_id>
-			<epg_id>EPT NEWS HD</epg_id>
-			<tvg_id>EPT NEWS HD</tvg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>22</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ERT World</caption>
-			<channel_id>5928</channel_id>
-			<epg_id>ERT World</epg_id>
-			<tvg_id>ERT World</tvg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>22</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Extra</caption>
-			<channel_id>5902</channel_id>
-			<epg_id>Extra</epg_id>
-			<tvg_id>Extra</tvg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>22</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Kontra HD</caption>
 			<channel_id>5903</channel_id>
 			<epg_id>Kontra HD</epg_id>
@@ -13100,9 +13007,9 @@
 			<tv_category_id>22</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Mad</caption>
+			<caption>Mad World</caption>
 			<channel_id>5904</channel_id>
-			<epg_id>Mad</epg_id>
+			<epg_id>Mad World</epg_id>
 			<tvg_id>Mad</tvg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>22</tv_category_id>
@@ -13117,28 +13024,11 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Rise</caption>
-			<channel_id>5910</channel_id>
-			<epg_id>Rise</epg_id>
-			<tvg_id>Rise</tvg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>22</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Skai GR</caption>
 			<channel_id>5923</channel_id>
 			<epg_id>Xskai-gr</epg_id>
 			<tvg_id>Xskai-gr</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/skai-gr.png</icon_url>
-			<tv_category_id>22</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Smile GR</caption>
-			<channel_id>5913</channel_id>
-			<epg_id>Xsmile-gr</epg_id>
-			<tvg_id>Xsmile-gr</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/smile-gr.png</icon_url>
 			<tv_category_id>22</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -13160,9 +13050,9 @@
 			<tv_category_id>22</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Xalastra ТВ</caption>
+			<caption>Montreal Greek TV</caption>
 			<channel_id>5441</channel_id>
-			<epg_id>Xalastra ТВ</epg_id>
+			<epg_id>Montreal Greek TV</epg_id>
 			<tvg_id>Xalastra ТВ</tvg_id>
 			<icon_url>https://ip-tv.dev/images/ico/tv-xalastra-tv.png</icon_url>
 			<tv_category_id>22</tv_category_id>
@@ -14222,15 +14112,6 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>7 канал</caption>
-			<channel_id>9916</channel_id>
-			<epg_id>X7kanal-odessa</epg_id>
-			<tvg_id>X7kanal-odessa</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/7odessa.png</icon_url>
-			<tv_category_id>30</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>ATR</caption>
 			<channel_id>9945</channel_id>
 			<epg_id>Xatr-ua</epg_id>
@@ -14391,14 +14272,6 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ІТ-3 (Чорноморськ)</caption>
-			<channel_id>8802</channel_id>
-			<epg_id>ІТ-3 (Чорноморськ)</epg_id>
-			<tvg_id>ІТ-3 (Чорноморськ)</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/it3.png</icon_url>
-			<tv_category_id>30</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Бігуді</caption>
 			<channel_id>2625</channel_id>
 			<epg_id>Xbigudi</epg_id>
@@ -14406,14 +14279,6 @@
 			<icon_url>https://ip-tv.dev/epg/icon/bigudi.png</icon_url>
 			<tv_category_id>30</tv_category_id>
 			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Вікка</caption>
-			<channel_id>6233</channel_id>
-			<epg_id>Вікка</epg_id>
-			<tvg_id>Вікка</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/vikka.png</icon_url>
-			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Дом</caption>
@@ -14692,14 +14557,6 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>С4</caption>
-			<channel_id>6236</channel_id>
-			<epg_id>С4</epg_id>
-			<tvg_id>С4</tvg_id>
-			<icon_url>https://ip-tv.dev/images/ico/c4.png</icon_url>
-			<tv_category_id>30</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>СК1</caption>
 			<channel_id>6234</channel_id>
 			<epg_id>СК1</epg_id>
@@ -14867,35 +14724,11 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Megogo Футбол 4 HD</caption>
-			<channel_id>10010</channel_id>
-			<epg_id>Xmegogo-football-4</epg_id>
-			<icon_url>https://ip-tv.dev/images/ico/megogofut.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Megogo Футбол 5 HD</caption>
-			<channel_id>10011</channel_id>
-			<epg_id>Xmegogo-football-5</epg_id>
-			<icon_url>https://ip-tv.dev/images/ico/megogofut.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Lounge FM Chill Out</caption>
 			<channel_id>10014</channel_id>
 			<epg_id>Lounge FM Chill Out</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>31</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Megogo Гонг</caption>
-			<channel_id>10012</channel_id>
-			<epg_id>Xmegogo-gong</epg_id>
-			<icon_url>https://ip-tv.dev/images/ico/megogo-gong.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Lounge FM Acoustic</caption>

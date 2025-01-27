@@ -51,25 +51,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Video On Demand</caption>
+			<caption>Медиатека</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -1072,15 +1072,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТВ21</caption>
-			<channel_id>tv-xxi</channel_id>
-			<epg_id>tv-xxi</epg_id>
-			<tvg_id>tv-xxi</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/tv-xxi.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Мосфильм HD</caption>
 			<channel_id>mosfilm-hd-orig</channel_id>
 			<epg_id>mosfilm-hd-orig</epg_id>
@@ -1518,15 +1509,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KHL HD</caption>
-			<channel_id>khl-tv-hd-orig</channel_id>
-			<epg_id>khl-tv-hd-orig</epg_id>
-			<tvg_id>khl-tv-hd-orig</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/khl-tv-hd-orig.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>KHL Prime HD</caption>
 			<channel_id>khl-prime-hd-orig</channel_id>
 			<epg_id>khl-prime-hd-orig</epg_id>
@@ -1577,24 +1559,6 @@
 			<epg_id>eurosport2-hd-orig</epg_id>
 			<tvg_id>eurosport2-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/eurosport2-hd-orig.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Sports 1 HD</caption>
-			<channel_id>setanta-sport-hd-orig</channel_id>
-			<epg_id>setanta-sport-hd-orig</epg_id>
-			<tvg_id>setanta-sport-hd-orig</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/setanta-sport-hd-orig.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Sports 2 HD</caption>
-			<channel_id>setanta-sport-plus-hd-orig</channel_id>
-			<epg_id>setanta-sport-plus-hd-orig</epg_id>
-			<tvg_id>setanta-sport-plus-hd-orig</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/setanta-sport-plus-hd-orig.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -3267,15 +3231,6 @@
 			<epg_id>ultra-hd-cinema-4k</epg_id>
 			<tvg_id>ultra-hd-cinema-4k</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/ultra-hd-cinema-4k.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сериал UHD</caption>
-			<channel_id>serial-uhd-4k</channel_id>
-			<epg_id>serial-uhd-4k</epg_id>
-			<tvg_id>serial-uhd-4k</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/serial-uhd-4k.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>

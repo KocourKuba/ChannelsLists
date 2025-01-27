@@ -61,19 +61,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -257,6 +257,7 @@
 			<tvg_id>ch007</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/7.png</icon_url>
 			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>РБК НD</caption>
@@ -284,7 +285,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Извеcтия</caption>
+			<caption>Известия</caption>
 			<channel_id>ch509</channel_id>
 			<epg_id>ch509</epg_id>
 			<tvg_id>ch509</tvg_id>
@@ -803,7 +804,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>НTВ Cериал</caption>
+			<caption>НТВ Сериал</caption>
 			<channel_id>ch620</channel_id>
 			<epg_id>ch620</epg_id>
 			<tvg_id>ch620</tvg_id>
@@ -812,7 +813,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>НTВ Xит</caption>
+			<caption>НТВ Хит</caption>
 			<channel_id>ch568</channel_id>
 			<epg_id>ch568</epg_id>
 			<tvg_id>ch568</tvg_id>
@@ -1247,7 +1248,7 @@
 			<tvg_id>ch1272</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1272.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4K Korean Music</caption>
@@ -1292,7 +1293,7 @@
 			<tvg_id>ch451</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/451.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4K Travel Blog</caption>
@@ -2934,7 +2935,7 @@
 			<tvg_id>ch236</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/236.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-			<archive>6</archive>
+			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>UK: TNT Sport 2 HD</caption>
@@ -4092,6 +4093,7 @@
 			<tvg_id>ch324</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/324.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Шансон TB</caption>

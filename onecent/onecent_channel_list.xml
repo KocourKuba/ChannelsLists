@@ -56,19 +56,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -2305,15 +2305,6 @@
 			<icon_url>http://1lot.tv/ch/7549.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ-SWIRIDENKO TV HD 2</caption>
-			<channel_id>8006</channel_id>
-			<epg_id>uz-swiridenko2</epg_id>
-			<tvg_id>uz-swiridenko2</tvg_id>
-			<icon_url>http://1lot.tv/ch/8006.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>UZ-Боевики HD</caption>
@@ -5909,7 +5900,7 @@
 		<tv_channel>
 			<caption>VeleS Киноплёнка</caption>
 			<channel_id>9385</channel_id>
-			<epg_id>veles-kinoplenka</epg_id>
+			<epg_id>veles-kinoplonk</epg_id>
 			<tvg_id>veles-kinoplenka</tvg_id>
 			<icon_url>http://1lot.tv/ch/9385.png</icon_url>
 			<tv_category_id>3</tv_category_id>
@@ -5918,7 +5909,7 @@
 		<tv_channel>
 			<caption>VeleS Криминальный</caption>
 			<channel_id>9386</channel_id>
-			<epg_id>veles-criminal</epg_id>
+			<epg_id>veles-krim</epg_id>
 			<tvg_id>veles-criminal</tvg_id>
 			<icon_url>http://1lot.tv/ch/9386.png</icon_url>
 			<tv_category_id>3</tv_category_id>
@@ -5936,7 +5927,7 @@
 		<tv_channel>
 			<caption>VeleS Premiere</caption>
 			<channel_id>9388</channel_id>
-			<epg_id>veles-premiere</epg_id>
+			<epg_id>veles-prem</epg_id>
 			<tvg_id>veles-premiere</tvg_id>
 			<icon_url>http://1lot.tv/ch/9388.png</icon_url>
 			<tv_category_id>3</tv_category_id>
@@ -5945,7 +5936,7 @@
 		<tv_channel>
 			<caption>VeleS Страшное</caption>
 			<channel_id>9389</channel_id>
-			<epg_id>veles-strashnoe</epg_id>
+			<epg_id>veles-strash</epg_id>
 			<tvg_id>veles-strashnoe</tvg_id>
 			<icon_url>http://1lot.tv/ch/9389.png</icon_url>
 			<tv_category_id>3</tv_category_id>
@@ -5954,7 +5945,7 @@
 		<tv_channel>
 			<caption>VeleS СССР</caption>
 			<channel_id>9390</channel_id>
-			<epg_id>veles-ussr</epg_id>
+			<epg_id>veles-sssr</epg_id>
 			<tvg_id>veles-ussr</tvg_id>
 			<icon_url>http://1lot.tv/ch/9390.png</icon_url>
 			<tv_category_id>3</tv_category_id>
@@ -5963,7 +5954,7 @@
 		<tv_channel>
 			<caption>VeleS Movie Hits</caption>
 			<channel_id>9392</channel_id>
-			<epg_id>veles-movie-hits</epg_id>
+			<epg_id>veles-mh</epg_id>
 			<tvg_id>veles-movie-hits</tvg_id>
 			<icon_url>http://1lot.tv/ch/9392.png</icon_url>
 			<tv_category_id>3</tv_category_id>
@@ -6179,7 +6170,7 @@
 		<tv_channel>
 			<caption>VeleS Комедия</caption>
 			<channel_id>9525</channel_id>
-			<epg_id>veles-comedy</epg_id>
+			<epg_id>veles-komed</epg_id>
 			<tvg_id>veles-comedy</tvg_id>
 			<icon_url>http://1lot.tv/ch/9525.png</icon_url>
 			<tv_category_id>3</tv_category_id>
@@ -6197,7 +6188,7 @@
 		<tv_channel>
 			<caption>VeleS Триллер</caption>
 			<channel_id>9527</channel_id>
-			<epg_id>veles-triller</epg_id>
+			<epg_id>veles-trill</epg_id>
 			<tvg_id>veles-triller</tvg_id>
 			<icon_url>http://1lot.tv/ch/9527.png</icon_url>
 			<tv_category_id>3</tv_category_id>
@@ -6206,7 +6197,7 @@
 		<tv_channel>
 			<caption>VeleS Семейный</caption>
 			<channel_id>9528</channel_id>
-			<epg_id>veles-family</epg_id>
+			<epg_id>veles-semej</epg_id>
 			<tvg_id>veles-family</tvg_id>
 			<icon_url>http://1lot.tv/ch/9528.png</icon_url>
 			<tv_category_id>3</tv_category_id>
@@ -6566,7 +6557,7 @@
 		<tv_channel>
 			<caption>TVPlay Вкусный канал HD</caption>
 			<channel_id>9230</channel_id>
-			<epg_id>TVPlayBolshayaRaznica.tv</epg_id>
+			<epg_id>TVPlayVkusniyKanal.tv</epg_id>
 			<tvg_id>TVPlayBolshayaRaznica.tv</tvg_id>
 			<icon_url>http://1lot.tv/ch/9230.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -6794,15 +6785,6 @@
 			<epg_id>kino-ultra-hd</epg_id>
 			<tvg_id>kino-ultra-hd</tvg_id>
 			<icon_url>http://1lot.tv/ch/6318.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>СЕРИАЛ UHD</caption>
-			<channel_id>6320</channel_id>
-			<epg_id>serial-ultrahd</epg_id>
-			<tvg_id>serial-ultrahd</tvg_id>
-			<icon_url>http://1lot.tv/ch/6320.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -7727,7 +7709,7 @@
 		<tv_channel>
 			<caption>FS1 HD</caption>
 			<channel_id>7924</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>fx-sports-1-us</epg_id>
 			<tvg_id>no_epg_sport</tvg_id>
 			<icon_url>http://1lot.tv/ch/7924.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -7736,7 +7718,7 @@
 		<tv_channel>
 			<caption>FS2 HD</caption>
 			<channel_id>7925</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>fx-sports-2-us</epg_id>
 			<tvg_id>no_epg_sport</tvg_id>
 			<icon_url>http://1lot.tv/ch/7925.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -7790,7 +7772,7 @@
 		<tv_channel>
 			<caption>FUBO Sports Network HD</caption>
 			<channel_id>7930</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>fubo-sports-network-us</epg_id>
 			<tvg_id>no_epg</tvg_id>
 			<icon_url>http://1lot.tv/ch/7930.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -7799,7 +7781,7 @@
 		<tv_channel>
 			<caption>CBS Sports Network HD</caption>
 			<channel_id>7931</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>cbs-sports-network-us</epg_id>
 			<tvg_id>no_epg</tvg_id>
 			<icon_url>http://1lot.tv/ch/7931.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -7808,7 +7790,7 @@
 		<tv_channel>
 			<caption>Sportsnet New York</caption>
 			<channel_id>7932</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>sportsnet-ny-sny-us</epg_id>
 			<tvg_id>no_epg</tvg_id>
 			<icon_url>http://1lot.tv/ch/7932.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -7826,7 +7808,7 @@
 		<tv_channel>
 			<caption>Fight Network HD</caption>
 			<channel_id>7934</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>fight-network-us</epg_id>
 			<tvg_id>no_epg</tvg_id>
 			<icon_url>http://1lot.tv/ch/7934.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -7907,7 +7889,7 @@
 		<tv_channel>
 			<caption>Tennis Channel</caption>
 			<channel_id>8015</channel_id>
-			<epg_id>no_epg_sport</epg_id>
+			<epg_id>tennis-cnl-us</epg_id>
 			<tvg_id>no_epg_sport</tvg_id>
 			<icon_url>http://1lot.tv/ch/8015.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -8015,7 +7997,7 @@
 		<tv_channel>
 			<caption>ESPN 2</caption>
 			<channel_id>8371</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>espn2-us</epg_id>
 			<tvg_id>no_epg</tvg_id>
 			<icon_url>http://1lot.tv/ch/8371.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -8024,7 +8006,7 @@
 		<tv_channel>
 			<caption>ESPN</caption>
 			<channel_id>8372</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>espn-us</epg_id>
 			<tvg_id>no_epg</tvg_id>
 			<icon_url>http://1lot.tv/ch/8372.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -8483,7 +8465,7 @@
 		<tv_channel>
 			<caption>ESPN 3</caption>
 			<channel_id>9026</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>espn3-us</epg_id>
 			<tvg_id>no_epg</tvg_id>
 			<icon_url>http://1lot.tv/ch/9026.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -12002,7 +11984,7 @@
 		<tv_channel>
 			<caption>VeleS Магнитофон</caption>
 			<channel_id>9393</channel_id>
-			<epg_id>veles-magnitofon</epg_id>
+			<epg_id>veles-mafon</epg_id>
 			<tvg_id>veles-magnitofon</tvg_id>
 			<icon_url>http://1lot.tv/ch/9393.png</icon_url>
 			<tv_category_id>9</tv_category_id>
