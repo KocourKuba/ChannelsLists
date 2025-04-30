@@ -66,19 +66,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -2269,9 +2269,9 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>NBC</caption>
+			<caption>CNBC</caption>
 			<channel_id>491</channel_id>
-			<epg_id>iptv2258</epg_id>
+			<epg_id>CNBC</epg_id>
 			<icon_url>http://epg.it999.ru/img/2258.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -2325,14 +2325,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>24horas</caption>
-			<channel_id>3035</channel_id>
-			<epg_id>24horas</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Bloomberg</caption>
 			<channel_id>3036</channel_id>
 			<epg_id>bloomberg</epg_id>
@@ -2345,6 +2337,14 @@
 			<channel_id>3037</channel_id>
 			<epg_id>al-jazeera-int</epg_id>
 			<icon_url>https://iptvx.one/picons/al-jazeera-int.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Atv Antwerpen</caption>
+			<channel_id>3611</channel_id>
+			<epg_id>Atv Antwerpen</epg_id>
+			<icon_url>https://ip-tv.dev/images/ico/atv.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -2849,14 +2849,6 @@
 			<channel_id>2044</channel_id>
 			<epg_id>MiTV Гуфи и его команда</epg_id>
 			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/23.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MiTV Jetix</caption>
-			<channel_id>2073</channel_id>
-			<epg_id>MiTV Jetix</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/322.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -3541,14 +3533,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Моторспорт ТВ</caption>
-			<channel_id>301</channel_id>
-			<epg_id>motorsportv-tv</epg_id>
-			<icon_url>https://iptvx.one/picons/motorsporttv.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Cars &amp; Stars TV HD</caption>
 			<channel_id>489</channel_id>
 			<epg_id>cars-n-stars</epg_id>
@@ -3597,7 +3581,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ESPN1 US</caption>
+			<caption>ESPN 1 US</caption>
 			<channel_id>496</channel_id>
 			<epg_id>iptv6582</epg_id>
 			<icon_url>http://epg.it999.ru/img/6582.png</icon_url>
@@ -3605,7 +3589,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ESPN2 US</caption>
+			<caption>ESPN 2 US</caption>
 			<channel_id>497</channel_id>
 			<epg_id>iptv6581</epg_id>
 			<icon_url>http://epg.it999.ru/img/6581.png</icon_url>
@@ -3720,30 +3704,6 @@
 			<caption>RTVS :Sport HD</caption>
 			<channel_id>2931</channel_id>
 			<epg_id>RTVS_Sport</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MiTV KXL</caption>
-			<channel_id>2819</channel_id>
-			<epg_id>MiTV KXL</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MiTV UFC</caption>
-			<channel_id>2820</channel_id>
-			<epg_id>MiTV UFC</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MiTV UFC 2</caption>
-			<channel_id>2821</channel_id>
-			<epg_id>MiTV UFC 2</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
@@ -4117,7 +4077,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>BT Sport 1</caption>
+			<caption>TNT Sports 1 UK</caption>
 			<channel_id>323</channel_id>
 			<epg_id>bt-sport1</epg_id>
 			<icon_url>https://iptvx.one/picons/bt-sport1.png</icon_url>
@@ -4125,7 +4085,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>BT Sport 2</caption>
+			<caption>TNT Sports 2 UK</caption>
 			<channel_id>324</channel_id>
 			<epg_id>bt-sport2</epg_id>
 			<icon_url>https://iptvx.one/picons/bt-sport2.png</icon_url>
@@ -4533,14 +4493,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>M Liga De Campeones</caption>
-			<channel_id>2926</channel_id>
-			<epg_id>M Liga De Campeones</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Viaplay Xtra</caption>
 			<channel_id>2927</channel_id>
 			<epg_id>Viaplay Xtra</epg_id>
@@ -4865,6 +4817,486 @@
 			<channel_id>3621</channel_id>
 			<epg_id>Futbol TV</epg_id>
 			<icon_url>https://ip-tv.dev/images/ico/upl3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Планета</caption>
+			<channel_id>3886</channel_id>
+			<epg_id>match-planeta</epg_id>
+			<icon_url>https://iptvx.one/picons/match-planeta.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Футбол HD</caption>
+			<channel_id>3890</channel_id>
+			<epg_id>football1-ua</epg_id>
+			<icon_url>https://iptvx.one/picons/okko-sport.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 1 HD GE</caption>
+			<channel_id>3887</channel_id>
+			<epg_id>Setanta Sports 1 HD GE</epg_id>
+			<icon_url>https://iptvx.one/picons/setanta-sports1.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 2 HD GE</caption>
+			<channel_id>3888</channel_id>
+			<epg_id>Setanta Sports 2 HD GE</epg_id>
+			<icon_url>https://iptvx.one/picons/setanta-sports2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 3 HD GE</caption>
+			<channel_id>3889</channel_id>
+			<epg_id>Setanta Sports 3 HD GE</epg_id>
+			<icon_url>https://iptvx.one/picons/setanta-sports3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports Premium HD</caption>
+			<channel_id>3962</channel_id>
+			<epg_id>Setanta Sports Premium HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>UFC TV</caption>
+			<channel_id>3953</channel_id>
+			<epg_id>ufc</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Megogo Спорт HD</caption>
+			<channel_id>3610</channel_id>
+			<epg_id>megogo-sport</epg_id>
+			<icon_url>https://iptvx.one/picons/megogo-sport.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Golf Zone TV</caption>
+			<channel_id>299</channel_id>
+			<epg_id>Golf Zone TV</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киевстар Спорт Эксклюзив HD</caption>
+			<channel_id>297</channel_id>
+			<epg_id>Киевстар Спорт Эксклюзив HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TNT Sports 3 UK</caption>
+			<channel_id>3968</channel_id>
+			<epg_id>TNT Sports 3 UK</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TNT Sports 4 UK</caption>
+			<channel_id>3944</channel_id>
+			<epg_id>TNT Sports 4 UK</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ESPN 1 NL</caption>
+			<channel_id>3989</channel_id>
+			<epg_id>ESPN 1 NL</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ESPN 2 NL</caption>
+			<channel_id>3990</channel_id>
+			<epg_id>ESPN 2 NL</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ESPN 3 NL</caption>
+			<channel_id>3991</channel_id>
+			<epg_id>ESPN 3 NL</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Football Live 1</caption>
+			<channel_id>3983</channel_id>
+			<epg_id>Football Live 1</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Football Live 2</caption>
+			<channel_id>3971</channel_id>
+			<epg_id>Football Live 2</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Football Live 3</caption>
+			<channel_id>3972</channel_id>
+			<epg_id>Football Live 3</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Football Live 4</caption>
+			<channel_id>3973</channel_id>
+			<epg_id>Football Live 4</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Football Live 5</caption>
+			<channel_id>3974</channel_id>
+			<epg_id>Football Live 5</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Football Live 6</caption>
+			<channel_id>3975</channel_id>
+			<epg_id>Football Live 6</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Football Live 7</caption>
+			<channel_id>3976</channel_id>
+			<epg_id>Football Live 7</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Football Live 8</caption>
+			<channel_id>3977</channel_id>
+			<epg_id>Football Live 8</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Football Live 9</caption>
+			<channel_id>3978</channel_id>
+			<epg_id>Football Live 9</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Football Live 10</caption>
+			<channel_id>3979</channel_id>
+			<epg_id>Football Live 10</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Football Live 11</caption>
+			<channel_id>3980</channel_id>
+			<epg_id>Football Live 11</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Football Live 12</caption>
+			<channel_id>3981</channel_id>
+			<epg_id>Football Live 12</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Football Live 13</caption>
+			<channel_id>3982</channel_id>
+			<epg_id>Football Live 13</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Megogo Футбол 1 HD</caption>
+			<channel_id>3936</channel_id>
+			<epg_id>Megogo Футбол 1 HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Megogo Футбол 2 HD</caption>
+			<channel_id>3937</channel_id>
+			<epg_id>Megogo Футбол 2 HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Megogo Футбол 3 HD</caption>
+			<channel_id>3938</channel_id>
+			<epg_id>Megogo Футбол 3 HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Megogo Футбол 4 HD</caption>
+			<channel_id>3939</channel_id>
+			<epg_id>Megogo Футбол 4 HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Megogo Футбол 5 HD</caption>
+			<channel_id>3940</channel_id>
+			<epg_id>Megogo Футбол 5 HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Megogo Гонг HD</caption>
+			<channel_id>3950</channel_id>
+			<epg_id>Megogo Гонг HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Extra 1</caption>
+			<channel_id>3945</channel_id>
+			<epg_id>Canal+ Extra 1</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Extra 2</caption>
+			<channel_id>3946</channel_id>
+			<epg_id>Canal+ Extra 2</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Extra 3</caption>
+			<channel_id>3947</channel_id>
+			<epg_id>Canal+ Extra 3</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Extra 4</caption>
+			<channel_id>3948</channel_id>
+			<epg_id>Canal+ Extra 4</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ 360</caption>
+			<channel_id>3949</channel_id>
+			<epg_id>Canal+ 360</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TSN 1</caption>
+			<channel_id>3963</channel_id>
+			<epg_id>TSN 1</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TSN 2</caption>
+			<channel_id>3964</channel_id>
+			<epg_id>TSN 2</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TSN 3</caption>
+			<channel_id>3965</channel_id>
+			<epg_id>TSN 3</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TSN 4</caption>
+			<channel_id>3966</channel_id>
+			<epg_id>TSN 4</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TSN 5</caption>
+			<channel_id>3967</channel_id>
+			<epg_id>TSN 5</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nova Sport BG</caption>
+			<channel_id>2599</channel_id>
+			<epg_id>Nova Sport BG</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Auto Motor Sport</caption>
+			<channel_id>2601</channel_id>
+			<epg_id>Auto Motor Sport</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diema Sport</caption>
+			<channel_id>2602</channel_id>
+			<epg_id>diema-sport-1</epg_id>
+			<icon_url>https://iptvx.one/picons/diema-sport-1.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diema Sport 2</caption>
+			<channel_id>2603</channel_id>
+			<epg_id>diema-sport-2</epg_id>
+			<icon_url>https://iptvx.one/picons/diema-sport-2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diema Sport 3</caption>
+			<channel_id>2604</channel_id>
+			<epg_id>diema-sport-3</epg_id>
+			<icon_url>https://iptvx.one/picons/diema-sport-3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sport 1 HD LT</caption>
+			<channel_id>11916</channel_id>
+			<epg_id>sport1-lt</epg_id>
+			<icon_url>https://iptvx.one/picons/sport1-lt.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Go3 Sport 1 HD</caption>
+			<channel_id>11907</channel_id>
+			<epg_id>tvplay-sports</epg_id>
+			<icon_url>https://iptvx.one/picons/tvplay-sports.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Go3 Sport 2 HD</caption>
+			<channel_id>11908</channel_id>
+			<epg_id>tvplay-sports-plus</epg_id>
+			<icon_url>https://iptvx.one/picons/tvplay-sports-plus.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Go3 Sport 3 HD</caption>
+			<channel_id>11909</channel_id>
+			<epg_id>tv3-sport-3</epg_id>
+			<icon_url>https://iptvx.one/picons/tv3-sport-3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Go3 Sport 4 HD</caption>
+			<channel_id>119091</channel_id>
+			<epg_id>tv3-sport-3</epg_id>
+			<icon_url>https://iptvx.one/picons/tv3-sport-3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Go3 Sport Open HD</caption>
+			<channel_id>11875</channel_id>
+			<epg_id>tv3-sport-open</epg_id>
+			<icon_url>https://iptvx.one/picons/tv3-sport-open.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Courtside 1891 TV</caption>
+			<channel_id>11912</channel_id>
+			<epg_id>FibaTV</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Super Sport 1 HD</caption>
+			<channel_id>3984</channel_id>
+			<epg_id>Super Sport 1 HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Super Sport 2 HD</caption>
+			<channel_id>3985</channel_id>
+			<epg_id>Super Sport 2 HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Super Sport 3 HD</caption>
+			<channel_id>3986</channel_id>
+			<epg_id>Super Sport 3 HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Super Sport 4 HD</caption>
+			<channel_id>3987</channel_id>
+			<epg_id>Super Sport 4 HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -6493,14 +6925,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MiTV Cinema Top</caption>
-			<channel_id>978</channel_id>
-			<epg_id>MiTV Cinema Top</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/73.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>MiTV Marvel</caption>
 			<channel_id>979</channel_id>
 			<epg_id>mitv0049</epg_id>
@@ -7189,22 +7613,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Duo 6</caption>
-			<channel_id>111898</channel_id>
-			<epg_id>SonyTurbo.blt</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Duo 3</caption>
-			<channel_id>111897</channel_id>
-			<epg_id>SonyChannel.lt</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Epic Drama</caption>
 			<channel_id>11957</channel_id>
 			<epg_id>epik-drama</epg_id>
@@ -7256,14 +7664,6 @@
 			<caption>MiTV Не сильный пол</caption>
 			<channel_id>2806</channel_id>
 			<epg_id>mitv3065</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MiTV Игра на выживания</caption>
-			<channel_id>2808</channel_id>
-			<epg_id>mitv7000</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9269,6 +9669,1269 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Romance</caption>
+			<channel_id>3634</channel_id>
+			<epg_id>romance</epg_id>
+			<icon_url>https://iptvx.one/picons/romance.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye Drive</caption>
+			<channel_id>3674</channel_id>
+			<epg_id>Eye Drive</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye Criminal</caption>
+			<channel_id>3675</channel_id>
+			<epg_id>Eye Criminal</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye Cyber</caption>
+			<channel_id>3676</channel_id>
+			<epg_id>Eye Cyber</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye Western</caption>
+			<channel_id>3677</channel_id>
+			<epg_id>Eye Western</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eye Family</caption>
+			<channel_id>3678</channel_id>
+			<epg_id>Eye Family</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS 60FPS</caption>
+			<channel_id>3689</channel_id>
+			<epg_id>VeleS 60FPS</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Киноплёнка</caption>
+			<channel_id>3690</channel_id>
+			<epg_id>VeleS Киноплёнка</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Криминальный</caption>
+			<channel_id>3691</channel_id>
+			<epg_id>VeleS Криминальный</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Киносерия</caption>
+			<channel_id>3692</channel_id>
+			<epg_id>VeleS Киносерия</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Premiere</caption>
+			<channel_id>3693</channel_id>
+			<epg_id>VeleS Premiere</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Страшное</caption>
+			<channel_id>3694</channel_id>
+			<epg_id>VeleS Страшное</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS СССР</caption>
+			<channel_id>3695</channel_id>
+			<epg_id>VeleS СССР</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Movie Hits</caption>
+			<channel_id>3696</channel_id>
+			<epg_id>VeleS Movie Hits</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Cinema</caption>
+			<channel_id>3698</channel_id>
+			<epg_id>fresh-cinema</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-cinema.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Comedy</caption>
+			<channel_id>3699</channel_id>
+			<epg_id>fresh-comedy</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-comedy.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Premiere</caption>
+			<channel_id>3700</channel_id>
+			<epg_id>fresh-premiere</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-premiere.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Family</caption>
+			<channel_id>3701</channel_id>
+			<epg_id>fresh-family</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-family.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Rating</caption>
+			<channel_id>3702</channel_id>
+			<epg_id>fresh-rating</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-rating.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh VHS</caption>
+			<channel_id>3703</channel_id>
+			<epg_id>fresh-vhs</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-vhs.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Fantastic</caption>
+			<channel_id>3704</channel_id>
+			<epg_id>fresh-fantastic</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-fantastic.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Series</caption>
+			<channel_id>3705</channel_id>
+			<epg_id>fresh-series</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-series.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Horror</caption>
+			<channel_id>3706</channel_id>
+			<epg_id>fresh-horror</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-horror.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Adventure</caption>
+			<channel_id>3707</channel_id>
+			<epg_id>fresh-adventure</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-adventure.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Romantic</caption>
+			<channel_id>3708</channel_id>
+			<epg_id>fresh-romatic</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-romantic.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Russian</caption>
+			<channel_id>3709</channel_id>
+			<epg_id>fresh-russian</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-russian.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Thriller</caption>
+			<channel_id>3710</channel_id>
+			<epg_id>fresh-thriller</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-thriller.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fresh Soviet</caption>
+			<channel_id>3711</channel_id>
+			<epg_id>fresh-soviet</epg_id>
+			<icon_url>https://iptvx.one/picons/fresh-soviet.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Criminal HD</caption>
+			<channel_id>3712</channel_id>
+			<epg_id>Prokop TV Criminal HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Fantazy HD</caption>
+			<channel_id>3713</channel_id>
+			<epg_id>Prokop TV Fantazy HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Horror HD</caption>
+			<channel_id>3714</channel_id>
+			<epg_id>Prokop TV Horror HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV New Films HD</caption>
+			<channel_id>3715</channel_id>
+			<epg_id>Prokop TV New Films HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Serial HD</caption>
+			<channel_id>3716</channel_id>
+			<epg_id>Prokop TV Serial HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Cinema Best HD</caption>
+			<channel_id>3717</channel_id>
+			<epg_id>Prokop TV Cinema Best HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV History HD</caption>
+			<channel_id>3718</channel_id>
+			<epg_id>Prokop TV History HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Comedy HD</caption>
+			<channel_id>3719</channel_id>
+			<epg_id>Prokop TV Comedy HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Cinema 60 FPS</caption>
+			<channel_id>3720</channel_id>
+			<epg_id>Prokop TV Cinema 60 FPS</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Вторая мировая</caption>
+			<channel_id>3660</channel_id>
+			<epg_id>Prokop TV Вторая мировая</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Detektiv HD</caption>
+			<channel_id>3721</channel_id>
+			<epg_id>Prokop TV Detektiv HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Netflix HD</caption>
+			<channel_id>3722</channel_id>
+			<epg_id>Prokop TV Netflix HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV Kung Fu</caption>
+			<channel_id>3723</channel_id>
+			<epg_id>Prokop TV Kung Fu</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prokop TV HD UA</caption>
+			<channel_id>3724</channel_id>
+			<epg_id>Prokop TV HD UA</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Каратист FHD</caption>
+			<channel_id>3726</channel_id>
+			<epg_id>Чебур ТВ - Каратист FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Приключения FHD</caption>
+			<channel_id>3729</channel_id>
+			<epg_id>Чебур ТВ - Приключения FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Драма FHD</caption>
+			<channel_id>3731</channel_id>
+			<epg_id>Чебур ТВ - Драма FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Триллер FHD</caption>
+			<channel_id>3732</channel_id>
+			<epg_id>Чебур ТВ - Триллер FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Ужастики FHD</caption>
+			<channel_id>3733</channel_id>
+			<epg_id>Чебур ТВ - Ужастики FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Новинки FHD</caption>
+			<channel_id>3734</channel_id>
+			<epg_id>Чебур ТВ - Новинки FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - МультЭпоха СССР</caption>
+			<channel_id>3737</channel_id>
+			<epg_id>Чебур ТВ - МультЭпоха СССР</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - oreginal</caption>
+			<channel_id>3738</channel_id>
+			<epg_id>Чебур ТВ - oreginal</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Спортивный FHD</caption>
+			<channel_id>3739</channel_id>
+			<epg_id>Чебур ТВ - Спортивный FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Армагеддон FHD</caption>
+			<channel_id>3740</channel_id>
+			<epg_id>Чебур ТВ - Армагеддон FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Назад в СССР FHD</caption>
+			<channel_id>3741</channel_id>
+			<epg_id>Чебур ТВ - Назад в СССР FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Мистика FHD</caption>
+			<channel_id>3742</channel_id>
+			<epg_id>Чебур ТВ - Мистика FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Series FHD</caption>
+			<channel_id>3743</channel_id>
+			<epg_id>Чебур ТВ - Series FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Чебурашкин MIX</caption>
+			<channel_id>3744</channel_id>
+			<epg_id>Чебур ТВ - Чебурашкин MIX</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - MultSeries FHD</caption>
+			<channel_id>3745</channel_id>
+			<epg_id>Чебур ТВ - MultSeries FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Наше Детство СССР</caption>
+			<channel_id>3746</channel_id>
+			<epg_id>Чебур ТВ - Наше Детство СССР</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Мелодрама HD</caption>
+			<channel_id>3749</channel_id>
+			<epg_id>Чебур ТВ - Мелодрама HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Смешной FHD</caption>
+			<channel_id>3750</channel_id>
+			<epg_id>Чебур ТВ - Смешной FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Семейное FHD</caption>
+			<channel_id>3751</channel_id>
+			<epg_id>Чебур ТВ - Семейное FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - RU Кино FHD</caption>
+			<channel_id>3752</channel_id>
+			<epg_id>Чебур ТВ - RU Кино FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ-Физ-Мульт Привет FHD</caption>
+			<channel_id>3753</channel_id>
+			<epg_id>Чебур ТВ-Физ-Мульт Привет FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Вестерн HD</caption>
+			<channel_id>3754</channel_id>
+			<epg_id>Чебур ТВ - Вестерн HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Военный FHD</caption>
+			<channel_id>3755</channel_id>
+			<epg_id>Чебур ТВ - Военный FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - СССР 20-е</caption>
+			<channel_id>3756</channel_id>
+			<epg_id>Чебур ТВ - СССР 20-е</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - СССР 30-е</caption>
+			<channel_id>3757</channel_id>
+			<epg_id>Чебур ТВ - СССР 30-е</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - СССР 40-е</caption>
+			<channel_id>3758</channel_id>
+			<epg_id>Чебур ТВ - СССР 40-е</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - СССР 60-е</caption>
+			<channel_id>3760</channel_id>
+			<epg_id>Чебур ТВ - СССР 60-е</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - СССР 70-е</caption>
+			<channel_id>3761</channel_id>
+			<epg_id>Чебур ТВ - СССР 70-е</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - СССР 80-е</caption>
+			<channel_id>3762</channel_id>
+			<epg_id>Чебур ТВ - СССР 80-е</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - СССР 90-е</caption>
+			<channel_id>3763</channel_id>
+			<epg_id>Чебур ТВ - СССР 90-е</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - СССР Нетленка</caption>
+			<channel_id>3764</channel_id>
+			<epg_id>Чебур ТВ - СССР Нетленка</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - СССР Сериал</caption>
+			<channel_id>3765</channel_id>
+			<epg_id>Чебур ТВ - СССР Сериал</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - RU Сериал HD</caption>
+			<channel_id>3766</channel_id>
+			<epg_id>Чебур ТВ - RU Сериал HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - История FHD</caption>
+			<channel_id>3767</channel_id>
+			<epg_id>Чебур ТВ - История FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Мюзикл FHD</caption>
+			<channel_id>3768</channel_id>
+			<epg_id>Чебур ТВ - Мюзикл FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Супергерои FHD</caption>
+			<channel_id>3769</channel_id>
+			<epg_id>Чебур ТВ - Супергерои FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Биография HD</caption>
+			<channel_id>3770</channel_id>
+			<epg_id>Чебур ТВ - Биография HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Анимешки FHD</caption>
+			<channel_id>3771</channel_id>
+			<epg_id>Чебур ТВ - Анимешки FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Пришельцы FHD</caption>
+			<channel_id>3772</channel_id>
+			<epg_id>Чебур ТВ - Пришельцы FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Зита-Гита</caption>
+			<channel_id>3774</channel_id>
+			<epg_id>Чебур ТВ - Зита-Гита</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Космос FHD</caption>
+			<channel_id>3775</channel_id>
+			<epg_id>Чебур ТВ - Космос FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Карапуз FHD</caption>
+			<channel_id>3788</channel_id>
+			<epg_id>Чебур ТВ - Карапуз FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Comedy Mix FHD</caption>
+			<channel_id>3789</channel_id>
+			<epg_id>Чебур ТВ - Comedy Mix FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Action FHD</caption>
+			<channel_id>3791</channel_id>
+			<epg_id>Чебур ТВ - Action FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Боевичок FHD</caption>
+			<channel_id>3794</channel_id>
+			<epg_id>Чебур ТВ - Боевичок FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Ru Serial Comedy</caption>
+			<channel_id>3795</channel_id>
+			<epg_id>Чебур ТВ - Ru Serial Comedy</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Матрица FHD</caption>
+			<channel_id>3796</channel_id>
+			<epg_id>Чебур ТВ - Матрица FHD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - Балабол</caption>
+			<channel_id>3797</channel_id>
+			<epg_id>Чебур ТВ - Балабол</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - ДОКУ Планета Динозавров</caption>
+			<channel_id>3798</channel_id>
+			<epg_id>Чебур ТВ - ДОКУ Планета Динозавров</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - ДОКУ Univerce</caption>
+			<channel_id>3799</channel_id>
+			<epg_id>Чебур ТВ - ДОКУ Univerce</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - ДОКУ Science</caption>
+			<channel_id>3800</channel_id>
+			<epg_id>Чебур ТВ - ДОКУ Science</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чебур ТВ - На Краю Вселенной HD</caption>
+			<channel_id>3801</channel_id>
+			<epg_id>Чебур ТВ - На Краю Вселенной HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV Fantastic</caption>
+			<channel_id>3802</channel_id>
+			<epg_id>Dosug TV Fantastic</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV History</caption>
+			<channel_id>3803</channel_id>
+			<epg_id>Dosug TV History</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV HIT</caption>
+			<channel_id>3804</channel_id>
+			<epg_id>Dosug TV HIT</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV Horror</caption>
+			<channel_id>3805</channel_id>
+			<epg_id>Dosug TV Horror</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV Kids</caption>
+			<channel_id>3806</channel_id>
+			<epg_id>Dosug TV Kids</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV Marvel</caption>
+			<channel_id>3807</channel_id>
+			<epg_id>Dosug TV Marvel</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV Russian</caption>
+			<channel_id>3808</channel_id>
+			<epg_id>Dosug TV Russian</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV VHS</caption>
+			<channel_id>3809</channel_id>
+			<epg_id>Dosug TV VHS</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV Сваты</caption>
+			<channel_id>3810</channel_id>
+			<epg_id>Dosug TV Сваты</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV Сериал</caption>
+			<channel_id>3811</channel_id>
+			<epg_id>Dosug TV Сериал</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV СССР</caption>
+			<channel_id>3812</channel_id>
+			<epg_id>Dosug TV СССР</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV Ходячие мертвецы</caption>
+			<channel_id>3813</channel_id>
+			<epg_id>Dosug TV Ходячие мертвецы</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV New</caption>
+			<channel_id>3814</channel_id>
+			<epg_id>Dosug TV New</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dosug TV Comedy</caption>
+			<channel_id>3885</channel_id>
+			<epg_id>Dosug TV Comedy</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Channel HD</caption>
+			<channel_id>3815</channel_id>
+			<epg_id>Z!Channel HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Comedy HD</caption>
+			<channel_id>3816</channel_id>
+			<epg_id>Z!Comedy HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Crime HD</caption>
+			<channel_id>3817</channel_id>
+			<epg_id>Z!Crime HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Horror HD</caption>
+			<channel_id>3818</channel_id>
+			<epg_id>Z!Horror HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Serial HD</caption>
+			<channel_id>3819</channel_id>
+			<epg_id>Z!Serial HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Sitcom HD</caption>
+			<channel_id>3820</channel_id>
+			<epg_id>Z!Sitcom HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Action HD</caption>
+			<channel_id>3821</channel_id>
+			<epg_id>Z!Action HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Military HD</caption>
+			<channel_id>3822</channel_id>
+			<epg_id>Z!Military HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Adventure HD</caption>
+			<channel_id>3823</channel_id>
+			<epg_id>Z!Adventure HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Biography HD</caption>
+			<channel_id>3824</channel_id>
+			<epg_id>Z!Biography HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Detective HD</caption>
+			<channel_id>3825</channel_id>
+			<epg_id>Z!Detective HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Drama HD</caption>
+			<channel_id>3826</channel_id>
+			<epg_id>Z!Drama HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Family HD</caption>
+			<channel_id>3827</channel_id>
+			<epg_id>Z!Family HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Fantastic HD</caption>
+			<channel_id>3828</channel_id>
+			<epg_id>Z!Fantastic HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Fantasy HD</caption>
+			<channel_id>3829</channel_id>
+			<epg_id>Z!Fantasy HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!History HD</caption>
+			<channel_id>3830</channel_id>
+			<epg_id>Z!History HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Russian HD</caption>
+			<channel_id>3831</channel_id>
+			<epg_id>Z!Russian HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Z!Thriller HD</caption>
+			<channel_id>3832</channel_id>
+			<epg_id>Z!Thriller HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS Drama</caption>
+			<channel_id>3833</channel_id>
+			<epg_id>CPS Drama</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS Western</caption>
+			<channel_id>3834</channel_id>
+			<epg_id>CPS Western</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS Mix</caption>
+			<channel_id>3835</channel_id>
+			<epg_id>CPS Mix</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS Fiction</caption>
+			<channel_id>3836</channel_id>
+			<epg_id>CPS Fiction</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS Comedy</caption>
+			<channel_id>3837</channel_id>
+			<epg_id>CPS Comedy</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS Anime</caption>
+			<channel_id>3838</channel_id>
+			<epg_id>CPS Anime</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS Action</caption>
+			<channel_id>3839</channel_id>
+			<epg_id>CPS Action</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS USSR</caption>
+			<channel_id>3840</channel_id>
+			<epg_id>CPS USSR</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS Fresh</caption>
+			<channel_id>3841</channel_id>
+			<epg_id>CPS Fresh</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS Oscar</caption>
+			<channel_id>3842</channel_id>
+			<epg_id>CPS Oscar</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS Cartoon</caption>
+			<channel_id>3843</channel_id>
+			<epg_id>CPS Cartoon</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS Investigation</caption>
+			<channel_id>3844</channel_id>
+			<epg_id>CPS Investigation</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS Jackie Chan</caption>
+			<channel_id>3845</channel_id>
+			<epg_id>CPS Jackie Chan</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CPS Fresh UA</caption>
+			<channel_id>3846</channel_id>
+			<epg_id>CPS Fresh UA</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Латинские сериалы ретро</caption>
+			<channel_id>3847</channel_id>
+			<epg_id>TVPlay Латинские сериалы ретро</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay DC Comics HD</caption>
+			<channel_id>3848</channel_id>
+			<epg_id>TVPlay DC Comics HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Marvel HD</caption>
+			<channel_id>3849</channel_id>
+			<epg_id>TVPlay Marvel HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Indian Cinema</caption>
+			<channel_id>3850</channel_id>
+			<epg_id>TVPlay Indian Cinema</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Игра Престолов HD</caption>
+			<channel_id>3851</channel_id>
+			<epg_id>TVPlay Игра Престолов HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Авторский перевод HD</caption>
+			<channel_id>3852</channel_id>
+			<epg_id>TVPlay Авторский перевод HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay АЛЬФ</caption>
+			<channel_id>3853</channel_id>
+			<epg_id>TVPlay АЛЬФ</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Космический</caption>
+			<channel_id>3854</channel_id>
+			<epg_id>TVPlay Космический</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Гарри Поттер HD</caption>
+			<channel_id>3855</channel_id>
+			<epg_id>TVPlay Гарри Поттер HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Лихие 90е Сериал</caption>
+			<channel_id>3856</channel_id>
+			<epg_id>TVPlay Лихие 90е Сериал</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Лихие 90е Кино</caption>
+			<channel_id>3857</channel_id>
+			<epg_id>TVPlay Лихие 90е Кино</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Новьё RUS HD</caption>
+			<channel_id>3858</channel_id>
+			<epg_id>TVPlay Новьё RUS HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Новьё Мир HD</caption>
+			<channel_id>3859</channel_id>
+			<epg_id>TVPlay Новьё Мир HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Myths and Legends</caption>
+			<channel_id>3860</channel_id>
+			<epg_id>TVPlay Myths and Legends</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Следствие ведут HD</caption>
+			<channel_id>3861</channel_id>
+			<epg_id>TVPlay Следствие ведут HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Истории Средиземья HD</caption>
+			<channel_id>3862</channel_id>
+			<epg_id>TVPlay Истории Средиземья HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Ужастик HD</caption>
+			<channel_id>3863</channel_id>
+			<epg_id>TVPlay Ужастик HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Фантастика HD</caption>
+			<channel_id>3864</channel_id>
+			<epg_id>TVPlay Фантастика HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Советское Кино HD</caption>
+			<channel_id>3865</channel_id>
+			<epg_id>TVPlay Советское Кино HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Советские Мультфильмы HD</caption>
+			<channel_id>3866</channel_id>
+			<epg_id>TVPlay Советские Мультфильмы HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Аниме HD</caption>
+			<channel_id>3867</channel_id>
+			<epg_id>TVPlay Аниме HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Баффи HD</caption>
+			<channel_id>3868</channel_id>
+			<epg_id>TVPlay Баффи HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Друзья HD</caption>
+			<channel_id>3869</channel_id>
+			<epg_id>TVPlay Друзья HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Зачарованные HD</caption>
+			<channel_id>3870</channel_id>
+			<epg_id>TVPlay Зачарованные HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Фантастика RUS HD</caption>
+			<channel_id>3871</channel_id>
+			<epg_id>TVPlay Фантастика RUS HD</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay GameZone</caption>
+			<channel_id>3872</channel_id>
+			<epg_id>TVPlay GameZone</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVPlay Parodies</caption>
+			<channel_id>3873</channel_id>
+			<epg_id>TVPlay Parodies</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cobra TV Melodrama</caption>
+			<channel_id>3874</channel_id>
+			<epg_id>Cobra TV Melodrama</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cobra TV Comedy</caption>
+			<channel_id>3875</channel_id>
+			<epg_id>Cobra TV Comedy</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cobra TV Triller</caption>
+			<channel_id>3876</channel_id>
+			<epg_id>Cobra TV Triller</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cobra TV Detektiv</caption>
+			<channel_id>3877</channel_id>
+			<epg_id>Cobra TV Detektiv</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cobra TV Drama</caption>
+			<channel_id>3878</channel_id>
+			<epg_id>Cobra TV Drama</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diafilm Fantastic</caption>
+			<channel_id>3879</channel_id>
+			<epg_id>Diafilm Fantastic</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diafilm Action</caption>
+			<channel_id>3880</channel_id>
+			<epg_id>Diafilm Action</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diafilm Crime</caption>
+			<channel_id>3881</channel_id>
+			<epg_id>Diafilm Crime</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diafilm Comedy</caption>
+			<channel_id>3882</channel_id>
+			<epg_id>Diafilm Comedy</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diafilm India</caption>
+			<channel_id>3883</channel_id>
+			<epg_id>Diafilm India</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diafilm 3D</caption>
+			<channel_id>3884</channel_id>
+			<epg_id>Diafilm 3D</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Duo 6</caption>
+			<channel_id>11898</channel_id>
+			<epg_id>SonyTurbo.blt</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Duo 3</caption>
+			<channel_id>11897</channel_id>
+			<epg_id>SonyChannel.lt</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>MiTV Джеки Чан</caption>
 			<channel_id>975</channel_id>
 			<epg_id>mitv0073</epg_id>
@@ -10517,14 +12180,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MiTV Земля любви земля надежды</caption>
-			<channel_id>2226</channel_id>
-			<epg_id>MiTV Земля любви земля надежды</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3336.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>MiTV Семейные узы</caption>
 			<channel_id>2227</channel_id>
 			<epg_id>MiTV Семейные узы</epg_id>
@@ -10949,14 +12604,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Discovery Science HD</caption>
-			<channel_id>205</channel_id>
-			<epg_id>discovery-science</epg_id>
-			<icon_url>https://iptvx.one/picons/discovery-science.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>365 Дней</caption>
 			<channel_id>365Dney</channel_id>
 			<epg_id>365-dnej</epg_id>
@@ -11001,14 +12648,6 @@
 			<channel_id>NationalGeographic</channel_id>
 			<epg_id>national-geographic</epg_id>
 			<icon_url>https://iptvx.one/picons/national-geographic-hd.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Discovery Channel</caption>
-			<channel_id>DiscoveryChannel</channel_id>
-			<epg_id>discovery-channel</epg_id>
-			<icon_url>https://iptvx.one/picons/discovery-channel.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -11209,14 +12848,6 @@
 			<channel_id>Galaxy</channel_id>
 			<epg_id>tayny-galaktiki</epg_id>
 			<icon_url>https://iptvx.one/picons/galaxy-tv.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>History</caption>
-			<channel_id>History</channel_id>
-			<epg_id>history-ru</epg_id>
-			<icon_url>https://iptvx.one/picons/history-hd.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -11685,7 +13316,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Travel Adventure</caption>
+			<caption>Travel&amp;Food</caption>
 			<channel_id>212</channel_id>
 			<epg_id>travel-adventure</epg_id>
 			<icon_url>https://iptvx.one/picons/travel-adventure.png</icon_url>
@@ -11745,6 +13376,14 @@
 			<channel_id>3588</channel_id>
 			<epg_id>Лапки LIVE</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju History</caption>
+			<channel_id>ViasatHistory</channel_id>
+			<epg_id>viasat-history</epg_id>
+			<icon_url>https://iptvx.one/picons/viasat-history.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -12933,14 +14572,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MiTV VIVA (VHS)</caption>
-			<channel_id>2223</channel_id>
-			<epg_id>MiTV VIVA (VHS)</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3332.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>MiTV MTV 80</caption>
 			<channel_id>2229</channel_id>
 			<epg_id>MiTV MTV 80</epg_id>
@@ -13125,25 +14756,9 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MuzsikaTV</caption>
-			<channel_id>2961</channel_id>
-			<epg_id>MuzsikaTV</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Noroc TV MD</caption>
 			<channel_id>2962</channel_id>
 			<epg_id>Noroc TV MD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Mooz Hit</caption>
-			<channel_id>2963</channel_id>
-			<epg_id>Mooz Hit</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>14</archive>
@@ -13168,14 +14783,6 @@
 			<caption>MTV Music UK</caption>
 			<channel_id>2970</channel_id>
 			<epg_id>MTV Music UK</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Kerrang!</caption>
-			<channel_id>2971</channel_id>
-			<epg_id>Kerrang!</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>14</archive>
@@ -13245,14 +14852,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KISS</caption>
-			<channel_id>2982</channel_id>
-			<epg_id>KISS</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>M Live</caption>
 			<channel_id>2983</channel_id>
 			<epg_id>M Live</epg_id>
@@ -13312,14 +14911,6 @@
 			<caption>Muzzik TV</caption>
 			<channel_id>2990</channel_id>
 			<epg_id>Muzzik TV</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Catch The Sound</caption>
-			<channel_id>2991</channel_id>
-			<epg_id>Catch The Sound</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>14</archive>
@@ -13397,14 +14988,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MTV Beats HD</caption>
-			<channel_id>3003</channel_id>
-			<epg_id>MTV Beats HD</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Ocko HD CZ</caption>
 			<channel_id>3004</channel_id>
 			<epg_id>Ocko HD CZ</epg_id>
@@ -13461,14 +15044,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MiTV SOUNDTRACK</caption>
-			<channel_id>2797</channel_id>
-			<epg_id>MiTV SOUNDTRACK</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>MiTV DiscoMan</caption>
 			<channel_id>2799</channel_id>
 			<epg_id>MiTV DiscoMan</epg_id>
@@ -13488,30 +15063,6 @@
 			<caption>MiTV Arabesque (Sandra)</caption>
 			<channel_id>2801</channel_id>
 			<epg_id>MiTV Arabesque (Sandra)</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MiTV Relax Зима</caption>
-			<channel_id>2813</channel_id>
-			<epg_id>MiTV Relax Зима</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MiTV Relax Камин</caption>
-			<channel_id>2814</channel_id>
-			<epg_id>MiTV Relax Камин</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MiTV Relax Океан</caption>
-			<channel_id>2815</channel_id>
-			<epg_id>MiTV Relax Океан</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>14</archive>
@@ -13584,6 +15135,14 @@
 			<caption>KBC-Наш Rock</caption>
 			<channel_id>3013</channel_id>
 			<epg_id>KBC-Наш Rock</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KISS</caption>
+			<channel_id>675</channel_id>
+			<epg_id>KISS</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>14</archive>
