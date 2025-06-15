@@ -71,19 +71,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -346,7 +346,7 @@
 			<epg_id>70968</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>2</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Пятый канал</caption>
@@ -1215,7 +1215,7 @@
 			<caption>Русский роман HD</caption>
 			<channel_id>channel_1138</channel_id>
 			<epg_id>70074</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1138.png?d=1734171306</icon_url>
+			<icon_url>https://reflextv.ru/storage/images/channels/channel_1138.png?d=1747847707</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1648,7 +1648,7 @@
 			<caption>НТВ Хит HD</caption>
 			<channel_id>channel_228</channel_id>
 			<epg_id>70317</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_228.png?d=1746039610</icon_url>
+			<icon_url>https://reflextv.ru/storage/images/channels/channel_228.png?d=1747562409</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -1697,97 +1697,6 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Исторический HD</caption>
-			<channel_id>channel_47457432</channel_id>
-			<epg_id>70440</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мажор HD</caption>
-			<channel_id>channel_46874</channel_id>
-			<epg_id>70439</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Комедии</caption>
-			<channel_id>channel_49463453</channel_id>
-			<epg_id>70442</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Улицы разбитых фонарей</caption>
-			<channel_id>channel_4365</channel_id>
-			<epg_id>70436</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ужасы HD</caption>
-			<channel_id>channel_51857346</channel_id>
-			<epg_id>70443</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Советские фильмы</caption>
-			<channel_id>channel_483463</channel_id>
-			<epg_id>70441</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Евлампия Романова</caption>
-			<channel_id>channel_4584</channel_id>
-			<epg_id>70438</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ментовские войны</caption>
-			<channel_id>channel_109567</channel_id>
-			<epg_id>70446</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сваты</caption>
-			<channel_id>channel_111567</channel_id>
-			<epg_id>70448</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>След</caption>
-			<channel_id>channel_108745443</channel_id>
-			<epg_id>70445</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_108745443.png?d=1736718201</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Солдаты</caption>
-			<channel_id>channel_110</channel_id>
-			<epg_id>70447</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Вне закона</caption>
-			<channel_id>channel_11334</channel_id>
-			<epg_id>70453</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мент в законе FHD</caption>
-			<channel_id>channel_114453</channel_id>
-			<epg_id>70454</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>DocuBox</caption>
 			<channel_id>Docubox</channel_id>
 			<epg_id>68688</epg_id>
@@ -1798,20 +1707,6 @@
 			<caption>Kino 24</caption>
 			<channel_id>kino24</channel_id>
 			<epg_id>71041</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Глухарь</caption>
-			<channel_id>Gluhar</channel_id>
-			<epg_id>70433</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Пятницкий</caption>
-			<channel_id>pytnitskyi</channel_id>
-			<epg_id>70434</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -1877,13 +1772,6 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Шокирующее HD</caption>
-			<channel_id>3794ef12dcac5237d1633f698786bf5b</channel_id>
-			<epg_id>71846</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>BOLT HD</caption>
 			<channel_id>BOLTHD</channel_id>
 			<epg_id>68598</epg_id>
@@ -1895,62 +1783,6 @@
 			<caption>Твоё ТВ HD</caption>
 			<channel_id>15dedacb0937e7def200fb8987fddc27</channel_id>
 			<epg_id>71766</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Вне закона</caption>
-			<channel_id>4cf47173c9708c2da3ca9284987a9730</channel_id>
-			<epg_id>71122</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Евлампия Романова</caption>
-			<channel_id>4148d3c12ea1b4dc89f677dc5258d6d1</channel_id>
-			<epg_id>71109</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Комедии</caption>
-			<channel_id>4e712d6549f6318abfac9f704ef64ca5</channel_id>
-			<epg_id>71113</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мажор HD</caption>
-			<channel_id>f8a6cbb4e768547ae43353501e08df62</channel_id>
-			<epg_id>71110</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мент в законе FHD</caption>
-			<channel_id>87a5533983e3650548c77d9136667813</channel_id>
-			<epg_id>71123</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сваты</caption>
-			<channel_id>6322056f0169b5b36f2bbd4631dabbc8</channel_id>
-			<epg_id>71118</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>След</caption>
-			<channel_id>9d0b53476149c71c3aa7b5fb3677d114</channel_id>
-			<epg_id>71115</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Солдаты</caption>
-			<channel_id>f40f3bf46fc88dc3da5efaa4d7c9c5ba</channel_id>
-			<epg_id>71117</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -2025,13 +1857,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Пятницкий</caption>
-			<channel_id>31b2468b5c70eb0eac18e0c40d278fc0</channel_id>
-			<epg_id>71106</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Мосфильм. Золотая коллекция HD</caption>
 			<channel_id>id5</channel_id>
 			<epg_id>68585</epg_id>
@@ -2046,13 +1871,6 @@
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Карпов</caption>
-			<channel_id>Karpov</channel_id>
-			<epg_id>70435</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Камеди HD</caption>
@@ -2099,13 +1917,6 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Глухарь</caption>
-			<channel_id>4df0eb024507db9b576dc98f4d209740</channel_id>
-			<epg_id>71105</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>День Победы</caption>
 			<channel_id>denpobedy</channel_id>
 			<epg_id>71967</epg_id>
@@ -2116,7 +1927,7 @@
 		<tv_channel>
 			<caption>Viasat Kino Action HD</caption>
 			<channel_id>ViasatKinoActionHD</channel_id>
-			<epg_id>71602</epg_id>
+			<epg_id>72612</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>1</archive>
@@ -2124,7 +1935,7 @@
 		<tv_channel>
 			<caption>Viasat Kino Comedy HD</caption>
 			<channel_id>ViP-Comedy-HD-CEE</channel_id>
-			<epg_id>71985</epg_id>
+			<epg_id>72606</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>2</archive>
@@ -2140,7 +1951,7 @@
 		<tv_channel>
 			<caption>Viasat Kino Megahit HD</caption>
 			<channel_id>ViP-Megahit-HD-CEE</channel_id>
-			<epg_id>71987</epg_id>
+			<epg_id>72690</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>2</archive>
@@ -2258,13 +2069,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Ужасы HD</caption>
-			<channel_id>0abf0d9e0f2f9ef689af99c3207e6893</channel_id>
-			<epg_id>71114</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>.black</caption>
 			<channel_id>Black</channel_id>
 			<epg_id>71976</epg_id>
@@ -2302,13 +2106,6 @@
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Советские фильмы</caption>
-			<channel_id>0af19e5988eb6a05bb0d02beef7ffd97</channel_id>
-			<epg_id>71112</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>4ever Theater HD</caption>
@@ -2385,14 +2182,6 @@
 			<caption>Дорама HD</caption>
 			<channel_id>Dorama</channel_id>
 			<epg_id>72029</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Душевное HD</caption>
-			<channel_id>924ebae5274720568ae3f36b84478ec8</channel_id>
-			<epg_id>71765</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>1</archive>
@@ -2755,7 +2544,7 @@
 		<tv_channel>
 			<caption>Gagsnetwork</caption>
 			<channel_id>Muzzikvision</channel_id>
-			<epg_id>68507</epg_id>
+			<epg_id>72692</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -2774,176 +2563,11 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Ментовские войны</caption>
-			<channel_id>26e49ce77c2ad0830121f153eeb83a0e</channel_id>
-			<epg_id>71116</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Карпов</caption>
-			<channel_id>9c8d1466cdbd61bedd245a9920ecb18a</channel_id>
-			<epg_id>71107</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наше FHD</caption>
-			<channel_id>NASHETV</channel_id>
-			<epg_id>71631</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>JUST TV</caption>
 			<channel_id>memfs</channel_id>
 			<epg_id>68530</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>СуперГерои HD</caption>
-			<channel_id>channel_1225</channel_id>
-			<epg_id>70159</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1225.png?d=1734118053</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>О! HD</caption>
-			<channel_id>channel_1223</channel_id>
-			<epg_id>70157</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1223.png?d=1734118053</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Лёва HD</caption>
-			<channel_id>channel_1227</channel_id>
-			<epg_id>70280</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1227.png?d=1741451408</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мультиландия HD</caption>
-			<channel_id>channel_1222</channel_id>
-			<epg_id>70156</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1222.png?d=1734118053</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мультимузыка</caption>
-			<channel_id>channel_1243</channel_id>
-			<epg_id>70292</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1243.png?d=1734118053</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Пингвин Лоло</caption>
-			<channel_id>channel_1245</channel_id>
-			<epg_id>70294</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1245.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Рыжий</caption>
-			<channel_id>channel_1236</channel_id>
-			<epg_id>70285</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1236.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ducktv HD</caption>
-			<channel_id>channel_1224</channel_id>
-			<epg_id>70158</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1224.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Смайлик HD</caption>
-			<channel_id>channel_1226</channel_id>
-			<epg_id>70160</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1226.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>КиноМульт HD</caption>
-			<channel_id>channel_1228</channel_id>
-			<epg_id>70161</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1228.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>СТС Kids HD</caption>
-			<channel_id>channel_1230</channel_id>
-			<epg_id>70163</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1230.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Тооку HD</caption>
-			<channel_id>channel_1232</channel_id>
-			<epg_id>70281</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1232.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Чижик HD</caption>
-			<channel_id>channel_1233</channel_id>
-			<epg_id>70282</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1233.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТипТоп HD</caption>
-			<channel_id>channel_1234</channel_id>
-			<epg_id>70283</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1234.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Капитан Фантастика HD</caption>
-			<channel_id>channel_1235</channel_id>
-			<epg_id>70284</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1235.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ani</caption>
-			<channel_id>channel_1237</channel_id>
-			<epg_id>70286</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1237.png?d=1737414006</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>В гостях у сказки HD</caption>
-			<channel_id>channel_1238</channel_id>
-			<epg_id>70287</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1238.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>TiJi</caption>
-			<channel_id>channel_1239</channel_id>
-			<epg_id>70288</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1239.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Gulli girl</caption>
@@ -2954,43 +2578,11 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Уникум</caption>
-			<channel_id>channel_1241</channel_id>
-			<epg_id>70290</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1241.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Детский мир HD</caption>
 			<channel_id>detmir</channel_id>
 			<epg_id>68498</epg_id>
 			<icon_url>https://reflextv.ru/storage/images/channels/detmir.png?d=1746539269</icon_url>
 			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Детский мир HD</caption>
-			<channel_id>channel_1242</channel_id>
-			<epg_id>70291</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1242.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Kids TV HD</caption>
-			<channel_id>channel_1246</channel_id>
-			<epg_id>70295</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1246.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>BABY TIME</caption>
-			<channel_id>channel_1247</channel_id>
-			<epg_id>70296</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1247.png?d=1734118142</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cartoon Network</caption>
@@ -3008,14 +2600,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Карусель HD</caption>
-			<channel_id>channel_1086</channel_id>
-			<epg_id>70297</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1086.png?d=1734221706</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>СОЛНЦЕ</caption>
 			<channel_id>channel_1078</channel_id>
 			<epg_id>70346</epg_id>
@@ -3029,27 +2613,6 @@
 			<icon_url>https://reflextv.ru/storage/images/channels/channel_339.png?d=1734235207</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Смешарики</caption>
-			<channel_id>channel_116</channel_id>
-			<epg_id>70449</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_116.png?d=1746368105</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Советские мультфильмы</caption>
-			<channel_id>channel_1158976</channel_id>
-			<epg_id>70455</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Три кота</caption>
-			<channel_id>channel_11274</channel_id>
-			<epg_id>70452</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Kids HD</caption>
@@ -3115,13 +2678,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чижик</caption>
-			<channel_id>a11fa558efb1c0dbfcd568da28ac209d</channel_id>
-			<epg_id>71783</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Капитан Фантастика HD</caption>
 			<channel_id>Kapitan_Fantastika_HD</channel_id>
 			<epg_id>71003</epg_id>
@@ -3157,20 +2713,6 @@
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Советские Мультфильмы</caption>
-			<channel_id>2a29b597b72f40c79ab9daac98959834</channel_id>
-			<epg_id>71770</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Советские мультфильмы</caption>
-			<channel_id>7f893c0e0c7a100bc1ef5093a80b3dfb</channel_id>
-			<epg_id>71124</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>СТС Kids HD</caption>
@@ -3210,14 +2752,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Мульт HD</caption>
-			<channel_id>channel_1221</channel_id>
-			<epg_id>71102</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Мультимузыка</caption>
 			<channel_id>Mul-t-i-muzyka</channel_id>
 			<epg_id>71000</epg_id>
@@ -3236,20 +2770,6 @@
 			<caption>Карусель</caption>
 			<channel_id>d751cc89999493e1b3bdf5b55cdedc60</channel_id>
 			<epg_id>71841</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Три кота</caption>
-			<channel_id>96472b01ac004117c1e1d57395eff7ef</channel_id>
-			<epg_id>71121</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Смешарики</caption>
-			<channel_id>d19676c7aa91cbcc93fd4a500d7bcfe9</channel_id>
-			<epg_id>71119</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
@@ -3273,13 +2793,6 @@
 			<channel_id>kinomulit</channel_id>
 			<epg_id>71040</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>О!</caption>
-			<channel_id>telekalo</channel_id>
-			<epg_id>68500</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/telekalo.png?d=1746375369</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3641,7 +3154,7 @@
 		<tv_channel>
 			<caption>Viasat Nature HD CEE</caption>
 			<channel_id>Viasat_Nature_CEE</channel_id>
-			<epg_id>68602</epg_id>
+			<epg_id>72613</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>1</archive>
@@ -3706,6 +3219,7 @@
 			<epg_id>71069</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Дикий</caption>
@@ -3810,13 +3324,6 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Исторический HD</caption>
-			<channel_id>92cd76cb6c1ff145c729185a019a4321</channel_id>
-			<epg_id>71111</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Терра Инкогнита HD</caption>
 			<channel_id>terraing</channel_id>
 			<epg_id>71270</epg_id>
@@ -3859,6 +3366,7 @@
 			<epg_id>72045</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Viju Explore HD</caption>
@@ -4271,7 +3779,7 @@
 			<caption>Окко Спорт HD</caption>
 			<channel_id>Football1HD</channel_id>
 			<epg_id>68538</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/Football1HD.png?d=1746539201</icon_url>
+			<icon_url>https://reflextv.ru/storage/images/channels/Football1HD.png?d=1747160110</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -4524,7 +4032,7 @@
 			<caption>Окко Футбол HD</caption>
 			<channel_id>livefudtv</channel_id>
 			<epg_id>69456</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/livefudtv.png?d=1746539202</icon_url>
+			<icon_url>https://reflextv.ru/storage/images/channels/livefudtv.png?d=1747160110</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -4534,6 +4042,7 @@
 			<epg_id>68513</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>DAZN 1 HD</caption>
@@ -4658,7 +4167,7 @@
 			<caption>СТАРТ Триумф HD</caption>
 			<channel_id>08748cbc805ec824bab2d392fa11881c</channel_id>
 			<epg_id>70370</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/08748cbc805ec824bab2d392fa11881c.png?d=1746370238</icon_url>
+			<icon_url>https://reflextv.ru/storage/images/channels/08748cbc805ec824bab2d392fa11881c.png?d=1747562409</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -4861,6 +4370,7 @@
 			<epg_id>71026</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>МАТЧ! ПРЕМЬЕР HD</caption>
@@ -4889,14 +4399,6 @@
 			<epg_id>71597</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Megogo Футбол 1</caption>
-			<channel_id>eaf2864</channel_id>
-			<epg_id>71604</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Okko Прайм Спорт</caption>
@@ -4944,6 +4446,7 @@
 			<epg_id>68517</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч! Премьер HD</caption>
@@ -5067,13 +4570,6 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Eleven Sports 1</caption>
-			<channel_id>ElevenSports1</channel_id>
-			<epg_id>72524</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Eleven Sports 1 PL</caption>
 			<channel_id>1192dc0ca44d100e6b4ef5aca42619cb</channel_id>
 			<epg_id>72523</epg_id>
@@ -5084,15 +4580,9 @@
 			<caption>Соловьев live FHD</caption>
 			<channel_id>sovlive</channel_id>
 			<epg_id>71014</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/sovlive.png?d=1746280810</icon_url>
+			<icon_url>https://reflextv.ru/storage/images/channels/sovlive.png?d=1747953008</icon_url>
 			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>RT DOC HD</caption>
-			<channel_id>0b5d9ee0fef8c9e0b48aa1a6d8b7aa2b</channel_id>
-			<epg_id>71797</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Дождь</caption>
@@ -5199,7 +4689,7 @@
 			<caption>Зал суда</caption>
 			<channel_id>Zal_suda</channel_id>
 			<epg_id>68486</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/Zal_suda.png?d=1744705680</icon_url>
+			<icon_url>https://reflextv.ru/storage/images/channels/Zal_suda.png?d=1747953907</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -5228,34 +4718,12 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Da Vinci Learning  HD</caption>
-			<channel_id>channel_1231</channel_id>
-			<epg_id>70164</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/channel_1231.png?d=1734118053</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Univer HD</caption>
 			<channel_id>channel_241</channel_id>
 			<epg_id>70355</epg_id>
 			<icon_url>https://reflextv.ru/storage/images/channels/channel_241.png?d=1736846106</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>6 кадров</caption>
-			<channel_id>channel_4435</channel_id>
-			<epg_id>70437</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Взвешенные люди</caption>
-			<channel_id>channel_107986</channel_id>
-			<epg_id>70451</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>KLI Орёл и решка HD</caption>
@@ -5324,13 +4792,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Взвешенные люди</caption>
-			<channel_id>3442ba2026a49a99d2800917d37c53f5</channel_id>
-			<epg_id>71120</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Суббота! HD</caption>
 			<channel_id>subotahd</channel_id>
 			<epg_id>68503</epg_id>
@@ -5387,6 +4848,7 @@
 			<epg_id>71068</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Анекдот ТВ</caption>
@@ -5476,13 +4938,6 @@
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Оплот 2</caption>
-			<channel_id>Oplot_2</channel_id>
-			<epg_id>72051</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Первый Республиканский</caption>
 			<channel_id>1_Resp_DNR</channel_id>
 			<epg_id>72049</epg_id>
@@ -5525,6 +4980,7 @@
 			<epg_id>70988</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Relax Drama</caption>
@@ -5532,6 +4988,7 @@
 			<epg_id>70992</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Relax Comedy</caption>
@@ -5539,6 +4996,7 @@
 			<epg_id>70989</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Relax Fantasy</caption>
@@ -5546,6 +5004,7 @@
 			<epg_id>70991</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Relax Horror</caption>
@@ -5553,6 +5012,7 @@
 			<epg_id>70986</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Relax Russian</caption>
@@ -5560,6 +5020,7 @@
 			<epg_id>70990</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Relax Thriller</caption>
@@ -5567,6 +5028,7 @@
 			<epg_id>70987</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Action HD</caption>
@@ -5931,43 +5393,41 @@
 			<caption>HN</caption>
 			<channel_id>HN_HN</channel_id>
 			<epg_id>71611</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/HN_HN.png?d=1746639300</icon_url>
+			<icon_url>https://reflextv.ru/storage/images/channels/HN_HN.png?d=1747839607</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>HN RUkino</caption>
 			<channel_id>HN_RUKINO</channel_id>
 			<epg_id>71620</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/HN_RUKINO.png?d=1746633166</icon_url>
+			<icon_url>https://reflextv.ru/storage/images/channels/HN_RUKINO.png?d=1747839607</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>HN RUserial</caption>
 			<channel_id>HN_RUSERIAL</channel_id>
 			<epg_id>71621</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/HN_RUSERIAL.png?d=1746633188</icon_url>
+			<icon_url>https://reflextv.ru/storage/images/channels/HN_RUSERIAL.png?d=1747839607</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>HN Serial</caption>
 			<channel_id>HN_SERIAL</channel_id>
 			<epg_id>71625</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/HN_SERIAL.png?d=1746633216</icon_url>
+			<icon_url>https://reflextv.ru/storage/images/channels/HN_SERIAL.png?d=1747839607</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>HN Cinema Premiere</caption>
 			<channel_id>HN_CINEMA_PREMIERE</channel_id>
 			<epg_id>71614</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/HN_CINEMA_PREMIERE.png?d=1746633249</icon_url>
+			<icon_url>https://reflextv.ru/storage/images/channels/HN_CINEMA_PREMIERE.png?d=1747839607</icon_url>
 			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>6 кадров</caption>
-			<channel_id>2b7df8a439b1ba6828885f5deb8d7763</channel_id>
-			<epg_id>71108</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>KLI Concert HD</caption>
@@ -6970,8 +6430,9 @@
 			<caption>HN DOC</caption>
 			<channel_id>HN_DOC</channel_id>
 			<epg_id>72525</epg_id>
-			<icon_url>https://reflextv.ru/storage/images/channels/HN_DOC.png?d=1746702664</icon_url>
+			<icon_url>https://reflextv.ru/storage/images/channels/HN_DOC.png?d=1747839607</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cinema ultra hd</caption>
@@ -7656,14 +7117,6 @@
 			<caption>Exxxotica HD</caption>
 			<channel_id>Exxxotica</channel_id>
 			<epg_id>68524</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Expired</caption>
-			<channel_id>expired</channel_id>
-			<epg_id>68362</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 			<protected>1</protected>
