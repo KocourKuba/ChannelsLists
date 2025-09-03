@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>8</list_version>
+		<list_version>9</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -291,25 +291,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Медиатека</caption>
+			<caption>Video On Demand</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -4532,8 +4532,8 @@
 		<tv_channel>
 			<caption>Окко Спорт HD</caption>
 			<channel_id>20138</channel_id>
-			<epg_id>9325</epg_id>
-			<icon_url>http://epg.one/img2/9325.png</icon_url>
+			<epg_id>7889</epg_id>
+			<icon_url>http://epg.one/img2/7889.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -14050,13 +14050,6 @@
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Сварожичи HD UA</caption>
-			<channel_id>19080</channel_id>
-			<epg_id>6456</epg_id>
-			<icon_url>http://epg.one/img2/6456.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>FX HD</caption>
 			<channel_id>19216</channel_id>
 			<epg_id>1031</epg_id>
@@ -16288,14 +16281,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Перший FHD UA</caption>
-			<channel_id>6319</channel_id>
-			<epg_id>2147</epg_id>
-			<icon_url>http://epg.one/img2/2147.png</icon_url>
-			<tv_category_id>15</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Перший HD UA</caption>
 			<channel_id>6376</channel_id>
 			<epg_id>2147</epg_id>
@@ -16814,13 +16799,6 @@
 			<icon_url>http://epg.one/img2/2227.png</icon_url>
 			<tv_category_id>15</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сварожичи HD UA</caption>
-			<channel_id>19080</channel_id>
-			<epg_id>6456</epg_id>
-			<icon_url>http://epg.one/img2/6456.png</icon_url>
-			<tv_category_id>15</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Star Cinema Россия HD</caption>
@@ -21531,13 +21509,6 @@
 			<tv_category_id>26</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>eSports ONE HD DE</caption>
-			<channel_id>31311</channel_id>
-			<epg_id>8048</epg_id>
-			<icon_url>http://epg.one/img2/8048.png</icon_url>
-			<tv_category_id>26</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Euronews Deutsch DE</caption>
 			<channel_id>31313</channel_id>
 			<epg_id>8050</epg_id>
@@ -21990,13 +21961,6 @@
 			<channel_id>31411</channel_id>
 			<epg_id>Sportdigital 1+ DE</epg_id>
 			<icon_url>http://epg.one/img2/2888.png</icon_url>
-			<tv_category_id>26</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sportdigital 1+ FHD DE</caption>
-			<channel_id>31412</channel_id>
-			<epg_id>Sportdigital 1+ FHD DE</epg_id>
-			<icon_url>http://epg.one/img2/6482.png</icon_url>
 			<tv_category_id>26</tv_category_id>
 		</tv_channel>
 		<tv_channel>

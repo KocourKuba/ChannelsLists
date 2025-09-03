@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>8</list_version>
+		<list_version>9</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -46,25 +46,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Медиатека</caption>
+			<caption>Video On Demand</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -366,6 +366,14 @@
 			<channel_id>rentvintern</channel_id>
 			<epg_id>rentv-int</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/rentvintern.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС HD</caption>
+			<channel_id>sts-hd</channel_id>
+			<epg_id>sts</epg_id>
+			<icon_url>https://img.caribo.net/picons/ru/stsHD.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1213,9 +1221,9 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MÖDO Zombie land</caption>
+			<caption>MÖDO Zoombie land</caption>
 			<channel_id>modo_zombie_land</channel_id>
-			<epg_id>MODO-ZOOMBIE-LAND</epg_id>
+			<epg_id>modo_zombie_land</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/3/modo_zombie_land.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>2</archive>
@@ -1300,9 +1308,9 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Drama 4K</caption>
+			<caption>SKY HIGH Drama 4K HDR</caption>
 			<channel_id>sh_mix3d</channel_id>
-			<epg_id>SKYHIGH3D</epg_id>
+			<epg_id>SKYHIGHDRAMA4KHDR</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/sh_mix3d.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>1</archive>
@@ -1325,7 +1333,7 @@
 		<tv_channel>
 			<caption>SKY HIGH Fresh HDR</caption>
 			<channel_id>sh_freshhdr</channel_id>
-			<epg_id>static-16</epg_id>
+			<epg_id>SKYHIGHFRESHHDR</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/sh_freshhdr.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -1347,7 +1355,7 @@
 		<tv_channel>
 			<caption>SKY HIGH Space 4K HDR</caption>
 			<channel_id>sh_future</channel_id>
-			<epg_id>SKYHIGHFUTUREHD</epg_id>
+			<epg_id>SKYHIGHSPACE4KHDR</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/sh_future.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>1</archive>
@@ -1370,7 +1378,7 @@
 		<tv_channel>
 			<caption>MS Prisons HD</caption>
 			<channel_id>ms_prisons</channel_id>
-			<epg_id>static-16</epg_id>
+			<epg_id>prisons-ms</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/ms_prisons.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -1384,7 +1392,7 @@
 		<tv_channel>
 			<caption>MM Flip UHD</caption>
 			<channel_id>minimax-flip-uhd</channel_id>
-			<epg_id>static-16</epg_id>
+			<epg_id>flip-mm</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/minimax-flip-uhd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -1543,7 +1551,7 @@
 		<tv_channel>
 			<caption>MM 007</caption>
 			<channel_id>007-mm</channel_id>
-			<epg_id>static-17</epg_id>
+			<epg_id>007-mm</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/007-hd-minimax.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -2184,7 +2192,7 @@
 		<tv_channel>
 			<caption>Magic VHS</caption>
 			<channel_id>mag_vhs</channel_id>
-			<epg_id>static-21</epg_id>
+			<epg_id>Magicvhs-11</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/mag_vhs.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -2287,13 +2295,6 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>UZ Союз-Фильмы HD</caption>
-			<channel_id>uzsyuzf</channel_id>
-			<epg_id>uzsyuzf</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzsyuzf.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>UZ Витек ТВ</caption>
 			<channel_id>uzvitek</channel_id>
 			<epg_id>uzvitek</epg_id>
@@ -2326,13 +2327,6 @@
 			<channel_id>uzkino4</channel_id>
 			<epg_id>uzkino4</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/uzkino4.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Кино 5 HD</caption>
-			<channel_id>uzkino5</channel_id>
-			<epg_id>uzkino5</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzkino5.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2946,7 +2940,7 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>UZ Alensat Western</caption>
+			<caption>UZ Alensat HD</caption>
 			<channel_id>uz_alensat</channel_id>
 			<epg_id>uz_alensat</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/3/uz_alensat.png</icon_url>
@@ -2979,6 +2973,49 @@
 			<epg_id>box_ap</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/3/box_ap.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>GL Chef</caption>
+			<channel_id>gl_chef</channel_id>
+			<epg_id>gl_chef-premium</epg_id>
+			<icon_url>https://img.caribo.net/picons/upl/3/gl_chef.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>GL Girlfight</caption>
+			<channel_id>gl_girl</channel_id>
+			<epg_id>gl_girlfight-premium</epg_id>
+			<icon_url>https://img.caribo.net/picons/upl/3/gl_girl.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>GL Hostage</caption>
+			<channel_id>gs_hosta</channel_id>
+			<epg_id>gl_hostage-premium</epg_id>
+			<icon_url>https://img.caribo.net/picons/upl/3/gs_hosta.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>GL Motivation</caption>
+			<channel_id>gl_moti</channel_id>
+			<epg_id>gl_motivation-premium</epg_id>
+			<icon_url>https://img.caribo.net/picons/upl/3/gl_moti.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan CCCP HD</caption>
+			<channel_id>cinesssr</channel_id>
+			<epg_id>cineman-cccpfhd</epg_id>
+			<icon_url>https://img.caribo.net/picons/upl/3/cinesssr.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Хит HD</caption>
+			<channel_id>ntvhit_hd</channel_id>
+			<epg_id>ntv-xit</epg_id>
+			<icon_url>https://img.caribo.net/picons/ru/ntv-hit.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч! HD</caption>
@@ -3276,46 +3313,6 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>US: NBA TV</caption>
-			<channel_id>bna</channel_id>
-			<epg_id>nbatv</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/bna.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Sport F1</caption>
-			<channel_id>ssportf1</channel_id>
-			<epg_id>sky-sports-f1</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/ssportf1.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Premier League</caption>
-			<channel_id>uk_skypl</channel_id>
-			<epg_id>sky-sports-apl</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uk_skypl.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UK: Sky Sports Football</caption>
-			<channel_id>ssportfb</channel_id>
-			<epg_id>sky-sports-football</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/ssportfb.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>US: NHL Network HD</caption>
-			<channel_id>nhlhd</channel_id>
-			<epg_id>nhln</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/nhlhd.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>MTV Live HD</caption>
 			<channel_id>mtv-live</channel_id>
 			<epg_id>mtv-live-hd</epg_id>
@@ -3362,7 +3359,7 @@
 		<tv_channel>
 			<caption>Bridge TV Deluxe</caption>
 			<channel_id>bridge-hd</channel_id>
-			<epg_id>static-41</epg_id>
+			<epg_id>bridge-hd</epg_id>
 			<tvg_id>bridge-hd</tvg_id>
 			<icon_url>https://img.caribo.net/picons/ru/bridgehd.png</icon_url>
 			<tv_category_id>5</tv_category_id>
@@ -3457,7 +3454,7 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Ля-минор</caption>
+			<caption>Музыка Live</caption>
 			<channel_id>la-minor</channel_id>
 			<epg_id>la-minor</epg_id>
 			<icon_url>https://img.caribo.net/picons/ru/laminor.png</icon_url>
@@ -3529,9 +3526,17 @@
 		<tv_channel>
 			<caption>MTV 80s</caption>
 			<channel_id>mtv80</channel_id>
-			<epg_id>MTV 80s</epg_id>
+			<epg_id>mtv80</epg_id>
 			<icon_url>https://img.caribo.net/picons/ru/vh1-classic.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Fresh</caption>
+			<channel_id>bridge_fresh</channel_id>
+			<epg_id>bridge_fresh</epg_id>
+			<icon_url>https://img.caribo.net/picons/upl/8/bridge_fresh.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Карусель</caption>
@@ -3624,7 +3629,7 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Nick</caption>
+			<caption>Nickelodeon</caption>
 			<channel_id>nickelodeon-ru</channel_id>
 			<epg_id>nick</epg_id>
 			<tvg_id>nickelodeon-ru</tvg_id>
@@ -3722,7 +3727,7 @@
 		<tv_channel>
 			<caption>BCU Мультсериал</caption>
 			<channel_id>bcu_multserial</channel_id>
-			<epg_id>static-29</epg_id>
+			<epg_id>BCU Multserial HD</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/bcu_multserial.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
@@ -3793,27 +3798,6 @@
 			<icon_url>https://img.caribo.net/picons/ru/360-podmoskovie.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>CNN International</caption>
-			<channel_id>cnn_int</channel_id>
-			<epg_id>cnn</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/cnn_int.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>BBC World News</caption>
-			<channel_id>bbcwn</channel_id>
-			<epg_id>bbc</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/bbcwn.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Bloomberg</caption>
-			<channel_id>bloomberg</channel_id>
-			<epg_id>bloomberg</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/9/bloomberg.png</icon_url>
-			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Just TV</caption>

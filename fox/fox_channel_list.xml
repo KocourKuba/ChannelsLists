@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>8</list_version>
+		<list_version>9</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -102,15 +102,6 @@
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/1RUSHD200.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Первый канал Европа</caption>
-			<channel_id>462</channel_id>
-			<epg_id>1:459</epg_id>
-			<tvg_id>1:459</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/1RUSEU200.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>РТР Планета Европа</caption>
@@ -572,15 +563,6 @@
 			<epg_id>1:237</epg_id>
 			<tvg_id>1:237</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju TV1000.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viju Kino World</caption>
-			<channel_id>504</channel_id>
-			<epg_id>1:655</epg_id>
-			<tvg_id>1:655</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/643bd6e31e6359b5fc3bd3efc14fa1f8.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -1172,14 +1154,6 @@
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/RUSROMANHD2001.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сериал UHD</caption>
-			<channel_id>425</channel_id>
-			<epg_id>1:1279</epg_id>
-			<tvg_id>1:1279</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/SERIALUHD200.png</icon_url>
-			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Страшное HD</caption>
@@ -2165,15 +2139,6 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viju Nature HD</caption>
-			<channel_id>293</channel_id>
-			<epg_id>1:256</epg_id>
-			<tvg_id>1:256</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/viju Nature.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Viju+ Planet HD</caption>
 			<channel_id>222</channel_id>
 			<epg_id>1:1202</epg_id>
@@ -2383,11 +2348,11 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Наша Сибирь HD</caption>
+			<caption>Yam Tihoni Plus IL</caption>
 			<channel_id>262</channel_id>
-			<epg_id>7:4444</epg_id>
+			<epg_id>Yam Tihoni Plus IL</epg_id>
 			<tvg_id>Наша Сибирь HD</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/NASHASIBIRHD200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2648,7 +2613,7 @@
 		<tv_channel>
 			<caption>Пятница!</caption>
 			<channel_id>41</channel_id>
-			<epg_id>1:478</epg_id>
+			<epg_id>5:Пятница! HD</epg_id>
 			<tvg_id>1:478</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/FRIDAY200 (1).png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -2657,7 +2622,7 @@
 		<tv_channel>
 			<caption>Пятница! HD</caption>
 			<channel_id>42</channel_id>
-			<epg_id>1:478</epg_id>
+			<epg_id>7:1003</epg_id>
 			<tvg_id>1:478</tvg_id>
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/FRIDAYHD200.png</icon_url>
 			<tv_category_id>6</tv_category_id>
@@ -3249,15 +3214,15 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Nickelodeon</caption>
+			<caption>Spanish Drama Channel 2 IL</caption>
 			<channel_id>188</channel_id>
-			<epg_id>1:177</epg_id>
+			<epg_id>Spanish Drama Channel 2 IL</epg_id>
 			<tvg_id>1:176</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/NICK200.png</icon_url>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Nickelodeon HD</caption>
+			<caption>Nickelodeon</caption>
 			<channel_id>189</channel_id>
 			<epg_id>1:175</epg_id>
 			<tvg_id>1:175</tvg_id>
@@ -3381,15 +3346,6 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>DAZN F1 HD</caption>
-			<channel_id>665</channel_id>
-			<epg_id>7:5088</epg_id>
-			<tvg_id>DAZN F1 HD</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/DAZN1200.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Eurosport 1 HD</caption>
 			<channel_id>33</channel_id>
 			<epg_id>1:101</epg_id>
@@ -3510,22 +3466,6 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport 1 DE</caption>
-			<channel_id>552</channel_id>
-			<epg_id>Sport 1 DE</epg_id>
-			<tvg_id>Sport 1 DE</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sport 1+ DE</caption>
-			<channel_id>604</channel_id>
-			<epg_id>Sport 1+ DE</epg_id>
-			<tvg_id>Sport 1+ DE</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Super Tennis HD</caption>
 			<channel_id>298</channel_id>
 			<epg_id>7:3117</epg_id>
@@ -3541,14 +3481,6 @@
 			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/udar.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>US ESPN</caption>
-			<channel_id>645</channel_id>
-			<epg_id>US ESPN</epg_id>
-			<tvg_id>US ESPN</tvg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/ESPN.png</icon_url>
-			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>viju+ Sport</caption>
@@ -3875,13 +3807,6 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Dazn Eleven</caption>
-			<channel_id>943</channel_id>
-			<epg_id>Dazn Eleven</epg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Sky Sport 4 (Game events)</caption>
 			<channel_id>345</channel_id>
 			<epg_id>1:1509</epg_id>
@@ -4009,10 +3934,10 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кино UHD</caption>
+			<caption>Canal+ Extra 1</caption>
 			<channel_id>288</channel_id>
-			<epg_id>1:1281</epg_id>
-			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/KINOUHD200.png</icon_url>
+			<epg_id>12:PL: Canal+ Extra 1 HD</epg_id>
+			<icon_url>http://stb.fox-tv.fun/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>

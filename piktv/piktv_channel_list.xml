@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>8</list_version>
+		<list_version>9</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -50,9 +50,9 @@
 			<icon_url>plugin_file://icons/categories/3.png</icon_url>
 		</tv_category>
 		<tv_category>
-			<id>14</id>
-			<caption>XXX-ADULT</caption>
-			<icon_url>plugin_file://icons/categories/33.png</icon_url>
+			<id>15</id>
+			<caption>Sky</caption>
+			<icon_url>plugin_file://icons/categories/SkyHigh.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
@@ -108,15 +108,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>РТР Планета Европа</caption>
-			<channel_id>9</channel_id>
-			<epg_id>1:504</epg_id>
-			<tvg_id>9</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Planeta Rtr.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Россия К</caption>
 			<channel_id>10</channel_id>
 			<epg_id>1:363</epg_id>
@@ -138,13 +129,13 @@
 			<channel_id>11</channel_id>
 			<epg_id>1:26</epg_id>
 			<tvg_id>11</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_2C1_10_1_3532DC8_0_0_0.png</icon_url>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/8_kanal.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>ОТР</caption>
 			<channel_id>842</channel_id>
-			<epg_id>1:444</epg_id>
+			<epg_id>ОТР</epg_id>
 			<tvg_id>842</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/otr.png</icon_url>
 			<tv_category_id>1</tv_category_id>
@@ -159,36 +150,10 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>НТВ</caption>
-			<channel_id>13</channel_id>
-			<epg_id>ru_2:НТВ</epg_id>
-			<tvg_id>13</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/NTV_RU.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Мир</caption>
-			<channel_id>18</channel_id>
-			<epg_id>1:431</epg_id>
-			<tvg_id>18</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/ntvmir.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>НТВ Право</caption>
 			<channel_id>20</channel_id>
 			<epg_id>1:906</epg_id>
 			<tvg_id>20</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/ntvpravo.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Зал Суда</caption>
-			<channel_id>813</channel_id>
-			<epg_id>1:906</epg_id>
-			<tvg_id>813</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/ntvpravo.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
@@ -201,27 +166,10 @@
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Мир</caption>
-			<channel_id>23</channel_id>
-			<epg_id>1:380</epg_id>
-			<tvg_id>23</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/mirhd.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>ТВ Центр HD</caption>
 			<channel_id>816</channel_id>
 			<epg_id>1:545</epg_id>
 			<tvg_id>816</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/tvz.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТВЦ</caption>
-			<channel_id>25</channel_id>
-			<epg_id>1:545</epg_id>
-			<tvg_id>25</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/tvz.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
@@ -242,14 +190,6 @@
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Рен ТВ</caption>
-			<channel_id>30</channel_id>
-			<epg_id>1:487</epg_id>
-			<tvg_id>30</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/rentv.png</icon_url>
-			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Рен ТВ  HD</caption>
@@ -302,14 +242,6 @@
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>360° HD</caption>
-			<channel_id>46</channel_id>
-			<epg_id>1:1141</epg_id>
-			<tvg_id>46</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/360telekanal360.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Вместе-РФ</caption>
 			<channel_id>830</channel_id>
 			<epg_id>1:286</epg_id>
@@ -334,27 +266,11 @@
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТелеДом</caption>
-			<channel_id>1058</channel_id>
-			<epg_id>ru_2:Теледом</epg_id>
-			<tvg_id>1058</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Тонус ТВ</caption>
 			<channel_id>1049</channel_id>
 			<epg_id>Тонус ТВ</epg_id>
 			<tvg_id>1049</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/Tonus TV.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНВ-Планета</caption>
-			<channel_id>165</channel_id>
-			<epg_id>1:568</epg_id>
-			<tvg_id>165</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/TNV_PLANETA.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -427,31 +343,7 @@
 			<channel_id>822</channel_id>
 			<epg_id>ru:RT Д (Русский) HD</epg_id>
 			<tvg_id>822</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>RTD HD</caption>
-			<channel_id>44</channel_id>
-			<epg_id>ru:RT Д (Русский) HD</epg_id>
-			<tvg_id>44</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>RT HD</caption>
-			<channel_id>823</channel_id>
-			<epg_id>ru:RT Д (Русский) HD</epg_id>
-			<tvg_id>823</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/rthd.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>360 Новости HD</caption>
-			<channel_id>826</channel_id>
-			<epg_id>ru:360 Новости</epg_id>
-			<tvg_id>826</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/360novosti.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -519,23 +411,6 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Luxury World</caption>
-			<channel_id>1068</channel_id>
-			<epg_id>1:144</epg_id>
-			<tvg_id>1068</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Luxury World.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Хит</caption>
-			<channel_id>21</channel_id>
-			<epg_id>1:1155</epg_id>
-			<tvg_id>21</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/NTVHIT.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>НТВ Сериал HD</caption>
 			<channel_id>812</channel_id>
 			<epg_id>1:907</epg_id>
@@ -545,16 +420,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>НТВ Сериал</caption>
-			<channel_id>22</channel_id>
-			<epg_id>1:907</epg_id>
-			<tvg_id>22</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/ntvserial.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мир сериала</caption>
+			<caption>Мир Сариала HD</caption>
 			<channel_id>951</channel_id>
 			<epg_id>1:386</epg_id>
 			<tvg_id>951</tvg_id>
@@ -580,14 +446,6 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>FAN</caption>
-			<channel_id>67</channel_id>
-			<epg_id>1:1286</epg_id>
-			<tvg_id>67</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/FAN.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Русская комедия</caption>
 			<channel_id>903</channel_id>
 			<epg_id>1:754</epg_id>
@@ -605,26 +463,10 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кинокомедия</caption>
-			<channel_id>70</channel_id>
-			<epg_id>1:359</epg_id>
-			<tvg_id>70</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/KINOKOMEDIJA.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Киномикс HD</caption>
 			<channel_id>912</channel_id>
 			<epg_id>1:350</epg_id>
 			<tvg_id>912</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Kinomiks.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Киномикс</caption>
-			<channel_id>71</channel_id>
-			<epg_id>1:350</epg_id>
-			<tvg_id>71</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/Kinomiks.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
@@ -637,26 +479,10 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Киносвидание</caption>
-			<channel_id>72</channel_id>
-			<epg_id>1:415</epg_id>
-			<tvg_id>72</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Kinosvidanie.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Киносемья HD</caption>
 			<channel_id>911</channel_id>
 			<epg_id>1:123</epg_id>
 			<tvg_id>911</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_77_1_70_1680000_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Киносемья</caption>
-			<channel_id>73</channel_id>
-			<epg_id>1:123</epg_id>
-			<tvg_id>73</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_77_1_70_1680000_0_0_0.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
@@ -669,26 +495,10 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Киносерия</caption>
-			<channel_id>74</channel_id>
-			<epg_id>1:387</epg_id>
-			<tvg_id>74</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Kinoseria.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Кинохит HD</caption>
 			<channel_id>909</channel_id>
 			<epg_id>1:416</epg_id>
 			<tvg_id>909</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Kinohit (1).png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинохит</caption>
-			<channel_id>75</channel_id>
-			<epg_id>1:416</epg_id>
-			<tvg_id>75</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/Kinohit (1).png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
@@ -725,14 +535,6 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Мужское Кино</caption>
-			<channel_id>76</channel_id>
-			<epg_id>1:724</epg_id>
-			<tvg_id>76</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_19_141_5_FD_1680000_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Наше Мужское HD</caption>
 			<channel_id>899</channel_id>
 			<epg_id>1:1589</epg_id>
@@ -747,22 +549,6 @@
 			<epg_id>1:401</epg_id>
 			<tvg_id>916</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_19_74_1_70_1680000_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наше новое кино HD</caption>
-			<channel_id>77</channel_id>
-			<epg_id>1:401</epg_id>
-			<tvg_id>77</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_19_74_1_70_1680000_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Родное кино</caption>
-			<channel_id>78</channel_id>
-			<epg_id>1:400</epg_id>
-			<tvg_id>78</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_73_1_70_1680000_0_0_0.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -790,22 +576,6 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>День Победы</caption>
-			<channel_id>117</channel_id>
-			<epg_id>1:1942</epg_id>
-			<tvg_id>117</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Индийское кино</caption>
-			<channel_id>79</channel_id>
-			<epg_id>1:332</epg_id>
-			<tvg_id>79</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/indijskoe_kino.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Индия ТВ</caption>
 			<channel_id>920</channel_id>
 			<epg_id>1:266</epg_id>
@@ -818,14 +588,6 @@
 			<channel_id>953</channel_id>
 			<epg_id>1:1029</epg_id>
 			<tvg_id>953</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Дорама</caption>
-			<channel_id>80</channel_id>
-			<epg_id>1:1029</epg_id>
-			<tvg_id>80</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
@@ -854,35 +616,11 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sci Fi</caption>
-			<channel_id>81</channel_id>
-			<epg_id>1:212</epg_id>
-			<tvg_id>81</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_2CC_10_1_3522DC8_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Black HD</caption>
 			<channel_id>927</channel_id>
 			<epg_id>1:213</epg_id>
 			<tvg_id>927</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_2CD_10_1_3520000_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Black</caption>
-			<channel_id>926</channel_id>
-			<epg_id>1:213</epg_id>
-			<tvg_id>926</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_2CD_10_1_3520000_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sony Channel HD</caption>
-			<channel_id>86</channel_id>
-			<epg_id>Sony Channel HD</epg_id>
-			<tvg_id>86</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/SONY_HD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -910,61 +648,11 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Страшное HD</caption>
-			<channel_id>905</channel_id>
-			<epg_id>1:735</epg_id>
-			<tvg_id>905</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/strashnoe_hd.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Криминальное</caption>
-			<channel_id>116</channel_id>
-			<epg_id>Криминальное</epg_id>
-			<tvg_id>116</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Русский бестселлер</caption>
-			<channel_id>82</channel_id>
-			<epg_id>1:507</epg_id>
-			<tvg_id>82</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Russkij Bestseller.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Русский детектив</caption>
-			<channel_id>83</channel_id>
-			<epg_id>1:508</epg_id>
-			<tvg_id>83</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Russkij Detektiv (1).png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Русский Роман HD</caption>
 			<channel_id>921</channel_id>
 			<epg_id>1:510</epg_id>
 			<tvg_id>921</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_19F_A_1_3532F30_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Русский Роман</caption>
-			<channel_id>84</channel_id>
-			<epg_id>1:510</epg_id>
-			<tvg_id>84</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_19F_A_1_3532F30_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Русский Иллюзион</caption>
-			<channel_id>107</channel_id>
-			<epg_id>1:509</epg_id>
-			<tvg_id>107</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Russkij Ilusion (1).png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -985,28 +673,10 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Еврокино</caption>
-			<channel_id>85</channel_id>
-			<epg_id>1:314</epg_id>
-			<tvg_id>85</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/EuroKino1.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Мосфильм Золотая колекция HD</caption>
 			<channel_id>906</channel_id>
 			<epg_id>1:1804</epg_id>
 			<tvg_id>906</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мосфильм Золотая Колекция</caption>
-			<channel_id>87</channel_id>
-			<epg_id>1:1804</epg_id>
-			<tvg_id>87</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
@@ -1020,50 +690,10 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>AMC</caption>
-			<channel_id>88</channel_id>
-			<epg_id>1:1192</epg_id>
-			<tvg_id>88</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/AMC.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fox</caption>
-			<channel_id>89</channel_id>
-			<epg_id>1:116</epg_id>
-			<tvg_id>89</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_4AAB_13_70_1680000_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>FOX Россия HD</caption>
-			<channel_id>90</channel_id>
-			<epg_id>1:117</epg_id>
-			<tvg_id>90</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_42CD_11_70_1680000_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fox Life</caption>
-			<channel_id>91</channel_id>
-			<epg_id>1:115</epg_id>
-			<tvg_id>91</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Fox Life HD.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Amedia Premium HD</caption>
 			<channel_id>930</channel_id>
 			<epg_id>1:36</epg_id>
 			<tvg_id>930</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_33E_8_70_168AFFB_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Amidia Premium</caption>
-			<channel_id>92</channel_id>
-			<epg_id>1:36</epg_id>
-			<tvg_id>92</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_33E_8_70_168AFFB_0_0_0.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
@@ -1076,26 +706,10 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Amedia Hit</caption>
-			<channel_id>98</channel_id>
-			<epg_id>1:675</epg_id>
-			<tvg_id>98</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_19_33D_8_70_168AFFC_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Amedia HD</caption>
 			<channel_id>928</channel_id>
 			<epg_id>1:34</epg_id>
 			<tvg_id>928</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/amedia1.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Amedia 1</caption>
-			<channel_id>94</channel_id>
-			<epg_id>1:34</epg_id>
-			<tvg_id>94</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/amedia1.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
@@ -1108,14 +722,6 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Amedia II</caption>
-			<channel_id>95</channel_id>
-			<epg_id>1:35</epg_id>
-			<tvg_id>95</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/amedia2.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>ТВ 21</caption>
 			<channel_id>931</channel_id>
 			<epg_id>ТВ 21</epg_id>
@@ -1124,26 +730,10 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кино 24</caption>
-			<channel_id>932</channel_id>
-			<epg_id>Кино 24</epg_id>
-			<tvg_id>932</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Кинеко HD</caption>
 			<channel_id>946</channel_id>
 			<epg_id>1:2184</epg_id>
 			<tvg_id>946</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинеко</caption>
-			<channel_id>945</channel_id>
-			<epg_id>1:2184</epg_id>
-			<tvg_id>945</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
@@ -1172,43 +762,11 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Shot TV</caption>
-			<channel_id>935</channel_id>
-			<epg_id>1:2205</epg_id>
-			<tvg_id>935</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cinema HD</caption>
-			<channel_id>96</channel_id>
-			<epg_id>1:68</epg_id>
-			<tvg_id>96</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cinema HD</caption>
+			<caption>Cinema UHD</caption>
 			<channel_id>965</channel_id>
 			<epg_id>1:68</epg_id>
 			<tvg_id>965</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cinema</caption>
-			<channel_id>964</channel_id>
-			<epg_id>1:68</epg_id>
-			<tvg_id>964</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Hollywood HD</caption>
-			<channel_id>937</channel_id>
-			<epg_id>1:150</epg_id>
-			<tvg_id>937</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/hollywoodhd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1217,14 +775,6 @@
 			<epg_id>1:781</epg_id>
 			<tvg_id>97</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_139C_5_FD_1680000_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Kinoliving HD</caption>
-			<channel_id>938</channel_id>
-			<epg_id>1:2117</epg_id>
-			<tvg_id>938</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/kinolivinghd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1261,228 +811,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viju TV1000 Action HD</caption>
-			<channel_id>894</channel_id>
-			<epg_id>1:1852</epg_id>
-			<tvg_id>894</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/vijutv1000action.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viju TV1000 Action</caption>
-			<channel_id>101</channel_id>
-			<epg_id>1:1852</epg_id>
-			<tvg_id>101</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/vijutv1000action.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viju TV 1000 HD</caption>
-			<channel_id>893</channel_id>
-			<epg_id>1:1853</epg_id>
-			<tvg_id>893</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/vijutv1000.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viju TV1000</caption>
-			<channel_id>102</channel_id>
-			<epg_id>1:1853</epg_id>
-			<tvg_id>102</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/vijutv1000.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>VIP Serial HD</caption>
-			<channel_id>103</channel_id>
-			<epg_id>1:1278</epg_id>
-			<tvg_id>103</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/ViP Serial HD.jpg</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viju Premiere HD</caption>
-			<channel_id>104</channel_id>
-			<epg_id>1:240</epg_id>
-			<tvg_id>104</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/vijupluspremiere.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viju Megahit HD</caption>
-			<channel_id>105</channel_id>
-			<epg_id>1:238</epg_id>
-			<tvg_id>105</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Vip_megahit.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viju Comedy HD</caption>
-			<channel_id>895</channel_id>
-			<epg_id>1:1600</epg_id>
-			<tvg_id>895</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/vijupluscomedy.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TV 1000 Русское кино HD</caption>
-			<channel_id>1163</channel_id>
-			<epg_id>1:242</epg_id>
-			<tvg_id>1163</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Tv 1000.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TV1000 Русское кино</caption>
-			<channel_id>106</channel_id>
-			<epg_id>1:242</epg_id>
-			<tvg_id>106</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Tv 1000.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кино ТВ HD</caption>
-			<channel_id>907</channel_id>
-			<epg_id>1:358</epg_id>
-			<tvg_id>907</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Kino_TV.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кино ТВ</caption>
-			<channel_id>108</channel_id>
-			<epg_id>1:358</epg_id>
-			<tvg_id>108</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Kino_TV.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинопремьера HD</caption>
-			<channel_id>910</channel_id>
-			<epg_id>1:419</epg_id>
-			<tvg_id>910</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Kinopremiera.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинопремьера</caption>
-			<channel_id>109</channel_id>
-			<epg_id>1:419</epg_id>
-			<tvg_id>109</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Kinopremiera.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Flix Snip HD</caption>
-			<channel_id>936</channel_id>
-			<epg_id>1:1492</epg_id>
-			<tvg_id>936</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Flix Snip</caption>
-			<channel_id>110</channel_id>
-			<epg_id>1:1492</epg_id>
-			<tvg_id>110</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Нашe Kрутое HD</caption>
-			<channel_id>111</channel_id>
-			<epg_id>1:876</epg_id>
-			<tvg_id>111</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_5A00_17_FD_1680000_0_0_0.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Камеди HD</caption>
-			<channel_id>897</channel_id>
-			<epg_id>1:1593</epg_id>
-			<tvg_id>897</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Блокбастер HD</caption>
-			<channel_id>898</channel_id>
-			<epg_id>1:1854</epg_id>
-			<tvg_id>898</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Хит HD</caption>
-			<channel_id>900</channel_id>
-			<epg_id>1:1592</epg_id>
-			<tvg_id>900</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наш Кинопоказ HD</caption>
-			<channel_id>901</channel_id>
-			<epg_id>1:1587</epg_id>
-			<tvg_id>901</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кино Без Границ HD</caption>
-			<channel_id>963</channel_id>
-			<epg_id>Кино Без Границ HD</epg_id>
-			<tvg_id>963</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Kino Jam HD</caption>
-			<channel_id>956</channel_id>
-			<epg_id>1:2043</epg_id>
-			<tvg_id>956</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Kino Jam 2 HD</caption>
-			<channel_id>957</channel_id>
-			<epg_id>1:2044</epg_id>
-			<tvg_id>957</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>BCU 1 HD</caption>
-			<channel_id>1250</channel_id>
-			<epg_id>1:1878</epg_id>
-			<tvg_id>1250</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>BCU 2 HD</caption>
-			<channel_id>1251</channel_id>
-			<epg_id>1:1880</epg_id>
-			<tvg_id>1251</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>BCU 3 HD</caption>
-			<channel_id>1252</channel_id>
-			<epg_id>1:1881</epg_id>
-			<tvg_id>1252</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Detectiv Jam HD</caption>
 			<channel_id>960</channel_id>
 			<epg_id>Detectiv Jam HD</epg_id>
@@ -1499,53 +827,12 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Комедийное HD</caption>
-			<channel_id>112</channel_id>
-			<epg_id>1:355</epg_id>
-			<tvg_id>112</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/KinoPokaz HD-2.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинобоевик</caption>
-			<channel_id>113</channel_id>
-			<epg_id>Кинобоевик</epg_id>
-			<tvg_id>113</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>OKINO</caption>
 			<channel_id>962</channel_id>
 			<epg_id>OKINO</epg_id>
 			<tvg_id>962</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Suspence HD</caption>
-			<channel_id>114</channel_id>
-			<epg_id>Suspence HD</epg_id>
-			<tvg_id>114</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Про Любовь HD</caption>
-			<channel_id>896</channel_id>
-			<epg_id>1:1591</epg_id>
-			<tvg_id>896</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Любимое Кино HD</caption>
-			<channel_id>917</channel_id>
-			<epg_id>1:1433</epg_id>
-			<tvg_id>917</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Love Story HD</caption>
@@ -1558,7 +845,7 @@
 		<tv_channel>
 			<caption>Star Family HD</caption>
 			<channel_id>949</channel_id>
-			<epg_id>1:1006</epg_id>
+			<epg_id>Star Family HD</epg_id>
 			<tvg_id>949</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -1584,6 +871,14 @@
 			<channel_id>943</channel_id>
 			<epg_id>1:1996</epg_id>
 			<tvg_id>943</tvg_id>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Тайна HD</caption>
+			<channel_id>1576</channel_id>
+			<epg_id>1:1162</epg_id>
+			<tvg_id>1576</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
@@ -1642,35 +937,10 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Пятница (+2)</caption>
-			<channel_id>42</channel_id>
-			<epg_id>1:479</epg_id>
-			<tvg_id>42</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/pyatnitsa.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНТ International HD</caption>
-			<channel_id>31</channel_id>
-			<epg_id>ru_2:ТНТ-International (Европа)</epg_id>
-			<tvg_id>31</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/tht.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>ТНТ HD</caption>
 			<channel_id>33</channel_id>
 			<epg_id>1:951</epg_id>
 			<tvg_id>33</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/tht.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>THT</caption>
-			<channel_id>817</channel_id>
-			<epg_id>1:951</epg_id>
-			<tvg_id>817</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/tht.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
@@ -1706,14 +976,6 @@
 			<channel_id>819</channel_id>
 			<epg_id>1:1079</epg_id>
 			<tvg_id>819</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_52E_13_1_3522DF0_0_0_0.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Супер</caption>
-			<channel_id>39</channel_id>
-			<epg_id>1:1079</epg_id>
-			<tvg_id>39</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_52E_13_1_3522DF0_0_0_0.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
@@ -1759,14 +1021,6 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>2x2</caption>
-			<channel_id>28</channel_id>
-			<epg_id>1:11</epg_id>
-			<tvg_id>28</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/2x2.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>СТС-Kids HD</caption>
 			<channel_id>37</channel_id>
 			<epg_id>1:1147</epg_id>
@@ -1796,38 +1050,6 @@
 			<epg_id>Tip Top HD</epg_id>
 			<tvg_id>837</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cartoon Classic</caption>
-			<channel_id>835</channel_id>
-			<epg_id>Cartoon Classic</epg_id>
-			<tvg_id>835</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cartoon network</caption>
-			<channel_id>47</channel_id>
-			<epg_id>1:57</epg_id>
-			<tvg_id>47</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/cartoonnetwrk.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cartoonito</caption>
-			<channel_id>836</channel_id>
-			<epg_id>1:52</epg_id>
-			<tvg_id>836</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/cartoonitod.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Jim Jam</caption>
-			<channel_id>49</channel_id>
-			<epg_id>1:139</epg_id>
-			<tvg_id>49</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Jim Jam.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1871,22 +1093,6 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Nick Jr.</caption>
-			<channel_id>55</channel_id>
-			<epg_id>1:174</epg_id>
-			<tvg_id>55</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_6FF6_436_1_C00000_0_0_0.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Niki Kids</caption>
-			<channel_id>56</channel_id>
-			<epg_id>Niki Kids</epg_id>
-			<tvg_id>56</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/niki_kids.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Солнце</caption>
 			<channel_id>57</channel_id>
 			<epg_id>1:342</epg_id>
@@ -1895,27 +1101,11 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Смайлик</caption>
-			<channel_id>834</channel_id>
-			<epg_id>1:1547</epg_id>
-			<tvg_id>834</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Рыжий</caption>
 			<channel_id>839</channel_id>
 			<epg_id>1:702</epg_id>
 			<tvg_id>839</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Disney Junior HD</caption>
-			<channel_id>58</channel_id>
-			<epg_id>Disney Junior HD</epg_id>
-			<tvg_id>58</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_16_1A_3_85_C00000_0_0_0.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1991,43 +1181,11 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Davinci Kids</caption>
-			<channel_id>65</channel_id>
-			<epg_id>Davinci Kids</epg_id>
-			<tvg_id>65</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Детский Мир HD</caption>
 			<channel_id>846</channel_id>
 			<epg_id>1:297</epg_id>
 			<tvg_id>846</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/detskijmir.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Детский мир/Телеклуб</caption>
-			<channel_id>66</channel_id>
-			<epg_id>1:297</epg_id>
-			<tvg_id>66</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/detskijmir.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Duck TV</caption>
-			<channel_id>850</channel_id>
-			<epg_id>1:88</epg_id>
-			<tvg_id>850</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Duck tv.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Duck TV HD</caption>
-			<channel_id>68</channel_id>
-			<epg_id>1:88</epg_id>
-			<tvg_id>68</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Duck tv.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2039,34 +1197,10 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Шаян ТВ</caption>
-			<channel_id>69</channel_id>
-			<epg_id>Шаян ТВ</epg_id>
-			<tvg_id>69</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>365 Дней ТВ HD</caption>
 			<channel_id>988</channel_id>
 			<epg_id>1:17</epg_id>
 			<tvg_id>988</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/365 dney.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>365 дней</caption>
-			<channel_id>987</channel_id>
-			<epg_id>1:17</epg_id>
-			<tvg_id>987</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/365 dney.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>365 дней</caption>
-			<channel_id>45</channel_id>
-			<epg_id>1:17</epg_id>
-			<tvg_id>45</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/365 dney.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -2076,62 +1210,6 @@
 			<epg_id>ru_2:Наша Тема HD</epg_id>
 			<tvg_id>48</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>National Geographic HD</caption>
-			<channel_id>119</channel_id>
-			<epg_id>ru:National Geographic Украина, Литва, СНГ HD</epg_id>
-			<tvg_id>119</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_16_69_F5_1_1682C51_0_0_0.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>National Geographic HD</caption>
-			<channel_id>120</channel_id>
-			<epg_id>ru:National Geographic Украина, Литва, СНГ HD</epg_id>
-			<tvg_id>120</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_16_69_F5_1_1682C51_0_0_0.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Nat Geo Wild (Россия)</caption>
-			<channel_id>121</channel_id>
-			<epg_id>1:1205</epg_id>
-			<tvg_id>121</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_16_6598_9_70_1680000_0_0_0.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Nat Geo Wild (Россия)</caption>
-			<channel_id>122</channel_id>
-			<epg_id>1:1205</epg_id>
-			<tvg_id>122</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_16_6598_9_70_1680000_0_0_0.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Discovery Channel HD</caption>
-			<channel_id>123</channel_id>
-			<epg_id>1:1322</epg_id>
-			<tvg_id>123</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_3E9_FF82_36E_1680000_0_0_0.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Discovery ID HD</caption>
-			<channel_id>124</channel_id>
-			<epg_id>1:1946</epg_id>
-			<tvg_id>124</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_16_3ACD_514_13E_820000_0_0_0.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Discovery Science</caption>
-			<channel_id>130</channel_id>
-			<epg_id>1:80</epg_id>
-			<tvg_id>130</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Discovery Science (2).png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2167,22 +1245,6 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Неизвестная Россия HD</caption>
-			<channel_id>1002</channel_id>
-			<epg_id>Неизвестная Россия HD</epg_id>
-			<tvg_id>1002</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sochi Live.TV HD</caption>
-			<channel_id>1029</channel_id>
-			<epg_id>Sochi Live.TV HD</epg_id>
-			<tvg_id>1029</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Совершенно секретно</caption>
 			<channel_id>1022</channel_id>
 			<epg_id>1:520</epg_id>
@@ -2191,34 +1253,10 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кухня ТВ HD</caption>
-			<channel_id>125</channel_id>
-			<epg_id>1:368</epg_id>
-			<tvg_id>125</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Кухня ТВ HD.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>The Explorers HD</caption>
 			<channel_id>127</channel_id>
 			<epg_id>The Explorers HD</epg_id>
 			<tvg_id>127</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>English Class HD</caption>
-			<channel_id>1009</channel_id>
-			<epg_id>1:2034</epg_id>
-			<tvg_id>1009</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ege Tv</caption>
-			<channel_id>160</channel_id>
-			<epg_id>Ege Tv</epg_id>
-			<tvg_id>160</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -2247,27 +1285,11 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Авто плюс</caption>
-			<channel_id>1054</channel_id>
-			<epg_id>1:269</epg_id>
-			<tvg_id>1054</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Autoplus.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Авто24</caption>
 			<channel_id>1060</channel_id>
 			<epg_id>1:270</epg_id>
 			<tvg_id>1060</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/avto_24.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Драйв</caption>
-			<channel_id>1053</channel_id>
-			<epg_id>1:313</epg_id>
-			<tvg_id>1053</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/DriveTV.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2279,22 +1301,6 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>History HD</caption>
-			<channel_id>128</channel_id>
-			<epg_id>1:129</epg_id>
-			<tvg_id>128</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/History.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>H2 HD</caption>
-			<channel_id>129</channel_id>
-			<epg_id>1:966</epg_id>
-			<tvg_id>129</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_19_88CC_23_FD_1680000_0_0_0.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Поехали!</caption>
 			<channel_id>1000</channel_id>
 			<epg_id>1:1157</epg_id>
@@ -2303,34 +1309,10 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>KBS  World</caption>
-			<channel_id>1062</channel_id>
-			<epg_id>ru:KBS World</epg_id>
-			<tvg_id>1062</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>RTG HD</caption>
-			<channel_id>131</channel_id>
-			<epg_id>1:198</epg_id>
-			<tvg_id>131</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/RTG_hd.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Ключ HD</caption>
 			<channel_id>1061</channel_id>
 			<epg_id>ru_2:Ключ</epg_id>
 			<tvg_id>1061</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viju Nature</caption>
-			<channel_id>132</channel_id>
-			<epg_id>Viju Nature</epg_id>
-			<tvg_id>132</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -2343,27 +1325,11 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viju History</caption>
-			<channel_id>134</channel_id>
-			<epg_id>1:255</epg_id>
-			<tvg_id>134</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_5E2_15_56_3520000_0_0_0.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Viju History HD</caption>
 			<channel_id>135</channel_id>
 			<epg_id>1:255</epg_id>
 			<tvg_id>135</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_5E2_15_56_3520000_0_0_0.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Viju Explore</caption>
-			<channel_id>136</channel_id>
-			<epg_id>1:252</epg_id>
-			<tvg_id>136</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_5E1_15_56_3520000_0_0_0.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2380,14 +1346,6 @@
 			<epg_id>1:1202</epg_id>
 			<tvg_id>1003</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Travel Channel HD</caption>
-			<channel_id>140</channel_id>
-			<epg_id>1:1246</epg_id>
-			<tvg_id>140</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Travel Channel.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2415,35 +1373,11 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Travel XP HD</caption>
-			<channel_id>141</channel_id>
-			<epg_id>1:2030</epg_id>
-			<tvg_id>141</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>E! Entertainment HD</caption>
 			<channel_id>1057</channel_id>
 			<epg_id>E! Entertainment HD</epg_id>
 			<tvg_id>1057</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/https___itv.live_img_logo_name_E! Entertainment HD.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Animal Planet Россия HD</caption>
-			<channel_id>138</channel_id>
-			<epg_id>1:39</epg_id>
-			<tvg_id>138</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Animal Planet.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Animal Planet Россия HD</caption>
-			<channel_id>139</channel_id>
-			<epg_id>1:39</epg_id>
-			<tvg_id>139</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Animal Planet.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2460,14 +1394,6 @@
 			<epg_id>1:328</epg_id>
 			<tvg_id>1011</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>DTX</caption>
-			<channel_id>142</channel_id>
-			<epg_id>DTX</epg_id>
-			<tvg_id>142</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_197_A_1_3522F30_0_0_0.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2527,14 +1453,6 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Моя стихия</caption>
-			<channel_id>992</channel_id>
-			<epg_id>1:171</epg_id>
-			<tvg_id>992</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/загружено (3).jpg</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>История</caption>
 			<channel_id>144</channel_id>
 			<epg_id>1:338</epg_id>
@@ -2551,7 +1469,7 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Мужской</caption>
+			<caption>Мужской HD</caption>
 			<channel_id>1056</channel_id>
 			<epg_id>1:391</epg_id>
 			<tvg_id>1056</tvg_id>
@@ -2575,14 +1493,6 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Доктор</caption>
-			<channel_id>146</channel_id>
-			<epg_id>1:9</epg_id>
-			<tvg_id>146</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/doctor.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Здоровое ТВ</caption>
 			<channel_id>1048</channel_id>
 			<epg_id>1:327</epg_id>
@@ -2599,27 +1509,11 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кухня</caption>
-			<channel_id>1041</channel_id>
-			<epg_id>1:368</epg_id>
-			<tvg_id>1041</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Kuhnya.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Еда</caption>
 			<channel_id>1040</channel_id>
 			<epg_id>1:315</epg_id>
 			<tvg_id>1040</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/EdaHD.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Food Network Россия</caption>
-			<channel_id>148</channel_id>
-			<epg_id>Food Network Россия</epg_id>
-			<tvg_id>148</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_19D_FF7C_36E_1680000_0_0_0.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2635,14 +1529,6 @@
 			<channel_id>1070</channel_id>
 			<epg_id>1:75</epg_id>
 			<tvg_id>1070</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Da Vinci Learning.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Da Vinci Learning Europe</caption>
-			<channel_id>149</channel_id>
-			<epg_id>1:75</epg_id>
-			<tvg_id>149</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/Da Vinci Learning.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -2697,17 +1583,17 @@
 		<tv_channel>
 			<caption>Охотник и Рыбалов HD</caption>
 			<channel_id>1027</channel_id>
-			<epg_id>Охотник и Рыбалов HD</epg_id>
+			<epg_id>1:448</epg_id>
 			<tvg_id>1027</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/Ohotnik i rybolov.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Охотник и рыболов</caption>
+			<caption>Рыболов</caption>
 			<channel_id>1026</channel_id>
-			<epg_id>Охотник и рыболов</epg_id>
+			<epg_id>ru_2:Рыболов</epg_id>
 			<tvg_id>1026</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Ohotnik i rybolov.png</icon_url>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2751,14 +1637,6 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кто куда</caption>
-			<channel_id>153</channel_id>
-			<epg_id>1:670</epg_id>
-			<tvg_id>153</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Вопросы и ответы</caption>
 			<channel_id>1024</channel_id>
 			<epg_id>1:287</epg_id>
@@ -2791,14 +1669,6 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Наука 2.0</caption>
-			<channel_id>154</channel_id>
-			<epg_id>1:397</epg_id>
-			<tvg_id>154</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Nauka20.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Приключения HD</caption>
 			<channel_id>1015</channel_id>
 			<epg_id>1:220</epg_id>
@@ -2807,17 +1677,17 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Приключения HD</caption>
+			<caption>Союз</caption>
 			<channel_id>169</channel_id>
-			<epg_id>1:220</epg_id>
+			<epg_id>1:522</epg_id>
 			<tvg_id>169</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/TeletravelHD.png</icon_url>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/Souz.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Наша тема HD</caption>
+			<caption>Три Ангела</caption>
 			<channel_id>1016</channel_id>
-			<epg_id>ru_2:Наша Тема HD</epg_id>
+			<epg_id>1:1161</epg_id>
 			<tvg_id>1016</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>7</tv_category_id>
@@ -2827,14 +1697,6 @@
 			<channel_id>157</channel_id>
 			<epg_id>1:1146</epg_id>
 			<tvg_id>157</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Глазами туриста HD.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Глазами Туриста 4K</caption>
-			<channel_id>984</channel_id>
-			<epg_id>1:1146</epg_id>
-			<tvg_id>984</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/Глазами туриста HD.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -2863,35 +1725,11 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>E! Entertainment HD</caption>
-			<channel_id>158</channel_id>
-			<epg_id>E! Entertainment HD</epg_id>
-			<tvg_id>158</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/https___itv.live_img_logo_name_E! Entertainment HD.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Galaxy-TV</caption>
-			<channel_id>161</channel_id>
-			<epg_id>1:121</epg_id>
-			<tvg_id>161</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Galaxytv.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мужской</caption>
-			<channel_id>162</channel_id>
-			<epg_id>1:391</epg_id>
-			<tvg_id>162</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Muzhskoy.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Усадьба</caption>
+			<caption>Спас</caption>
 			<channel_id>163</channel_id>
-			<epg_id>1:593</epg_id>
+			<epg_id>1:523</epg_id>
 			<tvg_id>163</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Usadba.png</icon_url>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/Spas.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2900,30 +1738,6 @@
 			<epg_id>1:438</epg_id>
 			<tvg_id>166</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/Oruzhie.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>English Class HD</caption>
-			<channel_id>1028</channel_id>
-			<epg_id>1:2034</epg_id>
-			<tvg_id>1028</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>English Club TV</caption>
-			<channel_id>167</channel_id>
-			<epg_id>1:91</epg_id>
-			<tvg_id>167</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/English_club.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Моя стихия</caption>
-			<channel_id>168</channel_id>
-			<epg_id>1:171</epg_id>
-			<tvg_id>168</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/загружено (3).jpg</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2951,27 +1765,11 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Телеканал Арт</caption>
-			<channel_id>1036</channel_id>
-			<epg_id>Телеканал Арт</epg_id>
-			<tvg_id>1036</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Телекафе</caption>
 			<channel_id>1037</channel_id>
 			<epg_id>1:563</epg_id>
 			<tvg_id>1037</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_1A1_A_1_3522F30_0_0_0.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Продвижение</caption>
-			<channel_id>1038</channel_id>
-			<epg_id>1:927</epg_id>
-			<tvg_id>1038</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2991,22 +1789,6 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>TVM Chanel</caption>
-			<channel_id>1044</channel_id>
-			<epg_id>ru:TVM Channel</epg_id>
-			<tvg_id>1044</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Arirang</caption>
-			<channel_id>1063</channel_id>
-			<epg_id>1:44</epg_id>
-			<tvg_id>1063</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Arirang.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Точка ТВ</caption>
 			<channel_id>1065</channel_id>
 			<epg_id>1:582</epg_id>
@@ -3019,38 +1801,6 @@
 			<channel_id>1072</channel_id>
 			<epg_id>BRICS</epg_id>
 			<tvg_id>1072</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Авто плюс</caption>
-			<channel_id>184</channel_id>
-			<epg_id>1:269</epg_id>
-			<tvg_id>184</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Autoplus.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Открытый мир</caption>
-			<channel_id>969</channel_id>
-			<epg_id>1:1156</epg_id>
-			<tvg_id>969</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Otkrytiy mir.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>FASTN&amp;FUNBOX HD</caption>
-			<channel_id>159</channel_id>
-			<epg_id>1:641</epg_id>
-			<tvg_id>159</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ваш Успех</caption>
-			<channel_id>164</channel_id>
-			<epg_id>Ваш Успех</epg_id>
-			<tvg_id>164</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -3087,219 +1837,11 @@
 			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Живи</caption>
-			<channel_id>1046</channel_id>
-			<epg_id>1:319</epg_id>
-			<tvg_id>1046</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Zhivi.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 1 HD</caption>
-			<channel_id>170</channel_id>
-			<epg_id>1:425</epg_id>
-			<tvg_id>170</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_88B8_23_FD_1680000_0_0_0.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 2 HD</caption>
-			<channel_id>171</channel_id>
-			<epg_id>1:427</epg_id>
-			<tvg_id>171</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_88B9_23_FD_1680000_0_0_0.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Футбол 3 HD</caption>
-			<channel_id>172</channel_id>
-			<epg_id>1:429</epg_id>
-			<tvg_id>172</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_57A_E_70_1680000_0_0_0.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! HD</caption>
-			<channel_id>173</channel_id>
-			<epg_id>1:787</epg_id>
-			<tvg_id>173</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/MATCH_HD.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Премьер HD</caption>
-			<channel_id>174</channel_id>
-			<epg_id>1:418</epg_id>
-			<tvg_id>174</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_16_2AF9_B_FD_1680000_0_0_0.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Арена HD</caption>
-			<channel_id>175</channel_id>
-			<epg_id>1:527</epg_id>
-			<tvg_id>175</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/MatchArena_HD.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Игра HD</caption>
-			<channel_id>176</channel_id>
-			<epg_id>1:125</epg_id>
-			<tvg_id>176</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/MATCHIGRA_HD.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Mатч Страна HD</caption>
-			<channel_id>851</channel_id>
-			<epg_id>1:1211</epg_id>
-			<tvg_id>851</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/match_strana.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Боец HD</caption>
-			<channel_id>177</channel_id>
-			<epg_id>1:281</epg_id>
-			<tvg_id>177</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_324_E_1_3522E40_0_0_0.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Бокс ТВ HD</caption>
-			<channel_id>853</channel_id>
-			<epg_id>1:726</epg_id>
-			<tvg_id>853</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/BOKSTV.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Бокс ТВ</caption>
-			<channel_id>178</channel_id>
-			<epg_id>1:726</epg_id>
-			<tvg_id>178</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/BOKSTV.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>FightBox HD</caption>
-			<channel_id>179</channel_id>
-			<epg_id>1:642</epg_id>
-			<tvg_id>179</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/fightbox.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MMA HD</caption>
-			<channel_id>852</channel_id>
-			<epg_id>1:1142</epg_id>
-			<tvg_id>852</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/m1global.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>КХЛHD</caption>
-			<channel_id>860</channel_id>
-			<epg_id>1:370</epg_id>
-			<tvg_id>860</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/KHL_RU.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>КХЛ Prime HD</caption>
-			<channel_id>861</channel_id>
-			<epg_id>1:369</epg_id>
-			<tvg_id>861</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Телеканал КХЛ HD.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Хокейный</caption>
-			<channel_id>862</channel_id>
-			<epg_id>Хокейный</epg_id>
-			<tvg_id>862</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Extrem Sports HD</caption>
-			<channel_id>854</channel_id>
-			<epg_id>1:102</epg_id>
-			<tvg_id>854</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/extremesports.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Russian Extreme HD</caption>
-			<channel_id>855</channel_id>
-			<epg_id>ru:Russian Extreme (HD REX)</epg_id>
-			<tvg_id>855</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Russian Extreme UHD</caption>
-			<channel_id>856</channel_id>
-			<epg_id>ru:Russian Extreme (HD REX)</epg_id>
-			<tvg_id>856</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eurosport 1 HD</caption>
-			<channel_id>180</channel_id>
-			<epg_id>1:101</epg_id>
-			<tvg_id>180</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_3E2A_2EE0_13E_820000_0_0_0.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eurosport 2  HD</caption>
-			<channel_id>181</channel_id>
-			<epg_id>1:755</epg_id>
-			<tvg_id>181</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_35ED_C8_13E_820000_0_0_0.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Старт HD</caption>
-			<channel_id>182</channel_id>
-			<epg_id>Старт HD</epg_id>
-			<tvg_id>182</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Старт Триумф</caption>
-			<channel_id>857</channel_id>
-			<epg_id>Старт Триумф</epg_id>
-			<tvg_id>857</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Мир Баскетбола</caption>
 			<channel_id>183</channel_id>
-			<epg_id>1:1697</epg_id>
+			<epg_id>Мир Баскетбола</epg_id>
 			<tvg_id>183</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Спортивный HD</caption>
-			<channel_id>864</channel_id>
-			<epg_id>1:1937</epg_id>
-			<tvg_id>864</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HD Trace Sport</caption>
-			<channel_id>865</channel_id>
-			<epg_id>HD Trace Sport</epg_id>
-			<tvg_id>865</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Trace Sport.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3311,14 +1853,6 @@
 			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viju + Sport HD</caption>
-			<channel_id>859</channel_id>
-			<epg_id>1:260</epg_id>
-			<tvg_id>859</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/vijuplussport.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Футбольный HD</caption>
 			<channel_id>863</channel_id>
 			<epg_id>Футбольный HD</epg_id>
@@ -3327,105 +1861,9 @@
 			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Наш Спорт 1</caption>
-			<channel_id>185</channel_id>
-			<epg_id>Наш Спорт 1</epg_id>
-			<tvg_id>185</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наш Спорт 2</caption>
-			<channel_id>186</channel_id>
-			<epg_id>Наш Спорт 2</epg_id>
-			<tvg_id>186</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наш Спорт 3</caption>
-			<channel_id>187</channel_id>
-			<epg_id>Наш Спорт 3</epg_id>
-			<tvg_id>187</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наш Спорт 4</caption>
-			<channel_id>188</channel_id>
-			<epg_id>Наш Спорт 4</epg_id>
-			<tvg_id>188</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наш Спорт 5</caption>
-			<channel_id>189</channel_id>
-			<epg_id>Наш Спорт 5</epg_id>
-			<tvg_id>189</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наш Спорт 6</caption>
-			<channel_id>190</channel_id>
-			<epg_id>Наш Спорт 6</epg_id>
-			<tvg_id>190</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наш Спорт 7</caption>
-			<channel_id>191</channel_id>
-			<epg_id>Наш Спорт 7</epg_id>
-			<tvg_id>191</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наш Спорт 8</caption>
-			<channel_id>192</channel_id>
-			<epg_id>Наш Спорт 8</epg_id>
-			<tvg_id>192</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наш Спорт 9</caption>
-			<channel_id>193</channel_id>
-			<epg_id>Наш Спорт 9</epg_id>
-			<tvg_id>193</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наш Спорт 10</caption>
-			<channel_id>194</channel_id>
-			<epg_id>Наш Спорт 10</epg_id>
-			<tvg_id>194</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наш Спорт 11</caption>
-			<channel_id>195</channel_id>
-			<epg_id>Наш Спорт 11</epg_id>
-			<tvg_id>195</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наш Спорт 12</caption>
-			<channel_id>196</channel_id>
-			<epg_id>Наш Спорт 12</epg_id>
-			<tvg_id>196</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>1 HD Music Television</caption>
 			<channel_id>981</channel_id>
-			<epg_id>1:786</epg_id>
+			<epg_id>1 HD Music Television</epg_id>
 			<tvg_id>981</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/1hd_music.png</icon_url>
 			<tv_category_id>13</tv_category_id>
@@ -3455,14 +1893,6 @@
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Муз-ТВ</caption>
-			<channel_id>200</channel_id>
-			<epg_id>1:392</epg_id>
-			<tvg_id>200</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/MUZ.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>RU MUZ</caption>
 			<channel_id>967</channel_id>
 			<epg_id>1:392</epg_id>
@@ -3471,7 +1901,7 @@
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>RU TV</caption>
+			<caption>RU TV HD</caption>
 			<channel_id>971</channel_id>
 			<epg_id>1:201</epg_id>
 			<tvg_id>971</tvg_id>
@@ -3500,14 +1930,6 @@
 			<epg_id>1:149</epg_id>
 			<tvg_id>201</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/Mezzo Live HD.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Trace Urban</caption>
-			<channel_id>972</channel_id>
-			<epg_id>Trace Urban</epg_id>
-			<tvg_id>972</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Trace Urban.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3545,7 +1967,7 @@
 		<tv_channel>
 			<caption>Bridge Fresh HD</caption>
 			<channel_id>978</channel_id>
-			<epg_id>ru:Bridge Фрэш</epg_id>
+			<epg_id>Bridge Fresh HD</epg_id>
 			<tvg_id>978</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>13</tv_category_id>
@@ -3575,19 +1997,11 @@
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Bel Muz</caption>
-			<channel_id>204</channel_id>
-			<epg_id>Bel Muz</epg_id>
-			<tvg_id>204</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>ТНТ-Music</caption>
 			<channel_id>205</channel_id>
 			<epg_id>1:42</epg_id>
 			<tvg_id>205</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/TNTMUSIC.png</icon_url>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/tntmus.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3596,54 +2010,6 @@
 			<epg_id>1:604</epg_id>
 			<tvg_id>206</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/1_0_1_4C5_12_1_3520000_0_0_0.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MTV Live HD</caption>
-			<channel_id>208</channel_id>
-			<epg_id>1:157</epg_id>
-			<tvg_id>208</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/MTV_Live_HD.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MTV Live HD</caption>
-			<channel_id>207</channel_id>
-			<epg_id>1:157</epg_id>
-			<tvg_id>207</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/MTV_Live_HD.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MTV Club</caption>
-			<channel_id>209</channel_id>
-			<epg_id>1:154</epg_id>
-			<tvg_id>209</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/mtv_dance.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MTV 00s</caption>
-			<channel_id>210</channel_id>
-			<epg_id>1:2175</epg_id>
-			<tvg_id>210</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/MTV.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MCM Top</caption>
-			<channel_id>211</channel_id>
-			<epg_id>MCM Top</epg_id>
-			<tvg_id>211</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/MCM TOP.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Music Classic</caption>
-			<channel_id>212</channel_id>
-			<epg_id>Music Classic</epg_id>
-			<tvg_id>212</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3663,30 +2029,6 @@
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>One By Russ</caption>
-			<channel_id>213</channel_id>
-			<epg_id>One By Russ</epg_id>
-			<tvg_id>213</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>One ru Rus</caption>
-			<channel_id>214</channel_id>
-			<epg_id>One ru Rus</epg_id>
-			<tvg_id>214</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Жар птица</caption>
-			<channel_id>983</channel_id>
-			<epg_id>Жар птица</epg_id>
-			<tvg_id>983</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Жара HD</caption>
 			<channel_id>973</channel_id>
 			<epg_id>1:215</epg_id>
@@ -3695,250 +2037,116 @@
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>VIVA HD</caption>
-			<channel_id>215</channel_id>
-			<epg_id>VIVA HD</epg_id>
-			<tvg_id>215</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Viva Polska.png</icon_url>
-			<tv_category_id>13</tv_category_id>
+			<caption>Sky One FHD</caption>
+			<channel_id>295</channel_id>
+			<epg_id>1:1583</epg_id>
+			<tvg_id>295</tvg_id>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/Sky1HD.png</icon_url>
+			<tv_category_id>15</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Brazzers TV Europe</caption>
-			<channel_id>866</channel_id>
-			<epg_id>1:53</epg_id>
-			<tvg_id>866</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/brazzers.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
+			<caption>Sky Atlantic HD</caption>
+			<channel_id>296</channel_id>
+			<epg_id>1:1466</epg_id>
+			<tvg_id>296</tvg_id>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/Sky Atlantic HD.png</icon_url>
+			<tv_category_id>15</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Hustler HD</caption>
-			<channel_id>869</channel_id>
-			<epg_id>1:130</epg_id>
-			<tvg_id>869</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/hustler.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
+			<caption>Sky Cinema Action HD</caption>
+			<channel_id>297</channel_id>
+			<epg_id>1:1534</epg_id>
+			<tvg_id>297</tvg_id>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/Sky Action.png</icon_url>
+			<tv_category_id>15</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Dorcel HD</caption>
-			<channel_id>868</channel_id>
-			<epg_id>1:1470</epg_id>
-			<tvg_id>868</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Dorcel tv.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
+			<caption>Sky Cinema Premieren HD</caption>
+			<channel_id>299</channel_id>
+			<epg_id>1:2253</epg_id>
+			<tvg_id>299</tvg_id>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/Sky Premiereneu.png</icon_url>
+			<tv_category_id>15</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Erox HD</caption>
-			<channel_id>888</channel_id>
-			<epg_id>1:825</epg_id>
-			<tvg_id>888</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/eroxhd.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>O la la</caption>
-			<channel_id>867</channel_id>
-			<epg_id>1:656</epg_id>
-			<tvg_id>867</tvg_id>
+			<caption>Sky Highlites HD</caption>
+			<channel_id>1549</channel_id>
+			<epg_id>1:2252</epg_id>
+			<tvg_id>1549</tvg_id>
 			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
+			<tv_category_id>15</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Oh  Ah</caption>
-			<channel_id>885</channel_id>
-			<epg_id>Oh  Ah</epg_id>
-			<tvg_id>885</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
+			<caption>Sky Showcase HD</caption>
+			<channel_id>1604</channel_id>
+			<epg_id>Sky Showcase HD</epg_id>
+			<tvg_id>1604</tvg_id>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/skyshowcasehd.png</icon_url>
+			<tv_category_id>15</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Kino XXX</caption>
-			<channel_id>889</channel_id>
-			<epg_id>Kino XXX</epg_id>
-			<tvg_id>889</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
+			<caption>Sky Cinema Family HD</caption>
+			<channel_id>304</channel_id>
+			<epg_id>Sky Cinema Family HD</epg_id>
+			<tvg_id>304</tvg_id>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/Sky Cinema Family.png</icon_url>
+			<tv_category_id>15</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Exotica TV</caption>
-			<channel_id>870</channel_id>
-			<epg_id>Exotica TV</epg_id>
-			<tvg_id>870</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
+			<caption>Sky Cinema Classic HD</caption>
+			<channel_id>305</channel_id>
+			<epg_id>de:Sky Hits</epg_id>
+			<tvg_id>305</tvg_id>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/Sky Nostalgie.png</icon_url>
+			<tv_category_id>15</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>French Lover</caption>
-			<channel_id>871</channel_id>
-			<epg_id>French Lover</epg_id>
-			<tvg_id>871</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
+			<caption>Sky Krimi HD</caption>
+			<channel_id>306</channel_id>
+			<epg_id>1:1465</epg_id>
+			<tvg_id>306</tvg_id>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/Sky Krimi (1).png</icon_url>
+			<tv_category_id>15</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Extasy HD</caption>
-			<channel_id>891</channel_id>
-			<epg_id>Extasy HD</epg_id>
-			<tvg_id>891</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
+			<caption>Sky Replay HD</caption>
+			<channel_id>307</channel_id>
+			<epg_id>Sky Replay HD</epg_id>
+			<tvg_id>307</tvg_id>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/Sky_Replay_DE_Logo_2021.png</icon_url>
+			<tv_category_id>15</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Barley Legal HD</caption>
-			<channel_id>890</channel_id>
-			<epg_id>Barley Legal HD</epg_id>
-			<tvg_id>890</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
+			<caption>SKY Dokumentaries HD</caption>
+			<channel_id>308</channel_id>
+			<epg_id>SKY Dokumentaries HD</epg_id>
+			<tvg_id>308</tvg_id>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/sky-documentaris.png</icon_url>
+			<tv_category_id>15</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Red Lips HD</caption>
-			<channel_id>892</channel_id>
-			<epg_id>Red Lips HD</epg_id>
-			<tvg_id>892</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
+			<caption>Sky Nature HD</caption>
+			<channel_id>309</channel_id>
+			<epg_id>Sky Nature HD</epg_id>
+			<tvg_id>309</tvg_id>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/sky-nature.png</icon_url>
+			<tv_category_id>15</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Fap TV Anal</caption>
-			<channel_id>873</channel_id>
-			<epg_id>Fap TV Anal</epg_id>
-			<tvg_id>873</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fap Teens HD</caption>
-			<channel_id>875</channel_id>
-			<epg_id>Fap Teens HD</epg_id>
-			<tvg_id>875</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fap Lesbian HD</caption>
-			<channel_id>876</channel_id>
-			<epg_id>Fap Lesbian HD</epg_id>
-			<tvg_id>876</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fap Compilation HD</caption>
-			<channel_id>877</channel_id>
-			<epg_id>Fap Compilation HD</epg_id>
-			<tvg_id>877</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fap BBW HD</caption>
-			<channel_id>878</channel_id>
-			<epg_id>Fap BBW HD</epg_id>
-			<tvg_id>878</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fap 2 HD</caption>
-			<channel_id>879</channel_id>
-			<epg_id>Fap 2 HD</epg_id>
-			<tvg_id>879</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fap 3 HD</caption>
-			<channel_id>880</channel_id>
-			<epg_id>Fap 3 HD</epg_id>
-			<tvg_id>880</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fap 4 HD</caption>
-			<channel_id>881</channel_id>
-			<epg_id>Fap 4 HD</epg_id>
-			<tvg_id>881</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Private TV</caption>
-			<channel_id>882</channel_id>
-			<epg_id>1:190</epg_id>
-			<tvg_id>882</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Penthouse 1 HD</caption>
-			<channel_id>883</channel_id>
-			<epg_id>1:1158</epg_id>
-			<tvg_id>883</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Penthouse TV.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Penthouse2 HD</caption>
-			<channel_id>884</channel_id>
-			<epg_id>1:1158</epg_id>
-			<tvg_id>884</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Penthouse TV.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Романтичное HD</caption>
-			<channel_id>115</channel_id>
-			<epg_id>1:1178</epg_id>
-			<tvg_id>115</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/blank.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Redlight HD</caption>
-			<channel_id>887</channel_id>
-			<epg_id>ru:Redlight HD</epg_id>
-			<tvg_id>887</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/redlighthd.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>XXL</caption>
-			<channel_id>886</channel_id>
-			<epg_id>XXL</epg_id>
-			<tvg_id>886</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/xxl.png</icon_url>
-			<tv_category_id>14</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Hustler TV</caption>
-			<channel_id>872</channel_id>
-			<epg_id>1:131</epg_id>
-			<tvg_id>872</tvg_id>
-			<icon_url>http://stb.piktv.top/images/logo_chanel/Hustler TV.png</icon_url>
-			<tv_category_id>14</tv_category_id>
+			<caption>Sky Crime HD</caption>
+			<channel_id>310</channel_id>
+			<epg_id>1:1897</epg_id>
+			<tvg_id>310</tvg_id>
+			<icon_url>http://stb.piktv.top/images/logo_chanel/Sky Crime HZD.png</icon_url>
+			<tv_category_id>15</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 	</tv_channels>
 </tv_info>

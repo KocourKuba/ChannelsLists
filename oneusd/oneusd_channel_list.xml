@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>8</list_version>
+		<list_version>9</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -61,19 +61,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -232,7 +232,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Победа</caption>
+			<caption>Победа HD</caption>
 			<channel_id>ch066</channel_id>
 			<epg_id>ch066</epg_id>
 			<tvg_id>ch066</tvg_id>
@@ -259,7 +259,55 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Pоссия 24</caption>
+			<caption>Первый HD Double</caption>
+			<channel_id>ch1089</channel_id>
+			<epg_id>ch1089</epg_id>
+			<icon_url>http://tv.team/images/chIcons/1089.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 1 HD Double</caption>
+			<channel_id>ch853</channel_id>
+			<epg_id>ch853</epg_id>
+			<icon_url>http://tv.team/images/chIcons/853.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ HD Double</caption>
+			<channel_id>ch396</channel_id>
+			<epg_id>ch396</epg_id>
+			<icon_url>http://tv.team/images/chIcons/396.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС HD Double</caption>
+			<channel_id>ch391</channel_id>
+			<epg_id>ch391</epg_id>
+			<icon_url>http://tv.team/images/chIcons/391.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ HD Double</caption>
+			<channel_id>ch1950</channel_id>
+			<epg_id>ch1950</epg_id>
+			<icon_url>http://tv.team/images/chIcons/1950.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Канал 78 Санкт Петербург</caption>
+			<channel_id>ch3301</channel_id>
+			<epg_id>ch3301</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3301.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 24</caption>
 			<channel_id>ch007</channel_id>
 			<epg_id>ch007</epg_id>
 			<tvg_id>ch007</tvg_id>
@@ -284,7 +332,7 @@
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Дождь</caption>
+			<caption>Дождь HD</caption>
 			<channel_id>ch088</channel_id>
 			<epg_id>ch088</epg_id>
 			<tvg_id>ch088</tvg_id>
@@ -356,7 +404,7 @@
 			<tvg_id>ch010</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/10.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>4</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кинопремьера HD</caption>
@@ -449,7 +497,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ЕвроКино</caption>
+			<caption>ЕвроКино HD</caption>
 			<channel_id>ch033</channel_id>
 			<epg_id>ch033</epg_id>
 			<tvg_id>ch033</tvg_id>
@@ -458,7 +506,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТВ3</caption>
+			<caption>ТВ3 HD</caption>
 			<channel_id>ch024</channel_id>
 			<epg_id>ch024</epg_id>
 			<tvg_id>ch024</tvg_id>
@@ -485,7 +533,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Fox life</caption>
+			<caption>Fox life HD</caption>
 			<channel_id>ch104</channel_id>
 			<epg_id>ch104</epg_id>
 			<tvg_id>ch104</tvg_id>
@@ -503,7 +551,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Иллюзион+</caption>
+			<caption>Иллюзион+ HD</caption>
 			<channel_id>ch114</channel_id>
 			<epg_id>ch114</epg_id>
 			<tvg_id>ch114</tvg_id>
@@ -521,7 +569,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Русский Иллюзион</caption>
+			<caption>Русский Иллюзион HD</caption>
 			<channel_id>ch101</channel_id>
 			<epg_id>ch101</epg_id>
 			<tvg_id>ch101</tvg_id>
@@ -530,7 +578,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Русский роман</caption>
+			<caption>Русский роман HD</caption>
 			<channel_id>ch132</channel_id>
 			<epg_id>ch132</epg_id>
 			<tvg_id>ch132</tvg_id>
@@ -659,7 +707,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Наше новое кино</caption>
+			<caption>Наше новое кино HD</caption>
 			<channel_id>ch015</channel_id>
 			<epg_id>ch015</epg_id>
 			<tvg_id>ch015</tvg_id>
@@ -821,7 +869,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>НТВ Хит</caption>
+			<caption>НТВ Хит HD</caption>
 			<channel_id>ch568</channel_id>
 			<epg_id>ch568</epg_id>
 			<tvg_id>ch568</tvg_id>
@@ -830,7 +878,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Scream</caption>
+			<caption>Scream HD</caption>
 			<channel_id>ch470</channel_id>
 			<epg_id>ch470</epg_id>
 			<tvg_id>ch470</tvg_id>
@@ -901,7 +949,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>.Sci-Fi</caption>
+			<caption>.Sci-Fi HD</caption>
 			<channel_id>ch464</channel_id>
 			<epg_id>ch464</epg_id>
 			<tvg_id>ch464</tvg_id>
@@ -910,7 +958,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>.Black</caption>
+			<caption>.Black HD</caption>
 			<channel_id>ch465</channel_id>
 			<epg_id>ch465</epg_id>
 			<tvg_id>ch465</tvg_id>
@@ -919,7 +967,7 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кинопоказ</caption>
+			<caption>Кинопоказ HD</caption>
 			<channel_id>ch466</channel_id>
 			<epg_id>ch466</epg_id>
 			<tvg_id>ch466</tvg_id>
@@ -1203,10 +1251,10 @@
 			<tvg_id>ch1675</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1675.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Kinoliving</caption>
+			<caption>Kinoliving HD</caption>
 			<channel_id>ch2069</channel_id>
 			<epg_id>ch2069</epg_id>
 			<tvg_id>ch2069</tvg_id>
@@ -1247,7 +1295,7 @@
 			<tvg_id>ch038</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/38.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>4</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Viasat Kino Action HD</caption>
@@ -1271,7 +1319,7 @@
 			<epg_id>ch3082</epg_id>
 			<icon_url>http://tv.team/images/chIcons/3082.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>5</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Viasat Kino HD</caption>
@@ -1282,12 +1330,99 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Патриот HD</caption>
+			<caption>Патриот</caption>
 			<channel_id>ch2615</channel_id>
 			<epg_id>ch2615</epg_id>
 			<icon_url>http://tv.team/images/chIcons/2615.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KION Хит HD</caption>
+			<channel_id>ch382</channel_id>
+			<epg_id>ch382</epg_id>
+			<icon_url>http://tv.team/images/chIcons/382.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VHS-ка HD</caption>
+			<channel_id>ch383</channel_id>
+			<epg_id>ch383</epg_id>
+			<icon_url>http://tv.team/images/chIcons/383.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>4ever Drama HD</caption>
+			<channel_id>ch384</channel_id>
+			<epg_id>ch384</epg_id>
+			<icon_url>http://tv.team/images/chIcons/384.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>4ever Theater HD</caption>
+			<channel_id>ch385</channel_id>
+			<epg_id>ch385</epg_id>
+			<icon_url>http://tv.team/images/chIcons/385.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Suspense HD</caption>
+			<channel_id>ch3310</channel_id>
+			<epg_id>ch3310</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3310.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино24</caption>
+			<channel_id>ch3311</channel_id>
+			<epg_id>ch3311</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3311.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лавстори HD</caption>
+			<channel_id>ch3312</channel_id>
+			<epg_id>ch3312</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3312.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sumiko HD</caption>
+			<channel_id>ch3313</channel_id>
+			<epg_id>ch3313</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3313.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Silk Way Cinema HD</caption>
+			<channel_id>ch3314</channel_id>
+			<epg_id>ch3314</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3314.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>C More Hits HD</caption>
+			<channel_id>ch1116</channel_id>
+			<epg_id>ch1116</epg_id>
+			<icon_url>http://tv.team/images/chIcons/1116.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Fantastic HDR</caption>
+			<channel_id>ch2705</channel_id>
+			<epg_id>ch2705</epg_id>
+			<icon_url>http://tv.team/images/chIcons/2705.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4k Galaxy Films</caption>
@@ -1296,7 +1431,7 @@
 			<tvg_id>ch1272</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1272.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4K Korean Music</caption>
@@ -1314,7 +1449,7 @@
 			<tvg_id>ch1187</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1187.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4k Боевик</caption>
@@ -1323,7 +1458,7 @@
 			<tvg_id>ch1179</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1179.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4K Фэнтези</caption>
@@ -1332,7 +1467,7 @@
 			<tvg_id>ch1196</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1196.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4K Боевик VHS</caption>
@@ -1341,7 +1476,7 @@
 			<tvg_id>ch451</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/451.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>2</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4K Travel Blog</caption>
@@ -1350,7 +1485,7 @@
 			<tvg_id>ch1166</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1166.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4K Мультимир</caption>
@@ -1359,7 +1494,7 @@
 			<tvg_id>ch1180</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1180.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Clarity4K Звериный Мир</caption>
@@ -1368,7 +1503,7 @@
 			<tvg_id>ch1042</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1042.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Yosso TV 4K HDR</caption>
@@ -1461,7 +1596,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>BCU Marvel HDR</caption>
+			<caption>BCU Premium Marvel 4K HDR</caption>
 			<channel_id>ch777</channel_id>
 			<epg_id>ch777</epg_id>
 			<tvg_id>ch777</tvg_id>
@@ -1683,7 +1818,7 @@
 			<tvg_id>ch542</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/542.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Киноджем 2 HD</caption>
@@ -1692,7 +1827,7 @@
 			<tvg_id>ch521</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/521.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>CineMan</caption>
@@ -2494,6 +2629,126 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>CineMan Военные Сериалы</caption>
+			<channel_id>ch3131</channel_id>
+			<epg_id>ch3131</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3131.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan СССР</caption>
+			<channel_id>ch2866</channel_id>
+			<epg_id>ch2866</epg_id>
+			<icon_url>http://tv.team/images/chIcons/2866.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Бумажный дом</caption>
+			<channel_id>ch3231</channel_id>
+			<epg_id>ch3231</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3231.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Комедия</caption>
+			<channel_id>ch3235</channel_id>
+			<epg_id>ch3235</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3235.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Доктор</caption>
+			<channel_id>ch3236</channel_id>
+			<epg_id>ch3236</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3236.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Герой</caption>
+			<channel_id>ch3242</channel_id>
+			<epg_id>ch3242</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3242.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Счастливого Нового Года</caption>
+			<channel_id>ch3247</channel_id>
+			<epg_id>ch3247</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3247.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Интерны</caption>
+			<channel_id>ch3248</channel_id>
+			<epg_id>ch3248</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3248.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Космос</caption>
+			<channel_id>ch3249</channel_id>
+			<epg_id>ch3249</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3249.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Магия</caption>
+			<channel_id>ch3255</channel_id>
+			<epg_id>ch3255</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3255.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Марвел vs DC</caption>
+			<channel_id>ch3257</channel_id>
+			<epg_id>ch3257</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3257.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Марвел Сериалы</caption>
+			<channel_id>ch3258</channel_id>
+			<epg_id>ch3258</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3258.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Новинки</caption>
+			<channel_id>ch3263</channel_id>
+			<epg_id>ch3263</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3263.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Сваты</caption>
+			<channel_id>ch3272</channel_id>
+			<epg_id>ch3272</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3272.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Время</caption>
+			<channel_id>ch3273</channel_id>
+			<epg_id>ch3273</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3273.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Карусель HD</caption>
 			<channel_id>ch040</channel_id>
 			<epg_id>ch040</epg_id>
@@ -2944,7 +3199,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Лёва</caption>
+			<caption>Лёва HD</caption>
 			<channel_id>ch2080</channel_id>
 			<epg_id>ch2080</epg_id>
 			<tvg_id>ch2080</tvg_id>
@@ -3016,13 +3271,381 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Baby Time</caption>
+			<channel_id>ch3317</channel_id>
+			<epg_id>ch3317</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3317.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТипТоп HD</caption>
+			<channel_id>ch3315</channel_id>
+			<epg_id>ch3315</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3315.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kids TV HD</caption>
+			<channel_id>ch3316</channel_id>
+			<epg_id>ch3316</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3316.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КиноМульт</caption>
+			<channel_id>ch3329</channel_id>
+			<epg_id>ch3329</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3329.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Аладдин</caption>
+			<channel_id>ch3225</channel_id>
+			<epg_id>ch3225</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3225.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Алиса</caption>
+			<channel_id>ch3226</channel_id>
+			<epg_id>ch3226</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3226.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Аниме</caption>
+			<channel_id>ch3227</channel_id>
+			<epg_id>ch3227</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3227.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Барбоскины</caption>
+			<channel_id>ch3228</channel_id>
+			<epg_id>ch3228</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3228.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Бен 10</caption>
+			<channel_id>ch3229</channel_id>
+			<epg_id>ch3229</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3229.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Буба</caption>
+			<channel_id>ch3230</channel_id>
+			<epg_id>ch3230</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3230.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Царевны</caption>
+			<channel_id>ch3232</channel_id>
+			<epg_id>ch3232</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3232.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Чёрный Плащ</caption>
+			<channel_id>ch3233</channel_id>
+			<epg_id>ch3233</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3233.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Чип и Дейл</caption>
+			<channel_id>ch3234</channel_id>
+			<epg_id>ch3234</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3234.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Драконы и Всадники Олуха</caption>
+			<channel_id>ch3237</channel_id>
+			<epg_id>ch3237</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3237.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Утиные истории</caption>
+			<channel_id>ch3238</channel_id>
+			<epg_id>ch3238</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3238.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Финис и Ферб</caption>
+			<channel_id>ch3239</channel_id>
+			<epg_id>ch3239</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3239.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Фиксики</caption>
+			<channel_id>ch3240</channel_id>
+			<epg_id>ch3240</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3240.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Футурама</caption>
+			<channel_id>ch3241</channel_id>
+			<epg_id>ch3241</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3241.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Подружки</caption>
+			<channel_id>ch3243</channel_id>
+			<epg_id>ch3243</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3243.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Человек-Паук</caption>
+			<channel_id>ch3244</channel_id>
+			<epg_id>ch3244</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3244.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Гравити Фолз</caption>
+			<channel_id>ch3245</channel_id>
+			<epg_id>ch3245</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3245.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Губка Боб Квадратные Штаны</caption>
+			<channel_id>ch3246</channel_id>
+			<epg_id>ch3246</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3246.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Леди Баг и Супер Кот</caption>
+			<channel_id>ch3250</channel_id>
+			<epg_id>ch3250</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3250.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Лего</caption>
+			<channel_id>ch3251</channel_id>
+			<epg_id>ch3251</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3251.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Лило и Стич</caption>
+			<channel_id>ch3252</channel_id>
+			<epg_id>ch3252</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3252.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Люк Путешественник во Времени</caption>
+			<channel_id>ch3253</channel_id>
+			<epg_id>ch3253</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3253.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Лунтик и его Друзья</caption>
+			<channel_id>ch3254</channel_id>
+			<epg_id>ch3254</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3254.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Малыш</caption>
+			<channel_id>ch3256</channel_id>
+			<epg_id>ch3256</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3256.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Маша и Медведь</caption>
+			<channel_id>ch3259</channel_id>
+			<epg_id>ch3259</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3259.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV МИ-МИ-Мишки</caption>
+			<channel_id>ch3260</channel_id>
+			<epg_id>ch3260</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3260.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV МиниФорс</caption>
+			<channel_id>ch3261</channel_id>
+			<epg_id>ch3261</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3261.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Мой Маленький Пони</caption>
+			<channel_id>ch3262</channel_id>
+			<epg_id>ch3262</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3262.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Пушистики</caption>
+			<channel_id>ch3264</channel_id>
+			<epg_id>ch3264</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3264.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Щенячий Патруль</caption>
+			<channel_id>ch3265</channel_id>
+			<epg_id>ch3265</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3265.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Русалочка</caption>
+			<channel_id>ch3266</channel_id>
+			<epg_id>ch3266</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3266.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Шкодники</caption>
+			<channel_id>ch3267</channel_id>
+			<epg_id>ch3267</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3267.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Смешарики</caption>
+			<channel_id>ch3268</channel_id>
+			<epg_id>ch3268</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3268.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Сонник Бум</caption>
+			<channel_id>ch3269</channel_id>
+			<epg_id>ch3269</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3269.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Звёздные войны</caption>
+			<channel_id>ch3270</channel_id>
+			<epg_id>ch3270</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3270.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Супер Крылья</caption>
+			<channel_id>ch3271</channel_id>
+			<epg_id>ch3271</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3271.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Тимон и Пумба</caption>
+			<channel_id>ch3274</channel_id>
+			<epg_id>ch3274</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3274.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Том и Джерри</caption>
+			<channel_id>ch3275</channel_id>
+			<epg_id>ch3275</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3275.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Три Кота</caption>
+			<channel_id>ch3276</channel_id>
+			<epg_id>ch3276</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3276.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Команда Турбо</caption>
+			<channel_id>ch3277</channel_id>
+			<epg_id>ch3277</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3277.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Черепашки Ниндзя</caption>
+			<channel_id>ch3278</channel_id>
+			<epg_id>ch3278</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3278.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kernel TV Винни и его Друзья</caption>
+			<channel_id>ch3279</channel_id>
+			<epg_id>ch3279</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3279.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>LT: Go3 Sport 1 HD</caption>
 			<channel_id>ch137</channel_id>
 			<epg_id>ch137</epg_id>
 			<tvg_id>ch137</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/137.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>HR: Arena Sport 1 HD</caption>
@@ -3413,6 +4036,7 @@
 			<tvg_id>ch1718</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1718.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>UK: Viaplay Sports 2 HD</caption>
@@ -3421,9 +4045,10 @@
 			<tvg_id>ch1719</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1719.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Russian Extreme Ultra</caption>
+			<caption>Russian Extreme UHD</caption>
 			<channel_id>ch378</channel_id>
 			<epg_id>ch378</epg_id>
 			<tvg_id>ch378</tvg_id>
@@ -3773,6 +4398,7 @@
 			<tvg_id>ch536</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/536.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Живи Активно HD</caption>
@@ -3791,7 +4417,7 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>КХЛ</caption>
+			<caption>КХЛ HD</caption>
 			<channel_id>ch034</channel_id>
 			<epg_id>ch034</epg_id>
 			<tvg_id>ch034</tvg_id>
@@ -3980,7 +4606,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Точка отрыва</caption>
+			<caption>Точка отрыва HD</caption>
 			<channel_id>ch048</channel_id>
 			<epg_id>ch048</epg_id>
 			<tvg_id>ch048</tvg_id>
@@ -4571,6 +5197,20 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Bridge TV Fresh</caption>
+			<channel_id>ch2754</channel_id>
+			<epg_id>ch2754</epg_id>
+			<icon_url>http://tv.team/images/chIcons/2754.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KBC-Наш Rock HD</caption>
+			<channel_id>ch2849</channel_id>
+			<epg_id>ch2849</epg_id>
+			<icon_url>http://tv.team/images/chIcons/2849.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Animal Planet HD</caption>
 			<channel_id>ch124</channel_id>
 			<epg_id>ch124</epg_id>
@@ -4676,6 +5316,7 @@
 			<tvg_id>ch143</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/143.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Galaxy HD</caption>
@@ -4693,6 +5334,7 @@
 			<tvg_id>ch327</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/327.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>History HD</caption>
@@ -4737,6 +5379,7 @@
 			<tvg_id>ch436</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/436.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Нано HD</caption>
@@ -4745,6 +5388,7 @@
 			<tvg_id>ch437</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/437.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Техно 24</caption>
@@ -4753,6 +5397,7 @@
 			<tvg_id>ch438</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/438.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Доктор HD</caption>
@@ -4761,6 +5406,7 @@
 			<tvg_id>ch440</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/440.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Da Vinci</caption>
@@ -4796,6 +5442,7 @@
 			<tvg_id>ch629</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/629.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTG HD</caption>
@@ -4831,6 +5478,7 @@
 			<tvg_id>ch520</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/520.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Мужской</caption>
@@ -4839,6 +5487,7 @@
 			<tvg_id>ch522</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/522.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Большая Азия HD</caption>
@@ -4847,6 +5496,7 @@
 			<tvg_id>ch533</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/533.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Здоровое ТВ</caption>
@@ -4855,6 +5505,7 @@
 			<tvg_id>ch539</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/539.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Арсенал HD</caption>
@@ -4863,7 +5514,7 @@
 			<tvg_id>ch614</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/614.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Телекафе</caption>
@@ -4899,6 +5550,7 @@
 			<tvg_id>ch659</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/659.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Мир Вокруг HD</caption>
@@ -4907,6 +5559,7 @@
 			<tvg_id>ch664</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/664.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Поехали! HD</caption>
@@ -4915,6 +5568,7 @@
 			<tvg_id>ch710</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/710.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Smartzone HD</caption>
@@ -4923,6 +5577,7 @@
 			<tvg_id>ch718</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/718.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>КтоКуда</caption>
@@ -4931,6 +5586,7 @@
 			<tvg_id>ch719</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/719.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Motor Trend HD</caption>
@@ -4939,6 +5595,7 @@
 			<tvg_id>ch720</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/720.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Discovery Science HD</caption>
@@ -4965,6 +5622,7 @@
 			<tvg_id>ch2078</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/2078.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Experiment HD</caption>
@@ -4991,6 +5649,7 @@
 			<tvg_id>ch2606</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/2606.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Yosso TV Science</caption>
@@ -4999,12 +5658,37 @@
 			<tvg_id>ch2605</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/2605.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>CineMan Air Crash</caption>
 			<channel_id>ch2924</channel_id>
 			<epg_id>ch2924</epg_id>
 			<icon_url>http://tv.team/images/chIcons/2924.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>The Explorers HD</caption>
+			<channel_id>ch3323</channel_id>
+			<epg_id>ch3323</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3323.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Моя Стихия HD</caption>
+			<channel_id>ch3321</channel_id>
+			<epg_id>ch3321</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3321.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CGTN Russian HD</caption>
+			<channel_id>ch3318</channel_id>
+			<epg_id>ch3318</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3318.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -5018,12 +5702,13 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>АВТО 24</caption>
+			<caption>АВТО 24 HD</caption>
 			<channel_id>ch016</channel_id>
 			<epg_id>ch016</epg_id>
 			<tvg_id>ch016</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/16.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Сарафан</caption>
@@ -5032,6 +5717,7 @@
 			<tvg_id>ch026</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/26.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кухня ТВ HD</caption>
@@ -5067,6 +5753,7 @@
 			<tvg_id>ch075</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/75.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>2X2</caption>
@@ -5075,6 +5762,7 @@
 			<tvg_id>ch076</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/76.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>КВН ТВ</caption>
@@ -5109,6 +5797,7 @@
 			<tvg_id>ch111</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/111.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ностальгия</caption>
@@ -5144,14 +5833,16 @@
 			<tvg_id>ch120</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/120.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Точка РФ</caption>
+			<caption>Точка РФ HD</caption>
 			<channel_id>ch122</channel_id>
 			<epg_id>ch122</epg_id>
 			<tvg_id>ch122</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/122.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ОТР</caption>
@@ -5160,6 +5851,7 @@
 			<tvg_id>ch405</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/405.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ю</caption>
@@ -5177,6 +5869,7 @@
 			<tvg_id>ch516</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/516.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Спас</caption>
@@ -5194,6 +5887,7 @@
 			<tvg_id>ch518</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/518.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Доверие</caption>
@@ -5202,6 +5896,7 @@
 			<tvg_id>ch534</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/534.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ЛДПР ТВ</caption>
@@ -5236,7 +5931,7 @@
 			<tvg_id>ch392</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/392.png</icon_url>
 			<tv_category_id>10</tv_category_id>
-			<archive>6</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Мир HD</caption>
@@ -5263,14 +5958,16 @@
 			<tvg_id>ch426</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/426.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>RTД HD</caption>
+			<caption>RTD HD</caption>
 			<channel_id>ch439</channel_id>
 			<epg_id>ch439</epg_id>
 			<tvg_id>ch439</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/439.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Авто плюс HD</caption>
@@ -5288,6 +5985,7 @@
 			<tvg_id>ch503</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/503.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Точка ТВ</caption>
@@ -5296,6 +5994,7 @@
 			<tvg_id>ch507</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/507.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Жар Птица</caption>
@@ -5336,6 +6035,7 @@
 			<tvg_id>ch556</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/556.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>НTВ Правo</caption>
@@ -5344,6 +6044,7 @@
 			<tvg_id>ch612</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/612.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кто есть кто</caption>
@@ -5361,7 +6062,7 @@
 			<tvg_id>ch625</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/625.png</icon_url>
 			<tv_category_id>10</tv_category_id>
-			<archive>2</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Домашние животные</caption>
@@ -5370,6 +6071,7 @@
 			<tvg_id>ch626</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/626.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Зоопарк</caption>
@@ -5378,6 +6080,7 @@
 			<tvg_id>ch627</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/627.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Успех</caption>
@@ -5386,6 +6089,7 @@
 			<tvg_id>ch628</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/628.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Перец International</caption>
@@ -5394,6 +6098,7 @@
 			<tvg_id>ch633</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/633.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Анекдот ТВ</caption>
@@ -5410,6 +6115,7 @@
 			<tvg_id>ch1879</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1879.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Relax HD</caption>
@@ -5426,14 +6132,16 @@
 			<tvg_id>ch2068</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/2068.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Ключ ТВ</caption>
+			<caption>Ключ ТВ HD</caption>
 			<channel_id>ch2307</channel_id>
 			<epg_id>ch2307</epg_id>
 			<tvg_id>ch2307</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/2307.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM OldSchool HD</caption>
@@ -5451,7 +6159,7 @@
 			<tvg_id>ch1800</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/1800.png</icon_url>
 			<tv_category_id>10</tv_category_id>
-			<archive>7</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Yosso TV Food</caption>
@@ -5460,6 +6168,7 @@
 			<tvg_id>ch2603</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/2603.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Аппетитный HD</caption>
@@ -5467,7 +6176,62 @@
 			<epg_id>ch422</epg_id>
 			<icon_url>http://tv.team/images/chIcons/422.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>2</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ратник HD</caption>
+			<channel_id>ch3320</channel_id>
+			<epg_id>ch3320</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3320.png</icon_url>
+			<tv_category_id>10</tv_category_id>
 			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Плюс Минус 16 HD</caption>
+			<channel_id>ch3326</channel_id>
+			<epg_id>ch3326</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3326.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Epic HD</caption>
+			<channel_id>ch3328</channel_id>
+			<epg_id>ch3328</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3328.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНВ Планета</caption>
+			<channel_id>ch3322</channel_id>
+			<epg_id>ch3322</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3322.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Арт</caption>
+			<channel_id>ch3325</channel_id>
+			<epg_id>ch3325</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3325.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TVM Channel</caption>
+			<channel_id>ch3327</channel_id>
+			<epg_id>ch3327</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3327.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SochiLive.TV HD</caption>
+			<channel_id>ch3324</channel_id>
+			<epg_id>ch3324</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3324.png</icon_url>
+			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Усадьба</caption>
@@ -5521,6 +6285,7 @@
 			<tvg_id>ch452</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/452.png</icon_url>
 			<tv_category_id>11</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Живая Планета</caption>
@@ -5529,6 +6294,7 @@
 			<tvg_id>ch453</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/453.png</icon_url>
 			<tv_category_id>11</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Загородный</caption>
@@ -5537,6 +6303,7 @@
 			<tvg_id>ch624</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/624.png</icon_url>
 			<tv_category_id>11</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Загородный int HD</caption>
@@ -5545,14 +6312,16 @@
 			<tvg_id>ch667</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/667.png</icon_url>
 			<tv_category_id>11</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Ocean TV</caption>
+			<caption>Ocean TV HD</caption>
 			<channel_id>ch728</channel_id>
 			<epg_id>ch728</epg_id>
 			<tvg_id>ch728</tvg_id>
 			<icon_url>http://tv.team/images/chIcons/728.png</icon_url>
 			<tv_category_id>11</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Live Planet HD</caption>
@@ -5623,6 +6392,21 @@
 			<icon_url>http://tv.team/images/chIcons/2604.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лапки LIVE HD</caption>
+			<channel_id>ch3302</channel_id>
+			<epg_id>ch3302</epg_id>
+			<icon_url>http://tv.team/images/chIcons/3302.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Загородная жизнь</caption>
+			<channel_id>ch2881</channel_id>
+			<epg_id>ch2881</epg_id>
+			<icon_url>http://tv.team/images/chIcons/2881.png</icon_url>
+			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русская ночь</caption>

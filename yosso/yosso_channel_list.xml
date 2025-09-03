@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>8</list_version>
+		<list_version>9</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -354,6 +354,46 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>ТВЦ HD (orig)</caption>
+			<channel_id>bigteisti19/09946965</channel_id>
+			<epg_id>elb406</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/efir/tvcentr.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир HD (orig)</caption>
+			<channel_id>bigteisti19/09946966</channel_id>
+			<epg_id>elb282</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/efir/mir.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний HD (orig)</caption>
+			<channel_id>bigteisti19/09946964</channel_id>
+			<epg_id>elb195</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/efir/domashny.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ3 HD (orig)</caption>
+			<channel_id>bigteisti19/09946970</channel_id>
+			<epg_id>elb408</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/federal/tv3-ru.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС HD (orig)</caption>
+			<channel_id>bigteisti19/09946969</channel_id>
+			<epg_id>elb395</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/show/sts.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Доверие</caption>
 			<channel_id>bigteisti9/DOVERIE</channel_id>
 			<epg_id>elb290</epg_id>
@@ -534,10 +574,10 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>HDL</caption>
+			<caption>Точка.РФ HD</caption>
 			<channel_id>bigteisti2/HDL</channel_id>
 			<epg_id>elb71</epg_id>
-			<icon_url>http://streaming-elbrus.su/img/logos/poznanie/hdl.png</icon_url>
+			<icon_url>https://streaming-elbrus.su/img/logos/poznanie/tochkarf.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -965,11 +1005,12 @@
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>NASA</caption>
+			<caption>ТНВ Планета</caption>
 			<channel_id>bigteisti6/NASA</channel_id>
-			<epg_id>567</epg_id>
-			<icon_url>http://streaming-elbrus.su/img/logos/poznanie/nasa4k.png</icon_url>
+			<epg_id>elb416</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/region/tnv.png</icon_url>
 			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Дикий</caption>
@@ -1293,6 +1334,7 @@
 			<epg_id>elb283</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/efir/mir24.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>РБК HD</caption>
@@ -1315,6 +1357,7 @@
 			<epg_id>elb2595</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/efir/rtvi.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Телеканал 360 HD</caption>
@@ -1472,6 +1515,7 @@
 			<epg_id>elb2360</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/show/perec.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Fashion TV HD</caption>
@@ -1578,7 +1622,7 @@
 		<tv_channel>
 			<caption>Rutube TV HD</caption>
 			<channel_id>bigteisti10/08946982</channel_id>
-			<epg_id>elb2237</epg_id>
+			<epg_id>elb4738</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/show/rutubetvhd.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
@@ -2510,6 +2554,7 @@
 			<epg_id>elb3080</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/films/tv3film.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Plan_B</caption>
@@ -2541,6 +2586,7 @@
 			<epg_id>elb83</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/kinoInt/kinoliving.gif</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Феникс+Кино HD</caption>
@@ -2743,18 +2789,18 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кино без границ HD</caption>
+			<caption>Окко Герои HD</caption>
 			<channel_id>bigteisti13/SETANTA_EVENT_3</channel_id>
-			<epg_id>elb1728</epg_id>
-			<icon_url>https://streaming-elbrus.su/img/logos/films/kino-bez-granic.png</icon_url>
+			<epg_id>elb4716</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/films/okko-geroi.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Romance Новогодний HD</caption>
+			<caption>VHS-ка Сериал HD</caption>
 			<channel_id>bigteisti19/08946943</channel_id>
-			<epg_id>elb102</epg_id>
-			<icon_url>https://streaming-elbrus.su/img/logos/films/romancenewyear.png</icon_url>
+			<epg_id>elb2238</epg_id>
+			<icon_url>https://streaming-elbrus.su/img/logos/films/vhs-ka.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3008,7 +3054,7 @@
 		<tv_channel>
 			<caption>Тип-Топ HD</caption>
 			<channel_id>bigteisti1/tiptop_kinozal_orig</channel_id>
-			<epg_id>elb415</epg_id>
+			<epg_id>elb2980</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/detskie/tip-top.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>3</archive>
@@ -3058,6 +3104,7 @@
 			<epg_id>elb235</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/detskie/kinomult.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Чижик HD</caption>
@@ -3351,7 +3398,7 @@
 			<caption>C-Holiday HD</caption>
 			<channel_id>bigteisti1/08936905</channel_id>
 			<epg_id>elb449</epg_id>
-			<icon_url>https://streaming-elbrus.su/img/logos/yosso/c-holiday-12.png</icon_url>
+			<icon_url>https://streaming-elbrus.su/img/logos/yosso/c-holiday-s.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3929,6 +3976,7 @@
 			<epg_id>elb885</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/kinoInt/Balet_Opera.png</icon_url>
 			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM 007 HD</caption>
@@ -4915,6 +4963,7 @@
 			<epg_id>elb47</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/music/classic-music.png</icon_url>
 			<tv_category_id>11</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>M1 HD</caption>
@@ -5254,7 +5303,7 @@
 		<tv_channel>
 			<caption>Eurosport 1 HD</caption>
 			<channel_id>bigteisti6/eurosport_1</channel_id>
-			<epg_id>elb3698</epg_id>
+			<epg_id>elb1459</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/eurosport1.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>3</archive>
@@ -5452,7 +5501,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Футбольный HD</caption>
+			<caption>Мяч HD</caption>
 			<channel_id>bigteisti6/futbolniy_hd</channel_id>
 			<epg_id>elb302</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/footbolny.png</icon_url>
@@ -5576,7 +5625,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Спортивный HD</caption>
+			<caption>ТВ Спорт HD</caption>
 			<channel_id>bigteisti6/sportivnbIiy_HD</channel_id>
 			<epg_id>elb2867</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/sport/sportivny.png</icon_url>
@@ -6659,6 +6708,7 @@
 			<epg_id>elb4567</epg_id>
 			<icon_url>https://streaming-elbrus.su/img/logos/sport/sky-sport-bundesliga-de.png</icon_url>
 			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport Bundesliga 1 HD DE</caption>
@@ -6828,6 +6878,7 @@
 			<epg_id>elb3806</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/uhd/travel-xp-4k.png</icon_url>
 			<tv_category_id>13</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>HOME 4K</caption>
@@ -6835,6 +6886,7 @@
 			<epg_id>elb74</epg_id>
 			<icon_url>http://streaming-elbrus.su/img/logos/uhd/home4k.png</icon_url>
 			<tv_category_id>13</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Insight UHD</caption>

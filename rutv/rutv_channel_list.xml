@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>8</list_version>
+		<list_version>9</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -41,30 +41,35 @@
 		</tv_category>
 		<tv_category>
 			<id>9</id>
+			<caption>4K</caption>
+			<icon_url>plugin_file://icons/categories/4k.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>10</id>
 			<caption>XXX</caption>
 			<icon_url>plugin_file://icons/categories/33.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Медиатека</caption>
+			<caption>Video On Demand</caption>
 			<icon_url>plugin_file://icons/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -73,7 +78,7 @@
 		<tv_channel>
 			<caption>Первый канала Европа</caption>
 			<channel_id>116</channel_id>
-			<epg_id>Первый канала Европа</epg_id>
+			<epg_id>epg1:Первый канал Европа</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Первый канал Европа1.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
@@ -108,7 +113,7 @@
 			<epg_id>epg1:Первый канал</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Первый канал HD1.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>7</archive>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Россия 1</caption>
@@ -140,7 +145,7 @@
 			<epg_id>epg1:Россия 1</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Россия 1 HD.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>7</archive>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>НТВ</caption>
@@ -283,7 +288,7 @@
 			<epg_id>epg1:Евроновости</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Euronews1.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ОТР</caption>
@@ -331,10 +336,10 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Deutsche Welle DE</caption>
+			<caption>La 1 HD ES</caption>
 			<channel_id>773</channel_id>
-			<epg_id>epg6:deutschewelle.de</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Deutsche Welle DE.png</icon_url>
+			<epg_id>epg1:La 1 HD ES</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/La 1 HD ES.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -364,6 +369,36 @@
 			<channel_id>423</channel_id>
 			<epg_id>us:BBC World</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BBC World News US.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ИНФОКАНАЛ</caption>
+			<channel_id>1972</channel_id>
+			<epg_id>epg1:NO EPG RUTV</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Инфоканал.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>РТР-Планета</caption>
+			<channel_id>406</channel_id>
+			<epg_id>epg1:РТР-Планета</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/РТР-Планета.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Настоящее время</caption>
+			<channel_id>307</channel_id>
+			<epg_id>epg1:Настоящее время</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Настоящее время.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RTД HD</caption>
+			<channel_id>1962</channel_id>
+			<epg_id>epg1:RTД</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/RTД HD RU.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -404,7 +439,7 @@
 			<epg_id>epg1:ПОБЕДА</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Победа.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Иллюзион+</caption>
@@ -492,7 +527,7 @@
 			<epg_id>epg1:ДОМ КИНО</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Дом Кино.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>РОДНОЕ КИНО</caption>
@@ -596,7 +631,7 @@
 			<epg_id>epg1:Русский роман</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Русский роман.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русский детектив</caption>
@@ -604,7 +639,7 @@
 			<epg_id>epg1:Русский детектив</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Русский детектив.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русский бестселлер</caption>
@@ -612,7 +647,7 @@
 			<epg_id>epg1:Русский бестселлер</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Русский бестселлер.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Наше HD</caption>
@@ -668,7 +703,7 @@
 			<epg_id>epg1:Шокирующее</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Шокирующее.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Комедийное HD</caption>
@@ -676,7 +711,7 @@
 			<epg_id>epg1:Комедийное</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Комедийное.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Filmbox Arthouse HD</caption>
@@ -732,7 +767,7 @@
 			<epg_id>epg1:Amedia 1</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Amedia 1.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Премиальное HD</caption>
@@ -804,7 +839,7 @@
 			<epg_id>epg1:ЗВЕЗДА Плюс</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Звезда Плюс.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Dizi</caption>
@@ -852,7 +887,7 @@
 			<epg_id>epg1:Мосфильм. Золотая коллекция</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Мосфильм. Золотая коллекция.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Hollywood HD</caption>
@@ -860,7 +895,7 @@
 			<epg_id>epg1:Hollywood</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Hollywood HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Amedia 2 HD</caption>
@@ -1149,7 +1184,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>CineMan VHS FHD</caption>
+			<caption>CineMan VHS HD</caption>
 			<channel_id>1101</channel_id>
 			<epg_id>cineman:cineman-vhs</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/cineman-vhs.png</icon_url>
@@ -1333,7 +1368,7 @@
 			<epg_id>mm:newfilm1-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Newfilm 1 HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Newfilm 2 HD</caption>
@@ -1341,7 +1376,7 @@
 			<epg_id>mm:newfilm2-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Newfilm 2 HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Newfilm 3 HD</caption>
@@ -1349,7 +1384,7 @@
 			<epg_id>mm:newfilm3-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Newfilm 3 HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM NewFilm RU HD</caption>
@@ -1357,7 +1392,7 @@
 			<epg_id>mm:newfilmru-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM NewFilm RU HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ММ Боевик HD</caption>
@@ -1365,7 +1400,7 @@
 			<epg_id>mm:boevik-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/ММ Боевик HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Катастрофа HD</caption>
@@ -1373,7 +1408,7 @@
 			<epg_id>mm:katastrofa-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Катастрофа HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Комедия HD</caption>
@@ -1381,7 +1416,7 @@
 			<epg_id>mm:comedy-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Комедия HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM USSR Комедия HD</caption>
@@ -1389,7 +1424,7 @@
 			<epg_id>mm:ussr-komedija-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM USSR Комедия HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Роскино HD</caption>
@@ -1397,7 +1432,7 @@
 			<epg_id>mm:roskino-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Роскино HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Супергерои HD</caption>
@@ -1405,7 +1440,7 @@
 			<epg_id>mm:supergeroi-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Супергерои HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Сваты HD</caption>
@@ -1413,7 +1448,7 @@
 			<epg_id>mm:svati-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Сваты HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM USSR Детектив HD</caption>
@@ -1421,7 +1456,7 @@
 			<epg_id>mm:ussr-detektiv-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM USSR Детектив HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Кунг-Фу HD</caption>
@@ -1445,7 +1480,7 @@
 			<epg_id>mm:ujasi-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Ужасы HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Крутые 90-е HD</caption>
@@ -1453,7 +1488,7 @@
 			<epg_id>mm:krutie-90-e-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Крутые 90-е HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Flip UHD</caption>
@@ -1461,7 +1496,7 @@
 			<epg_id>mm:flip-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Flip UHD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM История HD</caption>
@@ -1469,7 +1504,7 @@
 			<epg_id>mm:istorija-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM История HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Love HD</caption>
@@ -1477,7 +1512,7 @@
 			<epg_id>mm:love-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Love HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Фобия HD</caption>
@@ -1485,7 +1520,7 @@
 			<epg_id>mm:fobija-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Фобия HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Celebrity HD</caption>
@@ -1493,7 +1528,7 @@
 			<epg_id>mm:celebrity-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Celebrity HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM UFO HD</caption>
@@ -1501,7 +1536,7 @@
 			<epg_id>mm:ufo-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM UFO HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Боевик Classic HD</caption>
@@ -1509,7 +1544,7 @@
 			<epg_id>mm:boevik_classic-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Боевик Classic HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Семейный 1 HD</caption>
@@ -1517,7 +1552,7 @@
 			<epg_id>mm:family_1-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Семейный 1 HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Семейный 2 HD</caption>
@@ -1525,7 +1560,7 @@
 			<epg_id>mm:family2-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Семейный 2 HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Спорт HD</caption>
@@ -1533,7 +1568,7 @@
 			<epg_id>mm:sport-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Спорт HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Киберпанк HD</caption>
@@ -1541,7 +1576,7 @@
 			<epg_id>mm:kiberpunk-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Киберпанк HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM 007 HD</caption>
@@ -1549,13 +1584,15 @@
 			<epg_id>mm:007-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM 007 HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM World Hits HD</caption>
 			<channel_id>1619</channel_id>
-			<epg_id>mm:world-hits-mm</epg_id>
+			<epg_id>epg1:NO EPG Music</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM World Hits HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Агата Кристи HD</caption>
@@ -1563,6 +1600,7 @@
 			<epg_id>mm:agata-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Агата Кристи HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Вестерн HD</caption>
@@ -1570,6 +1608,7 @@
 			<epg_id>mm:western-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Вестерн HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Воронины HD</caption>
@@ -1577,6 +1616,7 @@
 			<epg_id>mm:voronini-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Воронины HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Грайндхаус HD</caption>
@@ -1584,6 +1624,7 @@
 			<epg_id>mm:grindhouse-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Грайндхаус HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Затмение HD</caption>
@@ -1591,6 +1632,7 @@
 			<epg_id>mm:zatmenie-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Затмение HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Квартирник HD</caption>
@@ -1598,6 +1640,7 @@
 			<epg_id>mm:kvartirnik-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Квартирник HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Криминал HD</caption>
@@ -1605,6 +1648,7 @@
 			<epg_id>mm:kriminal-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Криминал HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Мифология HD</caption>
@@ -1612,6 +1656,7 @@
 			<epg_id>mm:mifologija-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Мифология HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Нуар HD</caption>
@@ -1619,6 +1664,7 @@
 			<epg_id>mm:nuar-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Нуар HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Погружение HD</caption>
@@ -1626,6 +1672,7 @@
 			<epg_id>mm:pogrujenie-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Погружение HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Полицейский с Рублёвки HD</caption>
@@ -1633,6 +1680,7 @@
 			<epg_id>mm:police-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Полицейский с Рублёвки HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Приключения HD</caption>
@@ -1640,6 +1688,7 @@
 			<epg_id>mm:prikluchenija-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Приключения HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Синематограф HD</caption>
@@ -1647,6 +1696,7 @@
 			<epg_id>mm:sinematograf-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Синематограф HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Ситком HD</caption>
@@ -1654,6 +1704,7 @@
 			<epg_id>mm:sitkom-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Ситком HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Ситком 2.0 HD</caption>
@@ -1661,6 +1712,7 @@
 			<epg_id>mm:sitkom_2.0-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Ситком 2.0 HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Скорость HD</caption>
@@ -1668,6 +1720,7 @@
 			<epg_id>mm:skorost-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Скорость HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Стивен Кинг HD</caption>
@@ -1675,6 +1728,7 @@
 			<epg_id>mm:st-king-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Стивен Кинг HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Триллер HD</caption>
@@ -1682,6 +1736,7 @@
 			<epg_id>mm:triller-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Триллер HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Ужастик HD</caption>
@@ -1689,6 +1744,7 @@
 			<epg_id>mm:ujastik-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Ужастик HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Фантастика HD</caption>
@@ -1696,6 +1752,7 @@
 			<epg_id>mm:fantastika-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Фантастика HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Translation HD</caption>
@@ -1703,6 +1760,7 @@
 			<epg_id>mm:translation-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Translation HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Драма HD</caption>
@@ -1710,6 +1768,7 @@
 			<epg_id>mm:drama-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Драма HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Кинофестиваль HD</caption>
@@ -1717,6 +1776,7 @@
 			<epg_id>mm:kinofestival-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Кинофестиваль HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM OldSchool HD</caption>
@@ -1724,6 +1784,7 @@
 			<epg_id>mm:oldschool-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM OldSchool HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Classic HD</caption>
@@ -1731,6 +1792,7 @@
 			<epg_id>mm:classic-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Classic HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Комедия Classic HD</caption>
@@ -1738,6 +1800,7 @@
 			<epg_id>mm:comedy_classic-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Комедия Classic HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Ужасы Classic HD</caption>
@@ -1745,6 +1808,7 @@
 			<epg_id>mm:ujasi-classic-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Ужасы Classic HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM USSR 1941-1945 HD</caption>
@@ -1752,6 +1816,7 @@
 			<epg_id>mm:ussr-1941-1945-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM USSR 1941-1945 HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM USSR Приключения HD</caption>
@@ -1759,6 +1824,7 @@
 			<epg_id>mm:ussr-prikluchenija-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM USSR Приключения HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM USSR Сказки HD</caption>
@@ -1766,6 +1832,7 @@
 			<epg_id>mm:ussr-prikluchenija-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM USSR Приключения HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MS ANIMATED HD</caption>
@@ -1781,6 +1848,7 @@
 			<epg_id>mm:crime-ms</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MS CRIME HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MS PRISONS HD</caption>
@@ -1788,6 +1856,7 @@
 			<epg_id>mm:prisons-ms</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MS PRISONS HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MS YOUNG BLOOD HD</caption>
@@ -1795,6 +1864,7 @@
 			<epg_id>mm:young-blood-ms</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MS YOUNG BLOOD HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MS MAGIC UHD</caption>
@@ -1802,6 +1872,7 @@
 			<epg_id>mm:ms-magic-4k-ms</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MS MAGIC UHD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Gold Line Brief HD</caption>
@@ -2281,7 +2352,7 @@
 			<epg_id>box:BOX Apocalypse HD</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX Apocalypse HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>21</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Cyber HD</caption>
@@ -2314,6 +2385,42 @@
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX Mayday HD.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko TV HD</caption>
+			<channel_id>1973</channel_id>
+			<epg_id>epg1:Okko TV</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Okko TV3.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Герои HD</caption>
+			<channel_id>1974</channel_id>
+			<epg_id>epg1:Okko Герои</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Okko Герои3.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju+ Serial HD</caption>
+			<channel_id>1936</channel_id>
+			<epg_id>epg1:viju+ Serial</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/viju+ Serial HD.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan СССР HD</caption>
+			<channel_id>1985</channel_id>
+			<epg_id>cineman:cineman-cccpfhd</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/CineMan СССР HD3.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВОЁ ТВ HD</caption>
+			<channel_id>1986</channel_id>
+			<epg_id>ТВОЁ ТВ HD</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/ТВОЁ ТВ HD3.png</icon_url>
+			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>НТВ Хит</caption>
@@ -2505,7 +2612,7 @@
 			<epg_id>epg1:World Fashion Channel</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/World Fashion Channel1.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Перец International</caption>
@@ -2544,6 +2651,7 @@
 			<epg_id>mm:micromir-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Микромир HD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Макромир HD</caption>
@@ -2551,6 +2659,7 @@
 			<epg_id>mm:makromir-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Макромир HD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Мегамир HD</caption>
@@ -2558,6 +2667,7 @@
 			<epg_id>mm:megamir-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Мегамир HD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Открытия HD</caption>
@@ -2565,6 +2675,7 @@
 			<epg_id>mm:otkritiya-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Открытия HD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Live Planet HD</caption>
@@ -2572,13 +2683,15 @@
 			<epg_id>mm:live-planet-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Live Planet HD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Relax HD</caption>
 			<channel_id>1656</channel_id>
-			<epg_id>mm:relax-mm</epg_id>
+			<epg_id>epg1:NO EPG</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Relax HD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Experiment HD</caption>
@@ -2586,6 +2699,7 @@
 			<epg_id>mm:experiment-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Experiment HD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Travel HD</caption>
@@ -2648,6 +2762,28 @@
 			<channel_id>867</channel_id>
 			<epg_id>epg1:Servus TV</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Servus TV HD DE.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний +4</caption>
+			<channel_id>1918</channel_id>
+			<epg_id>epg1:Домашний +4</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Домашний +4.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний International</caption>
+			<channel_id>1949</channel_id>
+			<epg_id>epg1:Домашний International</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Домашний1.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВОЁ ТВ ЮМОР HD</caption>
+			<channel_id>1987</channel_id>
+			<epg_id>ТВОЁ ТВ ЮМОР HD</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/ТВОЁ ТВ ЮМОР HD3.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2824,7 +2960,7 @@
 			<epg_id>epg1:viju History</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/viju History HD.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>viju Explore HD</caption>
@@ -2880,6 +3016,7 @@
 			<epg_id>epg1:Союз</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Союз.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Охота и рыбалка</caption>
@@ -3090,6 +3227,62 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>День Победы HD</caption>
+			<channel_id>1935</channel_id>
+			<epg_id>epg1:День Победы</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/День Победы HD.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>History 2 HD</caption>
+			<channel_id>1939</channel_id>
+			<epg_id>epg1:History 2</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/History 2 HD.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>DocuBox</caption>
+			<channel_id>1903</channel_id>
+			<epg_id>epg1:DocuBox</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/DocuBox5.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикий</caption>
+			<channel_id>1919</channel_id>
+			<epg_id>epg1:Дикий</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Дикий.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикая охота HD</caption>
+			<channel_id>1920</channel_id>
+			<epg_id>epg1:Дикая охота</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Дикая охота HD.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикая рыбалка HD</caption>
+			<channel_id>1950</channel_id>
+			<epg_id>epg1:Дикая рыбалка</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Дикая рыбалка HD.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Арсенал HD</caption>
+			<channel_id>1934</channel_id>
+			<epg_id>epg1:Арсенал</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Арсенал HD.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Тайны Галактики</caption>
+			<channel_id>1951</channel_id>
+			<epg_id>epg1:Тайны Галактики</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Тайны Галактики.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Мультиландия</caption>
 			<channel_id>54</channel_id>
 			<epg_id>epg1:Мультиландия</epg_id>
@@ -3143,7 +3336,7 @@
 			<epg_id>epg1:Мульт</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Мульт.png</icon_url>
 			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Мама</caption>
@@ -3165,7 +3358,7 @@
 			<caption>Nick Jr.</caption>
 			<channel_id>143</channel_id>
 			<epg_id>epg1:Nick Jr.</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/NICKJR200.png</icon_url>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Nick Jr.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -3534,6 +3727,7 @@
 			<epg_id>mm:honey-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Honey HD.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Lesson HD</caption>
@@ -3541,6 +3735,7 @@
 			<epg_id>mm:lesson-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Lesson HD.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Smile HD</caption>
@@ -3548,6 +3743,7 @@
 			<epg_id>mm:smile-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Smile HD.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Family Guy HD</caption>
@@ -3555,6 +3751,7 @@
 			<epg_id>mm:griffiny-mm</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Family Guy HD.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MS TOONS HD</caption>
@@ -3562,6 +3759,7 @@
 			<epg_id>mm:toons-ms</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MS TOONS HD.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM USSR Мультфильм HD</caption>
@@ -3618,6 +3816,13 @@
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BCU Little HD.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Рыжий</caption>
+			<channel_id>1938</channel_id>
+			<epg_id>epg1:Рыжий</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Рыжий.png</icon_url>
+			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Eurosport 1</caption>
@@ -3809,7 +4014,7 @@
 			<epg_id>epg1:Setanta Sports 1</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Setanta Sports 1 HD1.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Setanta Sports + HD</caption>
@@ -3864,7 +4069,7 @@
 			<epg_id>epg1:Setanta Sports HD</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Setanta Sports HD UA.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Футбол HD</caption>
@@ -3888,7 +4093,7 @@
 			<epg_id>us:NBA TV</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/NBA TV US.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>МАТЧ! Планета</caption>
@@ -4040,6 +4245,62 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Okko Спорт. Футбол HD</caption>
+			<channel_id>1079</channel_id>
+			<epg_id>epg1:Okko Спорт. Футбол</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Okko Спорт. Футбол HD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Прайм Спорт HD</caption>
+			<channel_id>1885</channel_id>
+			<epg_id>epg1:Okko Прайм Спорт</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Okko Прайм Спорт HD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Спорт HD</caption>
+			<channel_id>1886</channel_id>
+			<epg_id>epg1:Okko Спорт</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Okko Спорт HD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТАРТ HD</caption>
+			<channel_id>1887</channel_id>
+			<epg_id>epg1:СТАРТ</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/СТАРТ HD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт Триумф HD</caption>
+			<channel_id>1888</channel_id>
+			<epg_id>epg1:Старт Триумф</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Старт Триумф HD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ Спорт HD</caption>
+			<channel_id>1889</channel_id>
+			<epg_id>epg1:ТВ Спорт HD</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/ТВ Спорт HD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Trace Sport Stars HD</caption>
+			<channel_id>1890</channel_id>
+			<epg_id>epg1:Trace Sport Stars</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Trace Sport Stars HD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Волейбол HD</caption>
+			<channel_id>1891</channel_id>
+			<epg_id>epg1:Волейбол</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Волейбол HD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Музыка Первого</caption>
 			<channel_id>127</channel_id>
 			<epg_id>epg1:Музыка Первого</epg_id>
@@ -4060,7 +4321,7 @@
 			<epg_id>epg1:Mezzo</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Mezzo Live.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MTV 00s</caption>
@@ -4082,7 +4343,7 @@
 			<epg_id>epg1:Шансон ТВ</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Шансон ТВ.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ля-минор</caption>
@@ -4090,7 +4351,7 @@
 			<epg_id>epg1:Ля-минор</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Ля-минор.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Club MTV</caption>
@@ -4105,6 +4366,7 @@
 			<epg_id>epg1:RU.TV</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/RU.TV.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Music Box Russia HD</caption>
@@ -4112,7 +4374,7 @@
 			<epg_id>epg1:Music Box Russia HD</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Music Box Russia.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>МУЗ</caption>
@@ -4120,7 +4382,7 @@
 			<epg_id>epg1:МУЗ ТВ</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/МУЗ.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТНТ Music</caption>
@@ -4156,17 +4418,17 @@
 			<epg_id>epg1:MTV Live HD</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MTV Live.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>7</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Bridge Classic</caption>
+			<caption>Bridge TV Classic</caption>
 			<channel_id>382</channel_id>
 			<epg_id>epg1:Bridge Classic</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Bridge Classic.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Bridge</caption>
+			<caption>Bridge TV</caption>
 			<channel_id>309</channel_id>
 			<epg_id>epg1:BRIDGE</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Bridge.png</icon_url>
@@ -4203,14 +4465,15 @@
 		<tv_channel>
 			<caption>MM Rock HD</caption>
 			<channel_id>1650</channel_id>
-			<epg_id>mm:rock-mm</epg_id>
+			<epg_id>epg1:NO EPG Music</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MM Rock HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Rurap HD</caption>
 			<channel_id>1222</channel_id>
-			<epg_id>box:BOX RU.RAP HD</epg_id>
+			<epg_id>epg1:NO EPG Music</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX Rurap HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>1</archive>
@@ -4232,11 +4495,235 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>MTV Hits</caption>
+			<channel_id>1905</channel_id>
+			<epg_id>epg1:MTV Hits</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MTV Hits4.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV HITS HD</caption>
+			<channel_id>1941</channel_id>
+			<epg_id>epg1:Bridge TV HITS HD</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Bridge TV HITS HD.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV DELUXE HD</caption>
+			<channel_id>1942</channel_id>
+			<epg_id>epg1:Bridge TV DELUXE HD</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Bridge TV DELUXE HD.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV РУССКИЙ ХИТ</caption>
+			<channel_id>1943</channel_id>
+			<epg_id>epg1:Bridge TV РУССКИЙ ХИТ</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Bridge TV РУССКИЙ ХИТ.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV ШЛЯГЕР</caption>
+			<channel_id>1944</channel_id>
+			<epg_id>epg1:Bridge TV ШЛЯГЕР</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Bridge TV ШЛЯГЕР.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV ROCK HD</caption>
+			<channel_id>1945</channel_id>
+			<epg_id>epg1:Bridge TV ROCK HD</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Bridge TV ROCK HD.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV ФРЭШ HD</caption>
+			<channel_id>1946</channel_id>
+			<epg_id>epg1:Bridge TV ФРЭШ HD</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Bridge TV ФРЭШ HD.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV ЭТНО HD</caption>
+			<channel_id>1947</channel_id>
+			<epg_id>epg1:Bridge TV ЭТНО HD</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Bridge TV ЭТНО HD.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan KIDS 4K</caption>
+			<channel_id>1118</channel_id>
+			<epg_id>cineman:cineman-kids4k</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/CineMan KIDS 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Relax 4K</caption>
+			<channel_id>1110</channel_id>
+			<epg_id>cineman:cineman-relax</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/CineMan Relax 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan CCCP 4K</caption>
+			<channel_id>1111</channel_id>
+			<epg_id>cineman:cineman-cccp4k</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/CineMan CCCP 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan OLD 4K</caption>
+			<channel_id>1112</channel_id>
+			<epg_id>cineman:cineman-old4k</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/CineMan OLD 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Kids 4K</caption>
+			<channel_id>1185</channel_id>
+			<epg_id>box:BCU Kids 4K</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BCU Kids 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Ultra 4K</caption>
+			<channel_id>1186</channel_id>
+			<epg_id>box:BCU Ultra 4K</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BCU Ultra 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Premiere Ultra 4K</caption>
+			<channel_id>1187</channel_id>
+			<epg_id>box:BCU Premiere Ultra 4K</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BCU Premiere Ultra 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX SR Sport 4k HDR</caption>
+			<channel_id>1836</channel_id>
+			<epg_id>box:BOX SR Sport 4K HDR</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX SR Sport 1 Live 4k HDR.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX SR Sport 1 Live 4k HDR</caption>
+			<channel_id>1248</channel_id>
+			<epg_id>box:BOX SR Sport 1 Live 4K HDR</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX SR Sport 1 Live 4k HDR.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX SR Sport 2 Live 4k HDR</caption>
+			<channel_id>1249</channel_id>
+			<epg_id>box:BOX SR Sport 2 Live 4K HDR</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX SR Sport 2 Live 4k HDR.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX SR Sport 3 Live 4k HDR</caption>
+			<channel_id>1250</channel_id>
+			<epg_id>box:BOX SR Sport 3 Live 4K HDR</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX SR Sport 3 Live 4k HDR.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Music 4K</caption>
+			<channel_id>1206</channel_id>
+			<epg_id>box:BOX Music 4K</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX Music 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Premiere 4K</caption>
+			<channel_id>1217</channel_id>
+			<epg_id>box:BOX Premiere 4K</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX Premiere 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Serial 4K</caption>
+			<channel_id>1218</channel_id>
+			<epg_id>box:BOX Serial 4K</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX Serial 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Serial Premiere 4K HD</caption>
+			<channel_id>1344</channel_id>
+			<epg_id>box:BOX Serial Premiere 4K</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX Serial 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Remast 4K</caption>
+			<channel_id>1219</channel_id>
+			<epg_id>box:BOX Remast 4K</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX Remast 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Remast Plus 4K</caption>
+			<channel_id>1220</channel_id>
+			<epg_id>box:BOX Remast+ 4K</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX Remast Plus 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Ultrastars 4K</caption>
+			<channel_id>1228</channel_id>
+			<epg_id>box:BOX UltraStars 4K</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX Ultrastars 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX СССР 4K HDR</caption>
+			<channel_id>1229</channel_id>
+			<epg_id>box:BOX СССР 4K</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX СССР 4K HDR.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Russian 4K</caption>
+			<channel_id>1233</channel_id>
+			<epg_id>box:BOX Russian 4K</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX Russian 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Kosmo 4K</caption>
+			<channel_id>1231</channel_id>
+			<epg_id>box:BOX Kosmo 4K</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX Kosmo 4K.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Hustler HD</caption>
 			<channel_id>120</channel_id>
 			<epg_id>epg1:Hustler HD</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Hustler HD.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<archive>14</archive>
 			<protected>1</protected>
 		</tv_channel>
@@ -4245,14 +4732,14 @@
 			<channel_id>286</channel_id>
 			<epg_id>epg1:A SPOR TR</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/A SPOR HD TR.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Шёлк</caption>
 			<channel_id>121</channel_id>
 			<epg_id>epg1:Шёлк</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Шёлк.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<archive>1</archive>
 			<protected>1</protected>
 		</tv_channel>
@@ -4261,7 +4748,7 @@
 			<channel_id>476</channel_id>
 			<epg_id>epg1:Brazzers</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Brazzers TV Europe.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<archive>1</archive>
 			<protected>1</protected>
 		</tv_channel>
@@ -4270,7 +4757,7 @@
 			<channel_id>191</channel_id>
 			<epg_id>epg1:Private</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Private HD.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -4278,7 +4765,7 @@
 			<channel_id>182</channel_id>
 			<epg_id>epg1:Vivid Red</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Vivid Red HD.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -4286,7 +4773,7 @@
 			<channel_id>180</channel_id>
 			<epg_id>epg1:Русская ночь</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Русская ночь.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -4294,7 +4781,7 @@
 			<channel_id>270</channel_id>
 			<epg_id>epg1:Penthouse Gold HD</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Penthouse Gold HD.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -4302,7 +4789,7 @@
 			<channel_id>413</channel_id>
 			<epg_id>epg1:Шалун</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Шалун HD.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -4310,7 +4797,7 @@
 			<channel_id>407</channel_id>
 			<epg_id>epg1:Barely legal</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Barely Legal.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -4318,7 +4805,7 @@
 			<channel_id>408</channel_id>
 			<epg_id>epg1:Exxxotica HD</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Exxxotica HD.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -4326,7 +4813,7 @@
 			<channel_id>409</channel_id>
 			<epg_id>epg1:Eroxxx</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Eroxxx HD.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -4334,7 +4821,7 @@
 			<channel_id>300</channel_id>
 			<epg_id>epg1:Blue Hustler</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Blue Hustler1.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -4342,7 +4829,7 @@
 			<channel_id>420</channel_id>
 			<epg_id>epg1:Red Lips</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Red Lips HD.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -4350,7 +4837,7 @@
 			<channel_id>1116</channel_id>
 			<epg_id>cineman:cineman-xxx</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/CineMan XXX HD.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<archive>1</archive>
 			<protected>1</protected>
 		</tv_channel>
@@ -4359,7 +4846,7 @@
 			<channel_id>1117</channel_id>
 			<epg_id>cineman:cineman-xxx2</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/CineMan XXX2 HD.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<archive>1</archive>
 			<protected>1</protected>
 		</tv_channel>
@@ -4368,8 +4855,360 @@
 			<channel_id>1184</channel_id>
 			<epg_id>box:BCU Charm HD</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BCU Charm HD.png</icon_url>
-			<tv_category_id>9</tv_category_id>
+			<tv_category_id>10</tv_category_id>
 			<archive>1</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Penthouse REALITY TV</caption>
+			<channel_id>1991</channel_id>
+			<epg_id>epg1:Penthouse REALITY TV</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Penthouse REALITY TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Extasy HD</caption>
+			<channel_id>1977</channel_id>
+			<epg_id>epg1:Extasy HD</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Extasy HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dorcel TV</caption>
+			<channel_id>1978</channel_id>
+			<epg_id>epg1:Dorcel TV</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Dorcel TV.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Redlight HD</caption>
+			<channel_id>1990</channel_id>
+			<epg_id>epg1:Redlight HD</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Redlight HD1.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Babes TV HD</caption>
+			<channel_id>1996</channel_id>
+			<epg_id>epg1:Babes TV HD</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Babes TV HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>ОХ-АХ HD</caption>
+			<channel_id>1847</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/ОХ-АХ HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>XXL</caption>
+			<channel_id>1851</channel_id>
+			<epg_id>epg1:XXL</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/XXL1.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>KinoXXX</caption>
+			<channel_id>1858</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/KinoXXX.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>XY Mix</caption>
+			<channel_id>1846</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/XY Mix.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>XY Max</caption>
+			<channel_id>1993</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/XY Max1.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>XY Plus</caption>
+			<channel_id>1994</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/XY Plus1.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fap TV 2 HD</caption>
+			<channel_id>1870</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Fap TV 2 HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fap TV 3</caption>
+			<channel_id>1871</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Fap TV 3.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fap TV 4 HD</caption>
+			<channel_id>1875</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Fap TV 4 HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fap TV Anal HD</caption>
+			<channel_id>1881</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Fap TV Anal HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fap TV Parody HD</caption>
+			<channel_id>1979</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Fap TV Parody HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fap TV Teens</caption>
+			<channel_id>1980</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Fap TV Teens.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fap TV Lesbian HD</caption>
+			<channel_id>1981</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Fap TV Lesbian HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fap TV Compilation HD</caption>
+			<channel_id>1982</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Fap TV Compilation HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fap TV BBW</caption>
+			<channel_id>1983</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Fap TV BBW HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Milf HD</caption>
+			<channel_id>1997</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Blowjob HD</caption>
+			<channel_id>1998</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Big Dick HD</caption>
+			<channel_id>1999</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Big Tits HD</caption>
+			<channel_id>2000</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Fetish HD</caption>
+			<channel_id>2001</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Pornstar HD</caption>
+			<channel_id>2002</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Big Ass HD</caption>
+			<channel_id>2003</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Interracial HD</caption>
+			<channel_id>2004</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Latina HD</caption>
+			<channel_id>2005</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV POV HD</caption>
+			<channel_id>2006</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Teen HD</caption>
+			<channel_id>2007</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Hardcore HD</caption>
+			<channel_id>2008</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Cuckold HD</caption>
+			<channel_id>2009</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Threesome HD</caption>
+			<channel_id>2010</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Russian HD</caption>
+			<channel_id>2011</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Lesbian HD</caption>
+			<channel_id>2012</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Rough HD</caption>
+			<channel_id>2013</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Gangbang HD</caption>
+			<channel_id>2014</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Anal HD</caption>
+			<channel_id>2015</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Compilation HD</caption>
+			<channel_id>2016</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Brunette HD</caption>
+			<channel_id>2017</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Blonde HD</caption>
+			<channel_id>2018</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Gay HD</caption>
+			<channel_id>2019</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Adult TV Asian HD</caption>
+			<channel_id>2020</channel_id>
+			<epg_id>epg1:NO EPG 18+</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Adult TV Milf HD.png</icon_url>
+			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 	</tv_channels>

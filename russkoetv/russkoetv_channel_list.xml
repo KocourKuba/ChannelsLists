@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>8</list_version>
+		<list_version>9</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -60,20 +60,25 @@
 			<icon_url>plugin_file://icons/categories/ru7.png</icon_url>
 		</tv_category>
 		<tv_category>
+			<id>14</id>
+			<caption>XXX (18+)</caption>
+			<icon_url>plugin_file://icons/categories/33.png</icon_url>
+		</tv_category>
+		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -384,6 +389,222 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Первый HD</caption>
+			<channel_id>pervyj-hd</channel_id>
+			<epg_id>pervyj-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/pervyj-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 1 HD</caption>
+			<channel_id>rossija-hd</channel_id>
+			<epg_id>rossija-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/rossija-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ HD</caption>
+			<channel_id>ntv-hd</channel_id>
+			<epg_id>ntv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ntv-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ HD</caption>
+			<channel_id>tnt-hd</channel_id>
+			<epg_id>tnt-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tnt-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ4 HD</caption>
+			<channel_id>tnt4-hd</channel_id>
+			<epg_id>tnt4-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tnt4-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС HD</caption>
+			<channel_id>ctc-hd</channel_id>
+			<epg_id>ctc-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ctc-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Домашний HD</caption>
+			<channel_id>domashnij-hd</channel_id>
+			<epg_id>domashnij-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/domashnij-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Перец</caption>
+			<channel_id>perec</channel_id>
+			<epg_id>perec</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/perec.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>РЕН ТВ HD</caption>
+			<channel_id>ren-tv-hd</channel_id>
+			<epg_id>ren-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ren-tv-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ3 HD</caption>
+			<channel_id>tv3-hd</channel_id>
+			<epg_id>tv3-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tv3-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звезда HD</caption>
+			<channel_id>zvezda-hd</channel_id>
+			<epg_id>zvezda-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/zvezda-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Звезда Плюс HD</caption>
+			<channel_id>zvezda-plus-hd</channel_id>
+			<epg_id>zvezda-plus-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/zvezda-plus-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВЦ HD</caption>
+			<channel_id>tvc-hd</channel_id>
+			<epg_id>tvc-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tvc-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Санкт-Петербург</caption>
+			<channel_id>sankt-peterburg</channel_id>
+			<epg_id>sankt-peterburg</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/sankt-peterburg.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Санкт-Петербург HD</caption>
+			<channel_id>sankt-peterburg-hd</channel_id>
+			<epg_id>sankt-peterburg-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/sankt-peterburg-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия Культура HD</caption>
+			<channel_id>rossija-k-hd</channel_id>
+			<epg_id>rossija-k-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/rossija-k-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ОТР HD</caption>
+			<channel_id>otr-hd</channel_id>
+			<epg_id>otr-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/otr-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир HD</caption>
+			<channel_id>mir-hd</channel_id>
+			<epg_id>mir-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/mir-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир 24 HD</caption>
+			<channel_id>mir-24-hd</channel_id>
+			<epg_id>mir-24-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/mir-24-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Gagsnetwork HD</caption>
+			<channel_id>gagsnetwork-hd</channel_id>
+			<epg_id>gagsnetwork-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/gagsnetwork-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятница HD</caption>
+			<channel_id>piatnica-hd</channel_id>
+			<epg_id>piatnica-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/piatnica-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Суббота HD</caption>
+			<channel_id>super-hd</channel_id>
+			<epg_id>super-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/super-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Телеканал 360 HD</caption>
+			<channel_id>telekanal-360-hd</channel_id>
+			<epg_id>telekanal-360-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/telekanal-360-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мы HD</caption>
+			<channel_id>my-hd</channel_id>
+			<epg_id>my-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/my-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RT Док HD</caption>
+			<channel_id>russia-today-doc-hd</channel_id>
+			<epg_id>russia-today-doc-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/russia-today-doc-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дождь HD</caption>
+			<channel_id>dozhd-hd</channel_id>
+			<epg_id>dozhd-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/dozhd-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Настоящее время HD</caption>
+			<channel_id>nastoyaschee-vremya-hd</channel_id>
+			<epg_id>nastoyaschee-vremya-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nastoyaschee-vremya-hd.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Россия 24</caption>
 			<channel_id>rossija24</channel_id>
 			<epg_id>rossija24</epg_id>
@@ -428,7 +649,7 @@
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>BBC World</caption>
+			<caption>BBC News</caption>
 			<channel_id>bbc-world-news</channel_id>
 			<epg_id>bbc-world-news</epg_id>
 			<icon_url>https://rutv.aws-static-hosting.com/streams/bbc-world-news.png</icon_url>
@@ -453,6 +674,120 @@
 			<channel_id>deutsche-welle</channel_id>
 			<epg_id>deutsche-welle</epg_id>
 			<icon_url>https://rutv.aws-static-hosting.com/streams/deutsche-welle.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EuroNews HD</caption>
+			<channel_id>evronews-hd</channel_id>
+			<epg_id>evronews-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/evronews-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Известия HD</caption>
+			<channel_id>izvestija-hd</channel_id>
+			<epg_id>izvestija-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/izvestija-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>360 Новости HD</caption>
+			<channel_id>360-novosti-hd</channel_id>
+			<epg_id>360-novosti-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/360-novosti-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>РБК HD</caption>
+			<channel_id>rbk-hd</channel_id>
+			<epg_id>rbk-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/rbk-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RT HD</caption>
+			<channel_id>russia-today-hd</channel_id>
+			<epg_id>russia-today-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/russia-today-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky News HD</caption>
+			<channel_id>sky-news-uk-hd</channel_id>
+			<epg_id>sky-news-uk-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/sky-news-uk-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>FOX News HD</caption>
+			<channel_id>fox-news-hd</channel_id>
+			<epg_id>fox-news-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/fox-news-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CNN HD</caption>
+			<channel_id>cnn-hd</channel_id>
+			<epg_id>cnn-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/cnn-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ABC News HD</caption>
+			<channel_id>abc-us-hd</channel_id>
+			<epg_id>abc-us-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/abc-us-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBC HD</caption>
+			<channel_id>nbc-us-hd</channel_id>
+			<epg_id>nbc-us-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nbc-us-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CNBC HD</caption>
+			<channel_id>cnbc-us-hd</channel_id>
+			<epg_id>cnbc-us-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/cnbc-us-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MSNBC HD</caption>
+			<channel_id>msnbc-us-hd</channel_id>
+			<epg_id>msnbc-us-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/msnbc-us-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BBC News HD</caption>
+			<channel_id>bbc-world-news-hd</channel_id>
+			<epg_id>bbc-world-news-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/bbc-world-news-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bloomberg TV HD</caption>
+			<channel_id>bloomberg-hd</channel_id>
+			<epg_id>bloomberg-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/bloomberg-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Al Jazeera HD</caption>
+			<channel_id>al-jazeera-hd</channel_id>
+			<epg_id>al-jazeera-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/al-jazeera-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>France 24 HD</caption>
+			<channel_id>france-24-hd</channel_id>
+			<epg_id>france-24-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/france-24-hd.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -872,6 +1207,830 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Кинопремьера HD</caption>
+			<channel_id>kinopremiera-hd</channel_id>
+			<epg_id>kinopremiera-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinopremiera-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Премиальное HD</caption>
+			<channel_id>kino-premium-hd</channel_id>
+			<epg_id>kino-premium-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kino-premium-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Остросюжетное HD</caption>
+			<channel_id>ostrosujetnoe-hd</channel_id>
+			<epg_id>ostrosujetnoe-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ostrosujetnoe-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Хит HD</caption>
+			<channel_id>hit-hd</channel_id>
+			<epg_id>hit-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/hit-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинохит HD</caption>
+			<channel_id>kinohit-hd</channel_id>
+			<epg_id>kinohit-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinohit-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киномикс HD</caption>
+			<channel_id>kinomix-hd</channel_id>
+			<epg_id>kinomix-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinomix-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносемья HD</caption>
+			<channel_id>kinosemja-hd</channel_id>
+			<epg_id>kinosemja-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinosemja-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносвидание HD</caption>
+			<channel_id>kinosvidanije-hd</channel_id>
+			<epg_id>kinosvidanije-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinosvidanije-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киносерия HD</caption>
+			<channel_id>mnogo-tv-hd</channel_id>
+			<epg_id>mnogo-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/mnogo-tv-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинопоказ HD</caption>
+			<channel_id>kinopokaz-hd</channel_id>
+			<epg_id>kinopokaz-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinopokaz-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Блокбастер HD</caption>
+			<channel_id>blokbaster-hd</channel_id>
+			<epg_id>blokbaster-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/blokbaster-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Боевики HD</caption>
+			<channel_id>boeviki-hd</channel_id>
+			<epg_id>boeviki-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/boeviki-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наш Кинопоказ HD</caption>
+			<channel_id>nash-kinopokaz-hd</channel_id>
+			<epg_id>nash-kinopokaz-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nash-kinopokaz-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Душевное HD</caption>
+			<channel_id>nash-kinoroman-hd</channel_id>
+			<epg_id>nash-kinoroman-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nash-kinoroman-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше HD</caption>
+			<channel_id>nash-detektiv-hd</channel_id>
+			<epg_id>nash-detektiv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nash-detektiv-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Любимое HD</caption>
+			<channel_id>nashe-lubimoe-hd</channel_id>
+			<epg_id>nashe-lubimoe-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nashe-lubimoe-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ premiere HD</caption>
+			<channel_id>vip-premiere-hd</channel_id>
+			<epg_id>vip-premiere-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tv1000-premium-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ megahit HD</caption>
+			<channel_id>vip-megahit-hd</channel_id>
+			<epg_id>vip-megahit-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tv1000-megahit-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ comedy HD</caption>
+			<channel_id>vip-comedy-hd</channel_id>
+			<epg_id>vip-comedy-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tv1000-comedy-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ serial HD</caption>
+			<channel_id>vip-serial-hd</channel_id>
+			<epg_id>vip-serial-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/vip-serial-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 HD</caption>
+			<channel_id>tv1000-hd</channel_id>
+			<epg_id>tv1000-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tv1000-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 action HD</caption>
+			<channel_id>tv1000-action-hd</channel_id>
+			<epg_id>tv1000-action-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tv1000-action-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 русское HD</caption>
+			<channel_id>tv1000-russkoje-hd</channel_id>
+			<epg_id>tv1000-russkoje-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tv1000-russkoje-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 новелла HD</caption>
+			<channel_id>viju-tv1000-nowella-hd</channel_id>
+			<epg_id>viju-tv1000-nowella-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/viju-tv1000-nowella-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino Action HD</caption>
+			<channel_id>viasat-kino-action-hd</channel_id>
+			<epg_id>viasat-kino-action-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/viasat-kino-action-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino Comedy HD</caption>
+			<channel_id>viasat-kino-comedy-hd</channel_id>
+			<epg_id>viasat-kino-comedy-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/viasat-kino-comedy-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino World HD</caption>
+			<channel_id>tv1000-world-kino-hd</channel_id>
+			<epg_id>tv1000-world-kino-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tv1000-world-kino-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino HD</caption>
+			<channel_id>viasat-kino-hd</channel_id>
+			<epg_id>viasat-kino-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/viasat-kino-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Serial HD</caption>
+			<channel_id>viasat-serial-hd</channel_id>
+			<epg_id>viasat-serial-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/viasat-serial-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Hollywood HD</caption>
+			<channel_id>mgm-hd</channel_id>
+			<epg_id>mgm-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/mgm-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cinema HD</caption>
+			<channel_id>cinema-hd</channel_id>
+			<epg_id>cinema-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/cinema-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино ТВ HD</caption>
+			<channel_id>kino-tv-hd</channel_id>
+			<epg_id>kino-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kino-tv-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kinojam 1 HD</caption>
+			<channel_id>kinojam1-hd</channel_id>
+			<epg_id>kinojam1-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinojam1-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kinojam 2 HD</caption>
+			<channel_id>kinojam2-hd</channel_id>
+			<epg_id>kinojam2-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinojam2-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Family Jam HD</caption>
+			<channel_id>family-jam-hd</channel_id>
+			<epg_id>family-jam-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/family-jam-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Detective Jam HD</caption>
+			<channel_id>detective-jam-hd</channel_id>
+			<epg_id>detective-jam-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/detective-jam-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KinoLiving HD</caption>
+			<channel_id>kinoliving-hd</channel_id>
+			<epg_id>kinoliving-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinoliving-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KION Хит HD</caption>
+			<channel_id>kion-hit-hd</channel_id>
+			<epg_id>kion-hit-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kion-hit-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Start World HD</caption>
+			<channel_id>start-world-hd</channel_id>
+			<epg_id>start-world-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/start-world-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Start Air HD</caption>
+			<channel_id>start-air-hd</channel_id>
+			<epg_id>start-air-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/start-air-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Plan B HD</caption>
+			<channel_id>plan-b-hd</channel_id>
+			<epg_id>plan-b-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/plan-b-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>4ever Cinema HD</caption>
+			<channel_id>4ever-cinema-ua-hd</channel_id>
+			<epg_id>4ever-cinema-ua-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/4ever-cinema-ua-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>4ever Drama HD</caption>
+			<channel_id>4ever-drama-hd</channel_id>
+			<epg_id>4ever-drama-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/4ever-drama-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>4ever Theater HD</caption>
+			<channel_id>4ever-theater-hd</channel_id>
+			<epg_id>4ever-theater-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/4ever-theater-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КиноКульт HD</caption>
+			<channel_id>kinokult-hd</channel_id>
+			<epg_id>kinokult-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinokult-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинеко HD</caption>
+			<channel_id>kineko-hd</channel_id>
+			<epg_id>kineko-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kineko-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еврокино HD</caption>
+			<channel_id>evrokino-hd</channel_id>
+			<epg_id>evrokino-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/evrokino-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Flix Snip HD</caption>
+			<channel_id>flix-snip-hd</channel_id>
+			<epg_id>flix-snip-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/flix-snip-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SHOT TV HD</caption>
+			<channel_id>egoist-tv-hd</channel_id>
+			<epg_id>egoist-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/egoist-tv-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VHS-ка HD</caption>
+			<channel_id>vhska-hd</channel_id>
+			<epg_id>vhska-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/vhska-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VHS Сериал HD</caption>
+			<channel_id>vhs-serial-hd</channel_id>
+			<epg_id>vhs-serial-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/vhs-serial-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мужское кино HD</caption>
+			<channel_id>muzhskoe-kino-hd</channel_id>
+			<epg_id>muzhskoe-kino-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/muzhskoe-kino-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше Мужское HD</caption>
+			<channel_id>nashe-muzshkoe-hd</channel_id>
+			<epg_id>nashe-muzshkoe-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nashe-muzshkoe-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Trash HD</caption>
+			<channel_id>trash-hd</channel_id>
+			<epg_id>trash-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/trash-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Страшное HD</caption>
+			<channel_id>strashnoe-hd</channel_id>
+			<epg_id>strashnoe-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/strashnoe-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Шокирующее HD</caption>
+			<channel_id>shokiruschee-hd</channel_id>
+			<epg_id>shokiruschee-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinopokaz-hd1.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Киноужас HD</caption>
+			<channel_id>kinouzhas-hd</channel_id>
+			<epg_id>kinouzhas-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinouzhas-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ужасы HD</caption>
+			<channel_id>uzhasy-hd</channel_id>
+			<epg_id>uzhasy-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/uzhasy-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Scream HD</caption>
+			<channel_id>scream-hd</channel_id>
+			<epg_id>scream-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/scream-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинокомедия HD</caption>
+			<channel_id>kinokomedia-hd</channel_id>
+			<epg_id>kinokomedia-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinokomedia-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Комедийное HD</caption>
+			<channel_id>komedijnoe-hd</channel_id>
+			<epg_id>komedijnoe-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinopokaz-hd2.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Камеди HD</caption>
+			<channel_id>comedy-hd</channel_id>
+			<epg_id>comedy-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/comedy-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>AMEDIA Premium HD</caption>
+			<channel_id>amedia-premium-hd</channel_id>
+			<epg_id>amedia-premium-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/amedia-premium-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>AMEDIA HIT HD</caption>
+			<channel_id>amedia-hit-hd</channel_id>
+			<epg_id>amedia-hit-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/amedia-hit-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>A1 HD</caption>
+			<channel_id>amedia1-hd</channel_id>
+			<epg_id>amedia1-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/amedia1-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>A2 HD</caption>
+			<channel_id>amedia-2-hd</channel_id>
+			<epg_id>amedia-2-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/amedia-2-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FX HD</caption>
+			<channel_id>fox-hd</channel_id>
+			<epg_id>fox-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/fox-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FX Life HD</caption>
+			<channel_id>fox-life-hd</channel_id>
+			<epg_id>fox-life-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/fox-life-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>AMC</caption>
+			<channel_id>amc</channel_id>
+			<epg_id>amc</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/amc.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Red HD</caption>
+			<channel_id>set-hd</channel_id>
+			<epg_id>set-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/set-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sci-Fi HD</caption>
+			<channel_id>sci-fi-hd</channel_id>
+			<epg_id>sci-fi-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/sci-fi-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Suspense HD</caption>
+			<channel_id>suspense-hd</channel_id>
+			<epg_id>suspense-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/suspense-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Black HD</caption>
+			<channel_id>black-hd</channel_id>
+			<epg_id>black-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/black-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Исторический</caption>
+			<channel_id>istorytchesky-hd</channel_id>
+			<epg_id>istorytchesky-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/istorytchesky-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мосфильм HD</caption>
+			<channel_id>mosfilm-hd</channel_id>
+			<epg_id>mosfilm-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/mosfilm-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Любимое Кино HD</caption>
+			<channel_id>lubimoe-kino-hd</channel_id>
+			<epg_id>lubimoe-kino-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/lubimoe-kino-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Советская Киноклассика HD</caption>
+			<channel_id>sovetskaya-kinoclassica-hd</channel_id>
+			<epg_id>sovetskaya-kinoclassica-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/sovetskaya-kinoclassica-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Патриот</caption>
+			<channel_id>patriot</channel_id>
+			<epg_id>patriot</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/patriot.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Победа HD</caption>
+			<channel_id>pobeda-hd</channel_id>
+			<epg_id>pobeda-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/pobeda-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>День Победы HD</caption>
+			<channel_id>den-pobedy-hd</channel_id>
+			<epg_id>den-pobedy-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/den-pobedy-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше наследие HD</caption>
+			<channel_id>nashe-nasledie-hd</channel_id>
+			<epg_id>nashe-nasledie-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nashe-nasledie-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наше новое кино HD</caption>
+			<channel_id>nashe-novoe-kino-hd</channel_id>
+			<epg_id>nashe-novoe-kino-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nashe-novoe-kino-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дом Кино Премиум HD</caption>
+			<channel_id>dom-kino-premium-hd</channel_id>
+			<epg_id>dom-kino-premium-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/dom-kino-premium-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский Роман HD</caption>
+			<channel_id>russkij-roman-hd</channel_id>
+			<epg_id>russkij-roman-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/russkij-roman-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский Иллюзион HD</caption>
+			<channel_id>russkij-iluzion-hd</channel_id>
+			<epg_id>russkij-iluzion-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/russkij-iluzion-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Иллюзион + HD</caption>
+			<channel_id>iluzion-plus-hd</channel_id>
+			<epg_id>iluzion-plus-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/iluzion-plus-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Криминальное HD</caption>
+			<channel_id>kriminalnoe-hd</channel_id>
+			<epg_id>kriminalnoe-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kriminalnoe-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Феникс+Кино HD</caption>
+			<channel_id>feniks-plus-kino-hd</channel_id>
+			<epg_id>feniks-plus-kino-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/feniks-plus-kino-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир Сериала HD</caption>
+			<channel_id>mir-seriala-hd</channel_id>
+			<epg_id>mir-seriala-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/mir-seriala-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Романтичное HD</caption>
+			<channel_id>romantichnoe-hd</channel_id>
+			<epg_id>romantichnoe-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/romantichnoe-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Про Любовь HD</caption>
+			<channel_id>pro-lubov-hd</channel_id>
+			<epg_id>pro-lubov-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/pro-lubov-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лавстори HD</caption>
+			<channel_id>love-story-hd</channel_id>
+			<epg_id>love-story-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/love-story-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Romance HD</caption>
+			<channel_id>romance-hd</channel_id>
+			<epg_id>romance-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/romance-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Хит HD</caption>
+			<channel_id>ntv-hit-hd</channel_id>
+			<epg_id>ntv-hit-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ntv-hit-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Сериал HD</caption>
+			<channel_id>ntv-serial-hd</channel_id>
+			<epg_id>ntv-serial-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ntv-serial-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сапфир HD</caption>
+			<channel_id>sapfir-hd</channel_id>
+			<epg_id>sapfir-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/sapfir-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дорама HD</caption>
+			<channel_id>dorama-hd</channel_id>
+			<epg_id>dorama-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/dorama-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Timeless Dizi Channel HD</caption>
+			<channel_id>timeless-dizi-channel-hd</channel_id>
+			<epg_id>timeless-dizi-channel-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/timeless-dizi-channel-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bollywood HD</caption>
+			<channel_id>bollywood</channel_id>
+			<epg_id>bollywood</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/bollywood.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Индия ТВ HD</caption>
+			<channel_id>zee-tv-hd</channel_id>
+			<epg_id>zee-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/zee-tv-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Легенда HD</caption>
+			<channel_id>legenda-hd</channel_id>
+			<epg_id>legenda-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/legenda-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КиноСезон HD</caption>
+			<channel_id>kinosezon-hd</channel_id>
+			<epg_id>kinosezon-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kinosezon-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>О!Кино</caption>
+			<channel_id>okino</channel_id>
+			<epg_id>okino</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/okino.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Матч Премьер</caption>
 			<channel_id>nash-futbol</channel_id>
 			<epg_id>nash-futbol</epg_id>
@@ -1014,6 +2173,310 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Матч Премьер HD</caption>
+			<channel_id>nash-futbol-hd</channel_id>
+			<epg_id>nash-futbol-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nash-futbol-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Футбол HD</caption>
+			<channel_id>futbol-hd</channel_id>
+			<epg_id>futbol-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/futbol-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>МАТЧ! Футбол 1 HD</caption>
+			<channel_id>match-futbol-1-hd</channel_id>
+			<epg_id>match-futbol-1-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/match-futbol1-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>МАТЧ! Футбол 2 HD</caption>
+			<channel_id>match-futbol-2-hd</channel_id>
+			<epg_id>match-futbol-2-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/match-futbol2-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>МАТЧ! Футбол 3 HD</caption>
+			<channel_id>match-futbol-3-hd</channel_id>
+			<epg_id>match-futbol-3-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/match-futbol3-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч ТВ</caption>
+			<channel_id>match-tv</channel_id>
+			<epg_id>match-tv</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/match.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч ТВ HD</caption>
+			<channel_id>match-tv-hd</channel_id>
+			<epg_id>match-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/match-tv-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Игра HD</caption>
+			<channel_id>match-igra-hd</channel_id>
+			<epg_id>match-igra-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/match-igra-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Арена HD</caption>
+			<channel_id>match-arena-hd</channel_id>
+			<epg_id>match-arena-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/match-arena-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Страна HD</caption>
+			<channel_id>match-strana-hd</channel_id>
+			<epg_id>match-strana-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/match-strana-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт HD</caption>
+			<channel_id>start-hd</channel_id>
+			<epg_id>start-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/start-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KHL HD</caption>
+			<channel_id>khl-tv-hd</channel_id>
+			<epg_id>khl-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/khl-tv-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KHL Prime HD</caption>
+			<channel_id>khl-prime-hd</channel_id>
+			<epg_id>khl-prime-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/khl-prime-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Хоккей ТВ HD</caption>
+			<channel_id>hokkejnyj-hd</channel_id>
+			<epg_id>hokkejnyj-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/hokkejnyj-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мяч HD</caption>
+			<channel_id>futbolnyj-hd</channel_id>
+			<epg_id>futbolnyj-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/futbolnyj-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Спорт HD</caption>
+			<channel_id>sportivnyj-hd</channel_id>
+			<epg_id>sportivnyj-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/sportivnyj-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL Network HD</caption>
+			<channel_id>nhl-network-hd-us</channel_id>
+			<epg_id>nhl-network-hd-us</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nhl-network-hd-us.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA TV HD</caption>
+			<channel_id>nba-us-hd</channel_id>
+			<epg_id>nba-us-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nba-us-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ sport HD</caption>
+			<channel_id>viasat-sport-hd</channel_id>
+			<epg_id>viasat-sport-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/viasat-sport-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 1 HD</caption>
+			<channel_id>eurosport-hd</channel_id>
+			<epg_id>eurosport-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/eurosport-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 2 HD</caption>
+			<channel_id>eurosport2-hd</channel_id>
+			<epg_id>eurosport2-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/eurosport2-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 1 HD</caption>
+			<channel_id>setanta-sport-hd</channel_id>
+			<epg_id>setanta-sport-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/setanta-eurasia.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports 2 HD</caption>
+			<channel_id>setanta-sport-plus-hd</channel_id>
+			<epg_id>setanta-sport-plus-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/setanta-eurasia-plus.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports UA HD</caption>
+			<channel_id>setanta-sport-ua-hd</channel_id>
+			<epg_id>setanta-sport-ua-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/setanta-sport-hd-ua.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports + UA HD</caption>
+			<channel_id>setanta-sport-plus-ua-hd</channel_id>
+			<epg_id>setanta-sport-plus-ua-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/setanta-sport-plus-ua-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MEGOGO Спорт HD</caption>
+			<channel_id>megogo-sport-ua-hd</channel_id>
+			<epg_id>megogo-sport-ua-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/megogo-sport-ua-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>UPL 1 HD</caption>
+			<channel_id>upl1-ua-hd</channel_id>
+			<epg_id>upl1-ua-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/upl1-ua-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Qazaqstan HD</caption>
+			<channel_id>setanta-qazaqstan-hd</channel_id>
+			<epg_id>setanta-qazaqstan-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/setanta-qazaqstan-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>QSport HD</caption>
+			<channel_id>qsport-hd</channel_id>
+			<epg_id>qsport-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/qsport-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MMA-TV HD</caption>
+			<channel_id>m1-global-hd</channel_id>
+			<epg_id>m1-global-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/m1-global-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>UDAR HD</caption>
+			<channel_id>ufc-hd</channel_id>
+			<epg_id>ufc-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ufc-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Боец HD</caption>
+			<channel_id>match-boec-hd</channel_id>
+			<epg_id>match-boec-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/match-boec-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский Экстрим HD</caption>
+			<channel_id>russkij-extrim-hd</channel_id>
+			<epg_id>russkij-extrim-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/russkij-extrim-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Конный Мир HD</caption>
+			<channel_id>konnyj-mir-hd</channel_id>
+			<epg_id>konnyj-mir-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/konnyj-mir-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Авто Плюс HD</caption>
+			<channel_id>auto-plus-hd</channel_id>
+			<epg_id>auto-plus-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/auto-plus-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Авто 24 HD</caption>
+			<channel_id>avto-24-hd</channel_id>
+			<epg_id>avto-24-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/avto-24-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Драйв HD</caption>
+			<channel_id>drive-hd</channel_id>
+			<epg_id>drive-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/drive-hd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый Автомобильный HD</caption>
+			<channel_id>pervyj-avto-hd-ua</channel_id>
+			<epg_id>pervyj-avto-hd-ua</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/pervyj-avto-hd-ua.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Детский мир</caption>
 			<channel_id>detskij-mir</channel_id>
 			<epg_id>detskij-mir</epg_id>
@@ -1134,14 +2597,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>JimJam</caption>
-			<channel_id>jimjam</channel_id>
-			<epg_id>jimjam</epg_id>
-			<icon_url>https://rutv.aws-static-hosting.com/streams/jimjam.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Gulli Girl</caption>
 			<channel_id>gulli</channel_id>
 			<epg_id>gulli</epg_id>
@@ -1170,6 +2625,150 @@
 			<channel_id>solnce</channel_id>
 			<epg_id>solnce</epg_id>
 			<icon_url>https://rutv.aws-static-hosting.com/streams/solnce.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Детский Мир HD</caption>
+			<channel_id>detskij-mir-hd</channel_id>
+			<epg_id>detskij-mir-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/detskij-mir-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Карусель HD</caption>
+			<channel_id>karusel-hd</channel_id>
+			<epg_id>karusel-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/karusel-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>В гостях у сказки HD</caption>
+			<channel_id>gosti-skazka-hd</channel_id>
+			<epg_id>gosti-skazka-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/gosti-skazka-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Чижик HD</caption>
+			<channel_id>chizik-hd</channel_id>
+			<epg_id>chizik-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/chizik-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мульт HD</caption>
+			<channel_id>mult-hd</channel_id>
+			<epg_id>mult-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tlum-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мультиландия HD</caption>
+			<channel_id>multimania-hd</channel_id>
+			<epg_id>multimania-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/multimania-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТС Kids HD</caption>
+			<channel_id>ctc-kids-hd</channel_id>
+			<epg_id>ctc-kids-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ctc-kids-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Капитан Фантастика HD</caption>
+			<channel_id>ginger-hd</channel_id>
+			<epg_id>ginger-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ginger-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СуперГерои HD</caption>
+			<channel_id>super-geroi-hd</channel_id>
+			<epg_id>super-geroi-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/super-geroi-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Уникум HD</caption>
+			<channel_id>detskij-hd</channel_id>
+			<epg_id>detskij-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/detskij-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ducktv HD</caption>
+			<channel_id>ducktv-hd</channel_id>
+			<epg_id>ducktv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ducktv-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лёва HD</caption>
+			<channel_id>ljova-hd</channel_id>
+			<epg_id>ljova-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ljova-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nickelodeon HD</caption>
+			<channel_id>nickelodeon-hd</channel_id>
+			<epg_id>nickelodeon-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nickelodeon-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nicktoons HD</caption>
+			<channel_id>nicktoons-hd</channel_id>
+			<epg_id>nicktoons-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nicktoons-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТипТоп HD</caption>
+			<channel_id>tip-top-hd</channel_id>
+			<epg_id>tip-top-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tip-top-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoonito HD</caption>
+			<channel_id>cartoonito-hd</channel_id>
+			<epg_id>cartoonito-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/cartoonito-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FAN HD</caption>
+			<channel_id>fan-hd</channel_id>
+			<epg_id>fan-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/fan-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ПлюсПлюс HD</caption>
+			<channel_id>plus-plus-ua-hd</channel_id>
+			<epg_id>plus-plus-ua-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/plus-plus-ua-hd.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1510,6 +3109,429 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>National Geographic HD</caption>
+			<channel_id>nat-geo-hd</channel_id>
+			<epg_id>nat-geo-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nat-geo-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Discovery Channel HD</caption>
+			<channel_id>discovery-hd</channel_id>
+			<epg_id>discovery-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/discovery-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Investigation Discovery HD</caption>
+			<channel_id>id-xtra-hd</channel_id>
+			<epg_id>id-xtra-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/id-xtra-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>History HD</caption>
+			<channel_id>history-hd</channel_id>
+			<epg_id>history-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/history-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>History 2 HD</caption>
+			<channel_id>h2-hd</channel_id>
+			<epg_id>h2-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/h2-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju history HD</caption>
+			<channel_id>viasat-history-hd</channel_id>
+			<epg_id>viasat-history-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/viasat-history-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TLC HD</caption>
+			<channel_id>tlc-hd</channel_id>
+			<epg_id>tlc-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tlc-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Womens Magazine HD</caption>
+			<channel_id>womens-magazine-hd</channel_id>
+			<epg_id>womens-magazine-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/womens-magazine-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Animal Planet HD</caption>
+			<channel_id>animal-planet-hd</channel_id>
+			<epg_id>animal-planet-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/animal-planet-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nat Geo Wild HD</caption>
+			<channel_id>nat-geo-wild-hd</channel_id>
+			<epg_id>nat-geo-wild-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nat-geo-wild-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Love Nature HD</caption>
+			<channel_id>love-nature-hd</channel_id>
+			<epg_id>love-nature-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/love-nature-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>В мире животных HD</caption>
+			<channel_id>animal-family-hd</channel_id>
+			<epg_id>animal-family-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/animal-family-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju nature HD</caption>
+			<channel_id>viasat-nature-hd</channel_id>
+			<epg_id>viasat-nature-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/viasat-nature-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju+ planet HD</caption>
+			<channel_id>viasat-history-hd-test</channel_id>
+			<epg_id>viasat-history-hd-test</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/viasat-history-hd-test.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju explore HD</caption>
+			<channel_id>viasat-explore-hd</channel_id>
+			<epg_id>viasat-explore-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/viasat-explore-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Моя планета HD</caption>
+			<channel_id>moya-planeta-hd</channel_id>
+			<epg_id>moya-planeta-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/planeta-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Моя Стихия HD</caption>
+			<channel_id>morskoj-hd</channel_id>
+			<epg_id>morskoj-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/morskoj-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Живая природа HD</caption>
+			<channel_id>zhivaja-priroda-hd</channel_id>
+			<epg_id>zhivaja-priroda-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/zhivaja-priroda-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Terra HD</caption>
+			<channel_id>terra-hd</channel_id>
+			<epg_id>terra-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/terra-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Big Planet HD</caption>
+			<channel_id>big-planet-hd</channel_id>
+			<epg_id>big-planet-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/big-planet-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Travel Channel HD</caption>
+			<channel_id>travel-channel-hd</channel_id>
+			<epg_id>travel-channel-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/travel-channel-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Travel+Adventure HD</caption>
+			<channel_id>travel-adventure-hd</channel_id>
+			<epg_id>travel-adventure-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/travel-adventure-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Приключения HD</caption>
+			<channel_id>teletravel-hd</channel_id>
+			<epg_id>teletravel-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/teletravel-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>The Explorers HD</caption>
+			<channel_id>the-explorers-hd</channel_id>
+			<epg_id>the-explorers-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/the-explorers-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Epic HD</caption>
+			<channel_id>epic-hd</channel_id>
+			<epg_id>epic-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/epic-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Глазами Туриста HD</caption>
+			<channel_id>glazami-turista-hd</channel_id>
+			<epg_id>glazami-turista-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/glazami-turista-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Неизвестная Россия HD</caption>
+			<channel_id>neizvestnaya-rossia-hd</channel_id>
+			<epg_id>neizvestnaya-rossia-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/neizvestnaya-rossia-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Большая Азия HD</caption>
+			<channel_id>big-asia-hd</channel_id>
+			<epg_id>big-asia-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/big-asia-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RTG HD</caption>
+			<channel_id>rtg-hd</channel_id>
+			<epg_id>rtg-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/rtg-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Точка РФ HD</caption>
+			<channel_id>hd-life</channel_id>
+			<epg_id>hd-life</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/hd-life.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наука HD</caption>
+			<channel_id>nauka-hd</channel_id>
+			<epg_id>nauka-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nauka-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nano HD</caption>
+			<channel_id>nano-hd</channel_id>
+			<epg_id>nano-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nano-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Galaxy HD</caption>
+			<channel_id>galaxy-hd</channel_id>
+			<epg_id>galaxy-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/galaxy-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый космический HD</caption>
+			<channel_id>eureka-hd</channel_id>
+			<epg_id>eureka-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/eureka-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наша Тема HD</caption>
+			<channel_id>nasha-tema-hd</channel_id>
+			<epg_id>nasha-tema-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/nasha-tema-ua-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Диалоги о Рыбалке HD</caption>
+			<channel_id>dialogi-rybalka-hd</channel_id>
+			<epg_id>dialogi-rybalka-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/dialogi-rybalka-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Охотник и рыболов HD</caption>
+			<channel_id>ohotnik-rybolov-hd</channel_id>
+			<epg_id>ohotnik-rybolov-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ohotnik-rybolov-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикая Рыбалка HD</caption>
+			<channel_id>dikaya-rybalka-hd</channel_id>
+			<epg_id>dikaya-rybalka-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/dikaya-rybalka-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дикая Охота HD</caption>
+			<channel_id>dikaya-ohota-hd</channel_id>
+			<epg_id>dikaya-ohota-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/dikaya-ohota-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Арсенал HD</caption>
+			<channel_id>arsenal-hd</channel_id>
+			<epg_id>arsenal-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/arsenal-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Curiosity Stream HD</caption>
+			<channel_id>curiosity-stream-hd</channel_id>
+			<epg_id>curiosity-stream-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/curiosity-stream-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Зал Суда HD</caption>
+			<channel_id>zal-suda-hd</channel_id>
+			<epg_id>zal-suda-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/zal-suda-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Стиль HD</caption>
+			<channel_id>ntv-style-hd</channel_id>
+			<epg_id>ntv-style-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ntv-style-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>HGTV HD</caption>
+			<channel_id>hgtv-hd</channel_id>
+			<epg_id>hgtv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/hgtv-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Загородная Жизнь HD</caption>
+			<channel_id>zagorodnaya-zhizn</channel_id>
+			<epg_id>zagorodnaya-zhizn</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/zagorodnaya-zhizn.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Загородный int HD</caption>
+			<channel_id>zagorodnyy-int-hd</channel_id>
+			<epg_id>zagorodnyy-int-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/zagorodnyy-int-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Усадьба HD</caption>
+			<channel_id>usadba-hd</channel_id>
+			<epg_id>usadba-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/usadba-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Доктор HD</caption>
+			<channel_id>zdorovoe-tv-hd</channel_id>
+			<epg_id>zdorovoe-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/zdorovoe-tv-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Живи HD</caption>
+			<channel_id>zhivi-hd</channel_id>
+			<epg_id>zhivi-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/zhivi-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Food Network HD</caption>
+			<channel_id>food-network-hd</channel_id>
+			<epg_id>food-network-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/food-network-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Food Time HD</caption>
+			<channel_id>food-time-hd</channel_id>
+			<epg_id>food-time-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/eda-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fashion and LifeStyle HD</caption>
+			<channel_id>fashion-hd</channel_id>
+			<epg_id>fashion-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/fashion-tv.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Машина Времени HD</caption>
+			<channel_id>mashina-vremeny-hd</channel_id>
+			<epg_id>mashina-vremeny-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/mashina-vremeny-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Муз-ТВ</caption>
 			<channel_id>muz-tv</channel_id>
 			<epg_id>muz-tv</epg_id>
@@ -1580,7 +3602,7 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Ля-минор</caption>
+			<caption>Музыка Live</caption>
 			<channel_id>la-minor</channel_id>
 			<epg_id>la-minor</epg_id>
 			<icon_url>https://rutv.aws-static-hosting.com/streams/la-minor.png</icon_url>
@@ -1671,6 +3693,195 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>1HD</caption>
+			<channel_id>1hd</channel_id>
+			<epg_id>1hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/1hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RU TV HD</caption>
+			<channel_id>ru-tv-hd</channel_id>
+			<epg_id>ru-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ru-tv-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Муз-ТВ HD</caption>
+			<channel_id>muz-tv-hd</channel_id>
+			<epg_id>muz-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/muz-tv-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Europa Plus TV HD</caption>
+			<channel_id>evropa-plus-tv-hd</channel_id>
+			<epg_id>evropa-plus-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/evropa-plus-tv-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Жара HD</caption>
+			<channel_id>zhara-hd</channel_id>
+			<epg_id>zhara-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/zhara.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТНТ Music HD</caption>
+			<channel_id>tnt-music-hd</channel_id>
+			<epg_id>tnt-music-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/tnt-music-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Russian MusicBox HD</caption>
+			<channel_id>russian-musicbox-hd</channel_id>
+			<epg_id>russian-musicbox-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/russian-musicbox-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Deluxe HD</caption>
+			<channel_id>bridge-tv-hd</channel_id>
+			<epg_id>bridge-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/bridge-tv-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Fresh HD</caption>
+			<channel_id>bridge-tv-fresh</channel_id>
+			<epg_id>bridge-tv-fresh</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/bridge-tv-fresh.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Шлягер</caption>
+			<channel_id>bridge-tv-shlager</channel_id>
+			<epg_id>bridge-tv-shlager</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/bridge-tv-shlager.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Rock HD</caption>
+			<channel_id>bridge-tv-rock-hd</channel_id>
+			<epg_id>bridge-tv-rock-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/bridge-tv-rock-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>AIVA HD</caption>
+			<channel_id>aiva-hd</channel_id>
+			<epg_id>aiva-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/aiva-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kronehit HD</caption>
+			<channel_id>kronehit-hd</channel_id>
+			<epg_id>kronehit-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/kronehit-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Clubbing HD</caption>
+			<channel_id>clubbing-hd</channel_id>
+			<epg_id>clubbing-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/clubbing-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>One BY HD</caption>
+			<channel_id>one-by-hd</channel_id>
+			<epg_id>one-by-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/one-by-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>One by Russia HD</caption>
+			<channel_id>one-by-russia-hd</channel_id>
+			<epg_id>one-by-russia-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/one-by-russia-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Live HD</caption>
+			<channel_id>mtv-live-hd</channel_id>
+			<epg_id>mtv-live-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/mtv-live-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Hits</caption>
+			<channel_id>mtv-hits</channel_id>
+			<epg_id>mtv-hits</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/mtv-hits.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MCM TOP HD</caption>
+			<channel_id>mcm-top-hd</channel_id>
+			<epg_id>mcm-top-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/mcm-top-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>4ever Music HD</caption>
+			<channel_id>4ever-music-hd</channel_id>
+			<epg_id>4ever-music-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/4ever-music-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>M1 HD</caption>
+			<channel_id>m1-ua-hd</channel_id>
+			<epg_id>m1-ua-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/m1-ua-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>M2 HD</caption>
+			<channel_id>m2-ua-hd</channel_id>
+			<epg_id>m2-ua-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/m2-ua-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>EU Music HD</caption>
+			<channel_id>eu-music-hd</channel_id>
+			<epg_id>eu-music-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/eu-music-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>iConcerts</caption>
+			<channel_id>iconcerts-hd</channel_id>
+			<epg_id>iconcerts-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/iconcerts-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Classic Music HD</caption>
+			<channel_id>classic-music</channel_id>
+			<epg_id>classic-music</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/classic-music.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Mezzo Live HD</caption>
+			<channel_id>mezzo-hd</channel_id>
+			<epg_id>mezzo-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/mezzo-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Jazz HD</caption>
+			<channel_id>jazz-hd</channel_id>
+			<epg_id>jazz-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/jazz-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Беларусь 1</caption>
 			<channel_id>belarus1-by</channel_id>
 			<epg_id>belarus1-by</epg_id>
@@ -1714,6 +3925,101 @@
 			<channel_id>belarus5-by</channel_id>
 			<epg_id>belarus5-by</epg_id>
 			<icon_url>https://rutv.aws-static-hosting.com/streams/belarus5.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 1 HD</caption>
+			<channel_id>belarus1-by-hd</channel_id>
+			<epg_id>belarus1-by-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/belarus1-by-hd.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 2 HD</caption>
+			<channel_id>belarus2-by-hd</channel_id>
+			<epg_id>belarus2-by-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/belarus2-by-hd.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 3 HD</caption>
+			<channel_id>belarus3-by-hd</channel_id>
+			<epg_id>belarus3-by-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/belarus3-by-hd.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 5 HD</caption>
+			<channel_id>belarus5-by-hd</channel_id>
+			<epg_id>belarus5-by-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/belarus5-by-hd.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 24 HD</caption>
+			<channel_id>belarus-24-hd</channel_id>
+			<epg_id>belarus-24-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/belarus-24-hd.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Первый Информационный HD</caption>
+			<channel_id>pervyj-informacionnyj-by-hd</channel_id>
+			<epg_id>pervyj-informacionnyj-by-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/pervyj-informacionnyj-by-hd.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ОНТ HD</caption>
+			<channel_id>ont-by-hd</channel_id>
+			<epg_id>ont-by-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ont-by-hd.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>РТР Беларусь HD</caption>
+			<channel_id>rtr-belarus-by-hd</channel_id>
+			<epg_id>rtr-belarus-by-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/rtr-belarus-by-hd.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Беларусь HD</caption>
+			<channel_id>ntv-by-hd</channel_id>
+			<epg_id>ntv-by-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ntv-by-hd.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>СТВ Беларусь HD</caption>
+			<channel_id>stv-by-hd</channel_id>
+			<epg_id>stv-by-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/stv-by-hd.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>8 Канал HD</caption>
+			<channel_id>channel8-by-hd</channel_id>
+			<epg_id>channel8-by-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/channel8-by-hd.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Белсат HD</caption>
+			<channel_id>belsat-by</channel_id>
+			<epg_id>belsat-by</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/belsat-by.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1830,7 +4136,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Россия-Культура (+2)</caption>
+			<caption>Россия Культура (+2)</caption>
 			<channel_id>rossija-k-plus-2</channel_id>
 			<epg_id>rossija-k-plus-2</epg_id>
 			<icon_url>https://rutv.aws-static-hosting.com/streams/rossija-k-plus-2.png</icon_url>
@@ -1842,6 +4148,14 @@
 			<channel_id>match-plus-2</channel_id>
 			<epg_id>match-plus-2</epg_id>
 			<icon_url>https://rutv.aws-static-hosting.com/streams/match-plus-2.png</icon_url>
+			<tv_category_id>11</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ю ТВ (+2)</caption>
+			<channel_id>yu-tv-plus-2</channel_id>
+			<epg_id>yu-tv-plus-2</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/yu-tv-plus-2.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1958,6 +4272,38 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Первый канал HD (+4)</caption>
+			<channel_id>pervyj-plus-4-hd</channel_id>
+			<epg_id>pervyj-plus-4-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/pervyj-hd-plus-4.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ю ТВ (+4)</caption>
+			<channel_id>yu-tv-plus-4</channel_id>
+			<epg_id>yu-tv-plus-4</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/yu-tv-plus-4.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ОТР (+4)</caption>
+			<channel_id>otp-plus-4</channel_id>
+			<epg_id>otp-plus-4</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/otp-plus-4.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия Культура (+4)</caption>
+			<channel_id>rossija-k-plus-4</channel_id>
+			<epg_id>rossija-k-plus-4</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/rossija-k-plus-4.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Первый канал (+7)</caption>
 			<channel_id>pervyj-plus-7</channel_id>
 			<epg_id>pervyj-plus-7</epg_id>
@@ -2070,7 +4416,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Россия-Культура (+7)</caption>
+			<caption>Россия Культура (+7)</caption>
 			<channel_id>rossija-k-plus-7</channel_id>
 			<epg_id>rossija-k-plus-7</epg_id>
 			<icon_url>https://rutv.aws-static-hosting.com/streams/rossija-k-plus-7.png</icon_url>
@@ -2084,6 +4430,247 @@
 			<icon_url>https://rutv.aws-static-hosting.com/streams/match-plus-7.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ю ТВ (+7)</caption>
+			<channel_id>yu-tv-plus-7</channel_id>
+			<epg_id>yu-tv-plus-7</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/yu-tv-plus-7.png</icon_url>
+			<tv_category_id>13</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Extasy TV HD</caption>
+			<channel_id>extasy-tv-hd</channel_id>
+			<epg_id>extasy-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/extasy-tv-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Penthouse Gold HD</caption>
+			<channel_id>penthouse1-hd</channel_id>
+			<epg_id>penthouse1-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/penthouse1-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Penthouse Reality TV HD</caption>
+			<channel_id>penthouse2-hd</channel_id>
+			<epg_id>penthouse2-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/penthouse2-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Penthouse Passion HD</caption>
+			<channel_id>penthouse-passion-hd</channel_id>
+			<epg_id>penthouse-passion-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/penthouse-passion-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Redlight HD</caption>
+			<channel_id>redlight-hd</channel_id>
+			<epg_id>redlight-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/redlight-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vivid Red HD</caption>
+			<channel_id>vivid-red-hd</channel_id>
+			<epg_id>vivid-red-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/vivid-red-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Private HD</caption>
+			<channel_id>private-tv</channel_id>
+			<epg_id>private-tv</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/private-tv.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Hustler HD</caption>
+			<channel_id>hustler-hd</channel_id>
+			<epg_id>hustler-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/hustler-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Brazzers TV HD</caption>
+			<channel_id>brazzers-tv</channel_id>
+			<epg_id>brazzers-tv</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/brazzers-tv.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Babes HD</caption>
+			<channel_id>babes-hd</channel_id>
+			<epg_id>babes-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/babes-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vixen TV HD</caption>
+			<channel_id>vixen-tv-hd</channel_id>
+			<epg_id>vixen-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/vixen-tv-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Evil Angel HD</caption>
+			<channel_id>evil-angel-hd</channel_id>
+			<epg_id>evil-angel-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/evil-angel-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Erox</caption>
+			<channel_id>erox</channel_id>
+			<epg_id>erox</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/erox.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Erox HD</caption>
+			<channel_id>erox-hd</channel_id>
+			<epg_id>erox-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/erox-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroxxx HD</caption>
+			<channel_id>eroxxx-hd</channel_id>
+			<epg_id>eroxxx-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/eroxxx-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dorcel TV</caption>
+			<channel_id>dorcel-tv</channel_id>
+			<epg_id>dorcel-tv</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/dorcel-tv.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dorcel TV HD</caption>
+			<channel_id>dorcel-tv-hd</channel_id>
+			<epg_id>dorcel-tv-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/dorcel-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>SuperOne</caption>
+			<channel_id>super-one</channel_id>
+			<epg_id>super-one</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/super-one.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>SuperOne HD</caption>
+			<channel_id>super-one-hd</channel_id>
+			<epg_id>super-one-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/super-one-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Шалун HD</caption>
+			<channel_id>shalun-hd</channel_id>
+			<epg_id>shalun-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/shalun-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<archive>7</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Шёлк HD</caption>
+			<channel_id>shyolk-hd</channel_id>
+			<epg_id>shyolk-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/shyolk-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Exxxotica HD</caption>
+			<channel_id>exxxotica-hd</channel_id>
+			<epg_id>exxxotica-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/exxxotica-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vivid Touch HD</caption>
+			<channel_id>vivid-touch-hd</channel_id>
+			<epg_id>vivid-touch-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/vivid-touch-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Red Lips HD</caption>
+			<channel_id>red-lips</channel_id>
+			<epg_id>red-lips</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/red-lips.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Blue Hustler</caption>
+			<channel_id>blue-hustler</channel_id>
+			<epg_id>blue-hustler</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/blue-hustler.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Blue Hustler HD</caption>
+			<channel_id>blue-hustler-hd</channel_id>
+			<epg_id>blue-hustler-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/blue-hustler-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русская Ночь</caption>
+			<channel_id>ruskaja-noch</channel_id>
+			<epg_id>ruskaja-noch</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ruskaja-noch.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русская Ночь HD</caption>
+			<channel_id>ruskaja-noch-hd</channel_id>
+			<epg_id>ruskaja-noch-hd</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/ruskaja-noch-hd.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Playboy TV</caption>
+			<channel_id>playboy-tv</channel_id>
+			<epg_id>playboy-tv</epg_id>
+			<icon_url>https://rutv.aws-static-hosting.com/streams/playboy-tv.png</icon_url>
+			<tv_category_id>14</tv_category_id>
+			<protected>1</protected>
 		</tv_channel>
 	</tv_channels>
 </tv_info>

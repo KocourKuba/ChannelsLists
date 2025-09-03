@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>8</list_version>
+		<list_version>9</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -56,19 +56,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -205,7 +205,7 @@
 		<tv_channel>
 			<caption>НТВ (+6)</caption>
 			<channel_id>0233</channel_id>
-			<epg_id>2403</epg_id>
+			<epg_id>3131</epg_id>
 			<icon_url>http://icon.srv4you.net/icon/4097_0_1_120_0_0_0_0_0_0.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>5</archive>
@@ -245,7 +245,7 @@
 		<tv_channel>
 			<caption>РЕН ТВ (+6)</caption>
 			<channel_id>0442</channel_id>
-			<epg_id>2399</epg_id>
+			<epg_id>3133</epg_id>
 			<icon_url>http://icon.srv4you.net/icon/4097_0_1_748_522_B_0_0_0_0.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>5</archive>
@@ -308,7 +308,7 @@
 		<tv_channel>
 			<caption>СТС (+6)</caption>
 			<channel_id>0460</channel_id>
-			<epg_id>2400</epg_id>
+			<epg_id>3134</epg_id>
 			<icon_url>http://icon.srv4you.net/icon/4097_0_1_746_522_B_0_0_0_0.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>5</archive>
@@ -347,7 +347,7 @@
 		<tv_channel>
 			<caption>5 канал (+6)</caption>
 			<channel_id>ru73</channel_id>
-			<epg_id>2401</epg_id>
+			<epg_id>3132</epg_id>
 			<icon_url>http://icon.srv4you.net/icon/4097_0_1_754_522_B_0_0_0_0.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>5</archive>
@@ -394,7 +394,7 @@
 		<tv_channel>
 			<caption>Звезда (+6)</caption>
 			<channel_id>ru71</channel_id>
-			<epg_id>2402</epg_id>
+			<epg_id>3135</epg_id>
 			<icon_url>http://icon.srv4you.net/icon/4097_0_1_750_522_B_0_0_0_0.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>5</archive>
@@ -690,7 +690,7 @@
 		<tv_channel>
 			<caption>Сочи 24 HD</caption>
 			<channel_id>0480</channel_id>
-			<epg_id>ru-0480</epg_id>
+			<epg_id>3137</epg_id>
 			<icon_url>http://icon.srv4you.net/icon/4097_0_1_612_522_A_0_0_0_0.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
@@ -1528,7 +1528,7 @@
 		<tv_channel>
 			<caption>SHOT TV HD</caption>
 			<channel_id>3542AD</channel_id>
-			<epg_id>3542AD</epg_id>
+			<epg_id>3138</epg_id>
 			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_3542AD_0_0_0.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
@@ -2339,8 +2339,135 @@
 		<tv_channel>
 			<caption>Твій серіал</caption>
 			<channel_id>EF0B4F</channel_id>
-			<epg_id>EF0B4F</epg_id>
+			<epg_id>3139</epg_id>
 			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_EF0B4F_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Герои HD</caption>
+			<channel_id>4268A4</channel_id>
+			<epg_id>3040</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_4268A4_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Thriller</caption>
+			<channel_id>03B918</channel_id>
+			<epg_id>3022</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_03B918_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Marvel</caption>
+			<channel_id>C0DDEE</channel_id>
+			<epg_id>3023</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_C0DDEE_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan VHS</caption>
+			<channel_id>A48F69</channel_id>
+			<epg_id>3025</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_A48F69_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Action</caption>
+			<channel_id>200AD1</channel_id>
+			<epg_id>3024</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_200AD1_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Melodrama</caption>
+			<channel_id>325B77</channel_id>
+			<epg_id>3026</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_325B77_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Ужасы</caption>
+			<channel_id>11C7B9</channel_id>
+			<epg_id>3027</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_11C7B9_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Комедия</caption>
+			<channel_id>0BCBB8</channel_id>
+			<epg_id>3028</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_0BCBB8_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Скорая помощь</caption>
+			<channel_id>03480B</channel_id>
+			<epg_id>3029</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_03480B_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Катастрофы</caption>
+			<channel_id>2E1A47</channel_id>
+			<epg_id>3031</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_2E1A47_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Ментовские Войны</caption>
+			<channel_id>F3875D</channel_id>
+			<epg_id>3030</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_F3875D_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan ПёС + Лихач</caption>
+			<channel_id>C1190E</channel_id>
+			<epg_id>3033</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_C1190E_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Лесник</caption>
+			<channel_id>3CF74B</channel_id>
+			<epg_id>3032</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_3CF74B_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan MiniSeries</caption>
+			<channel_id>39472D</channel_id>
+			<epg_id>3034</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_39472D_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Premium</caption>
+			<channel_id>8301E4</channel_id>
+			<epg_id>3035</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_8301E4_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Комедийные Сериалы</caption>
+			<channel_id>B6EA43</channel_id>
+			<epg_id>3036</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_B6EA43_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Криминальные Сериалы</caption>
+			<channel_id>DAC59A</channel_id>
+			<epg_id>3037</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_DAC59A_0_0_0.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan Военные Сериалы</caption>
+			<channel_id>CCC1AC</channel_id>
+			<epg_id>3038</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_CCC1AC_0_0_0.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2642,20 +2769,6 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Окко.Спорт</caption>
-			<channel_id>0496</channel_id>
-			<epg_id>1237</epg_id>
-			<icon_url>http://icon.srv4you.net/icon/4097_0_1_838_522_A_0_0_0_0.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Окко Футбол HD</caption>
-			<channel_id>0113</channel_id>
-			<epg_id>2140</epg_id>
-			<icon_url>http://icon.srv4you.net/icon/4097_0_1_B191_521_D_0_0_0_0.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>TRACE Sport Stars HD</caption>
 			<channel_id>22A1D4</channel_id>
 			<epg_id>2135</epg_id>
@@ -2874,6 +2987,192 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Окко.Спорт</caption>
+			<channel_id>54D5C2</channel_id>
+			<epg_id>1237</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_54D5C2_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Футбол HD</caption>
+			<channel_id>3C3A24</channel_id>
+			<epg_id>2140</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_3C3A24_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Прайм спорт</caption>
+			<channel_id>D08E95</channel_id>
+			<epg_id>3136</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_D08E95_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 1</caption>
+			<channel_id>655292</channel_id>
+			<epg_id>655292</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_655292_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 2</caption>
+			<channel_id>68122B</channel_id>
+			<epg_id>68122B</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_68122B_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 3</caption>
+			<channel_id>CA0396</channel_id>
+			<epg_id>CA0396</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_CA0396_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 4</caption>
+			<channel_id>7FAE32</channel_id>
+			<epg_id>7FAE32</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_7FAE32_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 5</caption>
+			<channel_id>0A76A5</channel_id>
+			<epg_id>0A76A5</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_0A76A5_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 6</caption>
+			<channel_id>CD8EAF</channel_id>
+			<epg_id>CD8EAF</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_CD8EAF_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 7</caption>
+			<channel_id>A00732</channel_id>
+			<epg_id>A00732</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_A00732_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 8</caption>
+			<channel_id>538EB1</channel_id>
+			<epg_id>538EB1</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_538EB1_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 9</caption>
+			<channel_id>D3C110</channel_id>
+			<epg_id>D3C110</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_D3C110_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 10</caption>
+			<channel_id>CF85FD</channel_id>
+			<epg_id>CF85FD</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_CF85FD_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 11</caption>
+			<channel_id>6FFE56</channel_id>
+			<epg_id>6FFE56</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_6FFE56_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 12</caption>
+			<channel_id>DEFD22</channel_id>
+			<epg_id>DEFD22</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_DEFD22_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 13</caption>
+			<channel_id>0C1F11</channel_id>
+			<epg_id>0C1F11</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_0C1F11_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 14</caption>
+			<channel_id>1CB803</channel_id>
+			<epg_id>1CB803</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_1CB803_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 15</caption>
+			<channel_id>63B814</channel_id>
+			<epg_id>63B814</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_63B814_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 16</caption>
+			<channel_id>E28D69</channel_id>
+			<epg_id>E28D69</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_E28D69_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 17</caption>
+			<channel_id>31EBD0</channel_id>
+			<epg_id>31EBD0</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_31EBD0_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 18</caption>
+			<channel_id>1E6C6C</channel_id>
+			<epg_id>1E6C6C</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_1E6C6C_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 19</caption>
+			<channel_id>059B1F</channel_id>
+			<epg_id>059B1F</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_059B1F_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Events 20</caption>
+			<channel_id>D20E8C</channel_id>
+			<epg_id>D20E8C</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_D20E8C_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Megogo Гонг</caption>
+			<channel_id>6AEE83</channel_id>
+			<epg_id>2130</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_6AEE83_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Єврокубки HD</caption>
+			<channel_id>1C3F48</channel_id>
+			<epg_id>1C3F48</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_1C3F48_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Єврокубки Sub1 HD</caption>
+			<channel_id>39EC81</channel_id>
+			<epg_id>39EC81</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_39EC81_0_0_0.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Terra</caption>
 			<channel_id>0329</channel_id>
 			<epg_id>1222</epg_id>
@@ -3011,7 +3310,7 @@
 		<tv_channel>
 			<caption>RTG HD</caption>
 			<channel_id>0125</channel_id>
-			<epg_id>2551</epg_id>
+			<epg_id>3172</epg_id>
 			<icon_url>http://icon.srv4you.net/icon/4097_0_1_A59_521_D_0_0_0_0.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
@@ -3272,7 +3571,7 @@
 		<tv_channel>
 			<caption>Телеканал Е HD</caption>
 			<channel_id>0247</channel_id>
-			<epg_id>1100</epg_id>
+			<epg_id>3140</epg_id>
 			<icon_url>http://icon.srv4you.net/icon/4097_0_1_206_0_0_0_0_0_0.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
@@ -3927,6 +4226,13 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>CineMan Симпсоны</caption>
+			<channel_id>8C37E3</channel_id>
+			<epg_id>3039</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_8C37E3_0_0_0.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Home UHD</caption>
 			<channel_id>0381</channel_id>
 			<epg_id>641</epg_id>
@@ -3934,7 +4240,7 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Insight UHD</caption>
+			<caption>Инсайт ТВ UHD</caption>
 			<channel_id>0383</channel_id>
 			<epg_id>638</epg_id>
 			<icon_url>http://icon.srv4you.net/icon/4097_0_1_B9_521_D_0_0_0_0.png</icon_url>
@@ -5714,10 +6020,227 @@
 			<tv_category_id>25</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>---- Qatar ----</caption>
-			<channel_id>80112E</channel_id>
-			<epg_id>80112E</epg_id>
-			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_80112E_0_0_0.png</icon_url>
+			<caption>M. Deportes 4 HD</caption>
+			<channel_id>835634</channel_id>
+			<epg_id>2830</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_835634_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>M. Deportes 5 HD</caption>
+			<channel_id>8C0607</channel_id>
+			<epg_id>2831</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_8C0607_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>M. Deportes 6 HD</caption>
+			<channel_id>64145E</channel_id>
+			<epg_id>2833</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_64145E_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Los Angeles Clippers</caption>
+			<channel_id>312817</channel_id>
+			<epg_id>312817</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_312817_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Orlando Magic</caption>
+			<channel_id>CDF9C1</channel_id>
+			<epg_id>CDF9C1</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_CDF9C1_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Portland Trail Blazers</caption>
+			<channel_id>F45FA0</channel_id>
+			<epg_id>F45FA0</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_F45FA0_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Detroit Pistons</caption>
+			<channel_id>A99750</channel_id>
+			<epg_id>A99750</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_A99750_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Milwaukee Bucks</caption>
+			<channel_id>A91509</channel_id>
+			<epg_id>A91509</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_A91509_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Toronto Raptors</caption>
+			<channel_id>2C7193</channel_id>
+			<epg_id>2C7193</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_2C7193_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Atlanta Hawks</caption>
+			<channel_id>AEB17A</channel_id>
+			<epg_id>AEB17A</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_AEB17A_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Brooklyn Nets</caption>
+			<channel_id>365F74</channel_id>
+			<epg_id>365F74</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_365F74_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Cleveland Cavaliers</caption>
+			<channel_id>FA9D1D</channel_id>
+			<epg_id>FA9D1D</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_FA9D1D_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Indiana Pacers</caption>
+			<channel_id>3EA554</channel_id>
+			<epg_id>3EA554</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_3EA554_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Boston Celtics</caption>
+			<channel_id>21C352</channel_id>
+			<epg_id>21C352</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_21C352_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Miami Heat</caption>
+			<channel_id>8DEE30</channel_id>
+			<epg_id>8DEE30</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_8DEE30_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Washington Wizards</caption>
+			<channel_id>E6CC88</channel_id>
+			<epg_id>E6CC88</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_E6CC88_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Minnesota Timberwolves</caption>
+			<channel_id>25FB49</channel_id>
+			<epg_id>25FB49</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_25FB49_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA Houston Rockets</caption>
+			<channel_id>8BFAB9</channel_id>
+			<epg_id>8BFAB9</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_8BFAB9_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL ANAHEIM DUCKS</caption>
+			<channel_id>FD13F9</channel_id>
+			<epg_id>FD13F9</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_FD13F9_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL Utah Hockey Club</caption>
+			<channel_id>142298</channel_id>
+			<epg_id>142298</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_142298_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL BOSTON BRUINS</caption>
+			<channel_id>1B6334</channel_id>
+			<epg_id>1B6334</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_1B6334_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL BUFFALO SABRES</caption>
+			<channel_id>2402B9</channel_id>
+			<epg_id>2402B9</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_2402B9_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL CALGARY FLAMES</caption>
+			<channel_id>49FD8D</channel_id>
+			<epg_id>49FD8D</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_49FD8D_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL CAROLINA HURRICANES</caption>
+			<channel_id>3857DF</channel_id>
+			<epg_id>3857DF</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_3857DF_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL CHICAGO BLACKHAWKS</caption>
+			<channel_id>685FFD</channel_id>
+			<epg_id>685FFD</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_685FFD_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL COLORADO AVALANCHE</caption>
+			<channel_id>C98A19</channel_id>
+			<epg_id>C98A19</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_C98A19_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL COLUMBUS BLUE JACKETS</caption>
+			<channel_id>C31FDC</channel_id>
+			<epg_id>C31FDC</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_C31FDC_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL DALLAS STARS</caption>
+			<channel_id>B2B3B3</channel_id>
+			<epg_id>B2B3B3</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_B2B3B3_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL DETROIT RED WINGS</caption>
+			<channel_id>EFF328</channel_id>
+			<epg_id>EFF328</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_EFF328_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL EDMONTON OILERS</caption>
+			<channel_id>C81B76</channel_id>
+			<epg_id>C81B76</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_C81B76_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL FLORIDA PANTHERS</caption>
+			<channel_id>EF8025</channel_id>
+			<epg_id>EF8025</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_EF8025_0_0_0.png</icon_url>
+			<tv_category_id>25</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL LOS ANGELES KINGS</caption>
+			<channel_id>250B63</channel_id>
+			<epg_id>250B63</epg_id>
+			<icon_url>http://icon.srv4you.net/icon/4097_0_1_0_0_0_250B63_0_0_0.png</icon_url>
 			<tv_category_id>25</tv_category_id>
 		</tv_channel>
 		<tv_channel>

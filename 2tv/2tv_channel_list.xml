@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>8</list_version>
+		<list_version>9</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -66,25 +66,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Медиатека</caption>
+			<caption>Video On Demand</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -869,13 +869,6 @@
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>49 канал</caption>
-			<channel_id>5323</channel_id>
-			<epg_id>X49kanal</epg_id>
-			<icon_url>https://pptt.fun/epglogo/1821.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Аист</caption>
 			<channel_id>5324</channel_id>
 			<epg_id>Xaist</epg_id>
@@ -1118,13 +1111,6 @@
 			<channel_id>5372</channel_id>
 			<epg_id>Xsalam</epg_id>
 			<icon_url>https://pptt.fun/epglogo/1861.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Центр Красноярск</caption>
-			<channel_id>5373</channel_id>
-			<epg_id>Xcentr-kraskoyarsk</epg_id>
-			<icon_url>https://pptt.fun/epglogo/1862.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2923,7 +2909,7 @@
 		<tv_channel>
 			<caption>Liberty DC</caption>
 			<channel_id>7050</channel_id>
-			<epg_id>Xliberty-dc</epg_id>
+			<epg_id>XLIBERTYDC</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3440.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
@@ -2931,14 +2917,14 @@
 		<tv_channel>
 			<caption>Liberty Фантастика</caption>
 			<channel_id>7051</channel_id>
-			<epg_id>Liberty Фантастика</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
+			<epg_id>XLIBERTYFANFHD</epg_id>
+			<icon_url>https://pptt.fun/epglogo/3441.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Автогир</caption>
 			<channel_id>7052</channel_id>
-			<epg_id>Xliberty-avtogir</epg_id>
+			<epg_id>XLIBERTYAVTOGIRFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3442.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
@@ -2946,7 +2932,7 @@
 		<tv_channel>
 			<caption>Liberty Marvel HD</caption>
 			<channel_id>7053</channel_id>
-			<epg_id>Xliberty-marvel</epg_id>
+			<epg_id>XLIBERTYMARVELFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3443.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
@@ -2954,7 +2940,7 @@
 		<tv_channel>
 			<caption>Liberty Короткометражный HD</caption>
 			<channel_id>7054</channel_id>
-			<epg_id>Xliberty-korotkometr</epg_id>
+			<epg_id>XLIBERTYKOROTKOMETRAZHNOYEFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3444.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
@@ -2962,7 +2948,7 @@
 		<tv_channel>
 			<caption>Liberty Pixar HD</caption>
 			<channel_id>7055</channel_id>
-			<epg_id>Xliberty-pixar</epg_id>
+			<epg_id>XLIBERTYPIKSARFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3445.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
@@ -2970,7 +2956,7 @@
 		<tv_channel>
 			<caption>Liberty Disney HD</caption>
 			<channel_id>7056</channel_id>
-			<epg_id>Xliberty-disney</epg_id>
+			<epg_id>XLIBERTYDISNEYFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3446.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
@@ -2978,7 +2964,7 @@
 		<tv_channel>
 			<caption>Liberty Мелодрамы HD</caption>
 			<channel_id>7057</channel_id>
-			<epg_id>Xliberty-melodramy</epg_id>
+			<epg_id>XLIBERTYMELODRAMYFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3447.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
@@ -2986,7 +2972,7 @@
 		<tv_channel>
 			<caption>Liberty Боевики HD</caption>
 			<channel_id>7058</channel_id>
-			<epg_id>Xliberty-boeviki</epg_id>
+			<epg_id>XLIBERTYBOYEVIKIFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3448.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
@@ -2994,7 +2980,7 @@
 		<tv_channel>
 			<caption>Liberty Сериал HD</caption>
 			<channel_id>7059</channel_id>
-			<epg_id>Xliberty-serial</epg_id>
+			<epg_id>XLIBERTYSERIALFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3449.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
@@ -3002,7 +2988,7 @@
 		<tv_channel>
 			<caption>Liberty Комедии HD</caption>
 			<channel_id>7060</channel_id>
-			<epg_id>Xliberty-komedii</epg_id>
+			<epg_id>XLIBERTYKOMEDIIFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3450.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
@@ -3010,7 +2996,7 @@
 		<tv_channel>
 			<caption>Liberty BBC HD</caption>
 			<channel_id>7061</channel_id>
-			<epg_id>Xliberty-bbc</epg_id>
+			<epg_id>XLIBERTYBBCFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3451.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
@@ -3018,7 +3004,7 @@
 		<tv_channel>
 			<caption>Liberty Сваты HD</caption>
 			<channel_id>7062</channel_id>
-			<epg_id>Xliberty-svaty</epg_id>
+			<epg_id>XLIBERTYSVATYFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3452.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>5</archive>
@@ -3026,56 +3012,56 @@
 		<tv_channel>
 			<caption>Liberty Занавес HD</caption>
 			<channel_id>7070</channel_id>
-			<epg_id>Xliberty-zanaves</epg_id>
+			<epg_id>XLIBERTYZANAVESFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3453.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Шоу HD</caption>
 			<channel_id>7071</channel_id>
-			<epg_id>Xliberty-show</epg_id>
+			<epg_id>XLIBERTYSHOUFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3454.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Аниме HD</caption>
 			<channel_id>7072</channel_id>
-			<epg_id>Xliberty-anime</epg_id>
+			<epg_id>XLIBERTYANIMEFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3455.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Документалка</caption>
 			<channel_id>7075</channel_id>
-			<epg_id>Xliberty-documentalka</epg_id>
+			<epg_id>XLIBERTYDOKUMENTALKAFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3456.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Симпсоны HD</caption>
 			<channel_id>7076</channel_id>
-			<epg_id>Xliberty-simpsons</epg_id>
+			<epg_id>XLIBERTYSIMPSONYFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3457.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty South Park HD</caption>
 			<channel_id>7077</channel_id>
-			<epg_id>Xliberty-southpark</epg_id>
+			<epg_id>XLIBERTYSOUTHPARKFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3458.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Планета360 HD</caption>
 			<channel_id>7078</channel_id>
-			<epg_id>Xliberty-plan360</epg_id>
+			<epg_id>XLIBERTYPLANETA360FHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3459.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Наука HD</caption>
 			<channel_id>7079</channel_id>
-			<epg_id>Xliberty-nauka</epg_id>
+			<epg_id>XLIBERTYNAUKAFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3460.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -4676,216 +4662,6 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Action HD</caption>
-			<channel_id>7315</channel_id>
-			<epg_id>Xkliaction</epg_id>
-			<icon_url>https://pptt.fun/epglogo/2995.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Cinema HD</caption>
-			<channel_id>7316</channel_id>
-			<epg_id>Xklicinema</epg_id>
-			<icon_url>https://pptt.fun/epglogo/2996.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Club HD</caption>
-			<channel_id>7317</channel_id>
-			<epg_id>Xkliclub</epg_id>
-			<icon_url>https://pptt.fun/epglogo/2997.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Comedy HD</caption>
-			<channel_id>7318</channel_id>
-			<epg_id>Xklicomedi</epg_id>
-			<icon_url>https://pptt.fun/epglogo/2998.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Concert HD</caption>
-			<channel_id>7319</channel_id>
-			<epg_id>Xkliconcert</epg_id>
-			<icon_url>https://pptt.fun/epglogo/2999.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Docu HD</caption>
-			<channel_id>7320</channel_id>
-			<epg_id>Xklidocu</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3000.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI DRAMA HD</caption>
-			<channel_id>7321</channel_id>
-			<epg_id>Xklidrama</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3001.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Family HD</caption>
-			<channel_id>7322</channel_id>
-			<epg_id>Xklifamily</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3002.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Fantastic HD</caption>
-			<channel_id>7323</channel_id>
-			<epg_id>Xklifantastica</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3003.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Fantasy HD</caption>
-			<channel_id>7324</channel_id>
-			<epg_id>Xklifantasy</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3004.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Franchise HD</caption>
-			<channel_id>7325</channel_id>
-			<epg_id>Xklifranchise</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3005.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI History HD</caption>
-			<channel_id>7326</channel_id>
-			<epg_id>Xklihistory</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3006.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI HIT 90</caption>
-			<channel_id>7327</channel_id>
-			<epg_id>Xklihit90</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3007.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Horror FHD</caption>
-			<channel_id>7328</channel_id>
-			<epg_id>Xklihorror</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3008.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Humor FHD</caption>
-			<channel_id>7329</channel_id>
-			<epg_id>Xklihumor</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3009.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Marvel HD</caption>
-			<channel_id>7331</channel_id>
-			<epg_id>Xklimarvel</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3010.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Millennium</caption>
-			<channel_id>7332</channel_id>
-			<epg_id>Xklimillennium</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3011.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Netflix HD</caption>
-			<channel_id>7334</channel_id>
-			<epg_id>XKLI_NETFLIX</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3012.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Premium HD</caption>
-			<channel_id>7335</channel_id>
-			<epg_id>Xklipremium</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3013.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Relax HD</caption>
-			<channel_id>7336</channel_id>
-			<epg_id>Xklirelax</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3014.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Retro HD</caption>
-			<channel_id>7339</channel_id>
-			<epg_id>Xkliretro</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3015.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Russian HD</caption>
-			<channel_id>7340</channel_id>
-			<epg_id>Xklirussian</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3016.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Thriller HD</caption>
-			<channel_id>7341</channel_id>
-			<epg_id>Xkliaction</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3017.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI VHS HD</caption>
-			<channel_id>7343</channel_id>
-			<epg_id>Xklivhs</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3019.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Киносерия HD</caption>
-			<channel_id>7344</channel_id>
-			<epg_id>Xklikinoseries</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3020.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Новинки HD</caption>
-			<channel_id>7347</channel_id>
-			<epg_id>Xklinovinci</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3022.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Однажды в России HD</caption>
-			<channel_id>7348</channel_id>
-			<epg_id>Xodnazhdyvrossii</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3023.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Орёл и решка HD</caption>
-			<channel_id>7349</channel_id>
-			<epg_id>XKLIOrelReshca</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3024.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Сериал HD</caption>
-			<channel_id>7350</channel_id>
-			<epg_id>Xkliserial</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3025.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI СССР HD</caption>
-			<channel_id>7351</channel_id>
-			<epg_id>Xkliussr</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3026.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Kernel TV Время</caption>
 			<channel_id>1735</channel_id>
 			<epg_id>Xkernel-vremia</epg_id>
@@ -5508,13 +5284,6 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport 5</caption>
-			<channel_id>1772</channel_id>
-			<epg_id>Xsport5</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3479.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Волейбол HD</caption>
 			<channel_id>1807</channel_id>
 			<epg_id>Xvoleybol</epg_id>
@@ -5676,13 +5445,6 @@
 			<icon_url>https://pptt.fun/epglogo/2533.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Futbol TV</caption>
-			<channel_id>5409</channel_id>
-			<epg_id>Futbol TV</epg_id>
-			<icon_url>https://pptt.fun/epglogo/1884.png</icon_url>
-			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>UPL.TV HD</caption>
@@ -5900,20 +5662,6 @@
 			<channel_id>1121</channel_id>
 			<epg_id>Xno_epg_sport</epg_id>
 			<icon_url>https://pptt.fun/epglogo/308.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eurosport 3 HD</caption>
-			<channel_id>4091</channel_id>
-			<epg_id>Eurosport 3 HD</epg_id>
-			<icon_url>https://pptt.fun/epglogo/1050.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eurosport 4 HD</caption>
-			<channel_id>4092</channel_id>
-			<epg_id>Eurosport 4 HD</epg_id>
-			<icon_url>https://pptt.fun/epglogo/1051.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -6358,13 +6106,6 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Abu Dhabi Sports 2 FHD</caption>
-			<channel_id>51010</channel_id>
-			<epg_id>Abu Dhabi Sports 2 FHD</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3372.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>BCU Ultra 4K</caption>
 			<channel_id>7125</channel_id>
 			<epg_id>Xbcu-ultra4k</epg_id>
@@ -6435,156 +6176,142 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI UHD 4K</caption>
-			<channel_id>7342</channel_id>
-			<epg_id>XKLIUHD4K</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3765.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Новинки 4K Ultra HD</caption>
-			<channel_id>7346</channel_id>
-			<epg_id>Xklinovinci4k</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3766.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Liberty Легенда 4K</caption>
 			<channel_id>7090</channel_id>
-			<epg_id>Xliberty-legenda</epg_id>
+			<epg_id>XLIBERTYLEGENDA4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3767.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Кино Микс 4K</caption>
 			<channel_id>1851</channel_id>
-			<epg_id>Xliberty-kinomiks</epg_id>
+			<epg_id>XLIBERTYKINOMIKS4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3768.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Netflix 4K</caption>
 			<channel_id>1852</channel_id>
-			<epg_id>Xliberty-netflix</epg_id>
+			<epg_id>XLIBERTYNETFLIX4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3769.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Русфильм 4K</caption>
 			<channel_id>1850</channel_id>
-			<epg_id>Xliberty-rusfilm	</epg_id>
+			<epg_id>XLIBERTYRUSFILM4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3770.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Семейный 4K</caption>
 			<channel_id>1853</channel_id>
-			<epg_id>Xliberty-semejny</epg_id>
+			<epg_id>XLIBERTYSEMEYNYY4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3771.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Триллеры 4K</caption>
 			<channel_id>1854</channel_id>
-			<epg_id>Xliberty-trillery</epg_id>
+			<epg_id>XLIBERTYTRILLER4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3772.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Ужасы 4K</caption>
 			<channel_id>1861</channel_id>
-			<epg_id>Xliberty-uzhasy</epg_id>
+			<epg_id>XLIBERTYUZHASY4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3773.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Криминал 4K</caption>
 			<channel_id>1855</channel_id>
-			<epg_id>Xliberty-kriminal</epg_id>
+			<epg_id>XLIBERTYCRIMINAL4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3774.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Сериалы 4K</caption>
 			<channel_id>1856</channel_id>
-			<epg_id>Xliberty-serialy</epg_id>
+			<epg_id>XLIBERTYSERIALY4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3775.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Медивал 4K</caption>
 			<channel_id>1857</channel_id>
-			<epg_id>Xliberty-medival-4k</epg_id>
+			<epg_id>XLIBERTYMEDIVAL4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3776.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Индия 4K</caption>
 			<channel_id>1858</channel_id>
-			<epg_id>Xliberty-india</epg_id>
+			<epg_id>XLIBERTYINDI4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3777.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Куб 4K</caption>
 			<channel_id>1859</channel_id>
-			<epg_id>Xliberty-kub</epg_id>
+			<epg_id>XLIBERTYCUBE4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3778.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Союз 4K</caption>
 			<channel_id>1860</channel_id>
-			<epg_id>Xliberty-soyuz</epg_id>
+			<epg_id>XLIBERTYSOYUZ4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3779.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty XX век 4K</caption>
 			<channel_id>1862</channel_id>
-			<epg_id>Xliberty-xxvek</epg_id>
+			<epg_id>XLIBERTYXXVEK4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3780.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Аванпост 4K</caption>
 			<channel_id>1863</channel_id>
-			<epg_id>Xliberty-avanpost</epg_id>
+			<epg_id>XLIBERTYAVANPOST4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3781.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Туркфильм 4K</caption>
 			<channel_id>1864</channel_id>
-			<epg_id>Xliberty-turkfilm</epg_id>
+			<epg_id>XLIBERTYTURKFILM4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3782.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Dreamworks 4K</caption>
 			<channel_id>1865</channel_id>
-			<epg_id>Xliberty-dreamworks</epg_id>
+			<epg_id>XLIBERTYDREAMWORKS4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3783.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Мюзикл 4K</caption>
 			<channel_id>1866</channel_id>
-			<epg_id>Xliberty-muzikl</epg_id>
+			<epg_id>XLIBERTYMYUZIKL4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3784.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Кино ENG 4K</caption>
 			<channel_id>1867</channel_id>
-			<epg_id>Xliberty-kinoeng</epg_id>
+			<epg_id>XLIBERTYKINOENG4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3785.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Кино UKR 4K</caption>
 			<channel_id>1871</channel_id>
-			<epg_id>Xliberty-kinoukr4k</epg_id>
+			<epg_id>XLIBERTYKINOUKR4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3786.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
@@ -8182,49 +7909,49 @@
 		<tv_channel>
 			<caption>Liberty Планктон HD</caption>
 			<channel_id>7064</channel_id>
-			<epg_id>Xliberty-plankton</epg_id>
+			<epg_id>XLIBERTYPLANKTONFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3485.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Крош HD</caption>
 			<channel_id>7065</channel_id>
-			<epg_id>Xliberty-krosh</epg_id>
+			<epg_id>XLIBERTYKROSHFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3486.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Сказки HD</caption>
 			<channel_id>7066</channel_id>
-			<epg_id>Xliberty-skazki</epg_id>
+			<epg_id>XLIBERTYSKAZKIFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3487.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Мультверсия FHD</caption>
 			<channel_id>7067</channel_id>
-			<epg_id>Xliberty-multiversia</epg_id>
+			<epg_id>XLIBERTYMULTVERSIFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3488.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Бебимульт HD</caption>
 			<channel_id>7073</channel_id>
-			<epg_id>Xliberty-bebimult</epg_id>
+			<epg_id>XLIBERTYBEBIMULTFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3489.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Мим HD</caption>
 			<channel_id>7074</channel_id>
-			<epg_id>Xliberty-mim</epg_id>
+			<epg_id>XLIBERTYMIMFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3490.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Мульт UKR HD</caption>
 			<channel_id>7069</channel_id>
-			<epg_id>Xliberty-multukr</epg_id>
+			<epg_id>XLIBERTYMUUKRFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3491.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -8317,20 +8044,6 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Kids FHD</caption>
-			<channel_id>7330</channel_id>
-			<epg_id>Xklikids</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3040.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Мультики HD</caption>
-			<channel_id>7345</channel_id>
-			<epg_id>Kklimult</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3041.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>CPS Cartoon</caption>
 			<channel_id>1748</channel_id>
 			<epg_id>CPS Cartoon</epg_id>
@@ -8340,21 +8053,21 @@
 		<tv_channel>
 			<caption>Liberty Мульт 4K</caption>
 			<channel_id>1868</channel_id>
-			<epg_id>Xliberty-mult</epg_id>
+			<epg_id>XLIBERTYMULT4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3815.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Мульт ENG 4K</caption>
 			<channel_id>1869</channel_id>
-			<epg_id>Xliberty-multeng</epg_id>
+			<epg_id>XLIBERTYMULTENG4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3816.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Мульт UKR 4K</caption>
 			<channel_id>1870</channel_id>
-			<epg_id>Xliberty-multukr4k</epg_id>
+			<epg_id>XLIBERTYMULTUKR4K</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3817.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -8827,13 +8540,6 @@
 			<channel_id>160</channel_id>
 			<epg_id>Xeuropa-plus-tv</epg_id>
 			<icon_url>https://pptt.fun/epglogo/492.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Trace Toca</caption>
-			<channel_id>989</channel_id>
-			<epg_id>Trace Toca</epg_id>
-			<icon_url>https://pptt.fun/epglogo/2763.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -9398,20 +9104,6 @@
 			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Шансон</caption>
-			<channel_id>7313</channel_id>
-			<epg_id>Xklishanson</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3042.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KLI Music HD</caption>
-			<channel_id>7333</channel_id>
-			<epg_id>Xklimusictv</epg_id>
-			<icon_url>https://pptt.fun/epglogo/3043.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Liberty Инди HD</caption>
 			<channel_id>7063</channel_id>
 			<epg_id>Liberty Инди HD</epg_id>
@@ -9812,7 +9504,7 @@
 		<tv_channel>
 			<caption>Liberty Эротика HD</caption>
 			<channel_id>7080</channel_id>
-			<epg_id>Xliberty-erotika</epg_id>
+			<epg_id>XLIBERTYEROTIKAFHD</epg_id>
 			<icon_url>https://pptt.fun/epglogo/3594.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<protected>1</protected>
@@ -9876,184 +9568,9 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>DJFM</caption>
-			<channel_id>10025</channel_id>
-			<epg_id>DJFM</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Hit FM</caption>
-			<channel_id>10002</channel_id>
-			<epg_id>Hit FM</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>LuxFM</caption>
-			<channel_id>10003</channel_id>
-			<epg_id>LuxFM</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наше Радио</caption>
-			<channel_id>10009</channel_id>
-			<epg_id>Наше Радио</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KissFM</caption>
-			<channel_id>10008</channel_id>
-			<epg_id>KissFM</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Maximum</caption>
-			<channel_id>10018</channel_id>
-			<epg_id>Maximum</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Nostalgie</caption>
-			<channel_id>10026</channel_id>
-			<epg_id>Nostalgie</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мелодия FM</caption>
-			<channel_id>10006</channel_id>
-			<epg_id>Мелодия FM</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Байрактар</caption>
-			<channel_id>10017</channel_id>
-			<epg_id>Байрактар</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Радио Relax</caption>
-			<channel_id>10007</channel_id>
-			<epg_id>Радио Relax</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Classic Radio</caption>
-			<channel_id>10005</channel_id>
-			<epg_id>Classic Radio</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Radio Jazz</caption>
 			<channel_id>11010</channel_id>
 			<epg_id>Radio Jazz</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Radio Rocks</caption>
-			<channel_id>10004</channel_id>
-			<epg_id>Radio Rocks</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Шлягер FM</caption>
-			<channel_id>10020</channel_id>
-			<epg_id>Шлягер FM</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>NRJ</caption>
-			<channel_id>10023</channel_id>
-			<epg_id>NRJ</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>NRJ Hits</caption>
-			<channel_id>10024</channel_id>
-			<epg_id>NRJ Hits</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Power FM</caption>
-			<channel_id>10027</channel_id>
-			<epg_id>Power FM</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Авто Драйв</caption>
-			<channel_id>10022</channel_id>
-			<epg_id>Авто Драйв</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Авторадио</caption>
-			<channel_id>10015</channel_id>
-			<epg_id>Авторадио</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Lounge FM</caption>
-			<channel_id>12011</channel_id>
-			<epg_id>Lounge FM</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Lounge FM Chill Out</caption>
-			<channel_id>10014</channel_id>
-			<epg_id>Lounge FM Chill Out</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Lounge FM Terrace</caption>
-			<channel_id>12012</channel_id>
-			<epg_id>Lounge FM Terrace</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Lounge FM Acoustic</caption>
-			<channel_id>10013</channel_id>
-			<epg_id>Lounge FM Acoustic</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Перец</caption>
-			<channel_id>10016</channel_id>
-			<epg_id>Перец</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Єдині Новини</caption>
-			<channel_id>10021</channel_id>
-			<epg_id>Єдині Новини</epg_id>
-			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
-			<tv_category_id>13</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Казки</caption>
-			<channel_id>10019</channel_id>
-			<epg_id>Казки</epg_id>
 			<icon_url>https://pptt.fun/epglogo/nologo-2tv.png</icon_url>
 			<tv_category_id>13</tv_category_id>
 		</tv_channel>

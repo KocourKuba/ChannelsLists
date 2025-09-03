@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>8</list_version>
+		<list_version>9</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -56,25 +56,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Медиатека</caption>
+			<caption>Video On Demand</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -359,20 +359,13 @@
 			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Новый мир</caption>
-			<channel_id>6737</channel_id>
-			<epg_id>6737</epg_id>
-			<tvg_id>6737</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/6737.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>360° HD</caption>
 			<channel_id>6791</channel_id>
 			<epg_id>6791</epg_id>
 			<tvg_id>6791</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/6791.png</icon_url>
 			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>360°</caption>
@@ -398,6 +391,7 @@
 			<tvg_id>5501</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/5501.png</icon_url>
 			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Перец International</caption>
@@ -530,6 +524,7 @@
 			<tvg_id>383</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/383.png</icon_url>
 			<tv_category_id>1</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТВ-3 HD</caption>
@@ -885,7 +880,7 @@
 			<tvg_id>6750</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/6750.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RT Doc HD</caption>
@@ -912,7 +907,7 @@
 			<tvg_id>5673</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/5673.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Москва 24</caption>
@@ -921,7 +916,7 @@
 			<tvg_id>295</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/295.png</icon_url>
 			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>РБК-ТВ</caption>
@@ -957,6 +952,7 @@
 			<tvg_id>6749</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/6749.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Соловьев Live</caption>
@@ -965,6 +961,7 @@
 			<tvg_id>6753</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/6753.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>24 Техно</caption>
@@ -1071,7 +1068,7 @@
 			<tvg_id>124</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/124.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nat Geo Wild HD</caption>
@@ -1089,7 +1086,7 @@
 			<tvg_id>5493</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/5493.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>National Geographic HD</caption>
@@ -1646,6 +1643,7 @@
 			<tvg_id>20785</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20785.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>TERRA HD</caption>
@@ -1705,6 +1703,7 @@
 			<tvg_id>20880</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20880.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Memory HD</caption>
@@ -1713,6 +1712,7 @@
 			<tvg_id>20858</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20858.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Game HD</caption>
@@ -1762,6 +1762,7 @@
 			<tvg_id>20898</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20898.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MiniMax Микромир HD</caption>
@@ -1818,6 +1819,7 @@
 			<tvg_id>21205</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/21205.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Про животных HD</caption>
@@ -1866,6 +1868,7 @@
 			<tvg_id>20976</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20976.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Наша планета HD</caption>
@@ -1882,6 +1885,7 @@
 			<tvg_id>20995</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20995.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Выживание HD</caption>
@@ -2335,6 +2339,7 @@
 			<tvg_id>20776</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20776.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MS PRISONS HD</caption>
@@ -2837,6 +2842,7 @@
 			<tvg_id>484</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/484.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>.sci-fi</caption>
@@ -2890,7 +2896,7 @@
 			<tvg_id>430</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/430.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>viju TV1000 Русское</caption>
@@ -3459,6 +3465,7 @@
 			<tvg_id>20808</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20808.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MS MAGIC HD</caption>
@@ -3476,6 +3483,7 @@
 			<tvg_id>7311</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/7311.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>KinoJam 1 HD</caption>
@@ -3534,6 +3542,7 @@
 			<tvg_id>20860</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20860.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Spy HD</caption>
@@ -3542,6 +3551,7 @@
 			<tvg_id>20865</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20865.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Western HD</caption>
@@ -3582,6 +3592,7 @@
 			<tvg_id>20876</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20876.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Comedy Central</caption>
@@ -3590,6 +3601,7 @@
 			<tvg_id>220</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/220.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>KION ХИТ</caption>
@@ -3684,6 +3696,7 @@
 			<tvg_id>7012</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/7012.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Индия</caption>
@@ -3700,6 +3713,7 @@
 			<tvg_id>21211</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/21211.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU PREMIERE HDR</caption>
@@ -3740,6 +3754,7 @@
 			<tvg_id>21209</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/21209.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Apocalypse HD</caption>
@@ -3756,6 +3771,7 @@
 			<tvg_id>20951</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20951.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Alien and Predator HD</caption>
@@ -3764,6 +3780,7 @@
 			<tvg_id>20952</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20952.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Celentano Brando Connery HD</caption>
@@ -3780,6 +3797,7 @@
 			<tvg_id>20958</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20958.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Comedy Horrors HD</caption>
@@ -3812,6 +3830,7 @@
 			<tvg_id>20963</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20963.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Disney Classic HD</caption>
@@ -3844,6 +3863,7 @@
 			<tvg_id>20967</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20967.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Horror HD</caption>
@@ -3868,6 +3888,7 @@
 			<tvg_id>20972</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20972.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Латиноамериканские сериалы HD</caption>
@@ -3892,6 +3913,7 @@
 			<tvg_id>20979</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20979.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Мелодрама HD</caption>
@@ -3932,6 +3954,7 @@
 			<tvg_id>20988</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20988.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis RUS Сериалы Драма HD</caption>
@@ -3940,6 +3963,7 @@
 			<tvg_id>20989</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20989.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Serkan Bolat HD</caption>
@@ -3948,6 +3972,7 @@
 			<tvg_id>20990</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20990.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Soviet Comedy HD</caption>
@@ -3956,6 +3981,7 @@
 			<tvg_id>20991</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20991.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Superheroes Series HD</caption>
@@ -4052,6 +4078,7 @@
 			<tvg_id>21020</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/21020.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>VeleS Криминальный</caption>
@@ -4076,6 +4103,7 @@
 			<tvg_id>21212</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/21212.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cartoonito</caption>
@@ -4102,7 +4130,7 @@
 			<tvg_id>340</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/340.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Мульт</caption>
@@ -4156,7 +4184,7 @@
 			<tvg_id>304</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/304.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Tiji TV</caption>
@@ -4300,6 +4328,7 @@
 			<tvg_id>20747</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20747.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MiniMax Мультфильм U.S.S.R</caption>
@@ -4308,6 +4337,7 @@
 			<tvg_id>20849</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20849.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MiniMax Сказки U.S.S.R</caption>
@@ -4397,6 +4427,7 @@
 			<tvg_id>5807</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/5807.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Family Jam HD</caption>
@@ -4612,7 +4643,7 @@
 			<tvg_id>6861</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/6861.png</icon_url>
 			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BRIDGE TV HITS</caption>
@@ -4774,6 +4805,7 @@
 			<tvg_id>20854</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20854.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MiniMax Rock</caption>
@@ -4954,7 +4986,7 @@
 			<tvg_id>5689</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/5689.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Конный Мир</caption>
@@ -4963,7 +4995,7 @@
 			<tvg_id>150</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/150.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Extreme Sports</caption>
@@ -4972,7 +5004,7 @@
 			<tvg_id>5242</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/5242.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русский Экстрим</caption>
@@ -4990,7 +5022,7 @@
 			<tvg_id>6667</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/6667.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>УДАР</caption>
@@ -5008,7 +5040,7 @@
 			<tvg_id>240</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/240.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>FightBox HD</caption>
@@ -5017,7 +5049,7 @@
 			<tvg_id>241</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/241.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Старт</caption>
@@ -5026,7 +5058,7 @@
 			<tvg_id>248</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/248.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Мир Баскетбола</caption>
@@ -5035,7 +5067,7 @@
 			<tvg_id>436</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/436.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ТВ Спорт</caption>
@@ -5044,7 +5076,7 @@
 			<tvg_id>478</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/478.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>1</archive>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Eurosport 1 HD (CEE)</caption>
@@ -5071,6 +5103,7 @@
 			<tvg_id>7336</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/7336.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Be ON Edge live 1 HD</caption>
@@ -5095,6 +5128,7 @@
 			<tvg_id>20881</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20881.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX SportCast live 2 HD</caption>
@@ -5103,6 +5137,7 @@
 			<tvg_id>20882</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20882.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX SportCast live 3 HD</caption>
@@ -5111,6 +5146,7 @@
 			<tvg_id>20883</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20883.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX SportCast live 4 HD</caption>
@@ -5119,6 +5155,7 @@
 			<tvg_id>20884</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20884.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX SportCast live 5 HD</caption>
@@ -5127,6 +5164,7 @@
 			<tvg_id>20885</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20885.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Be ON Edge HD</caption>
@@ -5143,6 +5181,7 @@
 			<tvg_id>20886</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20886.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX SportCast live 7 HD</caption>
@@ -5151,6 +5190,7 @@
 			<tvg_id>20887</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/20887.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Футбол HD</caption>
@@ -5195,6 +5235,7 @@
 			<tvg_id>21201</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/21201.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Be ON Edge live 3 HD</caption>
@@ -5211,6 +5252,7 @@
 			<tvg_id>21206</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/21206.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX SportCast live 9 HD</caption>
@@ -5219,6 +5261,7 @@
 			<tvg_id>21207</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/21207.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>6</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Oasis Фитнес HD</caption>

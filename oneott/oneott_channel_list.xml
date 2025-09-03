@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv_info>
 	<version_info>
-		<list_version>8</list_version>
+		<list_version>9</list_version>
 	</version_info>
 	<tv_categories>
 		<tv_category>
@@ -56,19 +56,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -93,7 +93,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Первый Канал Европа</caption>
+			<caption>Первый Канал Европа HD</caption>
 			<channel_id>28744</channel_id>
 			<epg_id>28744</epg_id>
 			<tvg_id>28744</tvg_id>
@@ -107,15 +107,6 @@
 			<epg_id>605</epg_id>
 			<tvg_id>605</tvg_id>
 			<icon_url>http://list.1ott.net/img/channel_icons/605.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>РЕН ТВ FHD</caption>
-			<channel_id>125</channel_id>
-			<epg_id>125</epg_id>
-			<tvg_id>125</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/125.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -157,15 +148,6 @@
 		</tv_channel>
 		<tv_channel>
 			<caption>ТНТ4 HD</caption>
-			<channel_id>52945</channel_id>
-			<epg_id>52945</epg_id>
-			<tvg_id>52945</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/52945.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНТ4</caption>
 			<channel_id>37</channel_id>
 			<epg_id>37</epg_id>
 			<tvg_id>37</tvg_id>
@@ -206,15 +188,6 @@
 			<epg_id>8</epg_id>
 			<tvg_id>8</tvg_id>
 			<icon_url>http://list.1ott.net/img/channel_icons/8.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Пятница FHD</caption>
-			<channel_id>19318</channel_id>
-			<epg_id>19318</epg_id>
-			<tvg_id>19318</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/19318.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -282,16 +255,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТВЦ FHD</caption>
-			<channel_id>38572</channel_id>
-			<epg_id>38572</epg_id>
-			<tvg_id>38572</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/38572.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТВЦ</caption>
+			<caption>ТВ Центр</caption>
 			<channel_id>10</channel_id>
 			<epg_id>10</epg_id>
 			<tvg_id>10</tvg_id>
@@ -314,15 +278,6 @@
 			<epg_id>19</epg_id>
 			<tvg_id>19</tvg_id>
 			<icon_url>http://list.1ott.net/img/channel_icons/19.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТВ-3 FHD</caption>
-			<channel_id>22285</channel_id>
-			<epg_id>22285</epg_id>
-			<tvg_id>22285</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/22285.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -459,7 +414,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТВЦ HD</caption>
+			<caption>ТВ Центр HD</caption>
 			<channel_id>31983</channel_id>
 			<epg_id>31983</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
@@ -470,6 +425,14 @@
 			<caption>ТВ-3 HD</caption>
 			<channel_id>31726</channel_id>
 			<epg_id>31726</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Пятый канал HD</caption>
+			<channel_id>64672</channel_id>
+			<epg_id>64672</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -566,15 +529,6 @@
 		</tv_channel>
 		<tv_channel>
 			<caption>Суббота HD</caption>
-			<channel_id>43562</channel_id>
-			<epg_id>43562</epg_id>
-			<tvg_id>43562</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/43562.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Суббота!</caption>
 			<channel_id>11086</channel_id>
 			<epg_id>11086</epg_id>
 			<tvg_id>11086</tvg_id>
@@ -646,7 +600,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Наше любимое кино</caption>
+			<caption>Любимое кино</caption>
 			<channel_id>34283</channel_id>
 			<epg_id>34283</epg_id>
 			<tvg_id>34283</tvg_id>
@@ -754,7 +708,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Наше Крутое HD</caption>
+			<caption>Наше HD</caption>
 			<channel_id>1664</channel_id>
 			<epg_id>1664</epg_id>
 			<tvg_id>1664</tvg_id>
@@ -907,7 +861,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viasat World Kino</caption>
+			<caption>Viasat Kino World</caption>
 			<channel_id>54329</channel_id>
 			<epg_id>54329</epg_id>
 			<tvg_id>54329</tvg_id>
@@ -1420,7 +1374,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Победа! HD</caption>
+			<caption>Победа HD</caption>
 			<channel_id>36994</channel_id>
 			<epg_id>36994</epg_id>
 			<tvg_id>36994</tvg_id>
@@ -1724,15 +1678,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>EPIC Drama HD</caption>
-			<channel_id>43279</channel_id>
-			<epg_id>43279</epg_id>
-			<tvg_id>43279</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/43279.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Иллюзион+ HD</caption>
 			<channel_id>61052</channel_id>
 			<epg_id>61052</epg_id>
@@ -1801,11 +1746,35 @@
 			<epg_id>42931</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>2</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Suspense</caption>
 			<channel_id>63829</channel_id>
 			<epg_id>63829</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дом Кино HD</caption>
+			<channel_id>77372</channel_id>
+			<epg_id>77372</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat Kino Megahit</caption>
+			<channel_id>43881</channel_id>
+			<epg_id>43881</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 Romantica</caption>
+			<channel_id>52803</channel_id>
+			<epg_id>52803</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>7</archive>
@@ -1901,38 +1870,11 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Premiere HD 1</caption>
-			<channel_id>33691</channel_id>
-			<epg_id>33691</epg_id>
-			<tvg_id>33691</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/33691.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Premiere HD 2</caption>
 			<channel_id>29539</channel_id>
 			<epg_id>29539</epg_id>
 			<tvg_id>29539</tvg_id>
 			<icon_url>http://list.1ott.net/img/channel_icons/29539.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Premiere HD 3</caption>
-			<channel_id>47394</channel_id>
-			<epg_id>47394</epg_id>
-			<tvg_id>47394</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/47394.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Premiere HD 4</caption>
-			<channel_id>52961</channel_id>
-			<epg_id>52961</epg_id>
-			<tvg_id>52961</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/52961.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -2222,6 +2164,7 @@
 			<tvg_id>16033</tvg_id>
 			<icon_url>http://list.1ott.net/img/channel_icons/16033.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Dosug TV Детектив</caption>
@@ -2248,9 +2191,10 @@
 			<tvg_id>16042</tvg_id>
 			<icon_url>http://list.1ott.net/img/channel_icons/16042.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Dosug TV Новогодний</caption>
+			<caption>Dosug TV Победа</caption>
 			<channel_id>16052</channel_id>
 			<epg_id>16052</epg_id>
 			<tvg_id>16052</tvg_id>
@@ -2552,6 +2496,7 @@
 			<tvg_id>59231</tvg_id>
 			<icon_url>http://list.1ott.net/img/channel_icons/59231.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BCU Action HD</caption>
@@ -3061,6 +3006,20 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Cineman СССР</caption>
+			<channel_id>69286</channel_id>
+			<epg_id>69286</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Sitcom HD</caption>
+			<channel_id>92363</channel_id>
+			<epg_id>92363</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Discovery Channel HD</caption>
 			<channel_id>2005</channel_id>
 			<epg_id>2005</epg_id>
@@ -3088,7 +3047,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>HDL</caption>
+			<caption>Точка РФ</caption>
 			<channel_id>37631</channel_id>
 			<epg_id>37631</epg_id>
 			<tvg_id>37631</tvg_id>
@@ -3151,7 +3110,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>H2  HD</caption>
+			<caption>H2 HD</caption>
 			<channel_id>47392</channel_id>
 			<epg_id>47392</epg_id>
 			<tvg_id>47392</tvg_id>
@@ -3239,7 +3198,7 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Travel channel</caption>
+			<caption>Travel channel HD</caption>
 			<channel_id>43872</channel_id>
 			<epg_id>43872</epg_id>
 			<tvg_id>43872</tvg_id>
@@ -3257,7 +3216,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Travel+Adventure</caption>
+			<caption>Travel+Adventure HD</caption>
 			<channel_id>44662</channel_id>
 			<epg_id>44662</epg_id>
 			<tvg_id>44662</tvg_id>
@@ -3430,7 +3389,7 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viju+ Explore HD</caption>
+			<caption>Viju Explore HD</caption>
 			<channel_id>63941</channel_id>
 			<epg_id>63941</epg_id>
 			<tvg_id>63941</tvg_id>
@@ -3448,7 +3407,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Viju+ Planet HD</caption>
+			<caption>Viju Planet HD</caption>
 			<channel_id>620957</channel_id>
 			<epg_id>620957</epg_id>
 			<tvg_id>620957</tvg_id>
@@ -3474,15 +3433,6 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Love Nature HD</caption>
-			<channel_id>73992</channel_id>
-			<epg_id>73992</epg_id>
-			<tvg_id>73992</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/73992.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Big Planet</caption>
 			<channel_id>39561</channel_id>
 			<epg_id>39561</epg_id>
@@ -3503,13 +3453,6 @@
 			<caption>RTД</caption>
 			<channel_id>42085</channel_id>
 			<epg_id>42085</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Docu</caption>
-			<channel_id>53881</channel_id>
-			<epg_id>53881</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
@@ -3632,6 +3575,7 @@
 			<tvg_id>32431</tvg_id>
 			<icon_url>http://list.1ott.net/img/channel_icons/32431.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Top Secret</caption>
@@ -3735,14 +3679,6 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>English Club TV</caption>
-			<channel_id>11090</channel_id>
-			<epg_id>11090</epg_id>
-			<tvg_id>11090</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/11090.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Театр</caption>
 			<channel_id>36742</channel_id>
 			<epg_id>36742</epg_id>
@@ -3812,15 +3748,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Частный детектив</caption>
-			<channel_id>97234</channel_id>
-			<epg_id>97234</epg_id>
-			<tvg_id>97234</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/97234.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Живи</caption>
 			<channel_id>72993</channel_id>
 			<epg_id>72993</epg_id>
@@ -3860,6 +3787,7 @@
 			<epg_id>84729</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>First TV Кулинар</caption>
@@ -3879,6 +3807,20 @@
 			<caption>First TV Show</caption>
 			<channel_id>82628</channel_id>
 			<epg_id>82628</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лапки</caption>
+			<channel_id>63197</channel_id>
+			<epg_id>63197</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fashion UHD</caption>
+			<channel_id>55382</channel_id>
+			<epg_id>55382</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
@@ -3952,7 +3894,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>24 Канал</caption>
+			<caption>24 Канал HD</caption>
 			<channel_id>119</channel_id>
 			<epg_id>119</epg_id>
 			<tvg_id>119</tvg_id>
@@ -3993,7 +3935,7 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>France 24</caption>
+			<caption>Russia Today</caption>
 			<channel_id>43729</channel_id>
 			<epg_id>43729</epg_id>
 			<tvg_id>43729</tvg_id>
@@ -4060,7 +4002,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>News.BY</caption>
+			<caption>News.BY HD</caption>
 			<channel_id>52943</channel_id>
 			<epg_id>52943</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
@@ -4100,14 +4042,6 @@
 			<icon_url>http://list.1ott.net/img/channel_icons/94490.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>EuropaPlus HD</caption>
-			<channel_id>48127</channel_id>
-			<epg_id>48127</epg_id>
-			<tvg_id>48127</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/48127.png</icon_url>
-			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Europa Plus TV</caption>
@@ -4152,15 +4086,7 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>RU.TV HD</caption>
-			<channel_id>30738</channel_id>
-			<epg_id>30738</epg_id>
-			<tvg_id>30738</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/30738.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>RU TV</caption>
+			<caption>RU.TV</caption>
 			<channel_id>87</channel_id>
 			<epg_id>87</epg_id>
 			<tvg_id>87</tvg_id>
@@ -4202,7 +4128,7 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Bridge Hits</caption>
+			<caption>Bridge TV Hits</caption>
 			<channel_id>52987</channel_id>
 			<epg_id>52987</epg_id>
 			<tvg_id>52987</tvg_id>
@@ -4242,7 +4168,7 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>М1 HD</caption>
+			<caption>М1</caption>
 			<channel_id>39426</channel_id>
 			<epg_id>39426</epg_id>
 			<tvg_id>39426</tvg_id>
@@ -4250,7 +4176,7 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>М2 HD</caption>
+			<caption>М2</caption>
 			<channel_id>49446</channel_id>
 			<epg_id>49446</epg_id>
 			<tvg_id>49446</tvg_id>
@@ -4398,7 +4324,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Шансон-ТВ</caption>
+			<caption>Шансон ТВ</caption>
 			<channel_id>80</channel_id>
 			<epg_id>80</epg_id>
 			<tvg_id>80</tvg_id>
@@ -4447,14 +4373,6 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>БелМузТВ</caption>
-			<channel_id>35197</channel_id>
-			<epg_id>35197</epg_id>
-			<tvg_id>35197</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/35197.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Deluxe Music</caption>
 			<channel_id>69418</channel_id>
 			<epg_id>69418</epg_id>
@@ -4480,7 +4398,7 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>4TV.LT</caption>
+			<caption>4TV.LT HD</caption>
 			<channel_id>73657</channel_id>
 			<epg_id>73657</epg_id>
 			<tvg_id>73657</tvg_id>
@@ -4501,13 +4419,6 @@
 			<epg_id>59382</epg_id>
 			<tvg_id>59382</tvg_id>
 			<icon_url>http://list.1ott.net/img/channel_icons/59382.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Prokop TV Music</caption>
-			<channel_id>73597</channel_id>
-			<epg_id>73597</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4588,15 +4499,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Матч! Страна</caption>
-			<channel_id>32</channel_id>
-			<epg_id>32</epg_id>
-			<tvg_id>32</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/32.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Матч! Планета</caption>
 			<channel_id>34117</channel_id>
 			<epg_id>34117</epg_id>
@@ -4651,7 +4553,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Беларусь 5</caption>
+			<caption>Беларусь 5 HD</caption>
 			<channel_id>82294</channel_id>
 			<epg_id>82294</epg_id>
 			<tvg_id>82294</tvg_id>
@@ -4728,15 +4630,6 @@
 			<epg_id>84249</epg_id>
 			<tvg_id>84249</tvg_id>
 			<icon_url>http://list.1ott.net/img/channel_icons/84249.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч! Боец</caption>
-			<channel_id>60</channel_id>
-			<epg_id>60</epg_id>
-			<tvg_id>60</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/60.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -5118,7 +5011,7 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Большой Эфир</caption>
+			<caption>Большой Эфир HD</caption>
 			<channel_id>47720</channel_id>
 			<epg_id>47720</epg_id>
 			<tvg_id>47720</tvg_id>
@@ -5255,7 +5148,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport1 LT HD</caption>
+			<caption>Sport 1 LT HD</caption>
 			<channel_id>76911</channel_id>
 			<epg_id>76911</epg_id>
 			<tvg_id>76911</tvg_id>
@@ -5366,14 +5259,6 @@
 			<epg_id>52093</epg_id>
 			<tvg_id>52093</tvg_id>
 			<icon_url>http://list.1ott.net/img/channel_icons/52093.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Auto Moto Sport HD</caption>
-			<channel_id>52286</channel_id>
-			<epg_id>52286</epg_id>
-			<tvg_id>52286</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/52286.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -5690,7 +5575,7 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Setanta Sport Premium UA (TEST)</caption>
+			<caption>Setanta Sport Premium UA</caption>
 			<channel_id>82731</channel_id>
 			<epg_id>82731</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
@@ -5702,6 +5587,7 @@
 			<epg_id>73732</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Окко Футбол</caption>
@@ -5709,6 +5595,7 @@
 			<epg_id>63048</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>GO3 Sport 1 HD (LT)</caption>
@@ -5900,93 +5787,107 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport Live Event UA 1</caption>
+			<caption>Sport Live UA 1</caption>
 			<channel_id>92551</channel_id>
 			<epg_id>92551</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport Live Event UA 2</caption>
+			<caption>Sport Live UA 2</caption>
 			<channel_id>93619</channel_id>
 			<epg_id>93619</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport Live Event UA 3</caption>
+			<caption>Sport Live UA 3</caption>
 			<channel_id>91775</channel_id>
 			<epg_id>91775</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport Live Event UA 4</caption>
+			<caption>Sport Live UA 4</caption>
 			<channel_id>94517</channel_id>
 			<epg_id>94517</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport Live Event UA 5</caption>
+			<caption>Sport Live UA 5</caption>
 			<channel_id>96385</channel_id>
 			<epg_id>96385</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport Live Event UA 6</caption>
+			<caption>Sport Live UA 6</caption>
 			<channel_id>97352</channel_id>
 			<epg_id>97352</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport Live Event UA 7</caption>
+			<caption>Sport Live UA 7</caption>
 			<channel_id>97349</channel_id>
 			<epg_id>97349</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport Live Event UA 8</caption>
+			<caption>Sport Live UA 8</caption>
 			<channel_id>98349</channel_id>
 			<epg_id>98349</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport Live Event UA 9</caption>
+			<caption>Sport Live UA 9</caption>
 			<channel_id>99362</channel_id>
 			<epg_id>99362</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport Live Event UA 10</caption>
+			<caption>Sport Live UA 10</caption>
 			<channel_id>96309</channel_id>
 			<epg_id>96309</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport Live Event UA 11</caption>
+			<caption>Sport Live UA 11</caption>
 			<channel_id>98355</channel_id>
 			<epg_id>98355</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport Live Event UA 12</caption>
+			<caption>Sport Live UA 12</caption>
 			<channel_id>93957</channel_id>
 			<epg_id>93957</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport Live Event UA 13</caption>
+			<caption>Sport Live UA 13</caption>
 			<channel_id>94986</channel_id>
 			<epg_id>94986</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Прайм Спорт</caption>
+			<channel_id>63719</channel_id>
+			<epg_id>63719</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Волейбол ТВ</caption>
+			<channel_id>84629</channel_id>
+			<epg_id>84629</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
@@ -6115,24 +6016,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Nickelodeon</caption>
-			<channel_id>31</channel_id>
-			<epg_id>31</epg_id>
-			<tvg_id>31</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/31.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Nicktoons</caption>
-			<channel_id>61346</channel_id>
-			<epg_id>61346</epg_id>
-			<tvg_id>61346</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/61346.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Nick Jr.</caption>
 			<channel_id>43</channel_id>
 			<epg_id>43</epg_id>
@@ -6178,29 +6061,11 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ПлюсПлюс</caption>
-			<channel_id>47906</channel_id>
-			<epg_id>47906</epg_id>
-			<tvg_id>47906</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/47906.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Пиксель HD</caption>
 			<channel_id>54621</channel_id>
 			<epg_id>54621</epg_id>
 			<tvg_id>54621</tvg_id>
 			<icon_url>http://list.1ott.net/img/channel_icons/54621.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Пиксель</caption>
-			<channel_id>18008</channel_id>
-			<epg_id>18008</epg_id>
-			<tvg_id>18008</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/18008.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -6275,15 +6140,6 @@
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Карусель HD</caption>
-			<channel_id>29985</channel_id>
-			<epg_id>29985</epg_id>
-			<tvg_id>29985</tvg_id>
-			<icon_url>http://list.1ott.net/img/channel_icons/29985.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Лева HD</caption>
 			<channel_id>42298</channel_id>
 			<epg_id>42298</epg_id>
@@ -6336,7 +6192,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Канал O!</caption>
+			<caption>O!</caption>
 			<channel_id>48164</channel_id>
 			<epg_id>48164</epg_id>
 			<tvg_id>48164</tvg_id>
@@ -6456,16 +6312,53 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Cineman Kids</caption>
+			<caption>Cineman Kids UHD</caption>
 			<channel_id>47273</channel_id>
 			<epg_id>47273</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>9</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>First TV Mult UA</caption>
 			<channel_id>82538</channel_id>
 			<epg_id>82538</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Kids UHD</caption>
+			<channel_id>22084</channel_id>
+			<epg_id>22084</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kidzone Max HD</caption>
+			<channel_id>42889</channel_id>
+			<epg_id>42889</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoon Classics</caption>
+			<channel_id>73524</channel_id>
+			<epg_id>73524</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>КиноМульт</caption>
+			<channel_id>26293</channel_id>
+			<epg_id>26293</epg_id>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Уникум</caption>
+			<channel_id>32525</channel_id>
+			<epg_id>32525</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
