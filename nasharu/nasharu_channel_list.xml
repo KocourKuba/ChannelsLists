@@ -40,11 +40,6 @@
 			<icon_url>plugin_file://icons/categories/20.png</icon_url>
 		</tv_category>
 		<tv_category>
-			<id>8</id>
-			<caption>Украинские</caption>
-			<icon_url>plugin_file://icons/categories/ua.png</icon_url>
-		</tv_category>
-		<tv_category>
 			<id>9</id>
 			<caption>Qazaqstan</caption>
 			<icon_url>plugin_file://icons/categories/kz.png</icon_url>
@@ -1684,22 +1679,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Setanta Ukraine HD</caption>
-			<channel_id>222</channel_id>
-			<epg_id>setanta-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/setanta-ua.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Ukraine Plus HD</caption>
-			<channel_id>214</channel_id>
-			<epg_id>setanta-plus-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/setanta-plus-ua.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Setanta Qazaqstan HD</caption>
 			<channel_id>228</channel_id>
 			<epg_id>setanta-kz</epg_id>
@@ -1728,14 +1707,6 @@
 			<channel_id>211</channel_id>
 			<epg_id>Спорт онлайн</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/dummy_tv.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sport 1 UA</caption>
-			<channel_id>213</channel_id>
-			<epg_id>sport1-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/sport1_ua.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1804,14 +1775,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>XSPORT</caption>
-			<channel_id>217</channel_id>
-			<epg_id>xsport-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/x-sport-ua.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>КХЛ HD</caption>
 			<channel_id>218</channel_id>
 			<epg_id>kxl-hd</epg_id>
@@ -1852,42 +1815,10 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Megogo Футбол 1 HD</caption>
-			<channel_id>233</channel_id>
-			<epg_id>megogo-football-1</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/megogo-football-1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Megogo Футбол 2 HD</caption>
-			<channel_id>234</channel_id>
-			<epg_id>megogo-football-2</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/megogo-football-2.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Megogo Футбол 3 HD</caption>
-			<channel_id>235</channel_id>
-			<epg_id>megogo-football-3</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/megogo-football-3.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Окко Спорт HD</caption>
 			<channel_id>238</channel_id>
 			<epg_id>okko-sport</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/okko-sport.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Megogo Спорт HD</caption>
-			<channel_id>237</channel_id>
-			<epg_id>megogo-sport</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/megogo-sport.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1904,14 +1835,6 @@
 			<channel_id>241</channel_id>
 			<epg_id>vip-sport-3</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/vip-sport-3.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UPL TV HD</caption>
-			<channel_id>212</channel_id>
-			<epg_id>upltv</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/upltv.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -1936,14 +1859,6 @@
 			<channel_id>236</channel_id>
 			<epg_id>okko-sport-2</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/okko-sport-2.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Суспільне Спорт</caption>
-			<channel_id>240</channel_id>
-			<epg_id>suspilne-sport-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/suspilne-sport-ua.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2755,262 +2670,6 @@
 			<epg_id>stv-by</epg_id>
 			<icon_url>http://cdn.server-iptv.live/logo/tv/stv-by.png</icon_url>
 			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Квартал ТВ</caption>
-			<channel_id>313</channel_id>
-			<epg_id>kvartal-tv</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/kvartal_tv_ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Новий канал</caption>
-			<channel_id>303</channel_id>
-			<epg_id>novy-kanal-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/novy-kanal-ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>СТБ</caption>
-			<channel_id>304</channel_id>
-			<epg_id>stb-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/telekanal_stb_ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Интер</caption>
-			<channel_id>305</channel_id>
-			<epg_id>inter-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/inter_ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ICTV</caption>
-			<channel_id>302</channel_id>
-			<epg_id>ictv-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/ictv_ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ICTV 2 HD</caption>
-			<channel_id>339</channel_id>
-			<epg_id>ictv-ukraine</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/ictv-ukraine.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>1+1 Марафон UA</caption>
-			<channel_id>306</channel_id>
-			<epg_id>1plus1</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/1_plus_1_ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>1+1 Україна UA</caption>
-			<channel_id>340</channel_id>
-			<epg_id>1plus1-ukraina</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/1plus1-ukraina.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>UA:Перший HD</caption>
-			<channel_id>312</channel_id>
-			<epg_id>ua-pershy</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/ua-pershy.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Еспресо TV</caption>
-			<channel_id>317</channel_id>
-			<epg_id>espreso-tv</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/espreso-tv-ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Уніaн HD</caption>
-			<channel_id>307</channel_id>
-			<epg_id>unian-tv</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/unian.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТН HD UA</caption>
-			<channel_id>318</channel_id>
-			<epg_id>ntn-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/ntn_ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>2+2</caption>
-			<channel_id>308</channel_id>
-			<epg_id>2plus2</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/2-plus-2-ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>К1</caption>
-			<channel_id>310</channel_id>
-			<epg_id>k1-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/k1_ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>К2</caption>
-			<channel_id>311</channel_id>
-			<epg_id>k2-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/k2-ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Film.Ua Drama</caption>
-			<channel_id>322</channel_id>
-			<epg_id>filmua-drama</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/film_ua_drama.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Enter-фільм</caption>
-			<channel_id>315</channel_id>
-			<epg_id>enter-film</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/enter_film_ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Рибалка HD</caption>
-			<channel_id>316</channel_id>
-			<epg_id>rybalka</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/rybalka-telekanal-ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТЕТ</caption>
-			<channel_id>342</channel_id>
-			<epg_id>tet-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/tet.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Бiгудi</caption>
-			<channel_id>343</channel_id>
-			<epg_id>bigudi</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/bigudi.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Прямий HD</caption>
-			<channel_id>344</channel_id>
-			<epg_id>priamyj</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/priamyj.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>24 канал</caption>
-			<channel_id>338</channel_id>
-			<epg_id>24news-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/24news-ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>FREEДОМ UATV</caption>
-			<channel_id>301</channel_id>
-			<epg_id>ua-tv</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/ua-tv.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сонце</caption>
-			<channel_id>320</channel_id>
-			<epg_id>sonce-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/sonce_telekanal_ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мега</caption>
-			<channel_id>314</channel_id>
-			<epg_id>mega-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/mega-ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ОЦЕ HD</caption>
-			<channel_id>321</channel_id>
-			<epg_id>otse</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/oce-ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Рада HD</caption>
-			<channel_id>334</channel_id>
-			<epg_id>rada-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/rada_ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Піксель</caption>
-			<channel_id>509</channel_id>
-			<epg_id>pixel</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/piksel_tv.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Суспільне Одеса</caption>
-			<channel_id>309</channel_id>
-			<epg_id>ua-odesa</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/ua-odesa.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Репортер</caption>
-			<channel_id>337</channel_id>
-			<epg_id>reportior</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/reportior.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>СК1</caption>
-			<channel_id>331</channel_id>
-			<epg_id>ck1-ua</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/ck1-ua.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Iзмаїл</caption>
-			<channel_id>327</channel_id>
-			<epg_id>ua-izmail</epg_id>
-			<icon_url>http://cdn.server-iptv.live/logo/tv/ua-izmail.png</icon_url>
-			<tv_category_id>8</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>

@@ -46,32 +46,32 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Video On Demand</caption>
+			<caption>Медиатека</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
 	</tv_categories>
 	<tv_channels>
 		<tv_channel>
-			<caption>Пеpвый HD</caption>
+			<caption>Первый HD</caption>
 			<channel_id>pervyHD</channel_id>
 			<epg_id>pervy</epg_id>
 			<tvg_id>pervyhd</tvg_id>
@@ -89,7 +89,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Роccия 1 HD</caption>
+			<caption>Россия 1 HD</caption>
 			<channel_id>rossia1HD</channel_id>
 			<epg_id>rossia1</epg_id>
 			<tvg_id>rossia1</tvg_id>
@@ -107,7 +107,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>НTВ HD</caption>
+			<caption>НТВ HD</caption>
 			<channel_id>ntvHD</channel_id>
 			<epg_id>ntv</epg_id>
 			<tvg_id>ntv</tvg_id>
@@ -125,16 +125,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>НТB Мир</caption>
-			<channel_id>ntv-mir</channel_id>
-			<epg_id>ntv-mir</epg_id>
-			<tvg_id>ntv-mir</tvg_id>
-			<icon_url>https://img.caribo.net/picons/ru/ntvmir.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТHТ HD</caption>
+			<caption>ТНТ HD</caption>
 			<channel_id>tntHD</channel_id>
 			<epg_id>tnt</epg_id>
 			<tvg_id>tnt</tvg_id>
@@ -179,7 +170,7 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Рeн ТВ HD</caption>
+			<caption>Рен ТВ HD</caption>
 			<channel_id>rentvHD</channel_id>
 			<epg_id>rentv</epg_id>
 			<tvg_id>rentv</tvg_id>
@@ -488,7 +479,7 @@
 		<tv_channel>
 			<caption>RTG HD</caption>
 			<channel_id>rtg-hd</channel_id>
-			<epg_id>rtg-hd</epg_id>
+			<epg_id>rtg-tv</epg_id>
 			<tvg_id>rtg-hd</tvg_id>
 			<icon_url>https://img.caribo.net/picons/ru/RTG_hd.png</icon_url>
 			<tv_category_id>2</tv_category_id>
@@ -1277,37 +1268,6 @@
 			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH UHD HDR</caption>
-			<channel_id>sh_uhd_hdr</channel_id>
-			<epg_id>SKYHIGHUHDHDR</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/sh_uhd_hdr.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH VHS UHD</caption>
-			<channel_id>sh_vhs_uhd</channel_id>
-			<epg_id>SKYHIGHVHSUHD</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/sh_vhs_uhd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH Series HD</caption>
-			<channel_id>sh_series</channel_id>
-			<epg_id>SKYHIGHSERIESHD</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/sh_series.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH Epoch HD</caption>
-			<channel_id>sh_epoch</channel_id>
-			<epg_id>SKYHIGHEPOCHHD</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/sh_epoch.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>2</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>SKY HIGH Drama 4K HDR</caption>
 			<channel_id>sh_mix3d</channel_id>
 			<epg_id>SKYHIGHDRAMA4KHDR</epg_id>
@@ -1316,64 +1276,12 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Spirit HD</caption>
-			<channel_id>sh_spirit</channel_id>
-			<epg_id>SKYHIGHSPIRITHD</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/sh_spirit.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH Fresh HD</caption>
-			<channel_id>sh_fresh</channel_id>
-			<epg_id>SKYHIGHFRESHHD</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/sh_fresh.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH Fresh HDR</caption>
-			<channel_id>sh_freshhdr</channel_id>
-			<epg_id>SKYHIGHFRESHHDR</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/sh_freshhdr.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH Fresh 60</caption>
-			<channel_id>sh_fresh60</channel_id>
-			<epg_id>SKYHIGHFRESH60</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/sh_new60.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH Heroes HD</caption>
-			<channel_id>sh_heroes</channel_id>
-			<epg_id>SKYHIGHHEROESHD</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/sh_heroes.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH Space 4K HDR</caption>
+			<caption>SKY HIGH Future</caption>
 			<channel_id>sh_future</channel_id>
-			<epg_id>SKYHIGHSPACE4KHDR</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/sh_future.png</icon_url>
+			<epg_id>SKYHIGHFUTUREFHD</epg_id>
+			<icon_url>https://img.caribo.net/picons/upl/3/sh_future.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH Russian HD</caption>
-			<channel_id>ss_russian</channel_id>
-			<epg_id>SKYHIGHRUSSIANHD</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/ss_russian.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH CHBU HD</caption>
-			<channel_id>sh_chbu</channel_id>
-			<epg_id>SKYHIGHCHBUHD</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/sh_chbu.png</icon_url>
-			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>MS Prisons HD</caption>
@@ -2225,111 +2133,6 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>UZ TV HD</caption>
-			<channel_id>uztvhd</channel_id>
-			<epg_id>uztvhd</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uztvhd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Кинозал HEVC HD</caption>
-			<channel_id>uzkinozal</channel_id>
-			<epg_id>uzkinozal</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzkinozal.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Кино Новинки HD</caption>
-			<channel_id>uzkinon</channel_id>
-			<epg_id>uzkinon</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzkinon.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Бойцовское кино HD</caption>
-			<channel_id>uzbkino</channel_id>
-			<epg_id>uzbkino</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzbkino.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Ужасное HD</caption>
-			<channel_id>uzujas</channel_id>
-			<epg_id>uzujas</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzujas.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Кинокомфорт HD</caption>
-			<channel_id>uzkinok</channel_id>
-			<epg_id>uzkinok</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzkinok.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Боевики HD</caption>
-			<channel_id>uzboevik</channel_id>
-			<epg_id>uzboevik</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzboevik.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Фантастика HD</caption>
-			<channel_id>uzfant</channel_id>
-			<epg_id>uzfant</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzfant.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Приключения HD</caption>
-			<channel_id>uzprikl</channel_id>
-			<epg_id>uzprikl</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzprikl.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Комедия HD</caption>
-			<channel_id>uzkomedy</channel_id>
-			<epg_id>uzkomedy</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzkomedy.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Витек ТВ</caption>
-			<channel_id>uzvitek</channel_id>
-			<epg_id>uzvitek</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzvitek.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Кино 1 HD</caption>
-			<channel_id>uzkino1</channel_id>
-			<epg_id>uzkino1</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzkino1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Кино 2 HD</caption>
-			<channel_id>uzkino2</channel_id>
-			<epg_id>uzkino2</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzkino2.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Кино 3 HD</caption>
-			<channel_id>uzkino3</channel_id>
-			<epg_id>uzkino3</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzkino3.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Кино 4 HD</caption>
-			<channel_id>uzkino4</channel_id>
-			<epg_id>uzkino4</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/uzkino4.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>BCU Кинозал PREMIERE 1 HD</caption>
 			<channel_id>bcu_kinop1</channel_id>
 			<epg_id>bcu_kinop1</epg_id>
@@ -2785,7 +2588,7 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Crime HDR</caption>
+			<caption>SKY HIGH Crime VHS 4K HDR</caption>
 			<channel_id>sh_crime</channel_id>
 			<epg_id>SKYHIGHCRIMEHDR</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/3/sh_crime.png</icon_url>
@@ -2810,13 +2613,6 @@
 			<channel_id>sh_comedy</channel_id>
 			<epg_id>SKYHIGHCOMEDYHDR</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/3/sh_comedy.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH Adult HD</caption>
-			<channel_id>sh_adult</channel_id>
-			<epg_id>SKYHIGHADULTHD</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/sh_adult.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2909,55 +2705,6 @@
 			<channel_id>mag_prem</channel_id>
 			<epg_id>mag_prem</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/3/mag_crist.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Fantastic</caption>
-			<channel_id>uz_fant</channel_id>
-			<epg_id>UZ Fantastic</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/3/uz_fant.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Катастрофа</caption>
-			<channel_id>uz_kata</channel_id>
-			<epg_id>us_kata</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/3/uz_kata.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Ru Serial HD</caption>
-			<channel_id>uz_serial</channel_id>
-			<epg_id>uz_serial</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/3/uz_serial.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Кино 60 fps</caption>
-			<channel_id>uz_f60</channel_id>
-			<epg_id>uz_f60</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/3/uz_f60.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Alensat HD</caption>
-			<channel_id>uz_alensat</channel_id>
-			<epg_id>uz_alensat</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/3/uz_alensat.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ FilmsHD</caption>
-			<channel_id>uz_films</channel_id>
-			<epg_id>uz_films</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/3/uz_films.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UZ Turk Serial</caption>
-			<channel_id>uz_turk</channel_id>
-			<epg_id>uz_turk</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/3/uz_turk.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3536,7 +3283,7 @@
 			<epg_id>bridge_fresh</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/8/bridge_fresh.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-			<archive>2</archive>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Карусель</caption>
@@ -3798,13 +3545,6 @@
 			<icon_url>https://img.caribo.net/picons/ru/360-podmoskovie.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Just TV</caption>
-			<channel_id>jutstv</channel_id>
-			<epg_id>7d7</epg_id>
-			<icon_url>https://img.caribo.net/picons/upl/10/jutstv.png</icon_url>
-			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>MÖDO Video Show</caption>

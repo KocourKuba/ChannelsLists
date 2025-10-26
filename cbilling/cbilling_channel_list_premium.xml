@@ -51,25 +51,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Video On Demand</caption>
+			<caption>Медиатека</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -412,6 +412,7 @@
 			<caption>Перец</caption>
 			<channel_id>perec</channel_id>
 			<epg_id>perec</epg_id>
+			<tvg_id>perec</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/perec.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -420,6 +421,7 @@
 			<caption>Звезда Плюс HD</caption>
 			<channel_id>zvezda-plus-hd-orig</channel_id>
 			<epg_id>zvezda-plus-hd-orig</epg_id>
+			<tvg_id>zvezda-plus-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/zvezda-plus-hd-orig.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -428,6 +430,7 @@
 			<caption>Мы HD</caption>
 			<channel_id>my-hd</channel_id>
 			<epg_id>my-hd</epg_id>
+			<tvg_id>my-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/my-hd.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -436,6 +439,7 @@
 			<caption>Дождь HD</caption>
 			<channel_id>dozhd-hd-orig</channel_id>
 			<epg_id>dozhd-hd-orig</epg_id>
+			<tvg_id>dozhd-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/dozhd-hd-orig.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -559,6 +563,7 @@
 			<caption>EuroNews HD</caption>
 			<channel_id>evronews-hd</channel_id>
 			<epg_id>evronews-hd</epg_id>
+			<tvg_id>evronews-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/evronews-hd.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -566,6 +571,7 @@
 			<caption>ABC News HD</caption>
 			<channel_id>abc-us-hd</channel_id>
 			<epg_id>abc-us-hd</epg_id>
+			<tvg_id>abc-us-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/abc-us-hd.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -573,6 +579,7 @@
 			<caption>NBC HD</caption>
 			<channel_id>nbc-us-hd</channel_id>
 			<epg_id>nbc-us-hd</epg_id>
+			<tvg_id>nbc-us-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/nbc-us-hd.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -580,6 +587,7 @@
 			<caption>CNBC HD</caption>
 			<channel_id>cnbc-us-hd</channel_id>
 			<epg_id>cnbc-us-hd</epg_id>
+			<tvg_id>cnbc-us-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/cnbc-us-hd.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -587,6 +595,7 @@
 			<caption>MSNBC HD</caption>
 			<channel_id>msnbc-us-hd</channel_id>
 			<epg_id>msnbc-us-hd</epg_id>
+			<tvg_id>msnbc-us-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/msnbc-us-hd.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -594,6 +603,7 @@
 			<caption>France 24 HD</caption>
 			<channel_id>france-24-hd</channel_id>
 			<epg_id>france-24-hd</epg_id>
+			<tvg_id>france-24-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/france-24-hd.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
@@ -1375,6 +1385,7 @@
 			<caption>4ever Drama HD</caption>
 			<channel_id>4ever-drama-hd</channel_id>
 			<epg_id>4ever-drama-hd</epg_id>
+			<tvg_id>4ever-drama-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/4ever-drama-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1383,6 +1394,7 @@
 			<caption>4ever Theater HD</caption>
 			<channel_id>4ever-theater-hd</channel_id>
 			<epg_id>4ever-theater-hd</epg_id>
+			<tvg_id>4ever-theater-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/4ever-theater-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1391,6 +1403,7 @@
 			<caption>Победа HD</caption>
 			<channel_id>pobeda-hd-orig</channel_id>
 			<epg_id>pobeda-hd-orig</epg_id>
+			<tvg_id>pobeda-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/pobeda-hd-orig.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1399,6 +1412,7 @@
 			<caption>Боевики HD</caption>
 			<channel_id>boeviki-hd-orig</channel_id>
 			<epg_id>boeviki-hd-orig</epg_id>
+			<tvg_id>boeviki-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/boeviki-hd-orig.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1407,6 +1421,7 @@
 			<caption>Viasat Kino Action HD</caption>
 			<channel_id>viasat-kino-action-hd</channel_id>
 			<epg_id>viasat-kino-action-hd</epg_id>
+			<tvg_id>viasat-kino-action-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/viasat-kino-action-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1415,6 +1430,7 @@
 			<caption>Viasat Kino Megahit HD</caption>
 			<channel_id>viasat-kino-megahit-hd</channel_id>
 			<epg_id>viasat-kino-megahit-hd</epg_id>
+			<tvg_id>viasat-kino-megahit-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/viasat-kino-megahit-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1423,6 +1439,7 @@
 			<caption>Viasat Kino Comedy HD</caption>
 			<channel_id>viasat-kino-comedy-hd</channel_id>
 			<epg_id>viasat-kino-comedy-hd</epg_id>
+			<tvg_id>viasat-kino-comedy-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/viasat-kino-comedy-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1431,6 +1448,7 @@
 			<caption>Viasat Kino HD</caption>
 			<channel_id>viasat-kino-hd</channel_id>
 			<epg_id>viasat-kino-hd</epg_id>
+			<tvg_id>viasat-kino-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/viasat-kino-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1439,6 +1457,7 @@
 			<caption>Viasat Serial HD</caption>
 			<channel_id>viasat-serial-hd</channel_id>
 			<epg_id>viasat-serial-hd</epg_id>
+			<tvg_id>viasat-serial-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/viasat-serial-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1447,6 +1466,7 @@
 			<caption>КиноКульт HD</caption>
 			<channel_id>kinokult-hd</channel_id>
 			<epg_id>kinokult-hd</epg_id>
+			<tvg_id>kinokult-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/kinokult-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1455,6 +1475,7 @@
 			<caption>Еврокино HD</caption>
 			<channel_id>evrokino-hd</channel_id>
 			<epg_id>evrokino-hd</epg_id>
+			<tvg_id>evrokino-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/evrokino-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1463,6 +1484,7 @@
 			<caption>VHS-ка HD</caption>
 			<channel_id>vhska-hd-orig</channel_id>
 			<epg_id>vhska-hd-orig</epg_id>
+			<tvg_id>vhska-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/vhska-hd-orig.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1471,6 +1493,7 @@
 			<caption>VHS Сериал HD</caption>
 			<channel_id>vhs-serial-hd</channel_id>
 			<epg_id>vhs-serial-hd</epg_id>
+			<tvg_id>vhs-serial-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/vhs-serial-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1479,6 +1502,7 @@
 			<caption>Ужасы HD</caption>
 			<channel_id>uzhasy-hd</channel_id>
 			<epg_id>uzhasy-hd</epg_id>
+			<tvg_id>uzhasy-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/uzhasy-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1487,6 +1511,7 @@
 			<caption>ТВ21</caption>
 			<channel_id>tv-xxi</channel_id>
 			<epg_id>tv-xxi</epg_id>
+			<tvg_id>tv-xxi</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/tv-xxi.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1495,6 +1520,7 @@
 			<caption>Советская Киноклассика HD</caption>
 			<channel_id>sovetskaya-kinoclassica-hd-orig</channel_id>
 			<epg_id>sovetskaya-kinoclassica-hd-orig</epg_id>
+			<tvg_id>sovetskaya-kinoclassica-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/sovetskaya-kinoclassica-hd-orig.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1503,6 +1529,7 @@
 			<caption>Патриот</caption>
 			<channel_id>patriot</channel_id>
 			<epg_id>patriot</epg_id>
+			<tvg_id>patriot</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/patriot.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1511,6 +1538,7 @@
 			<caption>День Победы HD</caption>
 			<channel_id>den-pobedy-hd-orig</channel_id>
 			<epg_id>den-pobedy-hd-orig</epg_id>
+			<tvg_id>den-pobedy-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/den-pobedy-hd-orig.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1519,6 +1547,7 @@
 			<caption>Дом Кино Премиум HD</caption>
 			<channel_id>dom-kino-premium-hd-orig</channel_id>
 			<epg_id>dom-kino-premium-hd-orig</epg_id>
+			<tvg_id>dom-kino-premium-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/dom-kino-premium-hd-orig.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1527,6 +1556,7 @@
 			<caption>Криминальное HD</caption>
 			<channel_id>kriminalnoe-hd-orig</channel_id>
 			<epg_id>kriminalnoe-hd-orig</epg_id>
+			<tvg_id>kriminalnoe-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/kriminalnoe-hd-orig.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1535,6 +1565,7 @@
 			<caption>НТВ Хит HD</caption>
 			<channel_id>ntv-hit-hd-orig</channel_id>
 			<epg_id>ntv-hit-hd-orig</epg_id>
+			<tvg_id>ntv-hit-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/ntv-hit-hd-orig.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1543,6 +1574,7 @@
 			<caption>Timeless Dizi Channel HD</caption>
 			<channel_id>timeless-dizi-channel-hd</channel_id>
 			<epg_id>timeless-dizi-channel-hd</epg_id>
+			<tvg_id>timeless-dizi-channel-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/timeless-dizi-channel-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1551,15 +1583,8 @@
 			<caption>Легенда HD</caption>
 			<channel_id>legenda-hd</channel_id>
 			<epg_id>legenda-hd</epg_id>
+			<tvg_id>legenda-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/legenda-hd.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>КиноСезон HD</caption>
-			<channel_id>kinosezon-hd</channel_id>
-			<epg_id>kinosezon-hd</epg_id>
-			<icon_url>http://static.g-cdn.app/streams/kinosezon-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1567,15 +1592,8 @@
 			<caption>AMC</caption>
 			<channel_id>amc</channel_id>
 			<epg_id>amc</epg_id>
+			<tvg_id>amc</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/amc.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Исторический</caption>
-			<channel_id>istorytchesky-hd</channel_id>
-			<epg_id>istorytchesky-hd</epg_id>
-			<icon_url>http://static.g-cdn.app/streams/istorytchesky-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1583,6 +1601,7 @@
 			<caption>Наше наследие HD</caption>
 			<channel_id>nashe-nasledie-hd</channel_id>
 			<epg_id>nashe-nasledie-hd</epg_id>
+			<tvg_id>nashe-nasledie-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/nashe-nasledie-hd.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1591,6 +1610,7 @@
 			<caption>ОККО Герои HD</caption>
 			<channel_id>okko-geroi-hd-orig</channel_id>
 			<epg_id>okko-geroi-hd-orig</epg_id>
+			<tvg_id>okko-geroi-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/okko-geroi-hd-orig.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1599,6 +1619,7 @@
 			<caption>ОККО TV HD</caption>
 			<channel_id>okko-tv-hd-orig</channel_id>
 			<epg_id>okko-tv-hd-orig</epg_id>
+			<tvg_id>okko-tv-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/okko-tv-hd-orig.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1607,6 +1628,7 @@
 			<caption>О!Кино</caption>
 			<channel_id>okino</channel_id>
 			<epg_id>okino</epg_id>
+			<tvg_id>okino</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/okino.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1921,6 +1943,7 @@
 			<caption>NHL Network HD</caption>
 			<channel_id>nhl-network-hd-us</channel_id>
 			<epg_id>nhl-network-hd-us</epg_id>
+			<tvg_id>nhl-network-hd-us</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/nhl-network-hd-us.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -1929,6 +1952,7 @@
 			<caption>Setanta Sports Baltic 1 HD</caption>
 			<channel_id>setanta-sports-baltic-hd</channel_id>
 			<epg_id>setanta-sports-baltic-hd</epg_id>
+			<tvg_id>setanta-sports-baltic-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/setanta-sports-baltic-hd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -1937,6 +1961,7 @@
 			<caption>Setanta Sports Baltic 2 HD</caption>
 			<channel_id>setanta-sports2-baltic-hd</channel_id>
 			<epg_id>setanta-sports2-baltic-hd</epg_id>
+			<tvg_id>setanta-sports2-baltic-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/setanta-sports2-baltic-hd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -1945,6 +1970,7 @@
 			<caption>Драйв HD</caption>
 			<channel_id>drive-hd</channel_id>
 			<epg_id>drive-hd</epg_id>
+			<tvg_id>drive-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/drive-hd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -1953,6 +1979,7 @@
 			<caption>KHL HD</caption>
 			<channel_id>khl-tv-hd</channel_id>
 			<epg_id>khl-tv-hd</epg_id>
+			<tvg_id>khl-tv-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/khl-tv-hd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -1961,6 +1988,7 @@
 			<caption>NBA TV HD</caption>
 			<channel_id>nba-us-hd</channel_id>
 			<epg_id>nba-us-hd</epg_id>
+			<tvg_id>nba-us-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/nba-us-hd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -1969,6 +1997,7 @@
 			<caption>Setanta Sports 1 HD</caption>
 			<channel_id>setanta-sport-hd</channel_id>
 			<epg_id>setanta-sport-hd</epg_id>
+			<tvg_id>setanta-sport-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/setanta-eurasia.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -1977,6 +2006,7 @@
 			<caption>Setanta Sports 2 HD</caption>
 			<channel_id>setanta-sport-plus-hd</channel_id>
 			<epg_id>setanta-sport-plus-hd</epg_id>
+			<tvg_id>setanta-sport-plus-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/setanta-eurasia-plus.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -1985,6 +2015,7 @@
 			<caption>Setanta Sport Premium HD</caption>
 			<channel_id>setanta-sport-premium-ua-hd</channel_id>
 			<epg_id>setanta-sport-premium-ua-hd</epg_id>
+			<tvg_id>setanta-sport-premium-ua-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/setanta-sport-premium-ua-hd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -1993,6 +2024,7 @@
 			<caption>ОККО Спорт HD</caption>
 			<channel_id>okko-sport-hd</channel_id>
 			<epg_id>okko-sport-hd</epg_id>
+			<tvg_id>okko-sport-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/okko-sport-hd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2001,6 +2033,7 @@
 			<caption>ОККО Прайм Cпорт HD</caption>
 			<channel_id>okko-sport2-hd</channel_id>
 			<epg_id>okko-sport2-hd</epg_id>
+			<tvg_id>okko-sport2-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/okko-sport2-hd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2009,6 +2042,7 @@
 			<caption>ОККО Футбол HD</caption>
 			<channel_id>okko-futbol-hd</channel_id>
 			<epg_id>okko-futbol-hd</epg_id>
+			<tvg_id>okko-futbol-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/okko-futbol-hd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2017,6 +2051,7 @@
 			<caption>MEGOGO Спорт HD</caption>
 			<channel_id>megogo-sport-ua-hd</channel_id>
 			<epg_id>megogo-sport-ua-hd</epg_id>
+			<tvg_id>megogo-sport-ua-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/megogo-sport-ua-hd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -2259,6 +2294,7 @@
 			<caption>Nick Toons HD</caption>
 			<channel_id>nicktoons-hd</channel_id>
 			<epg_id>nicktoons-hd</epg_id>
+			<tvg_id>nicktoons-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/nicktoons-hd.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
@@ -2267,6 +2303,7 @@
 			<caption>Cartoon Classics</caption>
 			<channel_id>cartoon-classics</channel_id>
 			<epg_id>cartoon-classics</epg_id>
+			<tvg_id>cartoon-classics</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/cartoon-classics.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
@@ -2887,6 +2924,7 @@
 			<caption>History 2 HD</caption>
 			<channel_id>h2-hd</channel_id>
 			<epg_id>h2-hd</epg_id>
+			<tvg_id>h2-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/h2-hd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
@@ -2895,6 +2933,7 @@
 			<caption>Усадьба HD</caption>
 			<channel_id>usadba-hd</channel_id>
 			<epg_id>usadba-hd</epg_id>
+			<tvg_id>usadba-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/usadba-hd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
@@ -2903,6 +2942,7 @@
 			<caption>History HD</caption>
 			<channel_id>history-hd-orig</channel_id>
 			<epg_id>history-hd-orig</epg_id>
+			<tvg_id>history-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/history-hd-orig.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
@@ -2911,6 +2951,7 @@
 			<caption>Epic HD</caption>
 			<channel_id>epic-hd</channel_id>
 			<epg_id>epic-hd</epg_id>
+			<tvg_id>epic-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/epic-hd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
@@ -2919,6 +2960,7 @@
 			<caption>НаучПоп HD</caption>
 			<channel_id>nautchpop-hd-orig</channel_id>
 			<epg_id>nautchpop-hd-orig</epg_id>
+			<tvg_id>nautchpop-hd-orig</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/nautchpop-hd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
@@ -2927,6 +2969,7 @@
 			<caption>Nano HD</caption>
 			<channel_id>nano-hd</channel_id>
 			<epg_id>nano-hd</epg_id>
+			<tvg_id>nano-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/nano-hd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
@@ -2935,6 +2978,7 @@
 			<caption>Загородный int HD</caption>
 			<channel_id>zagorodnyy-int-hd</channel_id>
 			<epg_id>zagorodnyy-int-hd</epg_id>
+			<tvg_id>zagorodnyy-int-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/zagorodnyy-int-hd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
@@ -2943,6 +2987,7 @@
 			<caption>Машина Времени HD</caption>
 			<channel_id>mashina-vremeny-hd</channel_id>
 			<epg_id>mashina-vremeny-hd</epg_id>
+			<tvg_id>mashina-vremeny-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/mashina-vremeny-hd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
@@ -3028,27 +3073,11 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Bridge TV</caption>
-			<channel_id>bridge-tv</channel_id>
-			<epg_id>bridge-tv</epg_id>
-			<tvg_id>bridge-tv</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/bridge-tv.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Bridge TV Deluxe HD</caption>
+			<caption>Bridge TV HD</caption>
 			<channel_id>bridge-tv-hd</channel_id>
 			<epg_id>bridge-tv-hd</epg_id>
 			<tvg_id>bridge-tv-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/bridge-tv-hd.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Bridge TV Русский Хит</caption>
-			<channel_id>rusong-tv</channel_id>
-			<epg_id>rusong-tv</epg_id>
-			<tvg_id>rusong-tv</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/rusong-tv.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3240,6 +3269,7 @@
 			<caption>One BY HD</caption>
 			<channel_id>one-by-hd</channel_id>
 			<epg_id>one-by-hd</epg_id>
+			<tvg_id>one-by-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/one-by-hd.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -3247,6 +3277,7 @@
 			<caption>One by Russia HD</caption>
 			<channel_id>one-by-russia-hd</channel_id>
 			<epg_id>one-by-russia-hd</epg_id>
+			<tvg_id>one-by-russia-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/one-by-russia-hd.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -3254,6 +3285,7 @@
 			<caption>Муз-ТВ HD</caption>
 			<channel_id>muz-tv-hd</channel_id>
 			<epg_id>muz-tv-hd</epg_id>
+			<tvg_id>muz-tv-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/muz-tv-hd.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -3261,14 +3293,8 @@
 			<caption>ТНТ Music HD</caption>
 			<channel_id>tnt-music-hd</channel_id>
 			<epg_id>tnt-music-hd</epg_id>
+			<tvg_id>tnt-music-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/tnt-music-hd.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Jazz HD</caption>
-			<channel_id>jazz-hd</channel_id>
-			<epg_id>jazz-hd</epg_id>
-			<icon_url>http://static.g-cdn.app/streams/jazz-hd.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3277,15 +3303,6 @@
 			<epg_id>extasy-4k</epg_id>
 			<tvg_id>extasy-4k</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/extasy-4k.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eromania 4k</caption>
-			<channel_id>eromania-4k-orig</channel_id>
-			<epg_id>eromania-4k-orig</epg_id>
-			<tvg_id>eromania-4k-orig</tvg_id>
-			<icon_url>http://static.g-cdn.app/streams/eromania-4k-orig.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -3420,6 +3437,7 @@
 			<caption>Extasy TV HD</caption>
 			<channel_id>extasy-tv-hd</channel_id>
 			<epg_id>extasy-tv-hd</epg_id>
+			<tvg_id>extasy-tv-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/extasy-tv-hd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>
@@ -3428,6 +3446,7 @@
 			<caption>Vixen TV HD</caption>
 			<channel_id>vixen-tv-hd</channel_id>
 			<epg_id>vixen-tv-hd</epg_id>
+			<tvg_id>vixen-tv-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/vixen-tv-hd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>
@@ -3436,6 +3455,7 @@
 			<caption>Evil Angel HD</caption>
 			<channel_id>evil-angel-hd</channel_id>
 			<epg_id>evil-angel-hd</epg_id>
+			<tvg_id>evil-angel-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/evil-angel-hd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>
@@ -3444,6 +3464,7 @@
 			<caption>Blue Hustler HD</caption>
 			<channel_id>blue-hustler-hd</channel_id>
 			<epg_id>blue-hustler-hd</epg_id>
+			<tvg_id>blue-hustler-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/blue-hustler-hd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>
@@ -3452,6 +3473,7 @@
 			<caption>Русская Ночь HD</caption>
 			<channel_id>ruskaja-noch-hd</channel_id>
 			<epg_id>ruskaja-noch-hd</epg_id>
+			<tvg_id>ruskaja-noch-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/ruskaja-noch-hd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>
@@ -3460,6 +3482,7 @@
 			<caption>Penthouse Passion HD</caption>
 			<channel_id>penthouse-passion-hd</channel_id>
 			<epg_id>penthouse-passion-hd</epg_id>
+			<tvg_id>penthouse-passion-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/penthouse-passion-hd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>
@@ -3468,6 +3491,7 @@
 			<caption>Erox HD</caption>
 			<channel_id>erox-hd</channel_id>
 			<epg_id>erox-hd</epg_id>
+			<tvg_id>erox-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/erox-hd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>
@@ -3476,6 +3500,7 @@
 			<caption>SuperOne HD</caption>
 			<channel_id>super-one-hd</channel_id>
 			<epg_id>super-one-hd</epg_id>
+			<tvg_id>super-one-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/super-one-hd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>
@@ -3484,6 +3509,7 @@
 			<caption>Playboy TV</caption>
 			<channel_id>playboy-tv</channel_id>
 			<epg_id>playboy-tv</epg_id>
+			<tvg_id>playboy-tv</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/playboy-tv.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>
@@ -3492,6 +3518,7 @@
 			<caption>Vivid Touch HD</caption>
 			<channel_id>vivid-touch-hd</channel_id>
 			<epg_id>vivid-touch-hd</epg_id>
+			<tvg_id>vivid-touch-hd</tvg_id>
 			<icon_url>http://static.g-cdn.app/streams/vivid-touch-hd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<protected>1</protected>

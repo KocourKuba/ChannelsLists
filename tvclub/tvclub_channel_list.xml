@@ -210,25 +210,20 @@
 			<icon_url>plugin_file://icons/categories/channel_unset.png</icon_url>
 		</tv_category>
 		<tv_category>
-			<id>42</id>
-			<caption>Азия</caption>
-			<icon_url>plugin_file://icons/categories/channel_unset.png</icon_url>
-		</tv_category>
-		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -267,54 +262,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>НТВ</caption>
-			<channel_id>5</channel_id>
-			<epg_id>5</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/5.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ HD</caption>
-			<channel_id>6</channel_id>
-			<epg_id>6</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/6.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Сериал</caption>
-			<channel_id>1350</channel_id>
-			<epg_id>1350</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1350.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Право</caption>
-			<channel_id>1351</channel_id>
-			<epg_id>1351</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1351.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Стиль</caption>
-			<channel_id>1352</channel_id>
-			<epg_id>1352</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1352.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Хит</caption>
-			<channel_id>1038</channel_id>
-			<epg_id>1038</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1038.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>СТС</caption>
 			<channel_id>7</channel_id>
 			<epg_id>7</epg_id>
@@ -327,22 +274,6 @@
 			<channel_id>1036</channel_id>
 			<epg_id>1036</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1036.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНТ</caption>
-			<channel_id>8</channel_id>
-			<epg_id>8</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/8.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНТ HD</caption>
-			<channel_id>498</channel_id>
-			<epg_id>498</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/498.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -387,22 +318,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТВ 3</caption>
-			<channel_id>14</channel_id>
-			<epg_id>14</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/14.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТВ3 HD</caption>
-			<channel_id>1754</channel_id>
-			<epg_id>1754</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1754.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>ОТР</caption>
 			<channel_id>15</channel_id>
 			<epg_id>15</epg_id>
@@ -415,14 +330,6 @@
 			<channel_id>16</channel_id>
 			<epg_id>16</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/16.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Звезда</caption>
-			<channel_id>17</channel_id>
-			<epg_id>17</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/17.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -465,14 +372,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Звезда Плюс HD</caption>
-			<channel_id>1744</channel_id>
-			<epg_id>1744</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1744.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Победа HD</caption>
 			<channel_id>1748</channel_id>
 			<epg_id>1748</epg_id>
@@ -494,54 +393,6 @@
 			<epg_id>18</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/18.png</icon_url>
 			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Сериал HD</caption>
-			<channel_id>1880</channel_id>
-			<epg_id>1880</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1880.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Стиль HD</caption>
-			<channel_id>1879</channel_id>
-			<epg_id>1879</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1879.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Хит HD</caption>
-			<channel_id>1881</channel_id>
-			<epg_id>1881</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1881.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТВЦ</caption>
-			<channel_id>10</channel_id>
-			<epg_id>10</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/10.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТВЦ HD</caption>
-			<channel_id>1830</channel_id>
-			<epg_id>1830</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1830.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТВ Мир</caption>
-			<channel_id>289</channel_id>
-			<epg_id>289</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/289.png</icon_url>
-			<tv_category_id>2</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
@@ -573,13 +424,6 @@
 			<channel_id>158</channel_id>
 			<epg_id>158</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/158.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>CNN</caption>
-			<channel_id>1291</channel_id>
-			<epg_id>1291</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1291.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -657,62 +501,6 @@
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Animal Planet</caption>
-			<channel_id>167</channel_id>
-			<epg_id>167</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/167.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Animal Planet HD</caption>
-			<channel_id>168</channel_id>
-			<epg_id>168</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/168.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Discovery</caption>
-			<channel_id>171</channel_id>
-			<epg_id>171</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/171.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Discovery HD</caption>
-			<channel_id>172</channel_id>
-			<epg_id>172</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/172.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ID Xtra</caption>
-			<channel_id>174</channel_id>
-			<epg_id>174</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/174.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>ID Xtra HD</caption>
-			<channel_id>361</channel_id>
-			<epg_id>361</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/361.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кто есть кто</caption>
-			<channel_id>40</channel_id>
-			<epg_id>40</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/40.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Russia Today Doc HD</caption>
 			<channel_id>175</channel_id>
 			<epg_id>175</epg_id>
@@ -734,13 +522,6 @@
 			<icon_url>http://api.iptv.so/logo/200_115_0/186.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Поехали</caption>
-			<channel_id>399</channel_id>
-			<epg_id>399</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/399.png</icon_url>
-			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Живая природа HD</caption>
@@ -796,30 +577,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju History</caption>
-			<channel_id>180</channel_id>
-			<epg_id>180</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/180.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>viju+ Planet HD</caption>
-			<channel_id>181</channel_id>
-			<epg_id>181</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/181.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>viju Explorer</caption>
-			<channel_id>182</channel_id>
-			<epg_id>182</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/182.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>24 Техно</caption>
 			<channel_id>183</channel_id>
 			<epg_id>183</epg_id>
@@ -840,13 +597,6 @@
 			<channel_id>187</channel_id>
 			<epg_id>187</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/187.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Нано ТВ HD</caption>
-			<channel_id>1425</channel_id>
-			<epg_id>1425</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1425.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1004,25 +754,10 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Da Vinci Learning</caption>
-			<channel_id>202</channel_id>
-			<epg_id>202</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/202.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Совершенно секретно</caption>
 			<channel_id>204</channel_id>
 			<epg_id>204</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/204.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Время</caption>
-			<channel_id>206</channel_id>
-			<epg_id>206</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/206.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -1084,13 +819,6 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju Explore HD</caption>
-			<channel_id>1307</channel_id>
-			<epg_id>1307</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1307.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Доктор HD</caption>
 			<channel_id>1827</channel_id>
 			<epg_id>1827</epg_id>
@@ -1119,29 +847,6 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Живи Активно HD</caption>
-			<channel_id>1977</channel_id>
-			<epg_id>1977</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1977.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Пятница!</caption>
-			<channel_id>51</channel_id>
-			<epg_id>51</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/51.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Пятница! HD</caption>
-			<channel_id>1478</channel_id>
-			<epg_id>1478</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1478.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Перец</caption>
 			<channel_id>1300</channel_id>
 			<epg_id>1300</epg_id>
@@ -1150,58 +855,10 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТНТ4</caption>
-			<channel_id>52</channel_id>
-			<epg_id>52</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/52.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>КВН</caption>
-			<channel_id>443</channel_id>
-			<epg_id>443</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/443.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>TLC</caption>
-			<channel_id>53</channel_id>
-			<epg_id>53</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/53.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>TLC HD</caption>
-			<channel_id>54</channel_id>
-			<epg_id>54</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/54.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Авто Плюс</caption>
-			<channel_id>55</channel_id>
-			<epg_id>55</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/55.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Авто 24</caption>
 			<channel_id>56</channel_id>
 			<epg_id>56</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/56.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>365 дней</caption>
-			<channel_id>57</channel_id>
-			<epg_id>57</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/57.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -1244,14 +901,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кухня ТВ</caption>
-			<channel_id>63</channel_id>
-			<epg_id>63</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/63.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Еда</caption>
 			<channel_id>64</channel_id>
 			<epg_id>64</epg_id>
@@ -1264,21 +913,6 @@
 			<channel_id>65</channel_id>
 			<epg_id>65</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/65.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Первый вегетарианский</caption>
-			<channel_id>1048</channel_id>
-			<epg_id>1048</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1048.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Телекафе</caption>
-			<channel_id>67</channel_id>
-			<epg_id>67</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/67.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -1296,20 +930,6 @@
 			<icon_url>http://api.iptv.so/logo/200_115_0/69.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>viju Nature</caption>
-			<channel_id>70</channel_id>
-			<epg_id>70</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/70.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Бобер</caption>
-			<channel_id>71</channel_id>
-			<epg_id>71</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/71.png</icon_url>
-			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Океан ТВ HD</caption>
@@ -1334,33 +954,10 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Ностальгия</caption>
-			<channel_id>76</channel_id>
-			<epg_id>76</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/76.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Мужской</caption>
 			<channel_id>77</channel_id>
 			<epg_id>77</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/77.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>HD Life</caption>
-			<channel_id>80</channel_id>
-			<epg_id>80</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/80.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fashion TV HD</caption>
-			<channel_id>1202</channel_id>
-			<epg_id>1202</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1202.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1382,13 +979,6 @@
 			<channel_id>1458</channel_id>
 			<epg_id>1458</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1458.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Insight TV HD</caption>
-			<channel_id>1730</channel_id>
-			<epg_id>1730</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1730.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1489,28 +1079,12 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Cartoon Network</caption>
-			<channel_id>211</channel_id>
-			<epg_id>211</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/211.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Baby TV</caption>
 			<channel_id>1315</channel_id>
 			<epg_id>1315</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1315.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>15</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cartoonito</caption>
-			<channel_id>1314</channel_id>
-			<epg_id>1314</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1314.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Солнце</caption>
@@ -1534,37 +1108,6 @@
 			<epg_id>1292</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1292.png</icon_url>
 			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>2x2</caption>
-			<channel_id>214</channel_id>
-			<epg_id>214</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/214.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Gulli Girl</caption>
-			<channel_id>215</channel_id>
-			<epg_id>215</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/215.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Детский мир</caption>
-			<channel_id>555</channel_id>
-			<epg_id>555</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/555.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TiJi</caption>
-			<channel_id>216</channel_id>
-			<epg_id>216</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/216.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ani</caption>
@@ -1595,13 +1138,6 @@
 			<channel_id>1367</channel_id>
 			<epg_id>1367</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1367.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Малыш</caption>
-			<channel_id>441</channel_id>
-			<epg_id>441</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/441.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1681,13 +1217,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Nick Toons</caption>
-			<channel_id>1749</channel_id>
-			<epg_id>1749</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1749.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>ТипТоп HD</caption>
 			<channel_id>1750</channel_id>
 			<epg_id>1750</epg_id>
@@ -1734,13 +1263,6 @@
 			<channel_id>1885</channel_id>
 			<epg_id>1885</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1885.png</icon_url>
-			<tv_category_id>5</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Детский мир HD</caption>
-			<channel_id>1967</channel_id>
-			<epg_id>1967</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1967.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1831,118 +1353,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Киноужас HD</caption>
-			<channel_id>499</channel_id>
-			<epg_id>499</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/499.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Киносвидание</caption>
-			<channel_id>107</channel_id>
-			<epg_id>107</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/107.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Родное кино</caption>
-			<channel_id>108</channel_id>
-			<epg_id>108</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/108.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наше новое кино</caption>
-			<channel_id>109</channel_id>
-			<epg_id>109</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/109.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Киносемья</caption>
-			<channel_id>110</channel_id>
-			<epg_id>110</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/110.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Киномикс</caption>
-			<channel_id>152</channel_id>
-			<epg_id>152</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/152.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинопремьера HD</caption>
-			<channel_id>154</channel_id>
-			<epg_id>154</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/154.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинокомедия</caption>
-			<channel_id>112</channel_id>
-			<epg_id>112</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/112.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Киносерия</caption>
-			<channel_id>150</channel_id>
-			<epg_id>150</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/150.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинохит</caption>
-			<channel_id>115</channel_id>
-			<epg_id>115</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/115.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мужское Кино</caption>
-			<channel_id>151</channel_id>
-			<epg_id>151</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/151.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мужское кино HD</caption>
-			<channel_id>1286</channel_id>
-			<epg_id>1286</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1286.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Дом кино</caption>
-			<channel_id>116</channel_id>
-			<epg_id>116</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/116.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Дом кино премиум HD</caption>
-			<channel_id>257</channel_id>
-			<epg_id>257</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/257.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Точка-ТВ</caption>
 			<channel_id>390</channel_id>
 			<epg_id>390</epg_id>
@@ -1958,22 +1368,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Индия</caption>
-			<channel_id>118</channel_id>
-			<epg_id>118</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/118.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Индийское кино</caption>
-			<channel_id>119</channel_id>
-			<epg_id>119</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/119.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Bollywood HD</caption>
 			<channel_id>256</channel_id>
 			<epg_id>256</epg_id>
@@ -1985,30 +1379,6 @@
 			<channel_id>1201</channel_id>
 			<epg_id>1201</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1201.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sony Turbo (.Black)</caption>
-			<channel_id>120</channel_id>
-			<epg_id>120</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/120.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SET (.Red)</caption>
-			<channel_id>121</channel_id>
-			<epg_id>121</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/121.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SET HD (.Red)</caption>
-			<channel_id>264</channel_id>
-			<epg_id>264</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/264.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -2041,14 +1411,6 @@
 			<channel_id>127</channel_id>
 			<epg_id>127</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/127.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sony Sci-Fi</caption>
-			<channel_id>129</channel_id>
-			<epg_id>129</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/129.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -2124,14 +1486,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Мосфильм. Золотая коллекция</caption>
-			<channel_id>546</channel_id>
-			<epg_id>546</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/546.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Ретро</caption>
 			<channel_id>122</channel_id>
 			<epg_id>122</epg_id>
@@ -2170,13 +1524,6 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Феникс кино</caption>
-			<channel_id>479</channel_id>
-			<epg_id>479</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/479.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Кино ТВ HD</caption>
 			<channel_id>368</channel_id>
 			<epg_id>368</epg_id>
@@ -2199,61 +1546,6 @@
 			<icon_url>http://api.iptv.so/logo/200_115_0/258.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>viju TV1000</caption>
-			<channel_id>138</channel_id>
-			<epg_id>138</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/138.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>viju TV1000 Русское кино</caption>
-			<channel_id>139</channel_id>
-			<epg_id>139</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/139.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>viju TV1000 Action</caption>
-			<channel_id>140</channel_id>
-			<epg_id>140</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/140.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>viju+ Comedy HD</caption>
-			<channel_id>141</channel_id>
-			<epg_id>141</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/141.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>viju+ Megahit HD</caption>
-			<channel_id>142</channel_id>
-			<epg_id>142</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/142.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>viju+ Premiere HD</caption>
-			<channel_id>143</channel_id>
-			<epg_id>143</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/143.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>viju+ Serial HD</caption>
-			<channel_id>1031</channel_id>
-			<epg_id>1031</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1031.png</icon_url>
-			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>A1</caption>
@@ -2305,14 +1597,6 @@
 			<channel_id>148</channel_id>
 			<epg_id>148</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/148.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Блокбастер HD</caption>
-			<channel_id>1709</channel_id>
-			<epg_id>1709</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1709.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -2375,14 +1659,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Мосфильм Золотая коллекция HD</caption>
-			<channel_id>1729</channel_id>
-			<epg_id>1729</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1729.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Хит HD</caption>
 			<channel_id>1723</channel_id>
 			<epg_id>1723</epg_id>
@@ -2440,13 +1716,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Наше новое кино HD</caption>
-			<channel_id>1045</channel_id>
-			<epg_id>1045</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1045.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Киносемья HD</caption>
 			<channel_id>1819</channel_id>
 			<epg_id>1819</epg_id>
@@ -2459,14 +1728,6 @@
 			<channel_id>1817</channel_id>
 			<epg_id>1817</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1817.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинокомедия HD</caption>
-			<channel_id>1044</channel_id>
-			<epg_id>1044</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1044.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -2648,94 +1909,6 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>МАТЧ ТВ</caption>
-			<channel_id>19</channel_id>
-			<epg_id>19</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/19.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч ТВ HD</caption>
-			<channel_id>20</channel_id>
-			<epg_id>20</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/20.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч Игра</caption>
-			<channel_id>21</channel_id>
-			<epg_id>21</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/21.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч Игра HD</caption>
-			<channel_id>24</channel_id>
-			<epg_id>24</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/24.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч Арена</caption>
-			<channel_id>22</channel_id>
-			<epg_id>22</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/22.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч Арена HD</caption>
-			<channel_id>23</channel_id>
-			<epg_id>23</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/23.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч Страна</caption>
-			<channel_id>41</channel_id>
-			<epg_id>41</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/41.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eurosport 1</caption>
-			<channel_id>25</channel_id>
-			<epg_id>25</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/25.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eurosport 1 HD</caption>
-			<channel_id>26</channel_id>
-			<epg_id>26</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/26.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eurosport 2</caption>
-			<channel_id>27</channel_id>
-			<epg_id>27</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/27.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eurosport 2 HD</caption>
-			<channel_id>28</channel_id>
-			<epg_id>28</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/28.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Футбол</caption>
 			<channel_id>29</channel_id>
 			<epg_id>29</epg_id>
@@ -2750,123 +1923,12 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Матч Премьер</caption>
-			<channel_id>31</channel_id>
-			<epg_id>31</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/31.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч Премьер HD</caption>
-			<channel_id>32</channel_id>
-			<epg_id>32</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/32.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч Футбол 1</caption>
-			<channel_id>34</channel_id>
-			<epg_id>34</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/34.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч Футбол 1 HD</caption>
-			<channel_id>35</channel_id>
-			<epg_id>35</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/35.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч Футбол 2</caption>
-			<channel_id>36</channel_id>
-			<epg_id>36</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/36.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч Футбол 2 HD</caption>
-			<channel_id>37</channel_id>
-			<epg_id>37</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/37.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч Футбол 3</caption>
-			<channel_id>38</channel_id>
-			<epg_id>38</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/38.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч Футбол 3 HD</caption>
-			<channel_id>39</channel_id>
-			<epg_id>39</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/39.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Setanta  Sport Eurasia HD</caption>
 			<channel_id>377</channel_id>
 			<epg_id>377</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/377.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>КХЛ ТВ</caption>
-			<channel_id>42</channel_id>
-			<epg_id>42</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/42.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>КХЛ ТВ HD</caption>
-			<channel_id>43</channel_id>
-			<epg_id>43</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/43.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч Боец</caption>
-			<channel_id>44</channel_id>
-			<epg_id>44</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/44.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Бокс ТВ</caption>
-			<channel_id>284</channel_id>
-			<epg_id>284</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/284.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>M-1 Global TV</caption>
-			<channel_id>1309</channel_id>
-			<epg_id>1309</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1309.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>UDAR HD</caption>
-			<channel_id>1039</channel_id>
-			<epg_id>1039</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1039.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>16</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Русский экстрим HD</caption>
@@ -2880,20 +1942,6 @@
 			<channel_id>46</channel_id>
 			<epg_id>46</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/46.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>viju+ Sport</caption>
-			<channel_id>47</channel_id>
-			<epg_id>47</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/47.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>viju+ Sport HD</caption>
-			<channel_id>1288</channel_id>
-			<epg_id>1288</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1288.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2918,25 +1966,10 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Живи</caption>
-			<channel_id>49</channel_id>
-			<epg_id>49</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/49.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Моя стихия</caption>
 			<channel_id>50</channel_id>
 			<epg_id>50</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/50.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>M-1 Global HD</caption>
-			<channel_id>1718</channel_id>
-			<epg_id>1718</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1718.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3047,13 +2080,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>МАТЧ! Страна HD</caption>
-			<channel_id>1975</channel_id>
-			<epg_id>1975</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1975.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>1HD</caption>
 			<channel_id>83</channel_id>
 			<epg_id>83</epg_id>
@@ -3147,13 +2173,6 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТНТ Music</caption>
-			<channel_id>97</channel_id>
-			<epg_id>97</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/97.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Music Box Ru</caption>
 			<channel_id>99</channel_id>
 			<epg_id>99</epg_id>
@@ -3173,58 +2192,6 @@
 			<channel_id>84</channel_id>
 			<epg_id>84</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/84.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Музыка первого</caption>
-			<channel_id>100</channel_id>
-			<epg_id>100</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/100.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Европа Плюс ТВ</caption>
-			<channel_id>102</channel_id>
-			<epg_id>102</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/102.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Жара</caption>
-			<channel_id>1358</channel_id>
-			<epg_id>1358</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1358.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Жара HD</caption>
-			<channel_id>1426</channel_id>
-			<epg_id>1426</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1426.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>О2ТВ</caption>
-			<channel_id>1422</channel_id>
-			<epg_id>1422</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1422.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>О2ТВ HD</caption>
-			<channel_id>1423</channel_id>
-			<epg_id>1423</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1423.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ля-минор</caption>
-			<channel_id>98</channel_id>
-			<epg_id>98</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/98.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -3316,27 +2283,6 @@
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Три ангела</caption>
-			<channel_id>1424</channel_id>
-			<epg_id>1424</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1424.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Театр</caption>
-			<channel_id>1427</channel_id>
-			<epg_id>1427</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1427.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Хузур</caption>
-			<channel_id>1415</channel_id>
-			<epg_id>1415</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1415.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Театр HD</caption>
 			<channel_id>1814</channel_id>
 			<epg_id>1814</epg_id>
@@ -3383,13 +2329,6 @@
 			<channel_id>242</channel_id>
 			<epg_id>242</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/242.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Новый мир</caption>
-			<channel_id>2954</channel_id>
-			<epg_id>2954</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2954.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3484,13 +2423,6 @@
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Твой канский (Канск)</caption>
-			<channel_id>1438</channel_id>
-			<epg_id>1438</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1438.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>БСТ Нефтекамск</caption>
 			<channel_id>1439</channel_id>
 			<epg_id>1439</epg_id>
@@ -3554,14 +2486,7 @@
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Ростов Папа</caption>
-			<channel_id>1448</channel_id>
-			<epg_id>1448</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1448.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Саха24 HD</caption>
+			<caption>Якутия 24 HD</caption>
 			<channel_id>1449</channel_id>
 			<epg_id>1449</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1449.png</icon_url>
@@ -3575,42 +2500,6 @@
 			<tv_category_id>11</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Надымский вестник</caption>
-			<channel_id>1451</channel_id>
-			<epg_id>1451</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1451.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Удмуртия</caption>
-			<channel_id>1452</channel_id>
-			<epg_id>1452</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1452.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Центр Красноярск</caption>
-			<channel_id>1453</channel_id>
-			<epg_id>1453</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1453.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KmvLiveTV</caption>
-			<channel_id>1459</channel_id>
-			<epg_id>1459</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1459.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Русская ночь</caption>
-			<channel_id>232</channel_id>
-			<epg_id>232</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/232.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Эгоист TV</caption>
 			<channel_id>234</channel_id>
 			<epg_id>234</epg_id>
@@ -3620,66 +2509,10 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>EXXXOTICA HD</caption>
-			<channel_id>1041</channel_id>
-			<epg_id>1041</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1041.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Blue Hustler</caption>
-			<channel_id>231</channel_id>
-			<epg_id>231</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/231.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Brazzers int</caption>
 			<channel_id>576</channel_id>
 			<epg_id>576</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/576.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>O-la-la</caption>
-			<channel_id>537</channel_id>
-			<epg_id>537</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/537.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Playboy TV</caption>
-			<channel_id>547</channel_id>
-			<epg_id>547</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/547.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Private TV HD</caption>
-			<channel_id>531</channel_id>
-			<epg_id>531</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/531.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Penthouse Gold HD</caption>
-			<channel_id>532</channel_id>
-			<epg_id>532</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/532.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Penthouse Passion HD</caption>
-			<channel_id>533</channel_id>
-			<epg_id>533</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/533.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -3696,22 +2529,6 @@
 			<channel_id>270</channel_id>
 			<epg_id>270</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/270.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Vivid Red HD</caption>
-			<channel_id>577</channel_id>
-			<epg_id>577</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/577.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Dorcel</caption>
-			<channel_id>372</channel_id>
-			<epg_id>372</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/372.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -4010,13 +2827,6 @@
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>UTV [UK]</caption>
-			<channel_id>618</channel_id>
-			<epg_id>618</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/618.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>UTV HD [UK]</caption>
 			<channel_id>796</channel_id>
 			<epg_id>796</epg_id>
@@ -4031,31 +2841,10 @@
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>CBBC [UK]</caption>
-			<channel_id>621</channel_id>
-			<epg_id>621</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/621.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>CBBC HD [UK]</caption>
 			<channel_id>628</channel_id>
 			<epg_id>628</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/628.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>CNBC [UK]</caption>
-			<channel_id>1065</channel_id>
-			<epg_id>1065</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1065.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>PBS America [UK]</caption>
-			<channel_id>619</channel_id>
-			<epg_id>619</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/619.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4073,24 +2862,10 @@
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>BBC News [UK]</caption>
-			<channel_id>636</channel_id>
-			<epg_id>636</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/636.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>BBC News HD [UK]</caption>
 			<channel_id>793</channel_id>
 			<epg_id>793</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/793.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>BBC 1 London [UK]</caption>
-			<channel_id>625</channel_id>
-			<epg_id>625</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/625.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4101,24 +2876,10 @@
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>BBC 2 Eng [UK]</caption>
-			<channel_id>623</channel_id>
-			<epg_id>623</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/623.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>BBC 2 HD [UK]</caption>
 			<channel_id>627</channel_id>
 			<epg_id>627</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/627.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>BBC 4 [UK]</caption>
-			<channel_id>752</channel_id>
-			<epg_id>752</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/752.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4164,24 +2925,10 @@
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Channel 4 [UK]</caption>
-			<channel_id>747</channel_id>
-			<epg_id>747</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/747.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Channel 4 HD [UK]</caption>
 			<channel_id>638</channel_id>
 			<epg_id>638</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/638.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>RT HD [UK]</caption>
-			<channel_id>1050</channel_id>
-			<epg_id>1050</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1050.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4199,20 +2946,6 @@
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Fox News HD [US]</caption>
-			<channel_id>528</channel_id>
-			<epg_id>528</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/528.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>NBC NY HD [US]</caption>
-			<channel_id>529</channel_id>
-			<epg_id>529</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/529.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>YESTERDAY [UK]</caption>
 			<channel_id>782</channel_id>
 			<epg_id>782</epg_id>
@@ -4220,31 +2953,10 @@
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Arirang TV HD [UK]</caption>
-			<channel_id>798</channel_id>
-			<epg_id>798</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/798.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Blaze [UK]</caption>
 			<channel_id>1058</channel_id>
 			<epg_id>1058</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1058.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Travel XP [UK]</caption>
-			<channel_id>646</channel_id>
-			<epg_id>646</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/646.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Community [UK]</caption>
-			<channel_id>648</channel_id>
-			<epg_id>648</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/648.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4262,45 +2974,10 @@
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Forces TV [UK]</caption>
-			<channel_id>1080</channel_id>
-			<epg_id>1080</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1080.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>S4C [UK]</caption>
-			<channel_id>771</channel_id>
-			<epg_id>771</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/771.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>E4 [UK]</caption>
-			<channel_id>743</channel_id>
-			<epg_id>743</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/743.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>STV [UK]</caption>
-			<channel_id>662</channel_id>
-			<epg_id>662</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/662.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>STV HD [UK]</caption>
 			<channel_id>795</channel_id>
 			<epg_id>795</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/795.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Dave [UK]</caption>
-			<channel_id>788</channel_id>
-			<epg_id>788</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/788.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4322,34 +2999,6 @@
 			<channel_id>1049</channel_id>
 			<epg_id>1049</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1049.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Kix [UK]</caption>
-			<channel_id>673</channel_id>
-			<epg_id>673</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/673.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Tiny POP [UK]</caption>
-			<channel_id>674</channel_id>
-			<epg_id>674</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/674.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sony India [UK]</caption>
-			<channel_id>754</channel_id>
-			<epg_id>754</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/754.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Drama [UK]</caption>
-			<channel_id>1066</channel_id>
-			<epg_id>1066</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1066.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4378,13 +3027,6 @@
 			<channel_id>749</channel_id>
 			<epg_id>749</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/749.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Film 4 [UK]</caption>
-			<channel_id>750</channel_id>
-			<epg_id>750</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/750.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4423,59 +3065,10 @@
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky Select [UK]</caption>
-			<channel_id>687</channel_id>
-			<epg_id>687</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/687.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pick [UK]</caption>
-			<channel_id>700</channel_id>
-			<epg_id>700</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/700.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ITVBe [UK]</caption>
-			<channel_id>711</channel_id>
-			<epg_id>711</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/711.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>ITV [UK]</caption>
 			<channel_id>712</channel_id>
 			<epg_id>712</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/712.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ITV2 [UK]</caption>
-			<channel_id>713</channel_id>
-			<epg_id>713</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/713.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ITV3 [UK]</caption>
-			<channel_id>714</channel_id>
-			<epg_id>714</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/714.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ITV4 [UK]</caption>
-			<channel_id>715</channel_id>
-			<epg_id>715</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/715.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ITV HD [UK]</caption>
-			<channel_id>716</channel_id>
-			<epg_id>716</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/716.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4486,34 +3079,6 @@
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MTV 90s [UK]</caption>
-			<channel_id>721</channel_id>
-			<epg_id>721</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/721.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Paramount Network [UK]</caption>
-			<channel_id>730</channel_id>
-			<epg_id>730</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/730.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Chart Show [UK]</caption>
-			<channel_id>732</channel_id>
-			<epg_id>732</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/732.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Channel AKA [UK]</caption>
-			<channel_id>765</channel_id>
-			<epg_id>765</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/765.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>POP [UK]</caption>
 			<channel_id>734</channel_id>
 			<epg_id>734</epg_id>
@@ -4521,31 +3086,10 @@
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>The Vault [UK]</caption>
-			<channel_id>736</channel_id>
-			<epg_id>736</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/736.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Now 80s [UK]</caption>
 			<channel_id>1060</channel_id>
 			<epg_id>1060</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1060.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>4 Music [UK]</caption>
-			<channel_id>1084</channel_id>
-			<epg_id>1084</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1084.png</icon_url>
-			<tv_category_id>16</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>France 24 Eng [UK]</caption>
-			<channel_id>647</channel_id>
-			<epg_id>647</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/647.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4710,13 +3254,6 @@
 			<tv_category_id>18</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТНТ International [BY]</caption>
-			<channel_id>467</channel_id>
-			<epg_id>467</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/467.png</icon_url>
-			<tv_category_id>18</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Cinema HD [BY]</caption>
 			<channel_id>474</channel_id>
 			<epg_id>474</epg_id>
@@ -4759,13 +3296,6 @@
 			<tv_category_id>19</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>TV 25 [GE]</caption>
-			<channel_id>487</channel_id>
-			<epg_id>487</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/487.png</icon_url>
-			<tv_category_id>19</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Pirveli [GE]</caption>
 			<channel_id>1359</channel_id>
 			<epg_id>1359</epg_id>
@@ -4784,20 +3314,6 @@
 			<channel_id>490</channel_id>
 			<epg_id>490</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/490.png</icon_url>
-			<tv_category_id>19</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Trialeti TV [GE]</caption>
-			<channel_id>493</channel_id>
-			<epg_id>493</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/493.png</icon_url>
-			<tv_category_id>19</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Palitra news [GE]</caption>
-			<channel_id>496</channel_id>
-			<epg_id>496</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/496.png</icon_url>
 			<tv_category_id>19</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4889,13 +3405,6 @@
 			<channel_id>892</channel_id>
 			<epg_id>892</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/892.png</icon_url>
-			<tv_category_id>20</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Comedy Central [DK]</caption>
-			<channel_id>887</channel_id>
-			<epg_id>887</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/887.png</icon_url>
 			<tv_category_id>20</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -5490,14 +3999,7 @@
 			<tv_category_id>22</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Eurosport 1 [ES]</caption>
-			<channel_id>1267</channel_id>
-			<epg_id>1267</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1267.png</icon_url>
-			<tv_category_id>22</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Казахстан [KZ]</caption>
+			<caption>Qazaqstan [KZ]</caption>
 			<channel_id>580</channel_id>
 			<epg_id>580</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/580.png</icon_url>
@@ -5564,41 +4066,6 @@
 			<channel_id>590</channel_id>
 			<epg_id>590</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/590.png</icon_url>
-			<tv_category_id>23</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>СТВ [KZ]</caption>
-			<channel_id>591</channel_id>
-			<epg_id>591</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/591.png</icon_url>
-			<tv_category_id>23</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TV1 [KZ]</caption>
-			<channel_id>586</channel_id>
-			<epg_id>586</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/586.png</icon_url>
-			<tv_category_id>23</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Hit TV [KZ]</caption>
-			<channel_id>593</channel_id>
-			<epg_id>593</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/593.png</icon_url>
-			<tv_category_id>23</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>KazSport [KZ]</caption>
-			<channel_id>592</channel_id>
-			<epg_id>592</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/592.png</icon_url>
-			<tv_category_id>23</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Muzz One [KZ]</caption>
-			<channel_id>594</channel_id>
-			<epg_id>594</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/594.png</icon_url>
 			<tv_category_id>23</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -6062,21 +4529,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Eurosport 1 HD [DE]</caption>
-			<channel_id>318</channel_id>
-			<epg_id>318</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/318.png</icon_url>
-			<tv_category_id>26</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eurosport 2 HD [DE] [Test]</caption>
-			<channel_id>1566</channel_id>
-			<epg_id>1566</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1566.png</icon_url>
-			<tv_category_id>26</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>DAZN 1 [DE]</caption>
 			<channel_id>1571</channel_id>
 			<epg_id>1571</epg_id>
@@ -6397,601 +4849,6 @@
 			<tv_category_id>28</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>CANAL+ 1 HD [PL]</caption>
-			<channel_id>951</channel_id>
-			<epg_id>951</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/951.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Canal+ NOW [PL]</caption>
-			<channel_id>932</channel_id>
-			<epg_id>932</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/932.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Canal+ Dokument HD [PL]</caption>
-			<channel_id>933</channel_id>
-			<epg_id>933</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/933.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Canal+ DOMO HD [PL]</caption>
-			<channel_id>934</channel_id>
-			<epg_id>934</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/934.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Canal+ Film HD [PL]</caption>
-			<channel_id>935</channel_id>
-			<epg_id>935</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/935.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Canal+ Family HD [PL]</caption>
-			<channel_id>936</channel_id>
-			<epg_id>936</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/936.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Canal+ Kuchnia HD [PL]</caption>
-			<channel_id>937</channel_id>
-			<epg_id>937</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/937.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Canal+ Premium HD [PL]</caption>
-			<channel_id>938</channel_id>
-			<epg_id>938</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/938.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Canal+ Seriale HD [PL]</caption>
-			<channel_id>939</channel_id>
-			<epg_id>939</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/939.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Canal+ sport HD [PL]</caption>
-			<channel_id>952</channel_id>
-			<epg_id>952</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/952.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Canal+ Sport 3 HD [PL]</caption>
-			<channel_id>940</channel_id>
-			<epg_id>940</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/940.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Canal+ Sport 4 HD [PL]</caption>
-			<channel_id>941</channel_id>
-			<epg_id>941</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/941.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat News HD [PL]</caption>
-			<channel_id>942</channel_id>
-			<epg_id>942</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/942.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat News 2 [PL]</caption>
-			<channel_id>943</channel_id>
-			<epg_id>943</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/943.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat HD [PL]</caption>
-			<channel_id>944</channel_id>
-			<epg_id>944</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/944.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat Comedy Central Extra HD [PL]</caption>
-			<channel_id>945</channel_id>
-			<epg_id>945</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/945.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat Games HD [PL]</caption>
-			<channel_id>946</channel_id>
-			<epg_id>946</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/946.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat Rodzina HD [PL]</caption>
-			<channel_id>947</channel_id>
-			<epg_id>947</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/947.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat Seriale HD [PL]</caption>
-			<channel_id>948</channel_id>
-			<epg_id>948</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/948.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat Sport News HD [PL]</caption>
-			<channel_id>949</channel_id>
-			<epg_id>949</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/949.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat Sport HD [PL]</caption>
-			<channel_id>950</channel_id>
-			<epg_id>950</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/950.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat Sport Premium 1 HD [PL]</caption>
-			<channel_id>969</channel_id>
-			<epg_id>969</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/969.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat Sport Premium 2 HD [PL]</caption>
-			<channel_id>970</channel_id>
-			<epg_id>970</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/970.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat Sport Extra HD [PL]</caption>
-			<channel_id>971</channel_id>
-			<epg_id>971</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/971.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat Sport Fight HD [PL]</caption>
-			<channel_id>972</channel_id>
-			<epg_id>972</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/972.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polsat Music HD [PL]</caption>
-			<channel_id>973</channel_id>
-			<epg_id>973</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/973.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Super Polsat HD [PL]</caption>
-			<channel_id>974</channel_id>
-			<epg_id>974</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/974.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TV6 HD [PL]</caption>
-			<channel_id>976</channel_id>
-			<epg_id>976</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/976.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TVP INFO HD [PL]</caption>
-			<channel_id>977</channel_id>
-			<epg_id>977</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/977.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TVP 2 HD [PL]</caption>
-			<channel_id>978</channel_id>
-			<epg_id>978</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/978.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TVP 3 [PL]</caption>
-			<channel_id>979</channel_id>
-			<epg_id>979</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/979.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TVP ABC [PL]</caption>
-			<channel_id>980</channel_id>
-			<epg_id>980</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/980.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TVP Historia [PL]</caption>
-			<channel_id>981</channel_id>
-			<epg_id>981</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/981.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TVP Kultura [PL]</caption>
-			<channel_id>982</channel_id>
-			<epg_id>982</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/982.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TVP Polonia HD [PL]</caption>
-			<channel_id>983</channel_id>
-			<epg_id>983</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/983.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TVP Rozrywka [PL]</caption>
-			<channel_id>984</channel_id>
-			<epg_id>984</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/984.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>TVP Seriale HD [PL]</caption>
-			<channel_id>985</channel_id>
-			<epg_id>985</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/985.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AXN HD [PL]</caption>
-			<channel_id>986</channel_id>
-			<epg_id>986</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/986.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AXN Black [PL]</caption>
-			<channel_id>987</channel_id>
-			<epg_id>987</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/987.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AXN White [PL]</caption>
-			<channel_id>988</channel_id>
-			<epg_id>988</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/988.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AXN SPIN HD [PL]</caption>
-			<channel_id>989</channel_id>
-			<epg_id>989</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/989.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cinemax 2 HD [PL]</caption>
-			<channel_id>990</channel_id>
-			<epg_id>990</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/990.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Filmbox Arthouse [PL]</caption>
-			<channel_id>991</channel_id>
-			<epg_id>991</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/991.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>FilmBox Action [PL]</caption>
-			<channel_id>992</channel_id>
-			<epg_id>992</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/992.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>FilmBox Extra HD [PL]</caption>
-			<channel_id>993</channel_id>
-			<epg_id>993</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/993.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>FilmBox Family [PL]</caption>
-			<channel_id>994</channel_id>
-			<epg_id>994</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/994.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Filmbox Premium HD [PL]</caption>
-			<channel_id>995</channel_id>
-			<epg_id>995</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/995.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Kino TV HD [PL]</caption>
-			<channel_id>996</channel_id>
-			<epg_id>996</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/996.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Paramount Channel HD [PL]</caption>
-			<channel_id>997</channel_id>
-			<epg_id>997</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/997.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Romance TV HD [PL]</caption>
-			<channel_id>998</channel_id>
-			<epg_id>998</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/998.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Boomerang HD [PL]</caption>
-			<channel_id>999</channel_id>
-			<epg_id>999</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/999.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cartoon Network HD [PL]</caption>
-			<channel_id>1000</channel_id>
-			<epg_id>1000</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1000.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Disney Channel HD [PL]</caption>
-			<channel_id>1479</channel_id>
-			<epg_id>1479</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1479.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Disney Junior [PL]</caption>
-			<channel_id>1486</channel_id>
-			<epg_id>1486</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1486.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Disney XD [PL]</caption>
-			<channel_id>1497</channel_id>
-			<epg_id>1497</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1497.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Jim Jam Polsat [PL]</caption>
-			<channel_id>1498</channel_id>
-			<epg_id>1498</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1498.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MiniMini+ HD [PL]</caption>
-			<channel_id>1499</channel_id>
-			<epg_id>1499</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1499.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Nickelodeon [PL]</caption>
-			<channel_id>1500</channel_id>
-			<epg_id>1500</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1500.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Nick Toons HD [PL]</caption>
-			<channel_id>1587</channel_id>
-			<epg_id>1587</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1587.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Nick Jr [PL]</caption>
-			<channel_id>1588</channel_id>
-			<epg_id>1588</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1588.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Tele TOON+ HD [PL]</caption>
-			<channel_id>1589</channel_id>
-			<epg_id>1589</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1589.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>13 Ulica HD [PL]</caption>
-			<channel_id>1590</channel_id>
-			<epg_id>1590</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1590.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>AMC HD [PL]</caption>
-			<channel_id>1591</channel_id>
-			<epg_id>1591</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1591.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Comedy central HD [PL]</caption>
-			<channel_id>1592</channel_id>
-			<epg_id>1592</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1592.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Da Vinci [PL]</caption>
-			<channel_id>1593</channel_id>
-			<epg_id>1593</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1593.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>DTX HD [PL]</caption>
-			<channel_id>1594</channel_id>
-			<epg_id>1594</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1594.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ID HD [PL]</caption>
-			<channel_id>1595</channel_id>
-			<epg_id>1595</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1595.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>E! Entertainment HD [PL]</caption>
-			<channel_id>1596</channel_id>
-			<epg_id>1596</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1596.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Food Network HD [PL]</caption>
-			<channel_id>1597</channel_id>
-			<epg_id>1597</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1597.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>History HD [PL]</caption>
-			<channel_id>1598</channel_id>
-			<epg_id>1598</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1598.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>History 2 HD [PL]</caption>
-			<channel_id>1599</channel_id>
-			<epg_id>1599</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1599.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Golf Channel HD [PL]</caption>
-			<channel_id>1660</channel_id>
-			<epg_id>1660</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1660.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Polo TV HD [PL]</caption>
-			<channel_id>1661</channel_id>
-			<epg_id>1661</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1661.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eleven Sports 3 HD [PL]</caption>
-			<channel_id>1662</channel_id>
-			<epg_id>1662</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1662.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eleven sports 4 HD [PL]</caption>
-			<channel_id>1663</channel_id>
-			<epg_id>1663</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1663.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sportklub HD [PL]</caption>
-			<channel_id>1664</channel_id>
-			<epg_id>1664</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1664.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>4Fun.TV [PL]</caption>
-			<channel_id>1665</channel_id>
-			<epg_id>1665</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1665.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>4Fun Dance [PL]</caption>
-			<channel_id>1666</channel_id>
-			<epg_id>1666</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1666.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>4Fun Kids [PL]</caption>
-			<channel_id>1667</channel_id>
-			<epg_id>1667</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1667.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eska TV [PL]</caption>
-			<channel_id>1668</channel_id>
-			<epg_id>1668</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1668.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eska TV Extra [PL]</caption>
-			<channel_id>1669</channel_id>
-			<epg_id>1669</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1669.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Eska Rock [PL]</caption>
-			<channel_id>1670</channel_id>
-			<epg_id>1670</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1670.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>NUTA TV [PL]</caption>
-			<channel_id>1671</channel_id>
-			<epg_id>1671</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1671.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>STARS.TV [PL]</caption>
-			<channel_id>1672</channel_id>
-			<epg_id>1672</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1672.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>VOX Music TV [PL]</caption>
-			<channel_id>1673</channel_id>
-			<epg_id>1673</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1673.png</icon_url>
-			<tv_category_id>28</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Alfa Omega [RO]</caption>
 			<channel_id>1101</channel_id>
 			<epg_id>1101</epg_id>
@@ -7276,13 +5133,6 @@
 			<channel_id>1536</channel_id>
 			<epg_id>1536</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1536.png</icon_url>
-			<tv_category_id>29</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Travel [RO]</caption>
-			<channel_id>1537</channel_id>
-			<epg_id>1537</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1537.png</icon_url>
 			<tv_category_id>29</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -7643,14 +5493,14 @@
 			<tv_category_id>29</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Look Plus [RO]</caption>
+			<caption>Prima Sport 1 [RO]</caption>
 			<channel_id>1172</channel_id>
 			<epg_id>1172</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1172.png</icon_url>
 			<tv_category_id>29</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Look Plus HD [RO]</caption>
+			<caption>Prima Sport 1 HD [RO]</caption>
 			<channel_id>1585</channel_id>
 			<epg_id>1585</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1585.png</icon_url>
@@ -7704,13 +5554,6 @@
 			<epg_id>1581</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1581.png</icon_url>
 			<tv_category_id>29</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Disney Jr [SK]</caption>
-			<channel_id>816</channel_id>
-			<epg_id>816</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/816.png</icon_url>
-			<tv_category_id>30</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>NickToons [SK]</caption>
@@ -7944,20 +5787,6 @@
 			<tv_category_id>33</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Comedy Central [SW]</caption>
-			<channel_id>888</channel_id>
-			<epg_id>888</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/888.png</icon_url>
-			<tv_category_id>33</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>C More Sport HD [SW]</caption>
-			<channel_id>1616</channel_id>
-			<epg_id>1616</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1616.png</icon_url>
-			<tv_category_id>33</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>MTV [SW]</caption>
 			<channel_id>889</channel_id>
 			<epg_id>889</epg_id>
@@ -8042,34 +5871,10 @@
 			<tv_category_id>34</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>5 канал Украина [UA]</caption>
-			<channel_id>513</channel_id>
-			<epg_id>513</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/513.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Эспресо TV [UA]</caption>
-			<channel_id>514</channel_id>
-			<epg_id>514</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/514.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>1+1 [UA]</caption>
 			<channel_id>276</channel_id>
 			<epg_id>276</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/276.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Интер [UA]</caption>
-			<channel_id>279</channel_id>
-			<epg_id>279</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/279.png</icon_url>
 			<tv_category_id>35</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -8080,21 +5885,6 @@
 			<icon_url>http://api.iptv.so/logo/200_115_0/280.png</icon_url>
 			<tv_category_id>35</tv_category_id>
 			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Enter Film [UA]</caption>
-			<channel_id>294</channel_id>
-			<epg_id>294</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/294.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мега [UA]</caption>
-			<channel_id>295</channel_id>
-			<epg_id>295</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/295.png</icon_url>
-			<tv_category_id>35</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Бігуді [UA]</caption>
@@ -8110,412 +5900,6 @@
 			<icon_url>http://api.iptv.so/logo/200_115_0/296.png</icon_url>
 			<tv_category_id>35</tv_category_id>
 			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Sports HD [UA]</caption>
-			<channel_id>539</channel_id>
-			<epg_id>539</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/539.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Sports+ HD [UA]</caption>
-			<channel_id>1777</channel_id>
-			<epg_id>1777</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1777.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>1+1 HD [UA]</caption>
-			<channel_id>1892</channel_id>
-			<epg_id>1892</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1892.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>2+2 HD [UA]</caption>
-			<channel_id>1893</channel_id>
-			<epg_id>1893</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1893.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>5 канал HD [UA]</caption>
-			<channel_id>1895</channel_id>
-			<epg_id>1895</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1895.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Апостроф [UA]</caption>
-			<channel_id>1896</channel_id>
-			<epg_id>1896</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1896.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Київ [UA]</caption>
-			<channel_id>1897</channel_id>
-			<epg_id>1897</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1897.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Перший [UA]</caption>
-			<channel_id>1898</channel_id>
-			<epg_id>1898</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1898.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Перший HD [UA]</caption>
-			<channel_id>1899</channel_id>
-			<epg_id>1899</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1899.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Прямий [UA]</caption>
-			<channel_id>1900</channel_id>
-			<epg_id>1900</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1900.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Прямий HD [UA]</caption>
-			<channel_id>1901</channel_id>
-			<epg_id>1901</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1901.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ПравдаТУТ HD [UA]</caption>
-			<channel_id>1902</channel_id>
-			<epg_id>1902</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1902.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>OBOZREVATEL HD [UA]</caption>
-			<channel_id>1903</channel_id>
-			<epg_id>1903</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1903.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Эспресо TV HD [UA]</caption>
-			<channel_id>1904</channel_id>
-			<epg_id>1904</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1904.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Унiан HD [UA]</caption>
-			<channel_id>1905</channel_id>
-			<epg_id>1905</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1905.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Дача [UA]</caption>
-			<channel_id>1906</channel_id>
-			<epg_id>1906</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1906.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ECO TV [UA]</caption>
-			<channel_id>1907</channel_id>
-			<epg_id>1907</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1907.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Интер HD [UA]</caption>
-			<channel_id>1908</channel_id>
-			<epg_id>1908</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1908.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>K1 HD [UA]</caption>
-			<channel_id>1909</channel_id>
-			<epg_id>1909</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1909.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>K2 HD [UA]</caption>
-			<channel_id>1910</channel_id>
-			<epg_id>1910</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1910.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Квартал ТВ [UA]</caption>
-			<channel_id>398</channel_id>
-			<epg_id>398</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/398.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Суспільне Культура [UA]</caption>
-			<channel_id>1911</channel_id>
-			<epg_id>1911</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1911.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Mega HD [UA]</caption>
-			<channel_id>1912</channel_id>
-			<epg_id>1912</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1912.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Надия [UA]</caption>
-			<channel_id>1913</channel_id>
-			<epg_id>1913</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1913.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Наука [UA]</caption>
-			<channel_id>1914</channel_id>
-			<epg_id>1914</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1914.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Новый канал [UA]</caption>
-			<channel_id>255</channel_id>
-			<epg_id>255</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/255.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Новый канал HD [UA]</caption>
-			<channel_id>1915</channel_id>
-			<epg_id>1915</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1915.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТН [UA]</caption>
-			<channel_id>278</channel_id>
-			<epg_id>278</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/278.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>НТН HD [UA]</caption>
-			<channel_id>1916</channel_id>
-			<epg_id>1916</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1916.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ОЦЕ [UA]</caption>
-			<channel_id>1917</channel_id>
-			<epg_id>1917</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1917.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ОЦЕ HD [UA]</caption>
-			<channel_id>1918</channel_id>
-			<epg_id>1918</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1918.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Первый Автомобильный [UA]</caption>
-			<channel_id>1919</channel_id>
-			<epg_id>1919</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1919.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ПлюсПлюс [UA]</caption>
-			<channel_id>1920</channel_id>
-			<epg_id>1920</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1920.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ПлюсПлюс HD [UA]</caption>
-			<channel_id>1921</channel_id>
-			<epg_id>1921</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1921.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сонце [UA]</caption>
-			<channel_id>1930</channel_id>
-			<epg_id>1930</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1930.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>СТБ [UA]</caption>
-			<channel_id>277</channel_id>
-			<epg_id>277</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/277.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>СТБ HD [UA]</caption>
-			<channel_id>1922</channel_id>
-			<epg_id>1922</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1922.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТЕТ HD [UA]</caption>
-			<channel_id>1923</channel_id>
-			<epg_id>1923</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1923.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Terra [UA]</caption>
-			<channel_id>1924</channel_id>
-			<epg_id>1924</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1924.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Трофей [UA]</caption>
-			<channel_id>1925</channel_id>
-			<epg_id>1925</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1925.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Niki Junior [UA]</caption>
-			<channel_id>1926</channel_id>
-			<epg_id>1926</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1926.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Niki Junior HD [UA]</caption>
-			<channel_id>1927</channel_id>
-			<epg_id>1927</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1927.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Niki Kids [UA]</caption>
-			<channel_id>1928</channel_id>
-			<epg_id>1928</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1928.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Niki Kids HD [UA]</caption>
-			<channel_id>1929</channel_id>
-			<epg_id>1929</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1929.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>M1 [UA]</caption>
-			<channel_id>501</channel_id>
-			<epg_id>501</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/501.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>М1 HD [UA]</caption>
-			<channel_id>1931</channel_id>
-			<epg_id>1931</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1931.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>M2 [UA]</caption>
-			<channel_id>502</channel_id>
-			<epg_id>502</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/502.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>М2 HD [UA]</caption>
-			<channel_id>1932</channel_id>
-			<epg_id>1932</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1932.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Zoom HD [UA]</caption>
-			<channel_id>1933</channel_id>
-			<epg_id>1933</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1933.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>BOLT [UA]</caption>
-			<channel_id>1934</channel_id>
-			<epg_id>1934</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1934.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>BOLT HD [UA]</caption>
-			<channel_id>1935</channel_id>
-			<epg_id>1935</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1935.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Enter Film HD [UA]</caption>
-			<channel_id>1936</channel_id>
-			<epg_id>1936</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1936.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>FILMUADrama [UA]</caption>
-			<channel_id>1937</channel_id>
-			<epg_id>1937</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1937.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ICTV [UA]</caption>
-			<channel_id>292</channel_id>
-			<epg_id>292</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/292.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ICTV HD [UA]</caption>
-			<channel_id>1938</channel_id>
-			<epg_id>1938</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1938.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Xsport [UA]</caption>
-			<channel_id>1939</channel_id>
-			<epg_id>1939</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1939.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Xsport HD [UA]</caption>
-			<channel_id>1940</channel_id>
-			<epg_id>1940</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1940.png</icon_url>
-			<tv_category_id>35</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>France 24 [FR]</caption>
-			<channel_id>241</channel_id>
-			<epg_id>241</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/241.png</icon_url>
-			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>CNews [FR]</caption>
@@ -8592,13 +5976,6 @@
 			<channel_id>417</channel_id>
 			<epg_id>417</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/417.png</icon_url>
-			<tv_category_id>36</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>D8 [FR]</caption>
-			<channel_id>437</channel_id>
-			<epg_id>437</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/437.png</icon_url>
 			<tv_category_id>36</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -8721,24 +6098,10 @@
 			<tv_category_id>37</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>НТВ [RU+2]</caption>
-			<channel_id>2704</channel_id>
-			<epg_id>2704</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2704.png</icon_url>
-			<tv_category_id>37</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>СТС [RU+2]</caption>
 			<channel_id>2713</channel_id>
 			<epg_id>2713</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/2713.png</icon_url>
-			<tv_category_id>37</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНТ [RU+2]</caption>
-			<channel_id>2719</channel_id>
-			<epg_id>2719</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2719.png</icon_url>
 			<tv_category_id>37</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -8756,24 +6119,10 @@
 			<tv_category_id>37</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Матч [RU+2]</caption>
-			<channel_id>2703</channel_id>
-			<epg_id>2703</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2703.png</icon_url>
-			<tv_category_id>37</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Россия К [RU+2]</caption>
 			<channel_id>2706</channel_id>
 			<epg_id>2706</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/2706.png</icon_url>
-			<tv_category_id>37</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТВ3 [RU+2]</caption>
-			<channel_id>2715</channel_id>
-			<epg_id>2715</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2715.png</icon_url>
 			<tv_category_id>37</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -8795,20 +6144,6 @@
 			<channel_id>2717</channel_id>
 			<epg_id>2717</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/2717.png</icon_url>
-			<tv_category_id>37</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Пятница [RU+2]</caption>
-			<channel_id>2716</channel_id>
-			<epg_id>2716</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2716.png</icon_url>
-			<tv_category_id>37</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНТ 4 [RU+2]</caption>
-			<channel_id>2783</channel_id>
-			<epg_id>2783</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2783.png</icon_url>
 			<tv_category_id>37</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -8840,13 +6175,6 @@
 			<tv_category_id>37</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>2x2 [RU+2]</caption>
-			<channel_id>2781</channel_id>
-			<epg_id>2781</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2781.png</icon_url>
-			<tv_category_id>37</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>СПАС [RU+2]</caption>
 			<channel_id>2712</channel_id>
 			<epg_id>2712</epg_id>
@@ -8868,24 +6196,10 @@
 			<tv_category_id>38</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>НТВ [RU+4]</caption>
-			<channel_id>2734</channel_id>
-			<epg_id>2734</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2734.png</icon_url>
-			<tv_category_id>38</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>СТС [RU+4]</caption>
 			<channel_id>2743</channel_id>
 			<epg_id>2743</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/2743.png</icon_url>
-			<tv_category_id>38</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНТ [RU+4]</caption>
-			<channel_id>2749</channel_id>
-			<epg_id>2749</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2749.png</icon_url>
 			<tv_category_id>38</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -8910,13 +6224,6 @@
 			<tv_category_id>38</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТВ 3 [RU+4]</caption>
-			<channel_id>2745</channel_id>
-			<epg_id>2745</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2745.png</icon_url>
-			<tv_category_id>38</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>ОТР [RU+4]</caption>
 			<channel_id>2739</channel_id>
 			<epg_id>2739</epg_id>
@@ -8935,20 +6242,6 @@
 			<channel_id>2747</channel_id>
 			<epg_id>2747</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/2747.png</icon_url>
-			<tv_category_id>38</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч [RU+4]</caption>
-			<channel_id>2733</channel_id>
-			<epg_id>2733</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2733.png</icon_url>
-			<tv_category_id>38</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Пятница [RU+4]</caption>
-			<channel_id>2746</channel_id>
-			<epg_id>2746</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2746.png</icon_url>
 			<tv_category_id>38</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -9001,24 +6294,10 @@
 			<tv_category_id>39</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>НТВ [RU+6]</caption>
-			<channel_id>2754</channel_id>
-			<epg_id>2754</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2754.png</icon_url>
-			<tv_category_id>39</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>СТС [RU+6]</caption>
 			<channel_id>2763</channel_id>
 			<epg_id>2763</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/2763.png</icon_url>
-			<tv_category_id>39</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ТНТ [RU+6]</caption>
-			<channel_id>2769</channel_id>
-			<epg_id>2769</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2769.png</icon_url>
 			<tv_category_id>39</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -9043,13 +6322,6 @@
 			<tv_category_id>39</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТВ3 [RU+6]</caption>
-			<channel_id>2765</channel_id>
-			<epg_id>2765</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2765.png</icon_url>
-			<tv_category_id>39</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>ОТР [RU+6]</caption>
 			<channel_id>2759</channel_id>
 			<epg_id>2759</epg_id>
@@ -9068,20 +6340,6 @@
 			<channel_id>2767</channel_id>
 			<epg_id>2767</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/2767.png</icon_url>
-			<tv_category_id>39</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч [RU+6]</caption>
-			<channel_id>2753</channel_id>
-			<epg_id>2753</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2753.png</icon_url>
-			<tv_category_id>39</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Пятница [RU+6]</caption>
-			<channel_id>2766</channel_id>
-			<epg_id>2766</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2766.png</icon_url>
 			<tv_category_id>39</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -9134,13 +6392,6 @@
 			<tv_category_id>40</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>НТВ [RU+8]</caption>
-			<channel_id>2774</channel_id>
-			<epg_id>2774</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2774.png</icon_url>
-			<tv_category_id>40</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>5 канал [RU+8]</caption>
 			<channel_id>2775</channel_id>
 			<epg_id>2775</epg_id>
@@ -9159,13 +6410,6 @@
 			<channel_id>2779</channel_id>
 			<epg_id>2779</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/2779.png</icon_url>
-			<tv_category_id>40</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Матч [RU+8]</caption>
-			<channel_id>2773</channel_id>
-			<epg_id>2773</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/2773.png</icon_url>
 			<tv_category_id>40</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -9475,27 +6719,6 @@
 			<epg_id>1874</epg_id>
 			<icon_url>http://api.iptv.so/logo/200_115_0/1874.png</icon_url>
 			<tv_category_id>41</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta 1 Qazaqstan HD [KZ] [Test]</caption>
-			<channel_id>1780</channel_id>
-			<epg_id>1780</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1780.png</icon_url>
-			<tv_category_id>42</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta 2 Qazaqstan HD [KZ] [Test]</caption>
-			<channel_id>1781</channel_id>
-			<epg_id>1781</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1781.png</icon_url>
-			<tv_category_id>42</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Setanta Qazaqstan HD [KZ] [Test]</caption>
-			<channel_id>1782</channel_id>
-			<epg_id>1782</epg_id>
-			<icon_url>http://api.iptv.so/logo/200_115_0/1782.png</icon_url>
-			<tv_category_id>42</tv_category_id>
 		</tv_channel>
 	</tv_channels>
 </tv_info>

@@ -51,25 +51,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Video On Demand</caption>
+			<caption>Медиатека</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -959,6 +959,7 @@
 			<caption>Первый Крымский</caption>
 			<channel_id>6603</channel_id>
 			<epg_id>Первый Крымский</epg_id>
+			<tvg_id>Первый Крымский</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6603.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
@@ -967,6 +968,7 @@
 			<caption>Крым 24</caption>
 			<channel_id>4008</channel_id>
 			<epg_id>Крым 24</epg_id>
+			<tvg_id>Крым 24</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4008.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
@@ -2003,70 +2005,70 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Epoch HD</caption>
+			<caption>Sky High Beyond S HD</caption>
 			<channel_id>8588</channel_id>
-			<epg_id>skyhigh-epoch</epg_id>
-			<tvg_id>skyhigh-epoch</tvg_id>
+			<epg_id>sky-high-beyond-s-fhd</epg_id>
+			<tvg_id>sky-high-beyond-s-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8588.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Heroes HD</caption>
+			<caption>Sky High Scream HD</caption>
 			<channel_id>4879</channel_id>
-			<epg_id>skyhigh-heroes</epg_id>
-			<tvg_id>skyhigh-heroes</tvg_id>
+			<epg_id>sky-high-scream-fhd</epg_id>
+			<tvg_id>sky-high-scream-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4879.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Spirit HD</caption>
+			<caption>Sky High Redroom HD</caption>
 			<channel_id>8480</channel_id>
-			<epg_id>skyhigh-spirit</epg_id>
-			<tvg_id>skyhigh-spirit</tvg_id>
+			<epg_id>sky-high-redroom-fhd</epg_id>
+			<tvg_id>sky-high-redroom-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8480.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Series HD</caption>
+			<caption>Sky High Brick S HD</caption>
 			<channel_id>3229</channel_id>
-			<epg_id>skyhigh-series</epg_id>
-			<tvg_id>skyhigh-series</tvg_id>
+			<epg_id>sky-high-brick-s-fhd</epg_id>
+			<tvg_id>sky-high-brick-s-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3229.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Man HD</caption>
+			<caption>Sky High Dust S HD</caption>
 			<channel_id>1414</channel_id>
-			<epg_id>skyhigh-man</epg_id>
-			<tvg_id>skyhigh-man</tvg_id>
+			<epg_id>sky-high-dusts-fhd</epg_id>
+			<tvg_id>sky-high-dusts-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/1414.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Fresh HDR HD</caption>
+			<caption>Sky High Strike VHS HD</caption>
 			<channel_id>4846</channel_id>
-			<epg_id>skyhigh-fresh-hdr</epg_id>
-			<tvg_id>skyhigh-fresh-hdr</tvg_id>
+			<epg_id>sky-high-strike-vhs-fhd</epg_id>
+			<tvg_id>sky-high-strike-vhs-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4846.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Space 4k HDR</caption>
+			<caption>Sky High Firezone HD</caption>
 			<channel_id>3697</channel_id>
-			<epg_id>skyhigh-space</epg_id>
-			<tvg_id>skyhigh-future</tvg_id>
+			<epg_id>sky-high-firezone-fhd</epg_id>
+			<tvg_id>sky-high-firezone-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3697.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Bunny HD</caption>
+			<caption>Sky High Bunny HD</caption>
 			<channel_id>2691</channel_id>
 			<epg_id>skyhigh-bunny</epg_id>
 			<tvg_id>skyhigh-bunny</tvg_id>
@@ -2075,109 +2077,109 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Fresh HD</caption>
+			<caption>Sky High Gunrush HD</caption>
 			<channel_id>3334</channel_id>
-			<epg_id>skyhigh-fresh</epg_id>
-			<tvg_id>skyhigh-fresh</tvg_id>
+			<epg_id>sky-high-gunrush-fhd</epg_id>
+			<tvg_id>sky-high-gunrush-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3334.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Drama 4k HDR</caption>
+			<caption>Sky High Tanos S HD</caption>
 			<channel_id>8400</channel_id>
-			<epg_id>skyhigh-drama</epg_id>
-			<tvg_id>skyhigh-3d</tvg_id>
+			<epg_id>sky-high-tanoss-fhd</epg_id>
+			<tvg_id>sky-high-tanoss-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8400.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Чбу HD</caption>
+			<caption>Sky High Bat S HD</caption>
 			<channel_id>4726</channel_id>
-			<epg_id>skyhigh-chbu</epg_id>
-			<tvg_id>skyhigh-chbu</tvg_id>
+			<epg_id>sky-high-bats-fhd</epg_id>
+			<tvg_id>sky-high-bats-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4726.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Classic HD</caption>
+			<caption>Sky High Neon VHS HD</caption>
 			<channel_id>1564</channel_id>
-			<epg_id>skyhidh-classic</epg_id>
-			<tvg_id>skyhidh-classic</tvg_id>
+			<epg_id>sky-high-neonvhs-fhd</epg_id>
+			<tvg_id>sky-high-neonvhs-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/1564.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Adult HD</caption>
+			<caption>Sky High Future HD</caption>
 			<channel_id>5003</channel_id>
-			<epg_id>skyhigh-adult</epg_id>
-			<tvg_id>skyhigh-adult</tvg_id>
+			<epg_id>sky-high-future-fhd</epg_id>
+			<tvg_id>sky-high-future-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5003.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Russian HD</caption>
+			<caption>Sky High Nick S HD</caption>
 			<channel_id>7910</channel_id>
-			<epg_id>skyhigh-russian</epg_id>
-			<tvg_id>skyhigh-russian</tvg_id>
+			<epg_id>sky-high-nicks-fhd</epg_id>
+			<tvg_id>sky-high-nicks-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/7910.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Noir HD</caption>
+			<caption>Sky High Toon S HD</caption>
 			<channel_id>1897</channel_id>
-			<epg_id>skyhigh-noir</epg_id>
-			<tvg_id>skyhigh-noir</tvg_id>
+			<epg_id>sky-high-toon-s-fhd</epg_id>
+			<tvg_id>sky-high-toon-s-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/1897.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Kids USSR HD</caption>
+			<caption>Sky High Doc HD</caption>
 			<channel_id>5245</channel_id>
-			<epg_id>skyhigh-kidsussr</epg_id>
-			<tvg_id>skyhigh-kidsussr</tvg_id>
+			<epg_id>sky-high-doc-hd</epg_id>
+			<tvg_id>sky-high-doc-hd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5245.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Anime HD</caption>
+			<caption>Sky High Brain HD</caption>
 			<channel_id>7925</channel_id>
-			<epg_id>skyhigh-anime</epg_id>
-			<tvg_id>skyhigh-anime</tvg_id>
+			<epg_id>sky-high-brain-hd</epg_id>
+			<tvg_id>sky-high-brain-hd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/7925.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High HDR UHD</caption>
+			<caption>Sky High Boom HD</caption>
 			<channel_id>8701</channel_id>
-			<epg_id>skyhigh-uhdhdr</epg_id>
-			<tvg_id>skyhigh-uhdhdr</tvg_id>
+			<epg_id>sky-high-boom-fhd</epg_id>
+			<tvg_id>sky-high-boom-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8701.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High VHS UHD</caption>
+			<caption>Sky High Civil S HD</caption>
 			<channel_id>1982</channel_id>
-			<epg_id>skyhigh-vhsuhd</epg_id>
-			<tvg_id>skyhigh-vhsuhd</tvg_id>
+			<epg_id>sky-high-civil-s-fhd</epg_id>
+			<tvg_id>sky-high-civil-s-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/1982.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Standup HD</caption>
+			<caption>Sky High Trace S HD</caption>
 			<channel_id>6737</channel_id>
-			<epg_id>skyhigh-standup</epg_id>
-			<tvg_id>skyhigh-standup</tvg_id>
+			<epg_id>sky-high-trace-s-fhd</epg_id>
+			<tvg_id>sky-high-trace-s-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6737.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -2912,7 +2914,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Jetix UHD</caption>
+			<caption>Sky High Jetix UHD</caption>
 			<channel_id>4183</channel_id>
 			<epg_id>skyhigh-jetix</epg_id>
 			<tvg_id>skyhigh-jetix</tvg_id>
@@ -2978,6 +2980,7 @@
 			<caption>BOX Lo-fi HD</caption>
 			<channel_id>2330</channel_id>
 			<epg_id>box-lofi</epg_id>
+			<tvg_id>box-lofi</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/2330.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -2986,6 +2989,7 @@
 			<caption>BCU СССР HDR</caption>
 			<channel_id>4926</channel_id>
 			<epg_id>bcu-sssr-hdr</epg_id>
+			<tvg_id>bcu-sssr-hdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4926.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -2994,6 +2998,7 @@
 			<caption>Liberty Документалка HD</caption>
 			<channel_id>7025</channel_id>
 			<epg_id>liberty-documentalka</epg_id>
+			<tvg_id>liberty-documentalka</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/7025.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3002,6 +3007,7 @@
 			<caption>Liberty Serial HD</caption>
 			<channel_id>4615</channel_id>
 			<epg_id>liberty-serial</epg_id>
+			<tvg_id>liberty-serial</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4615.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3010,6 +3016,7 @@
 			<caption>Liberty Турецкое HD</caption>
 			<channel_id>2445</channel_id>
 			<epg_id>liberty-turkfilm</epg_id>
+			<tvg_id>liberty-turkfilm</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/2445.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3018,6 +3025,7 @@
 			<caption>Sky-High Romance HDR</caption>
 			<channel_id>8201</channel_id>
 			<epg_id>skyhigh-romancehdr</epg_id>
+			<tvg_id>skyhigh-romancehdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8201.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3026,6 +3034,7 @@
 			<caption>Sky-High Comedy HDR</caption>
 			<channel_id>9031</channel_id>
 			<epg_id>skyhigh-comedyhdr</epg_id>
+			<tvg_id>skyhigh-comedyhdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/9031.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3034,6 +3043,7 @@
 			<caption>Sky-High Horror HDR</caption>
 			<channel_id>2906</channel_id>
 			<epg_id>skyhigh-horrorhdr</epg_id>
+			<tvg_id>skyhigh-horrorhdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/2906.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3042,6 +3052,7 @@
 			<caption>Sky-High Puppet HDR</caption>
 			<channel_id>7013</channel_id>
 			<epg_id>skyhigh-puppethdr</epg_id>
+			<tvg_id>skyhigh-puppethdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/7013.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3050,6 +3061,7 @@
 			<caption>Sky-High 3D Classic HDR</caption>
 			<channel_id>7876</channel_id>
 			<epg_id>skyhigh-3dclschdr</epg_id>
+			<tvg_id>skyhigh-3dclschdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/7876.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3058,6 +3070,7 @@
 			<caption>Sky-High 2D Classic HDR</caption>
 			<channel_id>4507</channel_id>
 			<epg_id>skyhigh-2dclschdr</epg_id>
+			<tvg_id>skyhigh-2dclschdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4507.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3066,6 +3079,7 @@
 			<caption>Sky-High NonStop HDR</caption>
 			<channel_id>2663</channel_id>
 			<epg_id>skyhigh-nonstophdr</epg_id>
+			<tvg_id>skyhigh-nonstophdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/2663.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3074,6 +3088,7 @@
 			<caption>Sky-High Mystic HDR</caption>
 			<channel_id>6489</channel_id>
 			<epg_id>skyhigh-mystichdr</epg_id>
+			<tvg_id>skyhigh-mystichdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6489.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3082,6 +3097,7 @@
 			<caption>Sky-High Family HDR</caption>
 			<channel_id>5038</channel_id>
 			<epg_id>skyhigh-familyhdr</epg_id>
+			<tvg_id>skyhigh-familyhdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5038.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3090,6 +3106,7 @@
 			<caption>Sky-High Century HDR</caption>
 			<channel_id>6580</channel_id>
 			<epg_id>skyhigh-centuryhdr</epg_id>
+			<tvg_id>skyhigh-centuryhdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6580.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3098,6 +3115,7 @@
 			<caption>Sky-High Detect HDR</caption>
 			<channel_id>6403</channel_id>
 			<epg_id>skyhigh-detecthdr</epg_id>
+			<tvg_id>skyhigh-detecthdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6403.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3106,6 +3124,7 @@
 			<caption>Sky-High Vampire HDR</caption>
 			<channel_id>3937</channel_id>
 			<epg_id>skyhigh-vamphdr</epg_id>
+			<tvg_id>skyhigh-vamphdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3937.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3114,6 +3133,7 @@
 			<caption>Sky-High Smash HDR</caption>
 			<channel_id>5921</channel_id>
 			<epg_id>skyhigh-smashhdr</epg_id>
+			<tvg_id>skyhigh-smashhdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5921.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3122,6 +3142,7 @@
 			<caption>Sky-High Sadly HDR</caption>
 			<channel_id>6925</channel_id>
 			<epg_id>skyhigh-sadlyhdr</epg_id>
+			<tvg_id>skyhigh-sadlyhdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6925.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3130,6 +3151,7 @@
 			<caption>Sky-High Western HDR</caption>
 			<channel_id>4176</channel_id>
 			<epg_id>skyhigh-western-hdr</epg_id>
+			<tvg_id>skyhigh-western-hdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4176.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3138,6 +3160,7 @@
 			<caption>Sky-High Legends HDR</caption>
 			<channel_id>4748</channel_id>
 			<epg_id>skyhigh-legends-hdr</epg_id>
+			<tvg_id>skyhigh-legends-hdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4748.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3146,6 +3169,7 @@
 			<caption>Sky-High Bloody HDR</caption>
 			<channel_id>1574</channel_id>
 			<epg_id>skyhigh-bloody-hdr</epg_id>
+			<tvg_id>skyhigh-bloody-hdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/1574.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3154,6 +3178,7 @@
 			<caption>Sky-High Crime HDR</caption>
 			<channel_id>1210</channel_id>
 			<epg_id>skyhigh-crime-hdr</epg_id>
+			<tvg_id>skyhigh-crime-hdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/1210.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3162,6 +3187,7 @@
 			<caption>Sky-High Bio HDR</caption>
 			<channel_id>2732</channel_id>
 			<epg_id>skyhigh-bio-hdr</epg_id>
+			<tvg_id>skyhigh-bio-hdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/2732.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3170,6 +3196,7 @@
 			<caption>Sky-High Cosmos HDR</caption>
 			<channel_id>7957</channel_id>
 			<epg_id>skyhigh-cosmos-hdr</epg_id>
+			<tvg_id>skyhigh-cosmos-hdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/7957.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3178,6 +3205,7 @@
 			<caption>Sky-High Deja-vu VHS HDR</caption>
 			<channel_id>8415</channel_id>
 			<epg_id>skyhigh-vhs-dejavu-hdr</epg_id>
+			<tvg_id>skyhigh-vhs-dejavu-hdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8415.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3186,6 +3214,7 @@
 			<caption>Sky-High Asian HDR</caption>
 			<channel_id>4148</channel_id>
 			<epg_id>skyhigh-asian-hdr</epg_id>
+			<tvg_id>skyhigh-asian-hdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4148.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3194,6 +3223,7 @@
 			<caption>Sky-High Future VHS HDR</caption>
 			<channel_id>8142</channel_id>
 			<epg_id>skyhigh-vhs-future-hdr</epg_id>
+			<tvg_id>skyhigh-vhs-future-hdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8142.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3202,6 +3232,7 @@
 			<caption>BOX Franchise HDR</caption>
 			<channel_id>4180</channel_id>
 			<epg_id>box-franchise-hdr</epg_id>
+			<tvg_id>box-franchise-hdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4180.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3210,6 +3241,7 @@
 			<caption>BOX Sitcom HD</caption>
 			<channel_id>8800</channel_id>
 			<epg_id>box-sitcom</epg_id>
+			<tvg_id>box-sitcom</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8800.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3218,6 +3250,7 @@
 			<caption>BCU Marvel HDR</caption>
 			<channel_id>3756</channel_id>
 			<epg_id>bcu-marvel</epg_id>
+			<tvg_id>bcu-marvel</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3756.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3226,6 +3259,7 @@
 			<caption>BCU Premiere 1 HDR</caption>
 			<channel_id>8155</channel_id>
 			<epg_id>bcu-kinozal-prem-1</epg_id>
+			<tvg_id>bcu-kinozal-prem-1</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8155.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3234,6 +3268,7 @@
 			<caption>BCU Premiere 2 HDR</caption>
 			<channel_id>6272</channel_id>
 			<epg_id>bcu-kinozal-prem-2</epg_id>
+			<tvg_id>bcu-kinozal-prem-2</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6272.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3242,6 +3277,7 @@
 			<caption>BCU Premiere 3 HDR</caption>
 			<channel_id>8656</channel_id>
 			<epg_id>bcu-kinozal-prem-3</epg_id>
+			<tvg_id>bcu-kinozal-prem-3</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8656.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3250,6 +3286,7 @@
 			<caption>BCU Premiere HDR</caption>
 			<channel_id>2228</channel_id>
 			<epg_id>bcu-premiere</epg_id>
+			<tvg_id>bcu-premiere</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/2228.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3258,6 +3295,7 @@
 			<caption>BCU Fantastic HDR</caption>
 			<channel_id>7734</channel_id>
 			<epg_id>bcu-fantastic</epg_id>
+			<tvg_id>bcu-fantastic</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/7734.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3266,6 +3304,7 @@
 			<caption>BCU Cosmo HDR</caption>
 			<channel_id>7560</channel_id>
 			<epg_id>bcu-cosmo-hdr</epg_id>
+			<tvg_id>bcu-cosmo-hdr</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/7560.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3274,14 +3313,16 @@
 			<caption>BCU FilMystic HDR</caption>
 			<channel_id>9078</channel_id>
 			<epg_id>bcu-filmystic</epg_id>
+			<tvg_id>bcu-filmystic</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/9078.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High JETIX HD</caption>
+			<caption>Sky High Jetix HD</caption>
 			<channel_id>4684</channel_id>
 			<epg_id>skyhigh-jetix-hd</epg_id>
+			<tvg_id>skyhigh-jetix-hd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4684.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3290,6 +3331,7 @@
 			<caption>BCU Action HDR</caption>
 			<channel_id>3887</channel_id>
 			<epg_id>bcu-action</epg_id>
+			<tvg_id>bcu-action</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3887.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3298,6 +3340,7 @@
 			<caption>GL Невский HD</caption>
 			<channel_id>4901</channel_id>
 			<epg_id>goldline-nevski</epg_id>
+			<tvg_id>goldline-nevski</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4901.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3306,6 +3349,7 @@
 			<caption>GL Детектив HD</caption>
 			<channel_id>6811</channel_id>
 			<epg_id>goldline-detektiv</epg_id>
+			<tvg_id>goldline-detektiv</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6811.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3314,6 +3358,7 @@
 			<caption>GL Выживание HD</caption>
 			<channel_id>4894</channel_id>
 			<epg_id>goldline-survival</epg_id>
+			<tvg_id>goldline-survival</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4894.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3322,6 +3367,7 @@
 			<caption>GL Сериалы HD</caption>
 			<channel_id>8035</channel_id>
 			<epg_id>goldline-series</epg_id>
+			<tvg_id>goldline-series</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8035.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3330,6 +3376,7 @@
 			<caption>GL Психо HD</caption>
 			<channel_id>7825</channel_id>
 			<epg_id>goldline-psy</epg_id>
+			<tvg_id>goldline-psy</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/7825.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3338,6 +3385,7 @@
 			<caption>GL Голые и cмешные HD</caption>
 			<channel_id>9507</channel_id>
 			<epg_id>goldline-naked</epg_id>
+			<tvg_id>goldline-naked</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/9507.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3346,6 +3394,7 @@
 			<caption>GL Остров HD</caption>
 			<channel_id>6826</channel_id>
 			<epg_id>goldline-island</epg_id>
+			<tvg_id>goldline-island</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6826.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3354,6 +3403,7 @@
 			<caption>GL Существование HD</caption>
 			<channel_id>3734</channel_id>
 			<epg_id>goldline-exist</epg_id>
+			<tvg_id>goldline-exist</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3734.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3362,6 +3412,7 @@
 			<caption>GL Улика HD</caption>
 			<channel_id>4571</channel_id>
 			<epg_id>goldline-evidence</epg_id>
+			<tvg_id>goldline-evidence</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4571.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3370,6 +3421,7 @@
 			<caption>GL Короткие истории HD</caption>
 			<channel_id>4847</channel_id>
 			<epg_id>goldline-brief</epg_id>
+			<tvg_id>goldline-brief</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4847.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -3378,6 +3430,7 @@
 			<caption>Liberty Мультверсия HD</caption>
 			<channel_id>2722</channel_id>
 			<epg_id>liberty-multiversia</epg_id>
+			<tvg_id>liberty-multiversia</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>14</archive>
@@ -4347,7 +4400,7 @@
 			<channel_id>1203</channel_id>
 			<int_id>733</int_id>
 			<epg_id>filmzone-ee</epg_id>
-			<tvg_id>filmzone</tvg_id>
+			<tvg_id>filmzone-ee</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/1203.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -5246,6 +5299,7 @@
 			<caption>Okko TV HD</caption>
 			<channel_id>9964</channel_id>
 			<epg_id>okko-tv</epg_id>
+			<tvg_id>okko-tv</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -5254,6 +5308,7 @@
 			<caption>Okko Герои HD</caption>
 			<channel_id>5192</channel_id>
 			<epg_id>okko-geroi</epg_id>
+			<tvg_id>okko-geroi</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -5713,7 +5768,7 @@
 			<channel_id>9012</channel_id>
 			<int_id>186</int_id>
 			<epg_id>tlc</epg_id>
-			<tvg_id>tlc-blk</tvg_id>
+			<tvg_id>tlc</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/9012.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
@@ -5923,7 +5978,7 @@
 			<channel_id>1636</channel_id>
 			<int_id>209</int_id>
 			<epg_id>rtg-tv</epg_id>
-			<tvg_id>rtg-hd</tvg_id>
+			<tvg_id>rtg-tv</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/1636.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
@@ -6253,7 +6308,7 @@
 			<channel_id>9427</channel_id>
 			<int_id>465</int_id>
 			<epg_id>tlc</epg_id>
-			<tvg_id>tlc-panregional</tvg_id>
+			<tvg_id>tlc</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/9427.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
@@ -6299,7 +6354,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>HD Life PREMIUM+</caption>
+			<caption>Точка РФ PREMIUM+</caption>
 			<channel_id>5446</channel_id>
 			<int_id>501</int_id>
 			<epg_id>hd-life</epg_id>
@@ -6613,7 +6668,7 @@
 			<channel_id>8608</channel_id>
 			<int_id>820</int_id>
 			<epg_id>tlc</epg_id>
-			<tvg_id>tlc-blk</tvg_id>
+			<tvg_id>tlc</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8608.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
@@ -6723,7 +6778,7 @@
 			<channel_id>2134</channel_id>
 			<int_id>989</int_id>
 			<epg_id>history</epg_id>
-			<tvg_id>history-eu</tvg_id>
+			<tvg_id>history</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/2134.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
@@ -6879,34 +6934,34 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Doc UHD</caption>
+			<caption>Sky High Teen HD</caption>
 			<channel_id>5777</channel_id>
-			<epg_id>skyhigh-docu</epg_id>
-			<tvg_id>skyhigh-docu</tvg_id>
+			<epg_id>sky-high-teen-fhd</epg_id>
+			<tvg_id>sky-high-teen-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5777.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Doc HD</caption>
+			<caption>Sky High Nord S HD</caption>
 			<channel_id>8022</channel_id>
-			<epg_id>skyhigh-doc</epg_id>
-			<tvg_id>skyhigh-doc</tvg_id>
+			<epg_id>sky-high-nord-s-fhd</epg_id>
+			<tvg_id>sky-high-nord-s-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8022.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Brain HD</caption>
+			<caption>Sky High Votum S HD</caption>
 			<channel_id>8442</channel_id>
-			<epg_id>skyhigh-brain</epg_id>
-			<tvg_id>skyhigh-brain</tvg_id>
+			<epg_id>sky-high-votum-s-fhd</epg_id>
+			<tvg_id>sky-high-votum-s-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8442.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Nature HD</caption>
+			<caption>Sky High Nature HD</caption>
 			<channel_id>7741</channel_id>
 			<epg_id>skyhigh-nature</epg_id>
 			<tvg_id>skyhigh-nature</tvg_id>
@@ -8154,10 +8209,10 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Fight HD</caption>
+			<caption>Sky High Undead HD</caption>
 			<channel_id>4840</channel_id>
-			<epg_id>skyhigh-fightpl</epg_id>
-			<tvg_id>skyhigh-fightpl</tvg_id>
+			<epg_id>sky-high-undead-fhd</epg_id>
+			<tvg_id>sky-high-undead-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4840.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8166,6 +8221,7 @@
 			<caption>BOX Sport Cast 8 Live HD</caption>
 			<channel_id>8683</channel_id>
 			<epg_id>box-sportcast-live8</epg_id>
+			<tvg_id>box-sportcast-live8</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8683.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8174,6 +8230,7 @@
 			<caption>BOX Sport Cast 9 Live HD</caption>
 			<channel_id>9919</channel_id>
 			<epg_id>box-sportcast-live9</epg_id>
+			<tvg_id>box-sportcast-live9</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/9919.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8182,6 +8239,7 @@
 			<caption>BOX Be on Edge HD Live 3</caption>
 			<channel_id>2007</channel_id>
 			<epg_id>box-beonedge3live</epg_id>
+			<tvg_id>box-beonedge3live</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/2007.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8190,6 +8248,7 @@
 			<caption>Okko Футбол HD</caption>
 			<channel_id>5920</channel_id>
 			<epg_id>okko-football</epg_id>
+			<tvg_id>okko-football</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5920.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8198,6 +8257,7 @@
 			<caption>UPL TV HD</caption>
 			<channel_id>8501</channel_id>
 			<epg_id>upltv</epg_id>
+			<tvg_id>upltv</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8501.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8206,6 +8266,7 @@
 			<caption>Megogo Sport HD</caption>
 			<channel_id>8100</channel_id>
 			<epg_id>megogo-sport</epg_id>
+			<tvg_id>megogo-sport</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8100.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8214,6 +8275,7 @@
 			<caption>BOX Sport 1 Live HD</caption>
 			<channel_id>5553</channel_id>
 			<epg_id>box-sport-1-live</epg_id>
+			<tvg_id>box-sport-1-live</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5553.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8222,6 +8284,7 @@
 			<caption>BOX Sport 2 Live HD</caption>
 			<channel_id>1804</channel_id>
 			<epg_id>box-sport-2-live</epg_id>
+			<tvg_id>box-sport-2-live</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/1804.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8230,6 +8293,7 @@
 			<caption>BOX Sport 3 Live HD</caption>
 			<channel_id>2305</channel_id>
 			<epg_id>box-sport-3-live</epg_id>
+			<tvg_id>box-sport-3-live</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/2305.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8238,6 +8302,7 @@
 			<caption>BOX Sport 4 Live HD</caption>
 			<channel_id>5315</channel_id>
 			<epg_id>box-sport-4-live</epg_id>
+			<tvg_id>box-sport-4-live</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5315.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8246,6 +8311,7 @@
 			<caption>BOX Sport 5 Live HD</caption>
 			<channel_id>6429</channel_id>
 			<epg_id>box-sport-5-live</epg_id>
+			<tvg_id>box-sport-5-live</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6429.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8254,6 +8320,7 @@
 			<caption>BOX Sport 6 Live HD</caption>
 			<channel_id>1845</channel_id>
 			<epg_id>box-sport-6-live</epg_id>
+			<tvg_id>box-sport-6-live</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/1845.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8262,6 +8329,7 @@
 			<caption>BOX Sport 7 Live HD</caption>
 			<channel_id>3853</channel_id>
 			<epg_id>box-sport-7-live</epg_id>
+			<tvg_id>box-sport-7-live</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3853.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8270,6 +8338,7 @@
 			<caption>BOX Sport 8 Live HD</caption>
 			<channel_id>5302</channel_id>
 			<epg_id>box-sport-8-live</epg_id>
+			<tvg_id>box-sport-8-live</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5302.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8278,6 +8347,7 @@
 			<caption>BOX Sport 9 Live HD</caption>
 			<channel_id>3321</channel_id>
 			<epg_id>box-sport-9-live</epg_id>
+			<tvg_id>box-sport-9-live</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3321.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8286,6 +8356,7 @@
 			<caption>Okko Прайм Спорт HD</caption>
 			<channel_id>5972</channel_id>
 			<epg_id>okko-sport-2</epg_id>
+			<tvg_id>okko-sport-2</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -8911,16 +8982,16 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Dance HD</caption>
+			<caption>Sky High Fear VHS HD</caption>
 			<channel_id>6692</channel_id>
-			<epg_id>skyhigh-dance</epg_id>
-			<tvg_id>skyhigh-dance</tvg_id>
+			<epg_id>sky-high-fear-vhs-fhd</epg_id>
+			<tvg_id>sky-high-fear-vhs-fhd</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6692.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High Concert HD</caption>
+			<caption>Sky High Concert HD</caption>
 			<channel_id>1295</channel_id>
 			<epg_id>skyhigh-concert</epg_id>
 			<tvg_id>skyhigh-concert</tvg_id>
@@ -8929,7 +9000,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sky-High LO FI HD</caption>
+			<caption>Sky High Lo Fi HD</caption>
 			<channel_id>6848</channel_id>
 			<epg_id>no_epg_music</epg_id>
 			<tvg_id>no_epg_music</tvg_id>
@@ -8950,6 +9021,7 @@
 			<caption>Liberty Музыка Индии HD</caption>
 			<channel_id>4646</channel_id>
 			<epg_id>non epg</epg_id>
+			<tvg_id>non epg</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4646.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -8958,6 +9030,7 @@
 			<caption>Liberty Музыка Латино HD</caption>
 			<channel_id>4333</channel_id>
 			<epg_id>non epg</epg_id>
+			<tvg_id>non epg</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4333.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -8966,6 +9039,7 @@
 			<caption>Liberty ПОП-Музыка HD</caption>
 			<channel_id>2038</channel_id>
 			<epg_id>non epg</epg_id>
+			<tvg_id>non epg</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/2038.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -8974,6 +9048,7 @@
 			<caption>Liberty Хиты 90-х HD</caption>
 			<channel_id>3455</channel_id>
 			<epg_id>non epg</epg_id>
+			<tvg_id>non epg</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3455.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -8982,6 +9057,7 @@
 			<caption>Liberty Хип-Хоп HD</caption>
 			<channel_id>3870</channel_id>
 			<epg_id>non epg</epg_id>
+			<tvg_id>non epg</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3870.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -8990,6 +9066,7 @@
 			<caption>Liberty K-POP HD</caption>
 			<channel_id>1711</channel_id>
 			<epg_id>non epg</epg_id>
+			<tvg_id>non epg</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/1711.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -8998,6 +9075,7 @@
 			<caption>Liberty Джаз HD</caption>
 			<channel_id>6875</channel_id>
 			<epg_id>non epg</epg_id>
+			<tvg_id>non epg</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6875.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -9006,6 +9084,7 @@
 			<caption>Liberty Рок Музыка HD</caption>
 			<channel_id>5458</channel_id>
 			<epg_id>non epg</epg_id>
+			<tvg_id>non epg</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5458.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -9014,6 +9093,7 @@
 			<caption>Liberty Музыкальный микс HD</caption>
 			<channel_id>6749</channel_id>
 			<epg_id>non epg</epg_id>
+			<tvg_id>non epg</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6749.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -9022,6 +9102,7 @@
 			<caption>Liberty DJ Музыка HD</caption>
 			<channel_id>3922</channel_id>
 			<epg_id>non epg</epg_id>
+			<tvg_id>non epg</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3922.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -9030,6 +9111,7 @@
 			<caption>Liberty R&amp;B HD</caption>
 			<channel_id>3548</channel_id>
 			<epg_id>no_epg_music</epg_id>
+			<tvg_id>no_epg_music</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -9038,6 +9120,7 @@
 			<caption>Liberty Альтернатива HD</caption>
 			<channel_id>8923</channel_id>
 			<epg_id>no_epg_music</epg_id>
+			<tvg_id>no_epg_music</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -9046,6 +9129,7 @@
 			<caption>Liberty Детский HD</caption>
 			<channel_id>7919</channel_id>
 			<epg_id>no_epg_music</epg_id>
+			<tvg_id>no_epg_music</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -9054,6 +9138,7 @@
 			<caption>Liberty Кантри HD</caption>
 			<channel_id>1963</channel_id>
 			<epg_id>no_epg_music</epg_id>
+			<tvg_id>no_epg_music</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -9062,6 +9147,7 @@
 			<caption>Liberty Классика HD</caption>
 			<channel_id>8127</channel_id>
 			<epg_id>no_epg_music</epg_id>
+			<tvg_id>no_epg_music</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -9070,6 +9156,7 @@
 			<caption>Liberty Электронная HD</caption>
 			<channel_id>6089</channel_id>
 			<epg_id>no_epg_music</epg_id>
+			<tvg_id>no_epg_music</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -9078,6 +9165,7 @@
 			<caption>Liberty Музыка DE HD</caption>
 			<channel_id>6833</channel_id>
 			<epg_id>no_epg_music</epg_id>
+			<tvg_id>no_epg_music</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -9086,6 +9174,7 @@
 			<caption>Liberty Шансон HD</caption>
 			<channel_id>7773</channel_id>
 			<epg_id>no_epg_music</epg_id>
+			<tvg_id>no_epg_music</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -9347,6 +9436,7 @@
 			<caption>EroLuxe Pregnant HD 18+</caption>
 			<channel_id>8614</channel_id>
 			<epg_id>eroluxe-pregnant</epg_id>
+			<tvg_id>eroluxe-pregnant</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8614.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9356,6 +9446,7 @@
 			<caption>EroLuxe Russian Teens HD 18+</caption>
 			<channel_id>3744</channel_id>
 			<epg_id>eroluxe-russian</epg_id>
+			<tvg_id>eroluxe-russian</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3744.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9365,6 +9456,7 @@
 			<caption>EroLuxe Shemales HD 18+</caption>
 			<channel_id>3911</channel_id>
 			<epg_id>eroluxe-shemale</epg_id>
+			<tvg_id>eroluxe-shemale</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3911.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9374,6 +9466,7 @@
 			<caption>EroLuxe 60FPS HD 18+</caption>
 			<channel_id>8403</channel_id>
 			<epg_id>eroluxe-60fps</epg_id>
+			<tvg_id>eroluxe-60fps</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8403.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9383,6 +9476,7 @@
 			<caption>EroLuxe Solo HD 18+</caption>
 			<channel_id>3058</channel_id>
 			<epg_id>eroluxe-solo</epg_id>
+			<tvg_id>eroluxe-solo</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3058.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9392,6 +9486,7 @@
 			<caption>EroLuxe Step Family HD 18+</caption>
 			<channel_id>4376</channel_id>
 			<epg_id>eroluxe-stepfamily</epg_id>
+			<tvg_id>eroluxe-stepfamily</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4376.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9401,6 +9496,7 @@
 			<caption>EroLuxe Milf HD 18+</caption>
 			<channel_id>4513</channel_id>
 			<epg_id>eroluxe-milf</epg_id>
+			<tvg_id>eroluxe-milf</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4513.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9410,6 +9506,7 @@
 			<caption>EroLuxe Lesbians HD 18+</caption>
 			<channel_id>5327</channel_id>
 			<epg_id>eroluxe-lesbians</epg_id>
+			<tvg_id>eroluxe-lesbians</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5327.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9419,6 +9516,7 @@
 			<caption>EroLuxe Massage HD 18+</caption>
 			<channel_id>4599</channel_id>
 			<epg_id>eroluxe-massage</epg_id>
+			<tvg_id>eroluxe-massage</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4599.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9428,6 +9526,7 @@
 			<caption>EroLuxe Orgy HD 18+</caption>
 			<channel_id>9709</channel_id>
 			<epg_id>eroluxe-orgy</epg_id>
+			<tvg_id>eroluxe-orgy</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/9709.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9437,6 +9536,7 @@
 			<caption>EroLuxe Japanese HD 18+</caption>
 			<channel_id>6438</channel_id>
 			<epg_id>eroluxe-japanese</epg_id>
+			<tvg_id>eroluxe-japanese</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6438.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9446,6 +9546,7 @@
 			<caption>EroLuxe Henati HD 18+</caption>
 			<channel_id>6697</channel_id>
 			<epg_id>eroluxe-henati</epg_id>
+			<tvg_id>eroluxe-henati</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6697.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9455,6 +9556,7 @@
 			<caption>EroLuxe Gloryhole HD 18+</caption>
 			<channel_id>7869</channel_id>
 			<epg_id>eroluxe-gloryhole</epg_id>
+			<tvg_id>eroluxe-gloryhole</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/7869.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9464,6 +9566,7 @@
 			<caption>EroLuxe Gays HD 18+</caption>
 			<channel_id>7739</channel_id>
 			<epg_id>eroluxe-gays</epg_id>
+			<tvg_id>eroluxe-gays</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/7739.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9473,6 +9576,7 @@
 			<caption>EroLuxe Ebony HD 18+</caption>
 			<channel_id>9137</channel_id>
 			<epg_id>eroluxe-ebony</epg_id>
+			<tvg_id>eroluxe-ebony</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/9137.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9482,6 +9586,7 @@
 			<caption>EroLuxe Cosplay HD</caption>
 			<channel_id>3171</channel_id>
 			<epg_id>eroluxe-cosplay</epg_id>
+			<tvg_id>eroluxe-cosplay</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3171.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9491,6 +9596,7 @@
 			<caption>EroLuxe Cinema HD 18+</caption>
 			<channel_id>2705</channel_id>
 			<epg_id>eroluxe-cinema</epg_id>
+			<tvg_id>eroluxe-cinema</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/2705.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9500,6 +9606,7 @@
 			<caption>EroLuxe Blowjob HD 18+</caption>
 			<channel_id>4455</channel_id>
 			<epg_id>eroluxe-blowjob</epg_id>
+			<tvg_id>eroluxe-blowjob</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4455.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9509,6 +9616,7 @@
 			<caption>EroLuxe Anal HD 18+</caption>
 			<channel_id>9758</channel_id>
 			<epg_id>eroluxe-anal</epg_id>
+			<tvg_id>eroluxe-anal</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/9758.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9518,6 +9626,7 @@
 			<caption>EroLuxe Blondes HD 18+</caption>
 			<channel_id>2744</channel_id>
 			<epg_id>eroluxe-blonde</epg_id>
+			<tvg_id>eroluxe-blonde</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/2744.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9527,6 +9636,7 @@
 			<caption>EroLuxe Asian HD 18+</caption>
 			<channel_id>8070</channel_id>
 			<epg_id>eroluxe-asian</epg_id>
+			<tvg_id>eroluxe-asian</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8070.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9536,6 +9646,7 @@
 			<caption>EroLuxe Schoolgirl HD 18+</caption>
 			<channel_id>9168</channel_id>
 			<epg_id>eroluxe-schoolgirl</epg_id>
+			<tvg_id>eroluxe-schoolgirl</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/9168.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9545,6 +9656,7 @@
 			<caption>EroLuxe RedHeads HD 18+</caption>
 			<channel_id>6929</channel_id>
 			<epg_id>eroluxe-redheads</epg_id>
+			<tvg_id>eroluxe-redheads</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6929.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9554,6 +9666,7 @@
 			<caption>EroLuxe Public Agent HD 18+</caption>
 			<channel_id>4553</channel_id>
 			<epg_id>eroluxe-publicagent</epg_id>
+			<tvg_id>eroluxe-publicagent</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4553.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9563,6 +9676,7 @@
 			<caption>EroLuxe P.O.V. HD 18+</caption>
 			<channel_id>9822</channel_id>
 			<epg_id>eroluxe-pov</epg_id>
+			<tvg_id>eroluxe-pov</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/9822.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9572,6 +9686,7 @@
 			<caption>EroLuxe Parody HD 18+</caption>
 			<channel_id>8052</channel_id>
 			<epg_id>eroluxe-parody</epg_id>
+			<tvg_id>eroluxe-parody</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8052.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9581,6 +9696,7 @@
 			<caption>EroLuxe GangBang  HD 18+</caption>
 			<channel_id>8304</channel_id>
 			<epg_id>eroluxe-gangbang</epg_id>
+			<tvg_id>eroluxe-gangbang</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8304.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9590,6 +9706,7 @@
 			<caption>EroLuxe Fisting HD 18+</caption>
 			<channel_id>8200</channel_id>
 			<epg_id>eroluxe-fisting</epg_id>
+			<tvg_id>eroluxe-fisting</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/8200.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9599,6 +9716,7 @@
 			<caption>EroLuxe Foot Fetish HD 18+</caption>
 			<channel_id>5572</channel_id>
 			<epg_id>eroluxe-footfetish</epg_id>
+			<tvg_id>eroluxe-footfetish</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5572.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9608,6 +9726,7 @@
 			<caption>EroLuxe Fake Taxi HD 18+</caption>
 			<channel_id>2786</channel_id>
 			<epg_id>eroluxe-faketaxi</epg_id>
+			<tvg_id>eroluxe-faketaxi</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/2786.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9617,6 +9736,7 @@
 			<caption>EroLuxe Creampie HD 18+</caption>
 			<channel_id>6132</channel_id>
 			<epg_id>eroluxe-creampie</epg_id>
+			<tvg_id>eroluxe-creampie</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6132.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9626,6 +9746,7 @@
 			<caption>EroLuxe Cuckold HD 18+</caption>
 			<channel_id>3065</channel_id>
 			<epg_id>eroluxe-cuckold</epg_id>
+			<tvg_id>eroluxe-cuckold</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3065.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9635,6 +9756,7 @@
 			<caption>EroLuxe CheerLeader HD 18+</caption>
 			<channel_id>3893</channel_id>
 			<epg_id>eroluxe-cheerleader</epg_id>
+			<tvg_id>eroluxe-cheerleader</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/3893.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9644,6 +9766,7 @@
 			<caption>EroLuxe Brunette HD 18+</caption>
 			<channel_id>7956</channel_id>
 			<epg_id>eroluxe-brunette</epg_id>
+			<tvg_id>eroluxe-brunette</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/7956.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9653,6 +9776,7 @@
 			<caption>EroLuxe Big Cock HD 18+</caption>
 			<channel_id>5851</channel_id>
 			<epg_id>eroluxe-bigcock</epg_id>
+			<tvg_id>eroluxe-bigcock</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5851.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9662,6 +9786,7 @@
 			<caption>EroLuxe B.D.S.M HD 18+</caption>
 			<channel_id>6725</channel_id>
 			<epg_id>eroluxe-bdsm</epg_id>
+			<tvg_id>eroluxe-bdsm</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6725.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9671,6 +9796,7 @@
 			<caption>EroLuxe BabySitter HD 18+</caption>
 			<channel_id>6470</channel_id>
 			<epg_id>eroluxe-babysitter</epg_id>
+			<tvg_id>eroluxe-babysitter</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6470.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>
@@ -9680,6 +9806,7 @@
 			<caption>EroLuxe B.B.W HD 18+</caption>
 			<channel_id>6117</channel_id>
 			<epg_id>eroluxe-bbw</epg_id>
+			<tvg_id>eroluxe-bbw</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/6117.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>14</archive>

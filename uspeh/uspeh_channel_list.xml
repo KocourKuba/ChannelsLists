@@ -51,7 +51,7 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
@@ -63,13 +63,13 @@
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -236,44 +236,44 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>CNN</caption>
+			<caption>CNN HD US</caption>
 			<channel_id>8760</channel_id>
-			<epg_id>CNN</epg_id>
+			<epg_id>CNN HD US</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/CNN%20CA.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>CNN HD</caption>
+			<caption>CNN HD TR</caption>
 			<channel_id>8861</channel_id>
-			<epg_id>CNN HD</epg_id>
+			<epg_id>CNN HD TR</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/CNN%20HD%20CA.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Fox News</caption>
+			<caption>Fox News US</caption>
 			<channel_id>8378</channel_id>
-			<epg_id>Fox News</epg_id>
+			<epg_id>Fox News US</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/FOX%20NEWS%20CHANNEL%20FHD.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ABC HD</caption>
+			<caption>ABC HD US</caption>
 			<channel_id>8122</channel_id>
-			<epg_id>ABC HD</epg_id>
+			<epg_id>ABC HD US</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/ABC.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>BBC News</caption>
+			<caption>BBC News US</caption>
 			<channel_id>8036</channel_id>
-			<epg_id>BBC News</epg_id>
+			<epg_id>BBC News US</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/BBC%20World%20News%20HD%20US.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>BBC 2 HD</caption>
+			<caption>BBC 2 HD US</caption>
 			<channel_id>8673</channel_id>
-			<epg_id>BBC 2 HD</epg_id>
+			<epg_id>BBC 2 HD US</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/BBC%202%20HD.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
@@ -285,9 +285,9 @@
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>CNBC</caption>
+			<caption>CNBC US</caption>
 			<channel_id>8675</channel_id>
-			<epg_id>CNBC</epg_id>
+			<epg_id>CNBC US</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/CNBC%20Canada%20CA.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 		</tv_channel>
@@ -483,7 +483,7 @@
 			<caption>Домашний</caption>
 			<channel_id>8062</channel_id>
 			<epg_id>Домашний</epg_id>
-			<icon_url>https://m3u.admuspeh.my/icon/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png</icon_url>
+			<icon_url>https://m3u.admuspeh.my/icon/domashni4.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -491,7 +491,7 @@
 			<caption>Домашний International</caption>
 			<channel_id>8124</channel_id>
 			<epg_id>Домашний International</epg_id>
-			<icon_url>https://m3u.admuspeh.my/icon/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png</icon_url>
+			<icon_url>https://m3u.admuspeh.my/icon/domashni4.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1141,9 +1141,9 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>English Club TV</caption>
+			<caption>English Class HD</caption>
 			<channel_id>8208</channel_id>
-			<epg_id>English Club TV</epg_id>
+			<epg_id>English Class HD</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/English%20Club%20TV%20HD%20Orig.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>7</archive>
@@ -1373,9 +1373,9 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>NBA TV</caption>
+			<caption>NBA TV US</caption>
 			<channel_id>8061</channel_id>
-			<epg_id>NBA TV</epg_id>
+			<epg_id>NBA TV US</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/NBA%20TV%20HD%20US.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
@@ -1428,9 +1428,9 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ESPN</caption>
+			<caption>ESPN US</caption>
 			<channel_id>8755</channel_id>
-			<epg_id>ESPN</epg_id>
+			<epg_id>ESPN US</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/ESPN%201%20HD%20NL.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
@@ -2152,9 +2152,9 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Zee TV</caption>
+			<caption>Индия</caption>
 			<channel_id>8155</channel_id>
-			<epg_id>Zee TV</epg_id>
+			<epg_id>Индия</epg_id>
 			<icon_url>https://m3u.admuspeh.my/icon/%D0%98%D0%BD%D0%B4%D0%B8%D1%8F%20HD.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>
@@ -3808,13 +3808,6 @@
 			<icon_url>https://m3u.admuspeh.my/icon/cineman-relax.png</icon_url>
 			<tv_category_id>21</tv_category_id>
 			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>SKY HIGH mix 4K</caption>
-			<channel_id>8682</channel_id>
-			<epg_id>SKY HIGH mix 4K</epg_id>
-			<icon_url>https://m3u.admuspeh.my/icon/SKY%20HIGH%20MIX%204K.png</icon_url>
-			<tv_category_id>21</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Наша сибирь 4K</caption>

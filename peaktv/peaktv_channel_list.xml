@@ -56,19 +56,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -77,7 +77,7 @@
 		<tv_channel>
 			<caption>Первый канал HD</caption>
 			<channel_id>bigteisti9/PERVIY</channel_id>
-			<epg_id>elb341</epg_id>
+			<epg_id>elb2364</epg_id>
 			<icon_url>http://i.peaktv.info/img/logos/efir/pervyj.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
@@ -85,7 +85,7 @@
 		<tv_channel>
 			<caption>Первый канал</caption>
 			<channel_id>bigteisti6/pervbIiy_kAnAl</channel_id>
-			<epg_id>elb340</epg_id>
+			<epg_id>elb2364</epg_id>
 			<icon_url>http://i.peaktv.info/img/logos/efir/pervy-kanal-eu.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
@@ -141,7 +141,7 @@
 		<tv_channel>
 			<caption>ТНТ HD</caption>
 			<channel_id>bigteisti8/TNT_HD</channel_id>
-			<epg_id>elb419</epg_id>
+			<epg_id>elb2992</epg_id>
 			<icon_url>http://i.peaktv.info/img/logos/show/tnt.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>3</archive>
@@ -1071,10 +1071,10 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Anime HD</caption>
+			<caption>SKY HIGH Archive FHD</caption>
 			<channel_id>bigteisti20/08946930</channel_id>
-			<epg_id>elb4509</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<epg_id>elb4796</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH ARCHIVE LOGO.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2433,18 +2433,18 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Man HD</caption>
+			<caption>SKY HIGH Romix FHD</caption>
 			<channel_id>bigteisti20/08946915</channel_id>
-			<epg_id>elb4530</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<epg_id>elb4786</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH ROMIX LOGO.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH StandUp HD</caption>
+			<caption>SKY HIGH Toon S FHD</caption>
 			<channel_id>bigteisti20/08946940</channel_id>
-			<epg_id>elb4528</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/skyhigh/standup2.png</icon_url>
+			<epg_id>elb4801</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH TOON S LOGO.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -2982,22 +2982,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Z! Music</caption>
-			<channel_id>bigteisti10/Z_Music</channel_id>
-			<epg_id>elb2231</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/music/zmusic.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Rock</caption>
-			<channel_id>bigteisti10/Z_Rock</channel_id>
-			<epg_id>elb2231</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/zrock.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>NickMusic</caption>
 			<channel_id>bigteisti1/nickmusic</channel_id>
 			<epg_id>elb2226</epg_id>
@@ -3200,18 +3184,18 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Dance HD</caption>
+			<caption>SKY HIGH Dragon FHD</caption>
 			<channel_id>bigteisti20/08946911</channel_id>
-			<epg_id>elb4524</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/skyhigh/dance.png</icon_url>
+			<epg_id>elb4782</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH DRAGON LOGO.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Concert HD</caption>
+			<caption>SKY HIGH Medy VHS FHD</caption>
 			<channel_id>bigteisti20/08946916</channel_id>
-			<epg_id>elb4519</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<epg_id>elb4787</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH MEDY VHS LOGO.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -4052,10 +4036,10 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Fight HD</caption>
+			<caption>SKY HIGH Ring S FHD</caption>
 			<channel_id>bigteisti20/08946913</channel_id>
-			<epg_id>elb4514</epg_id>
-			<icon_url>https://epg.iptvx.one/picons/skyhigh-fightpl.png</icon_url>
+			<epg_id>elb4784</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH RING S LOGO.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -4688,14 +4672,14 @@
 		<tv_channel>
 			<caption>Sport 5 Plus HD IL</caption>
 			<channel_id>bigteisti19/09946939</channel_id>
-			<epg_id>Sport 5 Plus HD IL</epg_id>
+			<epg_id>elb736</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport 5 Star IL</caption>
+			<caption>Sport 5 Stars IL</caption>
 			<channel_id>bigteisti20/08946998</channel_id>
-			<epg_id>Sport 5 Star IL</epg_id>
+			<epg_id>elb737</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
@@ -5151,14 +5135,6 @@
 			<epg_id>elb2224</epg_id>
 			<icon_url>http://i.peaktv.info/img/logos/sport/nhl.jpg</icon_url>
 			<tv_category_id>7</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Canal+ Sport 5 PL</caption>
-			<channel_id>bigteisti13/08936931</channel_id>
-			<epg_id>elb1127</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Astro Football</caption>
@@ -6558,182 +6534,6 @@
 			<channel_id>bigteisti1/Y-C-LIVE</channel_id>
 			<epg_id>elb451</epg_id>
 			<icon_url>http://i.peaktv.info/img/logos/yosso_tv/c-live.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Channel</caption>
-			<channel_id>bigteisti10/Z_Channel</channel_id>
-			<epg_id>elb4024</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/Z!CH1.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Comedy</caption>
-			<channel_id>bigteisti10/Z_Comedy</channel_id>
-			<epg_id>elb4028</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/zcomedy.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Crime</caption>
-			<channel_id>bigteisti10/Z_Crime</channel_id>
-			<epg_id>elb4029</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/zcrime.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Horror</caption>
-			<channel_id>bigteisti10/Z_Horror</channel_id>
-			<epg_id>elb4036</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/zhorror.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Serial</caption>
-			<channel_id>bigteisti10/Z_Serial</channel_id>
-			<epg_id>elb4039</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/zserial.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Sitcom</caption>
-			<channel_id>bigteisti10/Z_Sitcom</channel_id>
-			<epg_id>elb4040</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/zsitcom.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Smile</caption>
-			<channel_id>bigteisti10/Z_Smile</channel_id>
-			<epg_id>elb4041</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/zsmile.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Fun</caption>
-			<channel_id>bigteisti10/Z_Fun</channel_id>
-			<epg_id>elb4045</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/zfun.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Action</caption>
-			<channel_id>bigteisti10/Z_Action</channel_id>
-			<epg_id>elb4025</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZAction.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Adventure</caption>
-			<channel_id>bigteisti10/Z_Adventure</channel_id>
-			<epg_id>elb4026</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZAdventure.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Biography</caption>
-			<channel_id>bigteisti10/Z_Biography</channel_id>
-			<epg_id>elb4027</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZBiography.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Detective</caption>
-			<channel_id>bigteisti10/Z_Detective</channel_id>
-			<epg_id>elb4030</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZDetective.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Drama</caption>
-			<channel_id>bigteisti10/Z_Drama</channel_id>
-			<epg_id>elb4031</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZDrama.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Family</caption>
-			<channel_id>bigteisti10/Z_Family</channel_id>
-			<epg_id>elb4032</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZFamily.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Fantastic</caption>
-			<channel_id>bigteisti10/Z_Fantastic</channel_id>
-			<epg_id>elb4033</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZFantastic.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Fantasy</caption>
-			<channel_id>bigteisti10/Z_Fantasy</channel_id>
-			<epg_id>elb4034</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZFantasy.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! History</caption>
-			<channel_id>bigteisti10/Z_History</channel_id>
-			<epg_id>elb4035</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZHistory.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Russian</caption>
-			<channel_id>bigteisti10/Z_Russian</channel_id>
-			<epg_id>elb4038</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZRussian.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Thriller</caption>
-			<channel_id>bigteisti10/Z_Thriller</channel_id>
-			<epg_id>elb4042</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZThriller.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Military</caption>
-			<channel_id>bigteisti10/Z_Military</channel_id>
-			<epg_id>elb4037</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZMilitary.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Science</caption>
-			<channel_id>bigteisti10/Z_Science</channel_id>
-			<epg_id>elb4043</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZScience.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Travel</caption>
-			<channel_id>bigteisti10/Z_Travel</channel_id>
-			<epg_id>elb4044</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/ZTravel.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -8559,58 +8359,59 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH DRAMA 4K HDR</caption>
+			<caption>SKY HIGH Nick S FHD</caption>
 			<channel_id>bigteisti20/08946922</channel_id>
-			<epg_id>elb4709</epg_id>
+			<epg_id>elb4825</epg_id>
 			<icon_url>http://i.peaktv.info/img/logos/skyhigh/skyhighdramahdr200.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Russian HD</caption>
+			<caption>SKY HIGH Votum S FHD</caption>
 			<channel_id>bigteisti20/08946927</channel_id>
-			<epg_id>elb4511</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/skyhigh/russian.png</icon_url>
+			<epg_id>elb4793</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH VOTUM S LOGO.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Fresh HDR</caption>
+			<caption>SKY HIGH Joke FHD</caption>
 			<channel_id>bigteisti20/08946917</channel_id>
-			<epg_id>elb4522</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/skyhigh/fresh_hdr_1.png</icon_url>
+			<epg_id>elb4788</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH JOKE LOGO.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Fresh HD</caption>
+			<caption>SKY HIGH Heart S FHD</caption>
 			<channel_id>bigteisti20/08946920</channel_id>
-			<epg_id>elb4522</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/skyhigh/fresh.png</icon_url>
+			<epg_id>elb4789</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH HEART S LOGO.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Epoch HD</caption>
+			<caption>SKY HIGH SEX HD</caption>
 			<channel_id>bigteisti20/08946909</channel_id>
-			<epg_id>elb4512</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<epg_id>elb</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/123.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
+			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Heroes HD</caption>
+			<caption>SKY HIGH Woonder FHD</caption>
 			<channel_id>bigteisti20/08946910</channel_id>
-			<epg_id>elb4516</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/skyhigh/heroes.png</icon_url>
+			<epg_id>elb4781</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH WOONDER LOGO.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Spirit HD</caption>
+			<caption>SKY HIGH Wizz VHS FHD</caption>
 			<channel_id>bigteisti20/08946912</channel_id>
-			<epg_id>elb4529</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<epg_id>elb4783</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH WIZZ VHS LOGO.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -8623,50 +8424,50 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Classic HD</caption>
+			<caption>SKY HIGH Mono FHD</caption>
 			<channel_id>bigteisti20/08946924</channel_id>
-			<epg_id>elb4515</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/skyhigh/skyhigh2dclassic200.png</icon_url>
+			<epg_id>elb4791</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH MONO LOGO.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH New 60</caption>
+			<caption>SKY HIGH Nord S FHD</caption>
 			<channel_id>bigteisti20/08946928</channel_id>
-			<epg_id>SKY HIGH New 60</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<epg_id>elb4794</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH NORD S LOGO.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Adult HD</caption>
+			<caption>SKY HIGH Case VHS FHD</caption>
 			<channel_id>bigteisti20/08946926</channel_id>
-			<epg_id>elb4507</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/skyhigh/adult1.png</icon_url>
+			<epg_id>elb4792</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH CASE VHS LOGO.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Series HD</caption>
+			<caption>SKY HIGH Red S FHD</caption>
 			<channel_id>bigteisti20/08946914</channel_id>
-			<epg_id>elb4508</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<epg_id>elb4785</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH RED S LOGO.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH BY SLONKA</caption>
+			<caption>SKY HIGH Zippy S FHD</caption>
 			<channel_id>bigteisti20/08946923</channel_id>
-			<epg_id>SKY HIGH BY SLONKA</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<epg_id>elb4790</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH ZIPPY S LOGO.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>SKY HIGH Kids USSR</caption>
+			<caption>SKY HIGH Trace S FHD</caption>
 			<channel_id>bigteisti20/08946929</channel_id>
-			<epg_id>elb4525</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/skyhigh/kidsUSSR2.png</icon_url>
+			<epg_id>elb4795</epg_id>
+			<icon_url>http://i.peaktv.info/img/logos/skyhigh/SKY-HIGH TRACE S LOGO.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -8958,24 +8759,6 @@
 			<channel_id>bigteisti1/Y-SEXY</channel_id>
 			<epg_id>elb474</epg_id>
 			<icon_url>http://i.peaktv.info/img/logos/yosso_tv/sexy.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-			<archive>3</archive>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! Adult</caption>
-			<channel_id>bigteisti10/Z_Adult</channel_id>
-			<epg_id>elb2231</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/zadult.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-			<archive>3</archive>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Z! LovesBerry</caption>
-			<channel_id>bigteisti10/Z_Loves_berry</channel_id>
-			<epg_id>elb2231</epg_id>
-			<icon_url>http://i.peaktv.info/img/logos/kinoInt/zlovesberry.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 			<archive>3</archive>
 			<protected>1</protected>

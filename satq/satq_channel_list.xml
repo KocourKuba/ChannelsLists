@@ -66,19 +66,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Favorites</caption>
+			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>All Channels</caption>
+			<caption>Все каналы</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>History</caption>
+			<caption>История</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -6173,14 +6173,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>C Sport 3 HD</caption>
-			<channel_id>4373</channel_id>
-			<epg_id>c-pl-sport-3</epg_id>
-			<icon_url>https://iptvx.one/picons/c-pl-sport-3.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>C Sport 4 HD</caption>
 			<channel_id>51682</channel_id>
 			<epg_id>c-pl-sport-4</epg_id>
@@ -7845,7 +7837,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>КИНЕКО</caption>
+			<caption>КИНЕКО HD</caption>
 			<channel_id>1221</channel_id>
 			<epg_id>kineko</epg_id>
 			<icon_url>https://iptvx.one/picons/kineko.png</icon_url>
@@ -7853,7 +7845,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>КИНЕКО HD</caption>
+			<caption>КИНЕКО</caption>
 			<channel_id>2558</channel_id>
 			<epg_id>kineko</epg_id>
 			<icon_url>https://iptvx.one/picons/kineko.png</icon_url>
@@ -8137,246 +8129,6 @@
 			<channel_id>999</channel_id>
 			<epg_id>Play-x Беларусьфильм</epg_id>
 			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3357.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 1</caption>
-			<channel_id>1029</channel_id>
-			<epg_id>mitv0600</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3341.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 2</caption>
-			<channel_id>1030</channel_id>
-			<epg_id>mitv0601</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3342.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 3</caption>
-			<channel_id>1031</channel_id>
-			<epg_id>mitv0602</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3343.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 4</caption>
-			<channel_id>1032</channel_id>
-			<epg_id>mitv0603</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3344.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 5</caption>
-			<channel_id>1033</channel_id>
-			<epg_id>mitv0604</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3345.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 6</caption>
-			<channel_id>1034</channel_id>
-			<epg_id>mitv0605</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3346.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 7</caption>
-			<channel_id>1035</channel_id>
-			<epg_id>mitv0606</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3347.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 8</caption>
-			<channel_id>1036</channel_id>
-			<epg_id>mitv0607</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3348.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 9</caption>
-			<channel_id>1037</channel_id>
-			<epg_id>mitv0608</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3349.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 10</caption>
-			<channel_id>1038</channel_id>
-			<epg_id>mitv0609</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3350.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 11</caption>
-			<channel_id>1039</channel_id>
-			<epg_id>mitv0610</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3380.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 12</caption>
-			<channel_id>1040</channel_id>
-			<epg_id>mitv0611</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3382.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 13</caption>
-			<channel_id>1041</channel_id>
-			<epg_id>mitv0612</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3407.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 14</caption>
-			<channel_id>1042</channel_id>
-			<epg_id>mitv0613</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3383.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 15</caption>
-			<channel_id>1043</channel_id>
-			<epg_id>mitv0614</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3384.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 16</caption>
-			<channel_id>1044</channel_id>
-			<epg_id>mitv0615</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3385.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 17</caption>
-			<channel_id>1045</channel_id>
-			<epg_id>mitv0616</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3386.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 18</caption>
-			<channel_id>1046</channel_id>
-			<epg_id>mitv0617</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3387.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 19</caption>
-			<channel_id>1047</channel_id>
-			<epg_id>mitv0618</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3388.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 20</caption>
-			<channel_id>1048</channel_id>
-			<epg_id>mitv0619</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3408.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 21</caption>
-			<channel_id>1049</channel_id>
-			<epg_id>mitv0620</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3409.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 22</caption>
-			<channel_id>1050</channel_id>
-			<epg_id>mitv0621</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3410.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 23</caption>
-			<channel_id>1051</channel_id>
-			<epg_id>mitv0622</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3411.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 24</caption>
-			<channel_id>1052</channel_id>
-			<epg_id>mitv0623</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3393.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 25</caption>
-			<channel_id>1053</channel_id>
-			<epg_id>mitv0624</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3394.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 26</caption>
-			<channel_id>1054</channel_id>
-			<epg_id>mitv0625</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3395.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 27</caption>
-			<channel_id>1055</channel_id>
-			<epg_id>mitv0626</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3396.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 28</caption>
-			<channel_id>1056</channel_id>
-			<epg_id>mitv0627</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3397.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 29</caption>
-			<channel_id>1057</channel_id>
-			<epg_id>mitv0628</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3398.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Кинозал 30</caption>
-			<channel_id>1058</channel_id>
-			<epg_id>mitv0629</epg_id>
-			<icon_url>http://sr1.mitv-iptv.ru:4000/icons/3399.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -10818,366 +10570,366 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Каратист FHD</caption>
+			<caption>ЧебурТВ ХБ</caption>
 			<channel_id>3726</channel_id>
-			<epg_id>Чебур ТВ - Каратист FHD</epg_id>
+			<epg_id>ЧебурТВ ХБ</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Приключения FHD</caption>
+			<caption>ЧебурТВ Приключения</caption>
 			<channel_id>3729</channel_id>
-			<epg_id>Чебур ТВ - Приключения FHD</epg_id>
+			<epg_id>ЧебурТВ Приключения</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Драма FHD</caption>
+			<caption>ЧебурТВ Драма</caption>
 			<channel_id>3731</channel_id>
-			<epg_id>Чебур ТВ - Драма FHD</epg_id>
+			<epg_id>ЧебурТВ Драма</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Триллер FHD</caption>
+			<caption>ЧебурТВ Триллер</caption>
 			<channel_id>3732</channel_id>
-			<epg_id>Чебур ТВ - Триллер FHD</epg_id>
+			<epg_id>ЧебурТВ Триллер</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Ужастики FHD</caption>
+			<caption>ЧебурТВ Ужастики</caption>
 			<channel_id>3733</channel_id>
-			<epg_id>Чебур ТВ - Ужастики FHD</epg_id>
+			<epg_id>ЧебурТВ Ужастики</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Новинки FHD</caption>
+			<caption>ЧебурТВ Новинки</caption>
 			<channel_id>3734</channel_id>
-			<epg_id>Чебур ТВ - Новинки FHD</epg_id>
+			<epg_id>ЧебурТВ Новинки</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - МультЭпоха СССР</caption>
+			<caption>ЧебурТВ МультЭпоха СССР</caption>
 			<channel_id>3737</channel_id>
-			<epg_id>Чебур ТВ - МультЭпоха СССР</epg_id>
+			<epg_id>ЧебурТВ МультЭпоха СССР</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - oreginal</caption>
+			<caption>ЧебурТВ oreginal</caption>
 			<channel_id>3738</channel_id>
-			<epg_id>Чебур ТВ - oreginal</epg_id>
+			<epg_id>ЧебурТВ oreginal</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Спортивный FHD</caption>
+			<caption>ЧебурТВ Спортивный</caption>
 			<channel_id>3739</channel_id>
-			<epg_id>Чебур ТВ - Спортивный FHD</epg_id>
+			<epg_id>ЧебурТВ Спортивный</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Армагеддон FHD</caption>
+			<caption>ЧебурТВ Армагеддон</caption>
 			<channel_id>3740</channel_id>
-			<epg_id>Чебур ТВ - Армагеддон FHD</epg_id>
+			<epg_id>ЧебурТВ Армагеддон</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Назад в СССР FHD</caption>
+			<caption>ЧебурТВ Назад в СССР</caption>
 			<channel_id>3741</channel_id>
-			<epg_id>Чебур ТВ - Назад в СССР FHD</epg_id>
+			<epg_id>ЧебурТВ Назад в СССР</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Мистика FHD</caption>
+			<caption>ЧебурТВ Мистика</caption>
 			<channel_id>3742</channel_id>
-			<epg_id>Чебур ТВ - Мистика FHD</epg_id>
+			<epg_id>ЧебурТВ Мистика</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Series FHD</caption>
+			<caption>ЧебурТВ Series</caption>
 			<channel_id>3743</channel_id>
-			<epg_id>Чебур ТВ - Series FHD</epg_id>
+			<epg_id>ЧебурТВ Series</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Чебурашкин MIX</caption>
+			<caption>ЧебурТВ MIX</caption>
 			<channel_id>3744</channel_id>
-			<epg_id>Чебур ТВ - Чебурашкин MIX</epg_id>
+			<epg_id>ЧебурТВ MIX</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - MultSeries FHD</caption>
+			<caption>ЧебурТВ MultSeries</caption>
 			<channel_id>3745</channel_id>
-			<epg_id>Чебур ТВ - MultSeries FHD</epg_id>
+			<epg_id>ЧебурТВ MultSeries</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Наше Детство СССР</caption>
+			<caption>ЧебурТВ Наше Детство СССР</caption>
 			<channel_id>3746</channel_id>
-			<epg_id>Чебур ТВ - Наше Детство СССР</epg_id>
+			<epg_id>ЧебурТВ Наше Детство СССР</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Мелодрама HD</caption>
+			<caption>ЧебурТВ Мелодрама</caption>
 			<channel_id>3749</channel_id>
-			<epg_id>Чебур ТВ - Мелодрама HD</epg_id>
+			<epg_id>ЧебурТВ Мелодрама</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Смешной FHD</caption>
+			<caption>ЧебурТВ Смешной</caption>
 			<channel_id>3750</channel_id>
-			<epg_id>Чебур ТВ - Смешной FHD</epg_id>
+			<epg_id>ЧебурТВ Смешной</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Семейное FHD</caption>
+			<caption>ЧебурТВ Семейное</caption>
 			<channel_id>3751</channel_id>
-			<epg_id>Чебур ТВ - Семейное FHD</epg_id>
+			<epg_id>ЧебурТВ Семейное</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - RU Кино FHD</caption>
+			<caption>ЧебурТВ RU Кино</caption>
 			<channel_id>3752</channel_id>
-			<epg_id>Чебур ТВ - RU Кино FHD</epg_id>
+			<epg_id>ЧебурТВ RU Кино</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ-Физ-Мульт Привет FHD</caption>
+			<caption>ЧебурТВ Физ-Мульт Привет</caption>
 			<channel_id>3753</channel_id>
-			<epg_id>Чебур ТВ-Физ-Мульт Привет FHD</epg_id>
+			<epg_id>ЧебурТВ Физ-Мульт Привет</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Вестерн HD</caption>
+			<caption>ЧебурТВ Вестерн</caption>
 			<channel_id>3754</channel_id>
-			<epg_id>Чебур ТВ - Вестерн HD</epg_id>
+			<epg_id>ЧебурТВ Вестерн</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Военный FHD</caption>
+			<caption>ЧебурТВ Военный</caption>
 			<channel_id>3755</channel_id>
-			<epg_id>Чебур ТВ - Военный FHD</epg_id>
+			<epg_id>ЧебурТВ Военный</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - СССР 20-е</caption>
+			<caption>ЧебурТВ СССР 20-е</caption>
 			<channel_id>3756</channel_id>
-			<epg_id>Чебур ТВ - СССР 20-е</epg_id>
+			<epg_id>ЧебурТВ СССР 20-е</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - СССР 30-е</caption>
+			<caption>ЧебурТВ СССР 30-е</caption>
 			<channel_id>3757</channel_id>
-			<epg_id>Чебур ТВ - СССР 30-е</epg_id>
+			<epg_id>ЧебурТВ СССР 30-е</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - СССР 40-е</caption>
+			<caption>ЧебурТВ СССР 40-е</caption>
 			<channel_id>3758</channel_id>
-			<epg_id>Чебур ТВ - СССР 40-е</epg_id>
+			<epg_id>ЧебурТВ СССР 40-е</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - СССР 60-е</caption>
+			<caption>ЧебурТВ СССР 60-е</caption>
 			<channel_id>3760</channel_id>
-			<epg_id>Чебур ТВ - СССР 60-е</epg_id>
+			<epg_id>ЧебурТВ СССР 60-е</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - СССР 70-е</caption>
+			<caption>ЧебурТВ СССР 70-е</caption>
 			<channel_id>3761</channel_id>
-			<epg_id>Чебур ТВ - СССР 70-е</epg_id>
+			<epg_id>ЧебурТВ СССР 70-е</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - СССР 80-е</caption>
+			<caption>ЧебурТВ СССР 80-е</caption>
 			<channel_id>3762</channel_id>
-			<epg_id>Чебур ТВ - СССР 80-е</epg_id>
+			<epg_id>ЧебурТВ СССР 80-е</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - СССР 90-е</caption>
+			<caption>ЧебурТВ СССР 90-е</caption>
 			<channel_id>3763</channel_id>
-			<epg_id>Чебур ТВ - СССР 90-е</epg_id>
+			<epg_id>ЧебурТВ СССР 90-е</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - СССР Нетленка</caption>
+			<caption>ЧебурТВ СССР Нетленка</caption>
 			<channel_id>3764</channel_id>
-			<epg_id>Чебур ТВ - СССР Нетленка</epg_id>
+			<epg_id>ЧебурТВ СССР Нетленка</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - СССР Сериал</caption>
+			<caption>ЧебурТВ СССР Сериал</caption>
 			<channel_id>3765</channel_id>
-			<epg_id>Чебур ТВ - СССР Сериал</epg_id>
+			<epg_id>ЧебурТВ СССР Сериал</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - RU Сериал HD</caption>
+			<caption>ЧебурТВ RU Сериал</caption>
 			<channel_id>3766</channel_id>
-			<epg_id>Чебур ТВ - RU Сериал HD</epg_id>
+			<epg_id>ЧебурТВ RU Сериал</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - История FHD</caption>
+			<caption>ЧебурТВ История</caption>
 			<channel_id>3767</channel_id>
-			<epg_id>Чебур ТВ - История FHD</epg_id>
+			<epg_id>ЧебурТВ История</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Мюзикл FHD</caption>
+			<caption>ЧебурТВ Мюзикл</caption>
 			<channel_id>3768</channel_id>
-			<epg_id>Чебур ТВ - Мюзикл FHD</epg_id>
+			<epg_id>ЧебурТВ Мюзикл</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Супергерои FHD</caption>
+			<caption>ЧебурТВ Супергерои</caption>
 			<channel_id>3769</channel_id>
-			<epg_id>Чебур ТВ - Супергерои FHD</epg_id>
+			<epg_id>ЧебурТВ Супергерои</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Биография HD</caption>
+			<caption>ЧебурТВ Биография</caption>
 			<channel_id>3770</channel_id>
-			<epg_id>Чебур ТВ - Биография HD</epg_id>
+			<epg_id>ЧебурТВ Биография</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Анимешки FHD</caption>
+			<caption>ЧебурТВ Анимешки</caption>
 			<channel_id>3771</channel_id>
-			<epg_id>Чебур ТВ - Анимешки FHD</epg_id>
+			<epg_id>ЧебурТВ Анимешки</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Пришельцы FHD</caption>
+			<caption>ЧебурТВ Пришельцы</caption>
 			<channel_id>3772</channel_id>
-			<epg_id>Чебур ТВ - Пришельцы FHD</epg_id>
+			<epg_id>ЧебурТВ Пришельцы</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Зита-Гита</caption>
+			<caption>ЧебурТВ Зита-Гита</caption>
 			<channel_id>3774</channel_id>
-			<epg_id>Чебур ТВ - Зита-Гита</epg_id>
+			<epg_id>ЧебурТВ Зита-Гита</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Космос FHD</caption>
+			<caption>ЧебурТВ Космос</caption>
 			<channel_id>3775</channel_id>
-			<epg_id>Чебур ТВ - Космос FHD</epg_id>
+			<epg_id>ЧебурТВ Космос</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Карапуз FHD</caption>
+			<caption>ЧебурТВ Карапуз</caption>
 			<channel_id>3788</channel_id>
-			<epg_id>Чебур ТВ - Карапуз FHD</epg_id>
+			<epg_id>ЧебурТВ Карапуз</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Comedy Mix FHD</caption>
+			<caption>ЧебурТВ Comedy Mix</caption>
 			<channel_id>3789</channel_id>
-			<epg_id>Чебур ТВ - Comedy Mix FHD</epg_id>
+			<epg_id>ЧебурТВ Comedy Mix</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Action FHD</caption>
+			<caption>ЧебурТВ Action</caption>
 			<channel_id>3791</channel_id>
-			<epg_id>Чебур ТВ - Action FHD</epg_id>
+			<epg_id>ЧебурТВ Action</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Боевичок FHD</caption>
+			<caption>ЧебурТВ Боевичок</caption>
 			<channel_id>3794</channel_id>
-			<epg_id>Чебур ТВ - Боевичок FHD</epg_id>
+			<epg_id>ЧебурТВ Боевичок</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Ru Serial Comedy</caption>
+			<caption>ЧебурТВ Ru Serial Comedy</caption>
 			<channel_id>3795</channel_id>
-			<epg_id>Чебур ТВ - Ru Serial Comedy</epg_id>
+			<epg_id>ЧебурТВ Ru Serial Comedy</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Матрица FHD</caption>
+			<caption>ЧебурТВ Матрица</caption>
 			<channel_id>3796</channel_id>
-			<epg_id>Чебур ТВ - Матрица FHD</epg_id>
+			<epg_id>ЧебурТВ Матрица</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - Балабол</caption>
+			<caption>ЧебурТВ Балабол</caption>
 			<channel_id>3797</channel_id>
-			<epg_id>Чебур ТВ - Балабол</epg_id>
+			<epg_id>ЧебурТВ Балабол</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - ДОКУ Планета Динозавров</caption>
+			<caption>ЧебурТВ ДОКУ Планета Динозавров</caption>
 			<channel_id>3798</channel_id>
-			<epg_id>Чебур ТВ - ДОКУ Планета Динозавров</epg_id>
+			<epg_id>ЧебурТВ ДОКУ Планета Динозавров</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - ДОКУ Univerce</caption>
+			<caption>ЧебурТВ ДОКУ Univerce</caption>
 			<channel_id>3799</channel_id>
-			<epg_id>Чебур ТВ - ДОКУ Univerce</epg_id>
+			<epg_id>ЧебурТВ ДОКУ Univerce</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - ДОКУ Science</caption>
+			<caption>ЧебурТВ ДОКУ Science</caption>
 			<channel_id>3800</channel_id>
-			<epg_id>Чебур ТВ - ДОКУ Science</epg_id>
+			<epg_id>ЧебурТВ ДОКУ Science</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Чебур ТВ - На Краю Вселенной HD</caption>
+			<caption>ЧебурТВ На Краю Вселенной</caption>
 			<channel_id>3801</channel_id>
-			<epg_id>Чебур ТВ - На Краю Вселенной HD</epg_id>
+			<epg_id>ЧебурТВ На Краю Вселенной</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
