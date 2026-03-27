@@ -348,6 +348,7 @@
 			<epg_id>epg1:Центральное телевидение</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Центральное телевидение.png</icon_url>
 			<tv_category_id>1</tv_category_id>
+			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Москва Доверие</caption>
@@ -842,10 +843,10 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Dizi</caption>
+			<caption>HOT Cinema 3 IL (RUS)</caption>
 			<channel_id>317</channel_id>
-			<epg_id>epg1:dizi</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Dizi.png</icon_url>
+			<epg_id>epg1:HOT Cinema 3 HD IL</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/HOT Cinema 3 HD IL.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -943,7 +944,7 @@
 		<tv_channel>
 			<caption>Filmbox</caption>
 			<channel_id>975</channel_id>
-			<epg_id>epg1:Filmbox</epg_id>
+			<epg_id>epg1:FilmBox</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Filmbox.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
@@ -1266,8 +1267,8 @@
 		<tv_channel>
 			<caption>CineMan Военные Сериалы HD</caption>
 			<channel_id>1446</channel_id>
-			<epg_id>cineman:cineman-vovserials</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/CineMan Военные Сериалы HD.png</icon_url>
+			<epg_id>cineman:cineman-cccpdub</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/5 (2).png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -2406,10 +2407,10 @@
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Okko Герои HD</caption>
+			<caption>БубOKKO ТВ</caption>
 			<channel_id>1974</channel_id>
-			<epg_id>epg1:Okko Герои</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Okko Герои3.png</icon_url>
+			<epg_id>epg1:БубOKKO тв</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/БубOKKO тв3.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -2579,14 +2580,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Comedy Central HD</caption>
-			<channel_id>161</channel_id>
-			<epg_id>epg1:Comedy Central</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Comedy Central.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>2x2</caption>
 			<channel_id>43</channel_id>
 			<epg_id>epg1:2x2</epg_id>
@@ -2732,7 +2725,7 @@
 		<tv_channel>
 			<caption>BOX Gurman HD</caption>
 			<channel_id>1225</channel_id>
-			<epg_id>box:BOX Ghost HD</epg_id>
+			<epg_id>box:BOX Gurman HD</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BOX Gurman HD.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>1</archive>
@@ -3295,6 +3288,20 @@
 			<tv_category_id>5</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Живая природа</caption>
+			<channel_id>860</channel_id>
+			<epg_id>epg1:Живая природа HD</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Живая природа HD4.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>The Explorers</caption>
+			<channel_id>1034</channel_id>
+			<epg_id>epg1:The Explorers</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/The Explorers.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Мультиландия</caption>
 			<channel_id>54</channel_id>
 			<epg_id>epg1:Мультиландия</epg_id>
@@ -3319,7 +3326,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Cartoon Network HD</caption>
+			<caption>Cartoon Network</caption>
 			<channel_id>62</channel_id>
 			<epg_id>epg1:Cartoon Network</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Cartoon Network HD.png</icon_url>
@@ -3840,7 +3847,7 @@
 		<tv_channel>
 			<caption>BCU Мультсериал HD</caption>
 			<channel_id>1156</channel_id>
-			<epg_id>box:BCU Мультсериал HD</epg_id>
+			<epg_id>BCU Мультсериал HD</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/BCU Мультсериал HD.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>1</archive>
@@ -3874,6 +3881,13 @@
 			<channel_id>1938</channel_id>
 			<epg_id>epg1:Рыжий</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Рыжий.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>БубOKKO ТВ</caption>
+			<channel_id>1976</channel_id>
+			<epg_id>epg1:БубOKKO тв</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/БубOKKO тв3.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4353,6 +4367,30 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Okko Спорт. Футбол HD</caption>
+			<channel_id>1892</channel_id>
+			<epg_id>epg1:Okko Спорт. Футбол</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Okko Спорт. Футбол HD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Прайм Спорт HD</caption>
+			<channel_id>1893</channel_id>
+			<epg_id>epg1:Okko Прайм Спорт</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Okko Прайм Спорт HD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Спорт HD</caption>
+			<channel_id>1894</channel_id>
+			<epg_id>epg1:Okko Спорт</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Okko Спорт HD.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Музыка Первого</caption>
 			<channel_id>127</channel_id>
 			<epg_id>epg1:Музыка Первого</epg_id>
@@ -4361,25 +4399,18 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MTV 80s</caption>
-			<channel_id>129</channel_id>
-			<epg_id>epg1:MTV European</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MTV 80s.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Mezzo Live</caption>
+			<caption>Mezzo</caption>
 			<channel_id>30</channel_id>
 			<epg_id>epg1:Mezzo</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Mezzo Live.png</icon_url>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/mezzo.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MTV 00s</caption>
+			<caption>Sport 5 Max HD IL</caption>
 			<channel_id>31</channel_id>
-			<epg_id>epg1:MTV 00s</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MTV 00s.png</icon_url>
+			<epg_id>epg1:Sport 5 Max HD IL</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Sport 5 Max HD IL1.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4406,13 +4437,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Club MTV</caption>
-			<channel_id>201</channel_id>
-			<epg_id>epg1:MTV Dance</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Club MTV.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>RU.TV</caption>
 			<channel_id>175</channel_id>
 			<epg_id>epg1:RU.TV</epg_id>
@@ -4423,8 +4447,8 @@
 		<tv_channel>
 			<caption>Music Box Russia HD</caption>
 			<channel_id>178</channel_id>
-			<epg_id>epg1:Music Box Russia HD</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/Music Box Russia.png</icon_url>
+			<epg_id>epg1:Music Box Gold</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/3 (4).png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -4465,14 +4489,6 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MTV Live HD</caption>
-			<channel_id>167</channel_id>
-			<epg_id>epg1:MTV Live HD</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MTV Live.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Bridge TV Classic</caption>
 			<channel_id>382</channel_id>
 			<epg_id>epg1:Bridge Classic</epg_id>
@@ -4498,13 +4514,6 @@
 			<channel_id>280</channel_id>
 			<epg_id>epg1:ЖАРА TV</epg_id>
 			<icon_url>http://stb.ru-tv.site/images/logo_chanel/ЖАРА ТВ.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>MTV IL</caption>
-			<channel_id>1065</channel_id>
-			<epg_id>epg1:MTV IL</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MTV IL1.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4547,10 +4556,10 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MTV Hits</caption>
+			<caption>NBC US</caption>
 			<channel_id>1905</channel_id>
-			<epg_id>epg1:MTV Hits</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/MTV Hits4.png</icon_url>
+			<epg_id>us:CNBC</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/CNBC US.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -4976,14 +4985,6 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>XY Mix</caption>
-			<channel_id>1846</channel_id>
-			<epg_id>epg1:NO EPG 18+</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/XY Mix.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>XY Max</caption>
 			<channel_id>1993</channel_id>
 			<epg_id>epg1:NO EPG 18+</epg_id>
@@ -4992,12 +4993,11 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>XY Plus</caption>
+			<caption>USA Network</caption>
 			<channel_id>1994</channel_id>
-			<epg_id>epg1:NO EPG 18+</epg_id>
-			<icon_url>http://stb.ru-tv.site/images/logo_chanel/XY Plus1.png</icon_url>
+			<epg_id>USA Network</epg_id>
+			<icon_url>http://stb.ru-tv.site/images/logo_chanel/usa_pl.png</icon_url>
 			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
 			<caption>Fap TV 2 HD</caption>

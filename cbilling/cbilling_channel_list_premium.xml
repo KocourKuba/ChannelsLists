@@ -41,13 +41,13 @@
 		</tv_category>
 		<tv_category>
 			<id>8</id>
-			<caption>XXX (18+)</caption>
-			<icon_url>plugin_file://icons/categories/33.png</icon_url>
+			<caption>Ultra HD</caption>
+			<icon_url>plugin_file://icons/categories/4k.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>9</id>
-			<caption>Ultra HD</caption>
-			<icon_url>plugin_file://icons/categories/4k.png</icon_url>
+			<caption>XXX (18+)</caption>
+			<icon_url>plugin_file://icons/categories/33.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
@@ -247,15 +247,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Мир HD</caption>
-			<channel_id>mir-hd</channel_id>
-			<epg_id>mir-hd</epg_id>
-			<tvg_id>mir-hd</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/mir-hd.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Мир 24 HD</caption>
 			<channel_id>mir-24-hd</channel_id>
 			<epg_id>mir-24-hd</epg_id>
@@ -427,11 +418,29 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Мир HD</caption>
+			<channel_id>mir-hd-orig</channel_id>
+			<epg_id>mir-hd-orig</epg_id>
+			<tvg_id>mir-hd-orig</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/mir-hd-orig.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Время HD</caption>
+			<channel_id>vremya-hd-orig</channel_id>
+			<epg_id>vremya-hd-orig</epg_id>
+			<tvg_id>vremya-hd-orig</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/vremya-hd-orig.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Дождь HD</caption>
-			<channel_id>dozhd-hd-orig</channel_id>
-			<epg_id>dozhd-hd-orig</epg_id>
-			<tvg_id>dozhd-hd-orig</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/dozhd-hd-orig.png</icon_url>
+			<channel_id>dozhd-hd</channel_id>
+			<epg_id>dozhd-hd</epg_id>
+			<tvg_id>dozhd-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/dozhd-hd.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -596,6 +605,14 @@
 			<epg_id>france-24-hd</epg_id>
 			<tvg_id>france-24-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/france-24-hd.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Известия HD</caption>
+			<channel_id>izvestija-hd-orig</channel_id>
+			<epg_id>izvestija-hd-orig</epg_id>
+			<tvg_id>izvestija-hd-orig</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/izvestija-hd-orig.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -1481,15 +1498,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТВ21</caption>
-			<channel_id>tv-xxi</channel_id>
-			<epg_id>tv-xxi</epg_id>
-			<tvg_id>tv-xxi</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/tv-xxi.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Советская Киноклассика HD</caption>
 			<channel_id>sovetskaya-kinoclassica-hd-orig</channel_id>
 			<epg_id>sovetskaya-kinoclassica-hd-orig</epg_id>
@@ -1567,6 +1575,33 @@
 			<epg_id>nashe-nasledie-hd</epg_id>
 			<tvg_id>nashe-nasledie-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/nashe-nasledie-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ21 HD</caption>
+			<channel_id>tv-xxi-hd</channel_id>
+			<epg_id>tv-xxi-hd</epg_id>
+			<tvg_id>tv-xxi-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/tv-xxi-hd.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Телекафе HD</caption>
+			<channel_id>telekafe-hd-orig</channel_id>
+			<epg_id>telekafe-hd-orig</epg_id>
+			<tvg_id>telekafe-hd-orig</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/telekafe-hd-orig.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дом Кино HD</caption>
+			<channel_id>dom-kino-hd-orig</channel_id>
+			<epg_id>dom-kino-hd-orig</epg_id>
+			<tvg_id>dom-kino-hd-orig</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/dom-kino-hd-orig.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1994,6 +2029,33 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Спорт ТВ HD BY</caption>
+			<channel_id>sport-tv-by-hd-orig</channel_id>
+			<epg_id>sport-tv-by-hd-orig</epg_id>
+			<tvg_id>sport-tv-by-hd-orig</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/sport-tv-by-hd-orig.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Беларусь 5 HD</caption>
+			<channel_id>belarus5-by-hd-orig</channel_id>
+			<epg_id>belarus5-by-hd-orig</epg_id>
+			<tvg_id>belarus5-by-hd-orig</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/belarus5-by-hd-orig.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Суспільне Спорт HD</caption>
+			<channel_id>suspilne-sport-ua-hd-orig</channel_id>
+			<epg_id>suspilne-sport-ua-hd-orig</epg_id>
+			<tvg_id>suspilne-sport-ua-hd-orig</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/suspilne-sport-ua-hd-orig.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Детский Мир HD</caption>
 			<channel_id>detskij-mir-hd</channel_id>
 			<epg_id>detskij-mir-hd</epg_id>
@@ -2224,6 +2286,87 @@
 			<epg_id>cartoon-classics</epg_id>
 			<tvg_id>cartoon-classics</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/cartoon-classics.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Тарарам! HD</caption>
+			<channel_id>tararam-hd</channel_id>
+			<epg_id>tararam-hd</epg_id>
+			<tvg_id>tararam-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/tararam-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Baby Time</caption>
+			<channel_id>baby-time</channel_id>
+			<epg_id>baby-time</epg_id>
+			<tvg_id>baby-time</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/baby-time.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>БубOkko ТВ HD</caption>
+			<channel_id>bubokko-tv-hd</channel_id>
+			<epg_id>bubokko-tv-hd</epg_id>
+			<tvg_id>bubokko-tv-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/bubokko-tv-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MiniJam HD</caption>
+			<channel_id>minijam-hd</channel_id>
+			<epg_id>minijam-hd</epg_id>
+			<tvg_id>minijam-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/minijam-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Funny Kids HD</caption>
+			<channel_id>funny-kids-hd</channel_id>
+			<epg_id>funny-kids-hd</epg_id>
+			<tvg_id>funny-kids-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/funny-kids-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>О! HD</caption>
+			<channel_id>kanal-o-hd</channel_id>
+			<epg_id>kanal-o-hd</epg_id>
+			<tvg_id>kanal-o-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/kanal-o-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nicktoons</caption>
+			<channel_id>nicktoons</channel_id>
+			<epg_id>nicktoons</epg_id>
+			<tvg_id>nicktoons</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/nicktoons.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoon Network HD</caption>
+			<channel_id>cartoon-network-hd</channel_id>
+			<epg_id>cartoon-network-hd</epg_id>
+			<tvg_id>cartoon-network-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/cartoon-network-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KidsTV HD</caption>
+			<channel_id>kids-tv-hd</channel_id>
+			<epg_id>kids-tv-hd</epg_id>
+			<tvg_id>kids-tv-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/kids-tv-hd.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -2894,6 +3037,33 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Мир Вокруг HD</caption>
+			<channel_id>mir-vokrug-hd</channel_id>
+			<epg_id>mir-vokrug-hd</epg_id>
+			<tvg_id>mir-vokrug-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/mir-vokrug-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Бобер HD</caption>
+			<channel_id>bober-hd</channel_id>
+			<epg_id>bober-hd</epg_id>
+			<tvg_id>bober-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/bober-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лапки live HD</caption>
+			<channel_id>lapki-live-hd</channel_id>
+			<epg_id>lapki-live-hd</epg_id>
+			<tvg_id>lapki-live-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/lapki-live-hd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>1HD</caption>
 			<channel_id>1hd</channel_id>
 			<epg_id>1hd</epg_id>
@@ -3135,7 +3305,7 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТНТ Music HD</caption>
+			<caption>FON Music HD</caption>
 			<channel_id>tnt-music-hd</channel_id>
 			<epg_id>tnt-music-hd</epg_id>
 			<tvg_id>tnt-music-hd</tvg_id>
@@ -3143,12 +3313,210 @@
 			<tv_category_id>7</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Музыка первого HD</caption>
+			<channel_id>muzyka-pervogo-hd</channel_id>
+			<epg_id>muzyka-pervogo-hd</epg_id>
+			<tvg_id>muzyka-pervogo-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/muzyka-pervogo-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Music Box Dance HD</caption>
+			<channel_id>music-box-dance-hd</channel_id>
+			<epg_id>music-box-dance-hd</epg_id>
+			<tvg_id>music-box-dance-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/music-box-dance-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Music Box Sexy HD</caption>
+			<channel_id>music-box-sexy-hd</channel_id>
+			<epg_id>music-box-sexy-hd</epg_id>
+			<tvg_id>music-box-sexy-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/music-box-sexy-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Deluxe HD</caption>
+			<channel_id>bridge-tv-deluxe-hd</channel_id>
+			<epg_id>bridge-tv-deluxe-hd</epg_id>
+			<tvg_id>bridge-tv-deluxe-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/bridge-tv-deluxe-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Русский Хит HD</caption>
+			<channel_id>bridge-tv-russky-hit-hd</channel_id>
+			<epg_id>bridge-tv-russky-hit-hd</epg_id>
+			<tvg_id>bridge-tv-russky-hit-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/bridge-tv-russky-hit-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bridge TV Classic HD</caption>
+			<channel_id>bridge-classic-hd</channel_id>
+			<epg_id>bridge-classic-hd</epg_id>
+			<tvg_id>bridge-classic-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/bridge-classic-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>RFM TV HD</caption>
+			<channel_id>rfm-tv-hd</channel_id>
+			<epg_id>rfm-tv-hd</epg_id>
+			<tvg_id>rfm-tv-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/rfm-tv-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Megogo MUSIC HD</caption>
+			<channel_id>megogo-music-hd</channel_id>
+			<epg_id>megogo-music-hd</epg_id>
+			<tvg_id>megogo-music-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/megogo-music-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Jazz HD</caption>
+			<channel_id>jazz-hd</channel_id>
+			<epg_id>jazz-hd</epg_id>
+			<tvg_id>jazz-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/jazz-hd.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино UHD</caption>
+			<channel_id>kino-uhd-4k</channel_id>
+			<epg_id>kino-uhd-4k</epg_id>
+			<tvg_id>kino-uhd-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/kino-uhd-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Ultra HD Cinema</caption>
+			<channel_id>ultra-hd-cinema-4k</channel_id>
+			<epg_id>ultra-hd-cinema-4k</epg_id>
+			<tvg_id>ultra-hd-cinema-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/ultra-hd-cinema-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eleven Sports 1 4K</caption>
+			<channel_id>eleven-sports-1-4k</channel_id>
+			<epg_id>eleven-sports-1-4k</epg_id>
+			<tvg_id>eleven-sports-1-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/eleven-sports-1-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sport 5 4K</caption>
+			<channel_id>sport5-il-4k</channel_id>
+			<epg_id>sport5-il-4k</epg_id>
+			<tvg_id>sport5-il-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/sport5-il-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский Экстрим UHD</caption>
+			<channel_id>russkij-extrim-4k</channel_id>
+			<epg_id>russkij-extrim-4k</epg_id>
+			<tvg_id>russkij-extrim-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/russkij-extrim-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Insight UHD</caption>
+			<channel_id>insight-uhd-4k</channel_id>
+			<epg_id>insight-uhd-4k</epg_id>
+			<tvg_id>insight-uhd-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/insight-uhd-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Home 4k</caption>
+			<channel_id>home-4k</channel_id>
+			<epg_id>home-4k</epg_id>
+			<tvg_id>home-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/home-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Love Nature 4k</caption>
+			<channel_id>love-nature-4k</channel_id>
+			<epg_id>love-nature-4k</epg_id>
+			<tvg_id>love-nature-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/love-nature-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Наша Сибирь 4k</caption>
+			<channel_id>nasha-sibir-4k</channel_id>
+			<epg_id>nasha-sibir-4k</epg_id>
+			<tvg_id>nasha-sibir-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/nasha-sibir-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Глазами Туриста 4k</caption>
+			<channel_id>glazami-turista-4k</channel_id>
+			<epg_id>glazami-turista-4k</epg_id>
+			<tvg_id>glazami-turista-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/glazami-turista-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TravelXP 4K</caption>
+			<channel_id>travelxp-4k</channel_id>
+			<epg_id>travelxp-4k</epg_id>
+			<tvg_id>travelxp-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/travelxp-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Quadro 4К</caption>
+			<channel_id>quadro-4k</channel_id>
+			<epg_id>quadro-4k</epg_id>
+			<tvg_id>quadro-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/quadro-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MyZen 4k</caption>
+			<channel_id>myzen-4k</channel_id>
+			<epg_id>myzen-4k</epg_id>
+			<tvg_id>myzen-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/myzen-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Museum 4k</caption>
+			<channel_id>museum-4k</channel_id>
+			<epg_id>museum-4k</epg_id>
+			<tvg_id>museum-4k</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/museum-4k.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Extasy 4k</caption>
 			<channel_id>extasy-4k</channel_id>
 			<epg_id>extasy-4k</epg_id>
 			<tvg_id>extasy-4k</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/extasy-4k.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3157,7 +3525,7 @@
 			<epg_id>penthouse1-hd</epg_id>
 			<tvg_id>penthouse1-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/penthouse1-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3166,7 +3534,7 @@
 			<epg_id>penthouse2-hd</epg_id>
 			<tvg_id>penthouse2-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/penthouse2-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3175,7 +3543,7 @@
 			<epg_id>redlight-hd</epg_id>
 			<tvg_id>redlight-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/redlight-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3184,7 +3552,7 @@
 			<epg_id>private-tv</epg_id>
 			<tvg_id>private-tv</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/private-tv.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3193,7 +3561,7 @@
 			<epg_id>hustler-hd</epg_id>
 			<tvg_id>hustler-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/hustler-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3202,7 +3570,7 @@
 			<epg_id>brazzers-tv</epg_id>
 			<tvg_id>brazzers-tv</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/brazzers-tv.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3211,7 +3579,7 @@
 			<epg_id>babes-hd</epg_id>
 			<tvg_id>babes-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/babes-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3220,7 +3588,7 @@
 			<epg_id>shalun-hd</epg_id>
 			<tvg_id>shalun-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/shalun-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<archive>7</archive>
 			<protected>1</protected>
 		</tv_channel>
@@ -3230,7 +3598,7 @@
 			<epg_id>shyolk-hd</epg_id>
 			<tvg_id>shyolk-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/shyolk-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3239,7 +3607,7 @@
 			<epg_id>eroxxx-hd</epg_id>
 			<tvg_id>eroxxx-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/eroxxx-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3248,7 +3616,7 @@
 			<epg_id>exxxotica-hd</epg_id>
 			<tvg_id>exxxotica-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/exxxotica-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3257,7 +3625,7 @@
 			<epg_id>red-lips</epg_id>
 			<tvg_id>red-lips</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/red-lips.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3266,7 +3634,7 @@
 			<epg_id>dorcel-tv-hd</epg_id>
 			<tvg_id>dorcel-tv-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/dorcel-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3275,7 +3643,7 @@
 			<epg_id>extasy-tv-hd</epg_id>
 			<tvg_id>extasy-tv-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/extasy-tv-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3284,7 +3652,7 @@
 			<epg_id>vixen-tv-hd</epg_id>
 			<tvg_id>vixen-tv-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/vixen-tv-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3293,7 +3661,7 @@
 			<epg_id>evil-angel-hd</epg_id>
 			<tvg_id>evil-angel-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/evil-angel-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3302,7 +3670,7 @@
 			<epg_id>blue-hustler-hd</epg_id>
 			<tvg_id>blue-hustler-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/blue-hustler-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3311,7 +3679,7 @@
 			<epg_id>ruskaja-noch-hd</epg_id>
 			<tvg_id>ruskaja-noch-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/ruskaja-noch-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3320,7 +3688,7 @@
 			<epg_id>erox-hd</epg_id>
 			<tvg_id>erox-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/erox-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3329,7 +3697,7 @@
 			<epg_id>super-one-hd</epg_id>
 			<tvg_id>super-one-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/super-one-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3338,7 +3706,7 @@
 			<epg_id>playboy-tv</epg_id>
 			<tvg_id>playboy-tv</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/playboy-tv.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3347,134 +3715,89 @@
 			<epg_id>vivid-touch-hd</epg_id>
 			<tvg_id>vivid-touch-hd</tvg_id>
 			<icon_url>http://s06.wsbof.com:8080/streams/vivid-touch-hd.png</icon_url>
-			<tv_category_id>8</tv_category_id>
+			<tv_category_id>9</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кино UHD</caption>
-			<channel_id>kino-uhd-4k</channel_id>
-			<epg_id>kino-uhd-4k</epg_id>
-			<tvg_id>kino-uhd-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/kino-uhd-4k.png</icon_url>
+			<caption>Penthouse Passion HD</caption>
+			<channel_id>penthouse-passion-hd</channel_id>
+			<epg_id>penthouse-passion-hd</epg_id>
+			<tvg_id>penthouse-passion-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/penthouse-passion-hd.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
+			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Ultra HD Cinema</caption>
-			<channel_id>ultra-hd-cinema-4k</channel_id>
-			<epg_id>ultra-hd-cinema-4k</epg_id>
-			<tvg_id>ultra-hd-cinema-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/ultra-hd-cinema-4k.png</icon_url>
+			<caption>XXL</caption>
+			<channel_id>xxl-tv</channel_id>
+			<epg_id>xxl-tv</epg_id>
+			<tvg_id>xxl-tv</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/xxl-tv.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
+			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Eleven Sports 1 4K</caption>
-			<channel_id>eleven-sports-1-4k</channel_id>
-			<epg_id>eleven-sports-1-4k</epg_id>
-			<tvg_id>eleven-sports-1-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/eleven-sports-1-4k.png</icon_url>
+			<caption>Vivid TV</caption>
+			<channel_id>vivid-tv</channel_id>
+			<epg_id>vivid-tv</epg_id>
+			<tvg_id>vivid-tv</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/vivid-tv.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
+			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport 5 4K</caption>
-			<channel_id>sport5-il-4k</channel_id>
-			<epg_id>sport5-il-4k</epg_id>
-			<tvg_id>sport5-il-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/sport5-il-4k.png</icon_url>
+			<caption>Vivid Red</caption>
+			<channel_id>vivid-red</channel_id>
+			<epg_id>vivid-red</epg_id>
+			<tvg_id>vivid-red</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/vivid-red.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
+			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Русский Экстрим UHD</caption>
-			<channel_id>russkij-extrim-4k</channel_id>
-			<epg_id>russkij-extrim-4k</epg_id>
-			<tvg_id>russkij-extrim-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/russkij-extrim-4k.png</icon_url>
+			<caption>Kinoerotica HD</caption>
+			<channel_id>kinoerotica-hd</channel_id>
+			<epg_id>kinoerotica-hd</epg_id>
+			<tvg_id>kinoerotica-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/kinoerotica-hd.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
+			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Insight UHD</caption>
-			<channel_id>insight-uhd-4k</channel_id>
-			<epg_id>insight-uhd-4k</epg_id>
-			<tvg_id>insight-uhd-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/insight-uhd-4k.png</icon_url>
+			<caption>XY MIX HD</caption>
+			<channel_id>xy-mix-hd</channel_id>
+			<epg_id>xy-mix-hd</epg_id>
+			<tvg_id>xy-mix-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/xy-mix-hd.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
+			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Home 4k</caption>
-			<channel_id>home-4k</channel_id>
-			<epg_id>home-4k</epg_id>
-			<tvg_id>home-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/home-4k.png</icon_url>
+			<caption>XY MAX HD</caption>
+			<channel_id>xy-max-hd</channel_id>
+			<epg_id>xy-max-hd</epg_id>
+			<tvg_id>xy-max-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/xy-max-hd.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
+			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Love Nature 4k</caption>
-			<channel_id>love-nature-4k</channel_id>
-			<epg_id>love-nature-4k</epg_id>
-			<tvg_id>love-nature-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/love-nature-4k.png</icon_url>
+			<caption>XY PLUS HD</caption>
+			<channel_id>xy-plus-hd</channel_id>
+			<epg_id>xy-plus-hd</epg_id>
+			<tvg_id>xy-plus-hd</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/xy-plus-hd.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
+			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Наша Сибирь 4k</caption>
-			<channel_id>nasha-sibir-4k</channel_id>
-			<epg_id>nasha-sibir-4k</epg_id>
-			<tvg_id>nasha-sibir-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/nasha-sibir-4k.png</icon_url>
+			<caption>Barely Legal TV</caption>
+			<channel_id>barely-legal</channel_id>
+			<epg_id>barely-legal</epg_id>
+			<tvg_id>barely-legal</tvg_id>
+			<icon_url>http://s06.wsbof.com:8080/streams/barely-legal.png</icon_url>
 			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Глазами Туриста 4k</caption>
-			<channel_id>glazami-turista-4k</channel_id>
-			<epg_id>glazami-turista-4k</epg_id>
-			<tvg_id>glazami-turista-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/glazami-turista-4k.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>TravelXP 4K</caption>
-			<channel_id>travelxp-4k</channel_id>
-			<epg_id>travelxp-4k</epg_id>
-			<tvg_id>travelxp-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/travelxp-4k.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Quadro 4К</caption>
-			<channel_id>quadro-4k</channel_id>
-			<epg_id>quadro-4k</epg_id>
-			<tvg_id>quadro-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/quadro-4k.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>MyZen 4k</caption>
-			<channel_id>myzen-4k</channel_id>
-			<epg_id>myzen-4k</epg_id>
-			<tvg_id>myzen-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/myzen-4k.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Museum 4k</caption>
-			<channel_id>museum-4k</channel_id>
-			<epg_id>museum-4k</epg_id>
-			<tvg_id>museum-4k</tvg_id>
-			<icon_url>http://s06.wsbof.com:8080/streams/museum-4k.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-			<archive>7</archive>
+			<protected>1</protected>
 		</tv_channel>
 	</tv_channels>
 </tv_info>
