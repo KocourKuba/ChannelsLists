@@ -964,6 +964,15 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Время HD</caption>
+			<channel_id>7626</channel_id>
+			<epg_id>vremia</epg_id>
+			<tvg_id>vremia</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>РБК ТВ</caption>
 			<channel_id>4428</channel_id>
 			<int_id>346</int_id>
@@ -1150,6 +1159,15 @@
 			<epg_id>megapolis</epg_id>
 			<tvg_id>megapolis</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/9683.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Россия 24 HD</caption>
+			<channel_id>3469</channel_id>
+			<epg_id>rossia-24</epg_id>
+			<tvg_id>rossia-24</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -4244,6 +4262,24 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>GL Civilizations HD</caption>
+			<channel_id>9421</channel_id>
+			<epg_id>goldline-civilizations</epg_id>
+			<tvg_id>goldline-civilizations</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>GL VHS HD</caption>
+			<channel_id>1408</channel_id>
+			<epg_id>goldline-vhs</epg_id>
+			<tvg_id>goldline-vhs</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Кинопремьера HD</caption>
 			<channel_id>7998</channel_id>
 			<int_id>229</int_id>
@@ -5694,16 +5730,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>TV3 Plus HD LV</caption>
-			<channel_id>3423</channel_id>
-			<int_id>1063</int_id>
-			<epg_id>3-plus-latvia</epg_id>
-			<tvg_id>3-plus-latvia</tvg_id>
-			<icon_url>http://pl.ottg.app/icon/3423.png</icon_url>
-			<tv_category_id>4</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Go3 Films HD</caption>
 			<channel_id>1967</channel_id>
 			<int_id>1064</int_id>
@@ -6113,10 +6139,91 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Okko Герои HD</caption>
+			<caption>Okko БубOKKO HD</caption>
 			<channel_id>5192</channel_id>
-			<epg_id>okko-geroi</epg_id>
-			<tvg_id>okko-geroi</tvg_id>
+			<epg_id>bubokko-tv</epg_id>
+			<tvg_id>bubokko-tv</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КиноСезон HD</caption>
+			<channel_id>5569</channel_id>
+			<epg_id>kinosezon</epg_id>
+			<tvg_id>kinosezon</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Легенда HD</caption>
+			<channel_id>2946</channel_id>
+			<epg_id>legenda</epg_id>
+			<tvg_id>legenda</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Дом кино HD</caption>
+			<channel_id>1756</channel_id>
+			<epg_id>domkino</epg_id>
+			<tvg_id>domkino</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лавстори HD</caption>
+			<channel_id>2585</channel_id>
+			<epg_id>lavstori-hd</epg_id>
+			<tvg_id>lavstori-hd</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Romance HD</caption>
+			<channel_id>4891</channel_id>
+			<epg_id>romance</epg_id>
+			<tvg_id>romance</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Suspense HD</caption>
+			<channel_id>7832</channel_id>
+			<epg_id>suspense</epg_id>
+			<tvg_id>suspense</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Советская киноклассика HD</caption>
+			<channel_id>9673</channel_id>
+			<epg_id>sov-kinklass-hd</epg_id>
+			<tvg_id>sov-kinklass-hd</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Новелла ТВ HD</caption>
+			<channel_id>9467</channel_id>
+			<epg_id>novellatv</epg_id>
+			<tvg_id>novellatv</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viju TV1000 новелла HD</caption>
+			<channel_id>9831</channel_id>
+			<epg_id>viju-tv1000-novella</epg_id>
+			<tvg_id>viju-tv1000-novella</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>14</archive>
@@ -6518,6 +6625,42 @@
 			<epg_id>da-vinci-eu</epg_id>
 			<tvg_id>da-vinci-eu</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/5108.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Тарарам! HD</caption>
+			<channel_id>1915</channel_id>
+			<epg_id>tararam</epg_id>
+			<tvg_id>tararam</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Kids TV HD</caption>
+			<channel_id>5000</channel_id>
+			<epg_id>kidstv</epg_id>
+			<tvg_id>kidstv</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>О! HD</caption>
+			<channel_id>5942</channel_id>
+			<epg_id>o_</epg_id>
+			<tvg_id>o_</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoon Classics</caption>
+			<channel_id>7453</channel_id>
+			<epg_id>cartoon-classics</epg_id>
+			<tvg_id>cartoon-classics</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -7763,6 +7906,60 @@
 			<epg_id>box-gurman</epg_id>
 			<tvg_id>box-gurman</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/4686.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лапки Live HD</caption>
+			<channel_id>7198</channel_id>
+			<epg_id>lapki-live</epg_id>
+			<tvg_id>lapki-live</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лапки Live</caption>
+			<channel_id>8161</channel_id>
+			<epg_id>lapki-live</epg_id>
+			<tvg_id>lapki-live</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Телекафе HD</caption>
+			<channel_id>1643</channel_id>
+			<epg_id>telekafe</epg_id>
+			<tvg_id>telekafe</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Бобёр HD</caption>
+			<channel_id>7781</channel_id>
+			<epg_id>bobior</epg_id>
+			<tvg_id>bobior</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>The Explorers HD</caption>
+			<channel_id>7334</channel_id>
+			<epg_id>the-explorers</epg_id>
+			<tvg_id>the-explorers</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Epic HD</caption>
+			<channel_id>8051</channel_id>
+			<epg_id>epic</epg_id>
+			<tvg_id>epic</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -9186,6 +9383,33 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Спорт ТВ HD BY</caption>
+			<channel_id>7767</channel_id>
+			<epg_id>sport-tv-by</epg_id>
+			<tvg_id>sport-tv-by</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт Триумф HD</caption>
+			<channel_id>2018</channel_id>
+			<epg_id>start-triumf</epg_id>
+			<tvg_id>start-triumf</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт Баскет HD</caption>
+			<channel_id>8455</channel_id>
+			<epg_id>start-basket</epg_id>
+			<tvg_id>start-basket</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>1HD Music</caption>
 			<channel_id>3533</channel_id>
 			<int_id>327</int_id>
@@ -9626,7 +9850,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТНТ Music</caption>
+			<caption>FON Music</caption>
 			<channel_id>4885</channel_id>
 			<int_id>343</int_id>
 			<epg_id>tnt-music</epg_id>
@@ -9636,7 +9860,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>ТНТ Music HD</caption>
+			<caption>FON Music HD</caption>
 			<channel_id>8673</channel_id>
 			<int_id>813</int_id>
 			<epg_id>tnt-music</epg_id>
@@ -10007,6 +10231,24 @@
 			<channel_id>2926</channel_id>
 			<epg_id>no_epg_music</epg_id>
 			<tvg_id>no_epg_music</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Музыка Первого HD</caption>
+			<channel_id>8764</channel_id>
+			<epg_id>muzyka-pervogo</epg_id>
+			<tvg_id>muzyka-pervogo</tvg_id>
+			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>14</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Муз ТВ HD</caption>
+			<channel_id>9781</channel_id>
+			<epg_id>muztv</epg_id>
+			<tvg_id>muztv</tvg_id>
 			<icon_url>http://pl.ottg.app/icon/.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>14</archive>

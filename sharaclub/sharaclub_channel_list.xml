@@ -1225,6 +1225,7 @@
 			<epg_id>cineman-cccpfhd</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/3/cinesssr.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>CineMan Marvel</caption>
@@ -1609,6 +1610,7 @@
 			<epg_id>kbc-skazocniy-remake</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/3/skazocniy-remake.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>KBC-СпортМикс HD</caption>
@@ -1816,11 +1818,12 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Cпорт</caption>
+			<caption>MM Спорт</caption>
 			<channel_id>sport-hd-minimax</channel_id>
 			<epg_id>sport-hd-minimax</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/sport-hd-minimax.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Newfilm 1</caption>
@@ -1910,7 +1913,7 @@
 			<epg_id>agata-mm</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/agata-hd-minimax.png</icon_url>
 			<tv_category_id>4</tv_category_id>
-			<archive>1</archive>
+			<archive>4</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Боевик</caption>
@@ -2162,7 +2165,7 @@
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MM Уэс Крэйвен</caption>
+			<caption>MM Синематограф</caption>
 			<channel_id>ues-krejven-hd-minimax</channel_id>
 			<epg_id>ues-krejven-hd-minimax</epg_id>
 			<icon_url>https://img.caribo.net/picons/upl/ues-krejven-hd-minimax.png</icon_url>
@@ -3322,7 +3325,7 @@
 		<tv_channel>
 			<caption>Наше любимое кино HD</caption>
 			<channel_id>nashe-lubimoe-kino</channel_id>
-			<epg_id>nashe-lubimoe-kino</epg_id>
+			<epg_id>nashe-lubimoe</epg_id>
 			<tvg_id>lubimoe-kino</tvg_id>
 			<icon_url>https://img.caribo.net/picons/ru/nashe-lubimoe-kino.png</icon_url>
 			<tv_category_id>4</tv_category_id>
@@ -3438,7 +3441,21 @@
 			<caption>CineMan Дубляж CCCP</caption>
 			<channel_id>cinem_dubsssr</channel_id>
 			<epg_id>cineman-cccpdub</epg_id>
-			<icon_url>https://img.caribo.net/picons/</icon_url>
+			<icon_url>https://img.caribo.net/picons/upl/3/cinem_dubsssr.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>GL VHS</caption>
+			<channel_id>gl_vhs</channel_id>
+			<epg_id>gl_vhs</epg_id>
+			<icon_url>https://img.caribo.net/picons/upl/3/gl_vhs.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Боевики</caption>
+			<channel_id>lib_boyev</channel_id>
+			<epg_id>LIBERTYBOYEVIKIFHD</epg_id>
+			<icon_url>https://img.caribo.net/picons/upl/3/lib_boyev.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3795,7 +3812,7 @@
 			<channel_id>kxl-hd</channel_id>
 			<epg_id>kxl-hd</epg_id>
 			<tvg_id>kxl-hd</tvg_id>
-			<icon_url>https://img.caribo.net/picons/upl/kxl-hd.png</icon_url>
+			<icon_url>https://img.caribo.net/picons/upl/kxl-hd_50.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3804,7 +3821,7 @@
 			<channel_id>kxl</channel_id>
 			<epg_id>kxl</epg_id>
 			<tvg_id>kxl</tvg_id>
-			<icon_url>https://img.caribo.net/picons/ru/khl.png</icon_url>
+			<icon_url>https://img.caribo.net/picons/upl/4/kxl.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>2</archive>
 		</tv_channel>
@@ -3852,15 +3869,6 @@
 			<icon_url>https://img.caribo.net/picons/ru/tochka-otryva.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Конный мир HD</caption>
-			<channel_id>konny-mir</channel_id>
-			<epg_id>konny-mir</epg_id>
-			<tvg_id>konny-mir</tvg_id>
-			<icon_url>https://img.caribo.net/picons/ru/konniymir.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>2</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Бокс ТВ</caption>

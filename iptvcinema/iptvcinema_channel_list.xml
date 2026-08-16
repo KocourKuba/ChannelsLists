@@ -105,11 +105,6 @@
 			<icon_url>plugin_file://icons/categories/clarity4k.png</icon_url>
 		</tv_category>
 		<tv_category>
-			<id>21</id>
-			<caption>VB</caption>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-		</tv_category>
-		<tv_category>
 			<id>22</id>
 			<caption>CPS</caption>
 			<icon_url>plugin_file://icons/categories/cps.png</icon_url>
@@ -133,11 +128,6 @@
 			<id>26</id>
 			<caption>Sky High</caption>
 			<icon_url>plugin_file://icons/categories/SkyHigh.png</icon_url>
-		</tv_category>
-		<tv_category>
-			<id>27</id>
-			<caption>Чебур ТВ</caption>
-			<icon_url>plugin_file://icons/categories/cheburtv.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>28</id>
@@ -173,6 +163,21 @@
 			<id>34</id>
 			<caption>Loop</caption>
 			<icon_url>plugin_file://icons/categories/Loop.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>35</id>
+			<caption>Velilla TV</caption>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>36</id>
+			<caption>OK TV</caption>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+		</tv_category>
+		<tv_category>
+			<id>37</id>
+			<caption>Bear TV</caption>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
@@ -759,125 +764,6 @@
 			<channel_id>top_mix</channel_id>
 			<epg_id>no_epg_cinema</epg_id>
 			<icon_url>https://iptvcinema.ru/channels/topmix.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сити Эдем ТелеНовелла</caption>
-			<channel_id>city_telenovella</channel_id>
-			<epg_id>cityedem-telenov</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/citytelenovella1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сити Эдем ТВ</caption>
-			<channel_id>city_edem</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/cityedem1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сити Эдем КиноЭкшен</caption>
-			<channel_id>city_kinoaction</channel_id>
-			<epg_id>cityedem-kinoact</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/citykinoaction1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сити Эдем КиноМистика</caption>
-			<channel_id>city_kinomystica</channel_id>
-			<epg_id>cityedem-kinomist</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/citykinomystica1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сити Эдем КиноСемья</caption>
-			<channel_id>city_kinosemya</channel_id>
-			<epg_id>cityedem-kinosem</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/citykinosemya1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сити Эдем КиноКлассика</caption>
-			<channel_id>city_kinoclassica</channel_id>
-			<epg_id>cityedem-kinoklas</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/citykinoclassica1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сити Эдем КиноФантастика</caption>
-			<channel_id>city_kinofantastica</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/citykinofantastica1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сити Эдем КиноДрама</caption>
-			<channel_id>city_kinodrama</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/citykinodrama1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сити Эдем КиноАзия</caption>
-			<channel_id>city_kinoasia</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/citykinoasia1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сити Эдем КиноДок</caption>
-			<channel_id>city_kinodoc</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/citykinodoc1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сити Эдем КиноАРТ</caption>
-			<channel_id>city_kinoart</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/citykinoart1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сити Эдем КиноКомедия</caption>
-			<channel_id>city_kinocomedy</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/citykinocomedy1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Сити Эдем КиноДетектив</caption>
-			<channel_id>city_kinodetectiv</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/citykinodetectiv1.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Frost Horror</caption>
-			<channel_id>frost_horror</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/FrostHorror.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Frost Movie</caption>
-			<channel_id>frost_movie</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/FrostMovie.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Just TV</caption>
-			<channel_id>just_tv</channel_id>
-			<epg_id>Just TV</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/just_tv.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>DTR Zona 1</caption>
-			<channel_id>dtr_zona1</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/dtrzona1.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3338,7 +3224,7 @@
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>DITV Котострофы</caption>
+			<caption>DITV Котострофа</caption>
 			<channel_id>ditv_catastrophe</channel_id>
 			<epg_id>no_epg_cinema</epg_id>
 			<icon_url>https://iptvcinema.ru/channels/ditv.png</icon_url>
@@ -3362,6 +3248,34 @@
 			<caption>DITV Шансон</caption>
 			<channel_id>ditv_shanson</channel_id>
 			<epg_id>no_epg_music</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/ditv.png</icon_url>
+			<tv_category_id>16</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>DITV Детский досуг</caption>
+			<channel_id>ditv_detskiydosug</channel_id>
+			<epg_id>no_epg_cinema</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/ditv.png</icon_url>
+			<tv_category_id>16</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>DITV Пункт назначения</caption>
+			<channel_id>ditv_punktnaznachenia</channel_id>
+			<epg_id>no_epg_cinema</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/ditv.png</icon_url>
+			<tv_category_id>16</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>DITV Зловещие мертвецы</caption>
+			<channel_id>ditv_zloveshie</channel_id>
+			<epg_id>no_epg_cinema</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/ditv.png</icon_url>
+			<tv_category_id>16</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>DITV СССР 4К</caption>
+			<channel_id>ditv_ussr4k</channel_id>
+			<epg_id>no_epg_cinema</epg_id>
 			<icon_url>https://iptvcinema.ru/channels/ditv.png</icon_url>
 			<tv_category_id>16</tv_category_id>
 		</tv_channel>
@@ -3758,6 +3672,13 @@
 			<tv_category_id>18</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>GlobalMedia Российское кино</caption>
+			<channel_id>gm_rosskino</channel_id>
+			<epg_id>gm_vojna</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/gm_rossijskoe_kino.png</icon_url>
+			<tv_category_id>18</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>GL Невский</caption>
 			<channel_id>gl_nevski</channel_id>
 			<epg_id>goldline-nevski</epg_id>
@@ -4106,76 +4027,6 @@
 			<epg_id>clarity4k-retroskazka2</epg_id>
 			<icon_url>https://iptvcinema.ru/channels/clarity4k-retroskazka2.png</icon_url>
 			<tv_category_id>20</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>VB VHS Classic</caption>
-			<channel_id>vb_vhsclassic</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/vb_vhsclassic.png</icon_url>
-			<tv_category_id>21</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>VB Назад в СССР</caption>
-			<channel_id>vb_nazadvussr</channel_id>
-			<epg_id>no_epg</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/vb_nazadvussr.png</icon_url>
-			<tv_category_id>21</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>VB Спецназ-Диверсант</caption>
-			<channel_id>vb_specnaz</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/vb_specnaz.png</icon_url>
-			<tv_category_id>21</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>VB Российские Сериалы</caption>
-			<channel_id>vb_russerial</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/vb_ruserial.png</icon_url>
-			<tv_category_id>21</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>VB Контент моего детства</caption>
-			<channel_id>vb_content</channel_id>
-			<epg_id>no_epg</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/vb_content.png</icon_url>
-			<tv_category_id>21</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>VB ОСП-Cтудия</caption>
-			<channel_id>vb_osp</channel_id>
-			<epg_id>no_epg</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/vb_osp.png</icon_url>
-			<tv_category_id>21</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>VB Осторожно Модерн!</caption>
-			<channel_id>vb_ostorozhno</channel_id>
-			<epg_id>no_epg</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/vb_ostorozhno.png</icon_url>
-			<tv_category_id>21</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>VB Сваты</caption>
-			<channel_id>vb_svati</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/vb_svati.png</icon_url>
-			<tv_category_id>21</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>VB xPeнТВ</caption>
-			<channel_id>vb_x_ren</channel_id>
-			<epg_id>no_epg</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/vb_xren.png</icon_url>
-			<tv_category_id>21</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>VB Новогодний канал</caption>
-			<channel_id>vb_novogodni</channel_id>
-			<epg_id>no_epg</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/vb_novogodniy.png</icon_url>
-			<tv_category_id>21</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>CPS Drama</caption>
@@ -6024,356 +5875,6 @@
 			<epg_id>sky-high-horror-4k-hdr</epg_id>
 			<icon_url>https://iptvcinema.ru/channels/sky-high-horror-4k-hdr.png</icon_url>
 			<tv_category_id>26</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Стрелялки</caption>
-			<channel_id>chb_strelyalki</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_strelyalki.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ ХБ</caption>
-			<channel_id>chb_xb</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_xb.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Фантазия</caption>
-			<channel_id>chb_fantasy</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_fantasy.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ RU Комедия</caption>
-			<channel_id>chb_rucomedy</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_rucomedy.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Приключения</caption>
-			<channel_id>chb_priklyuchenia</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_priklyuchenia.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Фантастика</caption>
-			<channel_id>chb_fantastica</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_fantastica.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Драма</caption>
-			<channel_id>chb_drama</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_drama.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Триллер</caption>
-			<channel_id>chb_thriller</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_thriller.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Ужастики</caption>
-			<channel_id>chb_uzhastiki</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_uzhastiki.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Новинки</caption>
-			<channel_id>chb_novinki</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_novinki.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Криминал</caption>
-			<channel_id>chb_criminal</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_criminal.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Детектив</caption>
-			<channel_id>chb_detective</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_detective.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ МультЭпоха СССР</caption>
-			<channel_id>chb_multepoha</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_multepoha.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Спортивный</caption>
-			<channel_id>chb_sportivniy</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_sportivniy.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Армагеддон</caption>
-			<channel_id>chb_armagedon</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_armagedon.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Назад в СССР</caption>
-			<channel_id>chb_nazadvussr</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_nazadvussr.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Мистика</caption>
-			<channel_id>chb_mystica</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_mystica.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Series</caption>
-			<channel_id>chb_series</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_series.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ MIX</caption>
-			<channel_id>chb_mix</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_mix.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Наше Детство СССР</caption>
-			<channel_id>chb_nashedetstvoussr</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_nashedetstvoussr.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ RU Мелодрама</caption>
-			<channel_id>chb_rumelodrama</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_rumelodrama.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Мультики</caption>
-			<channel_id>chb_multiki</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_multiki.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Мелодрама</caption>
-			<channel_id>chb_melodrama</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_melodrama.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Смешной</caption>
-			<channel_id>chb_smeshnoy</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_smeshnoy.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Семейное</caption>
-			<channel_id>chb_semeynoe</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_semeynoe.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ RU Кино</caption>
-			<channel_id>chb_rukino</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_rukino.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Физ-Мульт Привет</caption>
-			<channel_id>chb_fizmultprivet</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_fizmultprivet.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Вестерн</caption>
-			<channel_id>chb_western</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_western.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Военный</caption>
-			<channel_id>chb_voenni</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_voenni.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ СССР 20-е</caption>
-			<channel_id>chb_ussr20</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_ussr20.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ СССР 30-е</caption>
-			<channel_id>chb_ussr30</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_ussr30.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ СССР 40-е</caption>
-			<channel_id>chb_ussr40</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_ussr40.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ СССР 50-е</caption>
-			<channel_id>chb_ussr50</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_ussr50.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ СССР 60-е</caption>
-			<channel_id>chb_ussr60</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_ussr60.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ СССР 70-е</caption>
-			<channel_id>chb_ussr70</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_ussr70.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ СССР 80-е</caption>
-			<channel_id>chb_ussr80</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_ussr80.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ СССР 90-е</caption>
-			<channel_id>chb_ussr90</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_ussr90.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ СССР Нетленка</caption>
-			<channel_id>chb_ussrnatlenka</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_ussrnatlenka.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ RU Сериал</caption>
-			<channel_id>chb_ruserial</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_ruserial.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ История</caption>
-			<channel_id>chb_istoria</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_istoria.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Мюзикл</caption>
-			<channel_id>chb_musicle</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_musicle.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Супергерои</caption>
-			<channel_id>chb_supergeroy</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_supergeroy.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Биография</caption>
-			<channel_id>chb_biography</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_biography.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Анимешки</caption>
-			<channel_id>chb_animeshki</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_animeshki.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Пришельцы</caption>
-			<channel_id>chb_prishelci</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_prishelci.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ 4k Films</caption>
-			<channel_id>chb_4kfilms</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_4kfilms.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Зита-Гита</caption>
-			<channel_id>chb_zitagita</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_zitagita.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Космос</caption>
-			<channel_id>chb_cosmos</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_cosmos.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ Боевичок</caption>
-			<channel_id>chb_boevichok</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_boevichok.png</icon_url>
-			<tv_category_id>27</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>ЧебурТВ На Краю Вселенной</caption>
-			<channel_id>chb_nakrayu</channel_id>
-			<epg_id>no_epg_cinema</epg_id>
-			<icon_url>https://iptvcinema.ru/channels/chb_nakrayu.png</icon_url>
-			<tv_category_id>27</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty DC FHD</caption>
@@ -8383,6 +7884,636 @@
 			<epg_id>Loop Лихие</epg_id>
 			<icon_url>https://iptvcinema.ru/channels/Likhie.png</icon_url>
 			<tv_category_id>34</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Том и Джерри HD</caption>
+			<channel_id>velilla_tomandjerry</channel_id>
+			<epg_id>velilla-tij</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-tij.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Cartoons Disney 4K</caption>
+			<channel_id>velilla_cartoons_disney_4k</channel_id>
+			<epg_id>velilla-cartoondisney</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-cartoondisney.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Cinema 4K</caption>
+			<channel_id>velilla_cinema_4k</channel_id>
+			<epg_id>velilla-cinema4k</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-cinema4k.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Action War Films HD</caption>
+			<channel_id>velilla_action_war_films_hd</channel_id>
+			<epg_id>velilla-actionwar</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-actionwar.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Русский Сериал HD</caption>
+			<channel_id>velilla_russkiy_serial_hd</channel_id>
+			<epg_id>velilla-ruserial</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-ruserial.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Домашний HD</caption>
+			<channel_id>velilla_domashniy_hd</channel_id>
+			<epg_id>velilla-domashny</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-domashny.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Мосгаз HD</caption>
+			<channel_id>velilla_mosgaz_hd</channel_id>
+			<epg_id>velilla-mosgaz</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-mosgaz.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Морские дьяволы HD</caption>
+			<channel_id>velilla_morskie_dyavoly_hd</channel_id>
+			<epg_id>velilla-mordiav</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-mordiav.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Бандитский Петербург</caption>
+			<channel_id>velilla_banditskiy_peterburg</channel_id>
+			<epg_id>velilla-bpiter</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-bpiter.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Вестерн HD</caption>
+			<channel_id>velilla_western_hd</channel_id>
+			<epg_id>velilla-western</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-western.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Детский HD</caption>
+			<channel_id>velilla_detskiy_hd</channel_id>
+			<epg_id>velilla-detsky</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-detsky.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV ИП Пирогова HD</caption>
+			<channel_id>velilla_ip_pirogova_hd</channel_id>
+			<epg_id>velilla-pirog</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-pirog.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Кухня + Отель Элеон HD</caption>
+			<channel_id>velilla_kuhnya_eleon_hd</channel_id>
+			<epg_id>velilla-kuxnia</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-kuxnia.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Морские дьяволы 2 HD</caption>
+			<channel_id>velilla_morskie_dyavoly_2_hd</channel_id>
+			<epg_id>velilla-mordiav2</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-mordiav2.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Ситком HD</caption>
+			<channel_id>velilla_sitkom_hd</channel_id>
+			<epg_id>velilla-sitkom</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-sitkom.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Счастливы вместе</caption>
+			<channel_id>velilla_schastlivy_vmeste</channel_id>
+			<epg_id>velilla-sw</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-sw.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Элен и ребята</caption>
+			<channel_id>velilla_elen_i_rebyata</channel_id>
+			<epg_id>velilla-elenir</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-elenir.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Velilla TV Русские Мелодрамы HD</caption>
+			<channel_id>velilla_russkie_melodramy_hd</channel_id>
+			<epg_id>velilla-rusmylo</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/velilla-rusmylo.png</icon_url>
+			<tv_category_id>35</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Super Action FHD</caption>
+			<channel_id>oktv_superactionfhd</channel_id>
+			<epg_id>OK TV - Super Action FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/super_action.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Приключения FHD</caption>
+			<channel_id>oktv_priklyucheniyafhd</channel_id>
+			<epg_id>OK TV - Приключения FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/prikluchenie.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Фантастика FHD</caption>
+			<channel_id>oktv_fantastikafhd</channel_id>
+			<epg_id>OK TV - Фантастика FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_fantastic.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Триллер FHD</caption>
+			<channel_id>oktv_trillerfhd</channel_id>
+			<epg_id>OK TV - Триллер FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_tpiller_icon.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Новинки FHD</caption>
+			<channel_id>oktv_novinkifhd</channel_id>
+			<epg_id>OK TV - Новинки FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_novinki.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Драма FHD</caption>
+			<channel_id>oktv_dramafhd</channel_id>
+			<epg_id>OK TV - Драма FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_drama.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - RU Кино FHD</caption>
+			<channel_id>oktv_rukinofhd</channel_id>
+			<epg_id>OK TV - RU Кино FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_ru_kino.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Балабол FHD</caption>
+			<channel_id>oktv_balabolfhd</channel_id>
+			<epg_id>OK TV - Балабол FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_balabol.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Узбек Кино FHD</caption>
+			<channel_id>oktv_uzbekkinofhd</channel_id>
+			<epg_id>OK TV - Узбек Кино FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_uzb_kino.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Теория большого взрыва FHD</caption>
+			<channel_id>oktv_thebigbangfhd</channel_id>
+			<epg_id>OK TV - Теория большого взрыва FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_thebigbang.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Солдаты FHD</caption>
+			<channel_id>oktv_soldatyfhd</channel_id>
+			<epg_id>OK TV - Солдаты FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_soldati.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - МультЗал1 FHD</caption>
+			<channel_id>oktv_multzal1fhd</channel_id>
+			<epg_id>OK TV - МультЗал1 FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_multzal1.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Семейное FHD</caption>
+			<channel_id>oktv_semeynoefhd</channel_id>
+			<epg_id>OK TV - Семейное FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_semeynoe.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Смешное FHD</caption>
+			<channel_id>oktv_smeshnoefhd</channel_id>
+			<epg_id>OK TV - Смешное FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_smeshnoe.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - 6 Кадров FHD</caption>
+			<channel_id>oktv_6kadrovfhd</channel_id>
+			<epg_id>OK TV - 6 Кадров FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_6kadrov.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Форсаж FHD</caption>
+			<channel_id>oktv_forsajfhd</channel_id>
+			<epg_id>OK TV - Форсаж FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_forsaj.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Гарри Поттер 60fps FHD</caption>
+			<channel_id>oktv_garripotter60fpsfhd</channel_id>
+			<epg_id>OK TV - Гарри Поттер 60fps FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_garripotter.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Эпоха VHS FHD</caption>
+			<channel_id>oktv_epoxavhsfhd</channel_id>
+			<epg_id>OK TV - Эпоха VHS FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_epohavhs.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Союз Кино FHD</caption>
+			<channel_id>oktv_soyuzkinofhd</channel_id>
+			<epg_id>OK TV - Союз Кино FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_soyuz_kino.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Космический FHD</caption>
+			<channel_id>oktv_kosmosfhd</channel_id>
+			<epg_id>OK TV - Космический FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_kosmicheski.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - Multik UZ FHD</caption>
+			<channel_id>oktv_multikuzfhd</channel_id>
+			<epg_id>OK TV - Multik UZ FHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_multikiuz.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>OK TV - 4K Боевики UHD</caption>
+			<channel_id>oktv_4kboevikiuhd</channel_id>
+			<epg_id>OK TV - 4K Боевики UHD</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/oktv_4k_boeviki.png</icon_url>
+			<tv_category_id>36</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV МегаКадр RU UHD</caption>
+			<channel_id>beartv_megakadr</channel_id>
+			<epg_id>000101_MegaKadr</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Золотой Экран RU UHD</caption>
+			<channel_id>beartv_zolotoyekran</channel_id>
+			<epg_id>000102_GoldenScreen</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноВремя RU UHD</caption>
+			<channel_id>beartv_kinovremya</channel_id>
+			<epg_id>000104_KinoTime</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноМир RU UHD</caption>
+			<channel_id>beartv_kinomir</channel_id>
+			<epg_id>000105_SerialWorld</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Хитовый Экран RU UHD</caption>
+			<channel_id>beartv_hitovyyekran</channel_id>
+			<epg_id>000109_SerialHit</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Фильмонавт RU UHD</caption>
+			<channel_id>beartv_filmonavt</channel_id>
+			<epg_id>000110_Filmonavt</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноГоризонт RU UHD</caption>
+			<channel_id>beartv_kinogorizont</channel_id>
+			<epg_id>000113_KinoHorizon</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Сюжет ТВ RU UHD</caption>
+			<channel_id>beartv_syuzhettv</channel_id>
+			<epg_id>000115_SyuzhetTV</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Кадр Плюс RU UHD</caption>
+			<channel_id>beartv_kadrplus</channel_id>
+			<epg_id>000116_KadrPlus</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноПульс RU UHD</caption>
+			<channel_id>beartv_kinopuls</channel_id>
+			<epg_id>000117_KinoPulse</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Экран 24 RU UHD</caption>
+			<channel_id>beartv_ekran24</channel_id>
+			<epg_id>000121_Ekran24</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Ночной Сеанс RU UHD</caption>
+			<channel_id>beartv_nochnoyseans</channel_id>
+			<epg_id>000130_NightSeans</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Премьера Live RU UHD</caption>
+			<channel_id>beartv_premierelive</channel_id>
+			<epg_id>000131_PremiereLive</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноМаршрут RU UHD</caption>
+			<channel_id>beartv_kinomarshrut</channel_id>
+			<epg_id>000132_KinoMarshrut</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Легенды Экрана RU UHD</caption>
+			<channel_id>beartv_legendyekrana</channel_id>
+			<epg_id>000133_LegendsEkrana</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноВолна RU UHD</caption>
+			<channel_id>beartv_kinovolna</channel_id>
+			<epg_id>000135_MovieWave</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноОрбита RU UHD</caption>
+			<channel_id>beartv_kinoorbita</channel_id>
+			<epg_id>000137_CinemaOrbit</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Галактика Кино RU UHD</caption>
+			<channel_id>beartv_galaktikakino</channel_id>
+			<epg_id>000139_FilmGalaxy</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноСфера RU UHD</caption>
+			<channel_id>beartv_kinosfera</channel_id>
+			<epg_id>000141_KinoSphere</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноДрайв RU UHD</caption>
+			<channel_id>beartv_kinodrayv</channel_id>
+			<epg_id>000143_KinoDrive</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Блокбастер ТВ RU UHD</caption>
+			<channel_id>beartv_blockbastertv</channel_id>
+			<epg_id>000144_BlockbusterTV</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Фильм Канал RU UHD</caption>
+			<channel_id>beartv_filmkanal</channel_id>
+			<epg_id>000199_FilmKanal</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноЛиния RU UHD</caption>
+			<channel_id>beartv_kinoliniya</channel_id>
+			<epg_id>000201_KinoLine</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноЗвезда RU UHD</caption>
+			<channel_id>beartv_kinozvezda</channel_id>
+			<epg_id>000202_MovieStar</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноАрена RU UHD</caption>
+			<channel_id>beartv_kinoarena</channel_id>
+			<epg_id>000203_KinoArena</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Экран Будущего RU UHD</caption>
+			<channel_id>beartv_ekranbuduschego</channel_id>
+			<epg_id>000204_EkranFuture</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Кино Нова RU UHD</caption>
+			<channel_id>beartv_kinonova</channel_id>
+			<epg_id>000205_CinemaNova</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноФокус RU UHD</caption>
+			<channel_id>beartv_kinofokus</channel_id>
+			<epg_id>000206_KinoFocus</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV ФильмПоток RU UHD</caption>
+			<channel_id>beartv_filmpotok</channel_id>
+			<epg_id>000207_FilmPotok</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноМикс RU UHD</caption>
+			<channel_id>beartv_kinomiks</channel_id>
+			<epg_id>000208_KinoMix</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноКлассика RU UHD</caption>
+			<channel_id>beartv_kinoklassika</channel_id>
+			<epg_id>000209_KinoClassic</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV СуперСеанс RU UHD</caption>
+			<channel_id>beartv_superseans</channel_id>
+			<epg_id>000210_SuperSeans</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноДом RU UHD</caption>
+			<channel_id>beartv_kinodom</channel_id>
+			<epg_id>000211_HDKinoDom</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноПланета RU UHD</caption>
+			<channel_id>beartv_kinoplaneta</channel_id>
+			<epg_id>000212_KinoPlanet</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноНочь RU UHD</caption>
+			<channel_id>beartv_kinonoch</channel_id>
+			<epg_id>000213_MovieNight</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноПортал RU UHD</caption>
+			<channel_id>beartv_kinoportal</channel_id>
+			<epg_id>000214_KinoPortal</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Экран Премиум RU UHD</caption>
+			<channel_id>beartv_ekranpremium</channel_id>
+			<epg_id>000215_EkranPremium</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноСвет RU UHD</caption>
+			<channel_id>beartv_kinosvet</channel_id>
+			<epg_id>000216_KinoSvet</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV ФильмЭкспресс RU UHD</caption>
+			<channel_id>beartv_filmexpress</channel_id>
+			<epg_id>000217_FilmExpress</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Парк Кино RU UHD</caption>
+			<channel_id>beartv_parkkino</channel_id>
+			<epg_id>000218_SerialPark</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Время Кино RU UHD</caption>
+			<channel_id>beartv_vremyakino</channel_id>
+			<epg_id>000219_CinemaTime</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноМаяк RU UHD</caption>
+			<channel_id>beartv_kinomayak</channel_id>
+			<epg_id>000220_KinoMayak</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноБаза RU UHD</caption>
+			<channel_id>beartv_kinobaza</channel_id>
+			<epg_id>000221_KinoBaza</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV ФильмЗона RU UHD</caption>
+			<channel_id>beartv_filmzona</channel_id>
+			<epg_id>000222_FilmZone</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноИмперия RU UHD</caption>
+			<channel_id>beartv_kinoimperiya</channel_id>
+			<epg_id>000223_KinoEmpire</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Экран Хит RU UHD</caption>
+			<channel_id>beartv_ekranhit</channel_id>
+			<epg_id>000224_EkranHit</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Линия Кино RU UHD</caption>
+			<channel_id>beartv_liniyakino</channel_id>
+			<epg_id>000225_MovieLine</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноРитм RU UHD</caption>
+			<channel_id>beartv_kinoritm</channel_id>
+			<epg_id>000226_KinoRhythm</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Сеанс 24/7 RU UHD</caption>
+			<channel_id>beartv_seans247</channel_id>
+			<epg_id>000227_Seans247</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Киномания RU UHD</caption>
+			<channel_id>beartv_kinomania</channel_id>
+			<epg_id>009999_KinoMania</epg_id>
+			<icon_url>https://iptvcinema.ru/channels/beartv.png</icon_url>
+			<tv_category_id>37</tv_category_id>
 		</tv_channel>
 	</tv_channels>
 </tv_info>

@@ -3295,7 +3295,7 @@
 		<tv_channel>
 			<caption>MM USSR Сказки HD</caption>
 			<channel_id>806</channel_id>
-			<epg_id>mm-ussrskazki</epg_id>
+			<epg_id>ussr-skazki-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>14</archive>
@@ -3303,7 +3303,7 @@
 		<tv_channel>
 			<caption>MM Honey HD</caption>
 			<channel_id>2455</channel_id>
-			<epg_id>mm-honey</epg_id>
+			<epg_id>honey-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>14</archive>
@@ -3669,9 +3669,9 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Конный мир</caption>
+			<caption>Новый Игровой Канал</caption>
 			<channel_id>KonniyMirHD</channel_id>
-			<epg_id>konny-mir</epg_id>
+			<epg_id>Новый Игровой Канал</epg_id>
 			<icon_url>https://iptvx.one/picons/konny-mir.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>14</archive>
@@ -7589,22 +7589,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>TVNet Sport AZ</caption>
-			<channel_id>287</channel_id>
-			<epg_id>TVNet Sport AZ</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sport TV AZ</caption>
-			<channel_id>775</channel_id>
-			<epg_id>Sport TV AZ</epg_id>
-			<icon_url>http://epgx.site/p/backustv-horror.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Yosso TV Grand</caption>
 			<channel_id>396</channel_id>
 			<epg_id>grand-yosso</epg_id>
@@ -8309,7 +8293,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Cinema HD</caption>
+			<caption>KLI Kinozakaz</caption>
 			<channel_id>2491</channel_id>
 			<epg_id>klicinema</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
@@ -8325,7 +8309,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI History HD</caption>
+			<caption>KLI Детективы</caption>
 			<channel_id>2495</channel_id>
 			<epg_id>klihistory</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
@@ -8357,7 +8341,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI VHS HD</caption>
+			<caption>KLI Marvel</caption>
 			<channel_id>2499</channel_id>
 			<epg_id>klivhs</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
@@ -8413,7 +8397,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Humor HD</caption>
+			<caption>KLI Новинки</caption>
 			<channel_id>2511</channel_id>
 			<epg_id>klihumor</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
@@ -8437,7 +8421,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Docu HD</caption>
+			<caption>KLI VHS</caption>
 			<channel_id>2514</channel_id>
 			<epg_id>klidocu</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
@@ -9447,7 +9431,7 @@
 		<tv_channel>
 			<caption>MM Драма HD</caption>
 			<channel_id>789</channel_id>
-			<epg_id>mm-drama</epg_id>
+			<epg_id>drama-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9455,7 +9439,7 @@
 		<tv_channel>
 			<caption>MM История HD</caption>
 			<channel_id>790</channel_id>
-			<epg_id>mm-istoria</epg_id>
+			<epg_id>istorija-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9463,7 +9447,7 @@
 		<tv_channel>
 			<caption>MM Катастрофа HD</caption>
 			<channel_id>791</channel_id>
-			<epg_id>mm-katastrofa</epg_id>
+			<epg_id>katastrofa-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9471,7 +9455,7 @@
 		<tv_channel>
 			<caption>MM Киберпанк HD</caption>
 			<channel_id>793</channel_id>
-			<epg_id>mm-kiberpank</epg_id>
+			<epg_id>kiberpunk-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9479,7 +9463,7 @@
 		<tv_channel>
 			<caption>MM UFO HD</caption>
 			<channel_id>794</channel_id>
-			<epg_id>mm-ufo</epg_id>
+			<epg_id>ufo-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9487,7 +9471,7 @@
 		<tv_channel>
 			<caption>MM Триллер HD</caption>
 			<channel_id>795</channel_id>
-			<epg_id>mm-triller</epg_id>
+			<epg_id>triller-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9495,7 +9479,7 @@
 		<tv_channel>
 			<caption>MM Ужасы HD</caption>
 			<channel_id>796</channel_id>
-			<epg_id>mm-uzhasy</epg_id>
+			<epg_id>ujasi-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9503,7 +9487,7 @@
 		<tv_channel>
 			<caption>MM Ужасы Classic HD</caption>
 			<channel_id>797</channel_id>
-			<epg_id>mm-uzhasyclassic</epg_id>
+			<epg_id>ujasi-classic-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9511,7 +9495,7 @@
 		<tv_channel>
 			<caption>MM Ужастик HD</caption>
 			<channel_id>799</channel_id>
-			<epg_id>mm-uzhastik</epg_id>
+			<epg_id>ujastik-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9519,7 +9503,7 @@
 		<tv_channel>
 			<caption>MM Фантастика HD</caption>
 			<channel_id>803</channel_id>
-			<epg_id>mm-fantastika</epg_id>
+			<epg_id>fantastika-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9527,7 +9511,7 @@
 		<tv_channel>
 			<caption>MM Мифология HD</caption>
 			<channel_id>804</channel_id>
-			<epg_id>mm-mifologia</epg_id>
+			<epg_id>mifologia-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9535,7 +9519,7 @@
 		<tv_channel>
 			<caption>MM Супергерои HD</caption>
 			<channel_id>805</channel_id>
-			<epg_id>mm-supergeroi</epg_id>
+			<epg_id>supergeroi-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9543,7 +9527,7 @@
 		<tv_channel>
 			<caption>MM Комедия HD</caption>
 			<channel_id>807</channel_id>
-			<epg_id>mm-komedia</epg_id>
+			<epg_id>komedia-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9551,7 +9535,7 @@
 		<tv_channel>
 			<caption>MM Комедия Classic HD</caption>
 			<channel_id>808</channel_id>
-			<epg_id>mm-komediaclassic</epg_id>
+			<epg_id>komediaclassic-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9559,7 +9543,7 @@
 		<tv_channel>
 			<caption>MM Нуар HD</caption>
 			<channel_id>810</channel_id>
-			<epg_id>mm-nuar</epg_id>
+			<epg_id>nuar-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9567,7 +9551,7 @@
 		<tv_channel>
 			<caption>MM 007 HD</caption>
 			<channel_id>811</channel_id>
-			<epg_id>mm-007</epg_id>
+			<epg_id>007-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9575,7 +9559,7 @@
 		<tv_channel>
 			<caption>MM Кунг-Фу HD</caption>
 			<channel_id>812</channel_id>
-			<epg_id>mm-kungfu</epg_id>
+			<epg_id>kungfu-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9583,7 +9567,7 @@
 		<tv_channel>
 			<caption>MM Агата Кристи HD</caption>
 			<channel_id>813</channel_id>
-			<epg_id>mm-agatakristi</epg_id>
+			<epg_id>agatakristi-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9591,7 +9575,7 @@
 		<tv_channel>
 			<caption>MM Стивен Кинг HD</caption>
 			<channel_id>814</channel_id>
-			<epg_id>mm-stivenking</epg_id>
+			<epg_id>stivenking-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9599,7 +9583,7 @@
 		<tv_channel>
 			<caption>MM Classic HD</caption>
 			<channel_id>815</channel_id>
-			<epg_id>mm-classic</epg_id>
+			<epg_id>classic-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9607,7 +9591,7 @@
 		<tv_channel>
 			<caption>MM NewFilm.RU HD</caption>
 			<channel_id>816</channel_id>
-			<epg_id>mm-newfilm-ru</epg_id>
+			<epg_id>newfilmru-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9615,7 +9599,7 @@
 		<tv_channel>
 			<caption>MM Роскино HD</caption>
 			<channel_id>817</channel_id>
-			<epg_id>mm-roskino</epg_id>
+			<epg_id>roskino-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9623,7 +9607,7 @@
 		<tv_channel>
 			<caption>MM Крутые 90-е HD</caption>
 			<channel_id>818</channel_id>
-			<epg_id>mm-krut90</epg_id>
+			<epg_id>krutie-90-e-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9631,7 +9615,7 @@
 		<tv_channel>
 			<caption>MM Ситком HD</caption>
 			<channel_id>819</channel_id>
-			<epg_id>mm-sitkom</epg_id>
+			<epg_id>sitkom-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9639,7 +9623,7 @@
 		<tv_channel>
 			<caption>MM Сваты HD</caption>
 			<channel_id>820</channel_id>
-			<epg_id>mm-svaty</epg_id>
+			<epg_id>svaty-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9647,7 +9631,7 @@
 		<tv_channel>
 			<caption>MM Воронины HD</caption>
 			<channel_id>821</channel_id>
-			<epg_id>mm-voronin</epg_id>
+			<epg_id>voronin-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9655,7 +9639,7 @@
 		<tv_channel>
 			<caption>MM Ситком 2.0 HD</caption>
 			<channel_id>822</channel_id>
-			<epg_id>mm-olga</epg_id>
+			<epg_id>sitkom_2.0-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9663,7 +9647,7 @@
 		<tv_channel>
 			<caption>MM Полицейский с Рублевки HD</caption>
 			<channel_id>823</channel_id>
-			<epg_id>mm-policejskisrubl</epg_id>
+			<epg_id>police-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9671,7 +9655,7 @@
 		<tv_channel>
 			<caption>MM USSR Детектив HD</caption>
 			<channel_id>824</channel_id>
-			<epg_id>mm-usssrdetektiv</epg_id>
+			<epg_id>ussr-detektiv-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9679,7 +9663,7 @@
 		<tv_channel>
 			<caption>MM USSR Приключения HD</caption>
 			<channel_id>825</channel_id>
-			<epg_id>mm-ussrprikluchenia</epg_id>
+			<epg_id>ssr-prikluchenija-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9687,7 +9671,7 @@
 		<tv_channel>
 			<caption>MM USSR Фантастика HD</caption>
 			<channel_id>826</channel_id>
-			<epg_id>mm-ussrfantastika</epg_id>
+			<epg_id>ussr-fantastika-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9695,7 +9679,7 @@
 		<tv_channel>
 			<caption>MM USSR 1941-1945 HD</caption>
 			<channel_id>827</channel_id>
-			<epg_id>mm-ussr45</epg_id>
+			<epg_id>ussr-1941-1945-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9703,7 +9687,7 @@
 		<tv_channel>
 			<caption>MM USSR Комедия HD</caption>
 			<channel_id>828</channel_id>
-			<epg_id>mm-ussrkomedia</epg_id>
+			<epg_id>ussr-komedija-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9711,7 +9695,7 @@
 		<tv_channel>
 			<caption>MM NewFilm 1 HD</caption>
 			<channel_id>829</channel_id>
-			<epg_id>mm-newfilm1</epg_id>
+			<epg_id>newfilm1-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9719,7 +9703,7 @@
 		<tv_channel>
 			<caption>MM NewFilm 2 HD</caption>
 			<channel_id>830</channel_id>
-			<epg_id>mm-newfilm2</epg_id>
+			<epg_id>newfilm2-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9727,7 +9711,7 @@
 		<tv_channel>
 			<caption>MM NewFilm 3 HD</caption>
 			<channel_id>831</channel_id>
-			<epg_id>mm-newfilm3</epg_id>
+			<epg_id>newfilm3-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9735,7 +9719,7 @@
 		<tv_channel>
 			<caption>MM Приключения HD</caption>
 			<channel_id>833</channel_id>
-			<epg_id>mm-prikluchenia</epg_id>
+			<epg_id>prikluchenija-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9743,7 +9727,7 @@
 		<tv_channel>
 			<caption>MM Скорость HD</caption>
 			<channel_id>834</channel_id>
-			<epg_id>mm-skorost</epg_id>
+			<epg_id>skorost-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9751,7 +9735,7 @@
 		<tv_channel>
 			<caption>MM Спорт HD</caption>
 			<channel_id>835</channel_id>
-			<epg_id>mm-sport</epg_id>
+			<epg_id>sport-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9759,7 +9743,7 @@
 		<tv_channel>
 			<caption>MM Боевик HD</caption>
 			<channel_id>836</channel_id>
-			<epg_id>mm-boevik</epg_id>
+			<epg_id>boevik-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9767,7 +9751,7 @@
 		<tv_channel>
 			<caption>MM Боевик Classic HD</caption>
 			<channel_id>837</channel_id>
-			<epg_id>mm-boevikclassic</epg_id>
+			<epg_id>boevik_classic-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9775,7 +9759,7 @@
 		<tv_channel>
 			<caption>MM Криминал HD</caption>
 			<channel_id>838</channel_id>
-			<epg_id>mm-kriminal</epg_id>
+			<epg_id>kriminal-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9783,7 +9767,7 @@
 		<tv_channel>
 			<caption>MM Вестерн HD</caption>
 			<channel_id>839</channel_id>
-			<epg_id>mm-western</epg_id>
+			<epg_id>western-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9831,7 +9815,7 @@
 		<tv_channel>
 			<caption>MM Затмение HD</caption>
 			<channel_id>809</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>zatmenie-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9839,7 +9823,7 @@
 		<tv_channel>
 			<caption>MM Translation HD</caption>
 			<channel_id>2467</channel_id>
-			<epg_id>mm-translation</epg_id>
+			<epg_id>translation-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9847,7 +9831,7 @@
 		<tv_channel>
 			<caption>MS PRISONS HD</caption>
 			<channel_id>2466</channel_id>
-			<epg_id>ms-prisons</epg_id>
+			<epg_id>prisons-ms</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9855,7 +9839,7 @@
 		<tv_channel>
 			<caption>MS Animated HD</caption>
 			<channel_id>3298</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>animated-ms</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9863,7 +9847,7 @@
 		<tv_channel>
 			<caption>MM Experiment HD</caption>
 			<channel_id>3299</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>experiment-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9871,7 +9855,7 @@
 		<tv_channel>
 			<caption>MM Кинофестиваль HD</caption>
 			<channel_id>3300</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>kinofestival-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9879,7 +9863,7 @@
 		<tv_channel>
 			<caption>MM Квартирник HD</caption>
 			<channel_id>3301</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>kvartirnik-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9887,7 +9871,7 @@
 		<tv_channel>
 			<caption>MM Lesson HD</caption>
 			<channel_id>3302</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>lesson-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9895,7 +9879,7 @@
 		<tv_channel>
 			<caption>MM Love HD</caption>
 			<channel_id>3303</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>love-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9903,7 +9887,7 @@
 		<tv_channel>
 			<caption>MS Crime HD</caption>
 			<channel_id>3304</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>crime-ms</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9911,7 +9895,7 @@
 		<tv_channel>
 			<caption>MS Toons HD</caption>
 			<channel_id>3306</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>toons-ms</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9919,7 +9903,7 @@
 		<tv_channel>
 			<caption>MS Young Blood HD</caption>
 			<channel_id>3307</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>young-blood-ms</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9927,7 +9911,7 @@
 		<tv_channel>
 			<caption>MM USSR Мультфильм HD</caption>
 			<channel_id>3308</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>mult-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9935,7 +9919,7 @@
 		<tv_channel>
 			<caption>MM OldSchool HD</caption>
 			<channel_id>3309</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>oldschool-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9943,7 +9927,7 @@
 		<tv_channel>
 			<caption>MM Smile HD</caption>
 			<channel_id>3310</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>smile-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9951,7 +9935,7 @@
 		<tv_channel>
 			<caption>MM Tom And Jerry HD</caption>
 			<channel_id>3311</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>tom-and-jerry-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9959,7 +9943,7 @@
 		<tv_channel>
 			<caption>MM Гриффины HD</caption>
 			<channel_id>3312</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>griffiny-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9967,7 +9951,7 @@
 		<tv_channel>
 			<caption>MM Синематограф HD</caption>
 			<channel_id>3313</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>sinematograf-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -9975,7 +9959,7 @@
 		<tv_channel>
 			<caption>MM Грайндхаус HD</caption>
 			<channel_id>3314</channel_id>
-			<epg_id>mm-zatmenie</epg_id>
+			<epg_id>grindhouse-mm</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -11969,7 +11953,7 @@
 		<tv_channel>
 			<caption>NEXT Blaze</caption>
 			<channel_id>4470</channel_id>
-			<epg_id>NEXT Blaze</epg_id>
+			<epg_id>NEXTBlaze</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -11977,7 +11961,7 @@
 		<tv_channel>
 			<caption>NEXT Volt</caption>
 			<channel_id>4471</channel_id>
-			<epg_id>NEXT Volt</epg_id>
+			<epg_id>NEXTVolt</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -11985,7 +11969,7 @@
 		<tv_channel>
 			<caption>NEXT Spark</caption>
 			<channel_id>4472</channel_id>
-			<epg_id>NEXT Spark</epg_id>
+			<epg_id>NEXTSpark</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -11993,7 +11977,7 @@
 		<tv_channel>
 			<caption>NEXT Mythic</caption>
 			<channel_id>4473</channel_id>
-			<epg_id>NEXT Mythic</epg_id>
+			<epg_id>NEXTMythic</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12001,7 +11985,7 @@
 		<tv_channel>
 			<caption>NEXT Shadow</caption>
 			<channel_id>4474</channel_id>
-			<epg_id>NEXT Shadow</epg_id>
+			<epg_id>NEXTShadow</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12009,7 +11993,7 @@
 		<tv_channel>
 			<caption>NEXT Nova</caption>
 			<channel_id>4475</channel_id>
-			<epg_id>NEXT Nova</epg_id>
+			<epg_id>NEXTNova</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12017,7 +12001,7 @@
 		<tv_channel>
 			<caption>NEXT Vibe</caption>
 			<channel_id>4476</channel_id>
-			<epg_id>NEXT Vibe</epg_id>
+			<epg_id>NEXTVibe</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12025,7 +12009,7 @@
 		<tv_channel>
 			<caption>NEXT Aura</caption>
 			<channel_id>4477</channel_id>
-			<epg_id>NEXT Aura</epg_id>
+			<epg_id>NEXTAura</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12033,7 +12017,7 @@
 		<tv_channel>
 			<caption>NEXT Venture</caption>
 			<channel_id>4478</channel_id>
-			<epg_id>NEXT Venture</epg_id>
+			<epg_id>NEXTVenture</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12041,7 +12025,7 @@
 		<tv_channel>
 			<caption>NEXT Epic</caption>
 			<channel_id>4479</channel_id>
-			<epg_id>NEXT Epic</epg_id>
+			<epg_id>NEXTEpic</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12049,7 +12033,7 @@
 		<tv_channel>
 			<caption>NEXT Horizon</caption>
 			<channel_id>4480</channel_id>
-			<epg_id>NEXT Horizon</epg_id>
+			<epg_id>NEXTHorizon</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12057,7 +12041,7 @@
 		<tv_channel>
 			<caption>NEXT Joy</caption>
 			<channel_id>4481</channel_id>
-			<epg_id>NEXT Joy</epg_id>
+			<epg_id>NEXTJoy</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12065,7 +12049,7 @@
 		<tv_channel>
 			<caption>NEXT Echo</caption>
 			<channel_id>4482</channel_id>
-			<epg_id>NEXT Echo</epg_id>
+			<epg_id>NEXTEcho</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12073,7 +12057,7 @@
 		<tv_channel>
 			<caption>NEXT Fusion</caption>
 			<channel_id>4483</channel_id>
-			<epg_id>NEXT Fusion</epg_id>
+			<epg_id>NEXTFusion</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12081,7 +12065,7 @@
 		<tv_channel>
 			<caption>NEXT Vision</caption>
 			<channel_id>4484</channel_id>
-			<epg_id>NEXT Vision</epg_id>
+			<epg_id>NEXTVision</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12089,7 +12073,7 @@
 		<tv_channel>
 			<caption>NEXT Bolt</caption>
 			<channel_id>4485</channel_id>
-			<epg_id>NEXT Bolt</epg_id>
+			<epg_id>NEXTBolt</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12097,7 +12081,7 @@
 		<tv_channel>
 			<caption>NEXT Pulse</caption>
 			<channel_id>4486</channel_id>
-			<epg_id>NEXT Pulse</epg_id>
+			<epg_id>NEXTPulse</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12105,7 +12089,7 @@
 		<tv_channel>
 			<caption>NEXT Strike</caption>
 			<channel_id>4487</channel_id>
-			<epg_id>NEXT Strike</epg_id>
+			<epg_id>NEXTStrike</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12113,7 +12097,7 @@
 		<tv_channel>
 			<caption>NEXT Quest</caption>
 			<channel_id>4488</channel_id>
-			<epg_id>NEXT Quest</epg_id>
+			<epg_id>NEXTQuest</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -12121,7 +12105,7 @@
 		<tv_channel>
 			<caption>NEXT Peak</caption>
 			<channel_id>4489</channel_id>
-			<epg_id>NEXT Peak</epg_id>
+			<epg_id>NEXTPeak</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>14</archive>
@@ -14577,7 +14561,7 @@
 		<tv_channel>
 			<caption>MM Live Planet HD</caption>
 			<channel_id>792</channel_id>
-			<epg_id>mm-liveplanet</epg_id>
+			<epg_id>liveplanet</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>14</archive>
@@ -14585,7 +14569,7 @@
 		<tv_channel>
 			<caption>MM Микромир HD</caption>
 			<channel_id>800</channel_id>
-			<epg_id>mm-mikromir</epg_id>
+			<epg_id>mikromir</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>14</archive>
@@ -14593,7 +14577,7 @@
 		<tv_channel>
 			<caption>MM Макромир HD</caption>
 			<channel_id>801</channel_id>
-			<epg_id>mm-makromir</epg_id>
+			<epg_id>makromir</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>14</archive>
@@ -14601,7 +14585,7 @@
 		<tv_channel>
 			<caption>MM Мегамир HD</caption>
 			<channel_id>802</channel_id>
-			<epg_id>mm-megamir</epg_id>
+			<epg_id>megamir</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>14</archive>
@@ -14609,7 +14593,7 @@
 		<tv_channel>
 			<caption>MM Открытия HD</caption>
 			<channel_id>2465</channel_id>
-			<epg_id>mm-otkritiya</epg_id>
+			<epg_id>otkritiya</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>14</archive>
@@ -15011,14 +14995,6 @@
 			<channel_id>1231</channel_id>
 			<epg_id>luxury-hd</epg_id>
 			<icon_url>https://iptvx.one/picons/luxury-hd.png</icon_url>
-			<tv_category_id>11</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>7D7TV</caption>
-			<channel_id>2822</channel_id>
-			<epg_id>7d7</epg_id>
-			<icon_url>https://iptvx.one/picons/7d7.png</icon_url>
 			<tv_category_id>11</tv_category_id>
 			<archive>14</archive>
 		</tv_channel>
@@ -15447,7 +15423,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>MTV Hits UK</caption>
+			<caption>The Voice</caption>
 			<channel_id>MTV</channel_id>
 			<epg_id>mtv-russia</epg_id>
 			<icon_url>https://iptvx.one/picons/mtv-russia.png</icon_url>
@@ -16103,7 +16079,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Music HD</caption>
+			<caption>Music Box 90s HD</caption>
 			<channel_id>2492</channel_id>
 			<epg_id>klimusictv</epg_id>
 			<icon_url>http://epg.it999.ru/img/6120.png</icon_url>
@@ -16111,7 +16087,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI HIT90</caption>
+			<caption>Music Box 80s HD</caption>
 			<channel_id>2494</channel_id>
 			<epg_id>klihit90</epg_id>
 			<icon_url>http://epg.it999.ru/img/6121.png</icon_url>
@@ -16119,7 +16095,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Retro HD</caption>
+			<caption>Music Box 00s HD</caption>
 			<channel_id>2503</channel_id>
 			<epg_id>kliretro</epg_id>
 			<icon_url>http://epg.it999.ru/img/6399.png</icon_url>
@@ -16127,7 +16103,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Club HD</caption>
+			<caption>Music Box Classic</caption>
 			<channel_id>2504</channel_id>
 			<epg_id>kliclub</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
@@ -16135,7 +16111,7 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>KLI Concert HD</caption>
+			<caption>Music Box Dance HD</caption>
 			<channel_id>2508</channel_id>
 			<epg_id>kliconcert</epg_id>
 			<icon_url>http://epg.it999.ru/img/7177.png</icon_url>
@@ -16167,9 +16143,9 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>EChannel</caption>
+			<caption>VH-1</caption>
 			<channel_id>2825</channel_id>
-			<epg_id>EChannel</epg_id>
+			<epg_id>VH-1</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>14</archive>
@@ -16343,14 +16319,6 @@
 			<archive>14</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>The Voice</caption>
-			<channel_id>2988</channel_id>
-			<epg_id>The Voice</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Deluxe Lounge HD</caption>
 			<channel_id>2989</channel_id>
 			<epg_id>Deluxe Lounge HD</epg_id>
@@ -16362,14 +16330,6 @@
 			<caption>Muzzik TV</caption>
 			<channel_id>2990</channel_id>
 			<epg_id>Muzzik TV</epg_id>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
-			<tv_category_id>12</tv_category_id>
-			<archive>14</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>NickMusic</caption>
-			<channel_id>2992</channel_id>
-			<epg_id>NickMusic</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>14</archive>

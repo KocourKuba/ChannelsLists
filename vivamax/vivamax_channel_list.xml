@@ -55,6 +55,11 @@
 			<icon_url>plugin_file://icons/categories/4k.png</icon_url>
 		</tv_category>
 		<tv_category>
+			<id>12</id>
+			<caption>Для взрослых</caption>
+			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+		</tv_category>
+		<tv_category>
 			<id>32798</id>
 			<caption>Избранное</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
@@ -101,7 +106,7 @@
 		<tv_channel>
 			<caption>Россия К</caption>
 			<channel_id>RussiaK</channel_id>
-			<epg_id>Россия-Культуpa</epg_id>
+			<epg_id>Россия К</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/rossiak.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -109,7 +114,7 @@
 		<tv_channel>
 			<caption>РЕН ТВ</caption>
 			<channel_id>RenTV</channel_id>
-			<epg_id>Рен ТВ HD</epg_id>
+			<epg_id>Рен ТВ</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/rentv.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
@@ -125,7 +130,7 @@
 		<tv_channel>
 			<caption>Пятый канал</caption>
 			<channel_id>5Kanal</channel_id>
-			<epg_id>Пятый Канал</epg_id>
+			<epg_id>Пятый канал</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/pyati.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>14</archive>
@@ -197,7 +202,7 @@
 		<tv_channel>
 			<caption>МИР</caption>
 			<channel_id>Mir</channel_id>
-			<epg_id>Мир HD</epg_id>
+			<epg_id>Мир</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/mir.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>7</archive>
@@ -272,7 +277,7 @@
 			<epg_id>Дождь HD</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/dojdtv.png</icon_url>
 			<tv_category_id>2</tv_category_id>
-			<archive>1</archive>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>360 Новости</caption>
@@ -347,6 +352,14 @@
 			<epg_id>PRO Business</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/probiznes.png</icon_url>
 			<tv_category_id>2</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>78 канал</caption>
+			<channel_id>78</channel_id>
+			<epg_id>78</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/78.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кинохит</caption>
@@ -757,10 +770,10 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Romance</caption>
+			<caption>Vesna</caption>
 			<channel_id>Romance</channel_id>
 			<epg_id>Romance</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/romance.png</icon_url>
+			<icon_url>http://logo.vivamax.pro/logo/vesna.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -1175,7 +1188,7 @@
 		<tv_channel>
 			<caption>FOX</caption>
 			<channel_id>Fox</channel_id>
-			<epg_id>Fox HD</epg_id>
+			<epg_id>FX</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/fx.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>7</archive>
@@ -1245,14 +1258,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>О!Кино</caption>
-			<channel_id>OKINO</channel_id>
-			<epg_id>О!Кино</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/okino.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Кино24</caption>
 			<channel_id>Kino24</channel_id>
 			<epg_id>Kino 24</epg_id>
@@ -1298,6 +1303,150 @@
 			<epg_id>Кино 1 International</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/kino1.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viasat True Crime</caption>
+			<channel_id>ViasatTrueCrime</channel_id>
+			<epg_id>Viasat True Crime CEE</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/viasat-true-crime-cee.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Novella TV</caption>
+			<channel_id>Telenovella</channel_id>
+			<epg_id>Novella TV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/novellatv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Аниме ТВ</caption>
+			<channel_id>AnimeTV</channel_id>
+			<epg_id>Anime TV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/animetv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КиноСезон</caption>
+			<channel_id>KinoSezon</channel_id>
+			<epg_id>КиноСезон</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/kinosezon.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино и Жизнь</caption>
+			<channel_id>KinoIjizn</channel_id>
+			<epg_id>Кино и Жизнь</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/kino-i-zhizn.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Horror TV</caption>
+			<channel_id>HorrorTV</channel_id>
+			<epg_id>Horror TV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/horrortv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Смотрим 100% Мужское</caption>
+			<channel_id>100Mujskoe</channel_id>
+			<epg_id>Смотрим 100% Мужское</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/smotrim-100-muzhskoe.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Смотрим 100% Любовь</caption>
+			<channel_id>100Lyubov</channel_id>
+			<epg_id>Смотрим 100% Любовь</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/smotrim-100-lubov.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Смотрим 100% Классика</caption>
+			<channel_id>100Klassika</channel_id>
+			<epg_id>Смотрим 100% Классика</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/smotrim-100-klassika.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Честный детектив</caption>
+			<channel_id>ChestniDetektiv</channel_id>
+			<epg_id>Честный детектив</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/chestny-detektiv.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KinoJam 3</caption>
+			<channel_id>kinojam3</channel_id>
+			<epg_id>Kinojam 3</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/kinojam3.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинопоиск К1</caption>
+			<channel_id>Kinopoisk-K1</channel_id>
+			<epg_id>К1 (Кинопоиск)</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/k1-kinopoisk.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Отчизна</caption>
+			<channel_id>otchizna</channel_id>
+			<epg_id>Отчизна</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/otchizna.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Роман</caption>
+			<channel_id>roman</channel_id>
+			<epg_id>Роман</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/roman.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сталь</caption>
+			<channel_id>Stal</channel_id>
+			<epg_id>Сталь</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/stal.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FilmZone</caption>
+			<channel_id>FilmzoneRU</channel_id>
+			<epg_id>FilmZone [LV]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/filmzone.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FilmZone+</caption>
+			<channel_id>FilmzonePlusRU</channel_id>
+			<epg_id>FilmZone+ [LV]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/filmzone-plus.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мечта</caption>
+			<channel_id>Mechta</channel_id>
+			<epg_id>Мечта</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mechta.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Fresh Cinema</caption>
@@ -3628,6 +3777,798 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Olsib USSR 30</caption>
+			<channel_id>Olsib_USSR_30</channel_id>
+			<epg_id>Olsib USSR 30 FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ussr30.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib USSR 40</caption>
+			<channel_id>Olsib_USSR_40</channel_id>
+			<epg_id>Olsib USSR 40 FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ussr40.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib USSR 50</caption>
+			<channel_id>Olsib_USSR_50</channel_id>
+			<epg_id>Olsib USSR 50 FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ussr50.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib USSR 60</caption>
+			<channel_id>Olsib_USSR_60</channel_id>
+			<epg_id>Olsib USSR 60 FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ussr60.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib USSR 70</caption>
+			<channel_id>Olsib_USSR_70</channel_id>
+			<epg_id>Olsib USSR 70 FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ussr70.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib USSR 80</caption>
+			<channel_id>Olsib_USSR_80</channel_id>
+			<epg_id>Olsib USSR 80 FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ussr80.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib USSR 90</caption>
+			<channel_id>Olsib_USSR_90</channel_id>
+			<epg_id>Olsib USSR 90 FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ussr90.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib USSR Classic</caption>
+			<channel_id>Olsib_USSR_Classic</channel_id>
+			<epg_id>Olsib USSR Classic FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ussr-classic.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib USSR serial</caption>
+			<channel_id>Olsib_USSR_serial</channel_id>
+			<epg_id>Olsib USSR serial FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ussr-ser.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Netflix Orig</caption>
+			<channel_id>Olsib_Netflix_Orig</channel_id>
+			<epg_id>Olsib Netflix Orig FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-netflix.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Marvel</caption>
+			<channel_id>Olsib_Marvel</channel_id>
+			<epg_id>Olsib Marvel FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-marvel.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib The Best FHD</caption>
+			<channel_id>Olsib_The_Best</channel_id>
+			<epg_id>Olsib The Best FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-thebest.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib The old best</caption>
+			<channel_id>Olsib_The_old_best</channel_id>
+			<epg_id>Olsib The old best HD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-oldbest.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Black Comedy</caption>
+			<channel_id>Olsib_Black_Comedy</channel_id>
+			<epg_id>Olsib Black Comedy</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-black-comedy.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Comedy</caption>
+			<channel_id>Olsib_Comedy</channel_id>
+			<epg_id>Olsib Comedy FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-comedy.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Crime</caption>
+			<channel_id>Olsib_Crime</channel_id>
+			<epg_id>Olsib Crime FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-crime.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Fantasy</caption>
+			<channel_id>Olsib_Fantasy</channel_id>
+			<epg_id>Olsib Fantasy FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-fantasy.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Love story</caption>
+			<channel_id>Olsib_Love_story</channel_id>
+			<epg_id>Olsib Love story FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-love-stor.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib War</caption>
+			<channel_id>Olsib_War</channel_id>
+			<epg_id>Olsib War FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-war.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Catastrophe</caption>
+			<channel_id>Olsib_Catastrophe</channel_id>
+			<epg_id>Olsib Catastrophe FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-catastrophe.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib STB</caption>
+			<channel_id>Olsib_STB</channel_id>
+			<epg_id>Olsib STB FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-stb.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib RuAction</caption>
+			<channel_id>Olsib_Ru_Action</channel_id>
+			<epg_id>Olsib RuAction FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ruaction.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Action comedy</caption>
+			<channel_id>Olsib_Action_comdey</channel_id>
+			<epg_id>Olsib Action comdey FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-action-comedy.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Ремейк</caption>
+			<channel_id>Olsib_Remejk</channel_id>
+			<epg_id>Olsib Ремейк FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-remake.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib The newest</caption>
+			<channel_id>Olsib_The_newest</channel_id>
+			<epg_id>Olsib The newest FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-newest.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Time Travel</caption>
+			<channel_id>Olsib_Time_Travel</channel_id>
+			<epg_id>Olsib Time Travel FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-timetravel.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Science-fiction</caption>
+			<channel_id>Olsib_Sci-Fi</channel_id>
+			<epg_id>Olsib Science-fiction FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-scifi.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Ancient Rome</caption>
+			<channel_id>Olsib_Ancient_Rome</channel_id>
+			<epg_id>Olsib Ancient Rome FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-rome.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Italian cinema</caption>
+			<channel_id>Olsib_Italian_cinema</channel_id>
+			<epg_id>Olsib Italian cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-italia-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib French cinema</caption>
+			<channel_id>Olsib_French_cinema</channel_id>
+			<epg_id>Olsib French cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-france-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib British cinema</caption>
+			<channel_id>Olsib_British_cinema</channel_id>
+			<epg_id>Olsib British cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-uk-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib India cinema</caption>
+			<channel_id>Olsib_India_cinema</channel_id>
+			<epg_id>Olsib India cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-india-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib China cinema</caption>
+			<channel_id>Olsib_China_cinema</channel_id>
+			<epg_id>Olsib China cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-china-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Japan cinema</caption>
+			<channel_id>Olsib_Japan_cinema</channel_id>
+			<epg_id>Olsib Japan cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-japan-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Germany cinema</caption>
+			<channel_id>Olsib_Germany_cinema</channel_id>
+			<epg_id>Olsib Germany cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-germany-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Poland cinema</caption>
+			<channel_id>Olsib_Poland_sinema</channel_id>
+			<epg_id>Olsib Poland cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-poland-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Australia cinema</caption>
+			<channel_id>Olsib_Australia_cinema</channel_id>
+			<epg_id>Olsib Australia cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-austral-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Spain cinema</caption>
+			<channel_id>Olsib_Spain_cinema</channel_id>
+			<epg_id>Olsib Spain cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-spain-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Czech Republic cinema</caption>
+			<channel_id>Olsib_Czech_Republic_cinema</channel_id>
+			<epg_id>Olsib Czech Republic cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-cz-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Canada cinema</caption>
+			<channel_id>Olsib_Canada_cinema</channel_id>
+			<epg_id>Olsib Canada cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-canada-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Mexico cinema</caption>
+			<channel_id>Olsib_Mexico_cinema</channel_id>
+			<epg_id>Olsib Mexico cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-mexico-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Norway cinema</caption>
+			<channel_id>Olsib_Norway</channel_id>
+			<epg_id>Olsib Norway cinema FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-norway-cinema.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Звездные врата</caption>
+			<channel_id>Olsib_Zvezdnye_vrata</channel_id>
+			<epg_id>Olsib Звездные врата FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-zvwrata.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Star Wars</caption>
+			<channel_id>Olsib_Star_Wars</channel_id>
+			<epg_id>Olsib Star Wars FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-starwars.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Pirates of the Caribbean</caption>
+			<channel_id>Olsib_Pirates_of_the_Caribbean</channel_id>
+			<epg_id>Olsib Pirates of the Caribbean FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-piratez.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Black Sails</caption>
+			<channel_id>Olsib_Black_Sails</channel_id>
+			<epg_id>Olsib Black Sails FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-balcksails.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Наш флаг означает Смерть</caption>
+			<channel_id>Olsib_Nash_flag_oznachaet_Smert</channel_id>
+			<epg_id>Olsib Наш флаг означает Смерть FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-nashflag-death.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib VHS</caption>
+			<channel_id>Olsib_VHS</channel_id>
+			<epg_id>Olsib VHS</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-vhs.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib New Year</caption>
+			<channel_id>Olsib_New_Year</channel_id>
+			<epg_id>Olsib New Year FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-newyear.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Киносказки</caption>
+			<channel_id>Olsib_Kinoskazki</channel_id>
+			<epg_id>Olsib Киносказки FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-kinoskazki.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Documentary</caption>
+			<channel_id>Olsib_Documentary</channel_id>
+			<epg_id>Olsib Documentary FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-docs.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Чужой район</caption>
+			<channel_id>Olsib_Chuzhoy_rayon</channel_id>
+			<epg_id>Olsib Чужой район FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-chuzoj-rajon.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Полярный</caption>
+			<channel_id>Olsib_Polyarnyy</channel_id>
+			<epg_id>Olsib Полярный FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-polar.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib ППС</caption>
+			<channel_id>Olsib_PPS</channel_id>
+			<epg_id>Olsib ППС FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-pps.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Беспринципные</caption>
+			<channel_id>Olsib_Besprintsipnye</channel_id>
+			<epg_id>Olsib Беспринципные FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-besprinc.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Великолепная пятёрка</caption>
+			<channel_id>Olsib_Velikolepnaya_pyaterka</channel_id>
+			<epg_id>Olsib Великолепная пятёрка FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-velik5.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Киноуроки</caption>
+			<channel_id>Olsib_Kinouroki</channel_id>
+			<epg_id>Olsib Киноуроки FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-kinouroki.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Остров</caption>
+			<channel_id>Olsib_Ostrov</channel_id>
+			<epg_id>Olsib Остров FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ostrov.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Первый отдел</caption>
+			<channel_id>Olsib_Pervyy_otdel</channel_id>
+			<epg_id>Olsib Первый отдел FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-pervyotd.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Два холма</caption>
+			<channel_id>Olsib_Dva_kholma</channel_id>
+			<epg_id>Olsib Два холма FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-dvaholma.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Шеф</caption>
+			<channel_id>Olsib_Shef</channel_id>
+			<epg_id>Olsib Шеф FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-shef.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Литейный, 4</caption>
+			<channel_id>Olsib_Liteynyy_4</channel_id>
+			<epg_id>Olsib Литейный, 4 FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-litej.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Меч</caption>
+			<channel_id>Olsib_Mech</channel_id>
+			<epg_id>Olsib Меч FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-mech.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Легавый</caption>
+			<channel_id>Olsib_Legavyy</channel_id>
+			<epg_id>Olsib Легавый FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-legav.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Сериалы - Жарков</caption>
+			<channel_id>Olsib_Serialy_Zharkov</channel_id>
+			<epg_id>Olsib Сериалы - Жарков FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ser-zar.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Криминальная Одесса</caption>
+			<channel_id>Olsib_Kriminalnaya_Odessa</channel_id>
+			<epg_id>Olsib Криминальная Одесса FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-krimodessa.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Фантасмагория</caption>
+			<channel_id>Olsib_Fantasmagoriya</channel_id>
+			<epg_id>Olsib Фантасмагория FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-fantasm.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Черное зеркало</caption>
+			<channel_id>Olsib_Chernoe_zerkalo</channel_id>
+			<epg_id>Olsib Черное зеркало FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-blackmir.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Пространство</caption>
+			<channel_id>Olsib_Prostranstvo</channel_id>
+			<epg_id>Olsib Пространство FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-prostranstvo.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Скользящие</caption>
+			<channel_id>Olsib_Skolzyashchie</channel_id>
+			<epg_id>Olsib Скользящие FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-skolziasch.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Девушки с Макаровым</caption>
+			<channel_id>Olsib_Devushki_s_Makarovym</channel_id>
+			<epg_id>Olsib Девушки с Макаровым FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-makarovgirls.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Ищейка</caption>
+			<channel_id>Olsib_Ischeyka</channel_id>
+			<epg_id>Olsib Ищейка FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ischejka.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Лихач</caption>
+			<channel_id>Olsib_Likhach</channel_id>
+			<epg_id>Olsib Лихач FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ischejka.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Мини-сериалы</caption>
+			<channel_id>Olsib_Mini-serially</channel_id>
+			<epg_id>Olsib Мини-сериалы FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-miniserial.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Мой кинозал</caption>
+			<channel_id>Olsib_Moy_kinozal</channel_id>
+			<epg_id>Olsib Мой кинозал FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-tv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Любимые комедии</caption>
+			<channel_id>Olsib_Lyubimye_komedii</channel_id>
+			<epg_id>Olsib Любимые комедии FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-tv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Блокбастер</caption>
+			<channel_id>OLSIB_Blokbaster</channel_id>
+			<epg_id>OLSIB Блокбастер FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-tv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Гусарский</caption>
+			<channel_id>Olsib_Gusarskiy</channel_id>
+			<epg_id>Olsib Гусарский FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-tv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Новогодние приключения</caption>
+			<channel_id>Olsib_Novogodnie_priklyucheniya</channel_id>
+			<epg_id>Olsib Новогодние приключения FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-tv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty DC</caption>
+			<channel_id>Liberty_DC</channel_id>
+			<epg_id>Liberty DC</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-dc.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Marvel</caption>
+			<channel_id>Liberty_marvel_4K</channel_id>
+			<epg_id>Liberty Marvel</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-marvel.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Короткометражный</caption>
+			<channel_id>Liberty_korotkometrazhnoye</channel_id>
+			<epg_id>Liberty Короткометражный</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-korotkometr.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Мелодрамы</caption>
+			<channel_id>Liberty_melodramy</channel_id>
+			<epg_id>Liberty Мелодрамы</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-melodramy.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Боевики</caption>
+			<channel_id>Liberty_boyeviki</channel_id>
+			<epg_id>Liberty Боевик</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-boeviki.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Сваты</caption>
+			<channel_id>Liberty_svaty</channel_id>
+			<epg_id>Liberty Сваты</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-svaty.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty South Park</caption>
+			<channel_id>Liberty_SouthPark</channel_id>
+			<epg_id>Liberty South Park</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-southpark.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Комедии</caption>
+			<channel_id>Liberty_komedii</channel_id>
+			<epg_id>Liberty Комедии</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-komedii.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Занавес</caption>
+			<channel_id>Liberty_zanaves</channel_id>
+			<epg_id>Liberty Занавес</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-zanaves.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Аниме</caption>
+			<channel_id>Liberty_anime</channel_id>
+			<epg_id>Liberty Аниме</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-anime.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Fan</caption>
+			<channel_id>Liberty_FAN_FHD</channel_id>
+			<epg_id>Liberty Fan</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-fan.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Сериал</caption>
+			<channel_id>Liberty_SERIAL_FHD</channel_id>
+			<epg_id>Liberty Сериал</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-serial.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viva Action 4K</caption>
+			<channel_id>VivaAction4K</channel_id>
+			<epg_id>Viva Action4k</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/vivaaction4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viva Series 4K</caption>
+			<channel_id>VivaSeries4K</channel_id>
+			<epg_id>Viva Series4k</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/vivaseries4k.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Viva Thriller</caption>
+			<channel_id>VivaThriller</channel_id>
+			<epg_id>Viva Thriller</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/vivathriller.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>GL VHS</caption>
+			<channel_id>GL_VHS</channel_id>
+			<epg_id>Gold Line VHS</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/goldline-vhs.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>GL Civilizations</caption>
+			<channel_id>GL_Civilizations</channel_id>
+			<epg_id>Gold Line Civilizations</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/goldline-civils.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib American fantastic series</caption>
+			<channel_id>olsib_american_fantastic</channel_id>
+			<epg_id>Olsib American fantastic series FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-tv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Про богатырей и царевичей</caption>
+			<channel_id>olsib_pro_bogatirey_i_carevichey</channel_id>
+			<epg_id>Olsib  Про богатырей и царевичей FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-tv.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Полицейский с Рублёвки</caption>
+			<channel_id>KLI_Policeyski_s_rublyovki</channel_id>
+			<epg_id>Kli_Rublevka</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/KLI.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Discovery Channel</caption>
 			<channel_id>DiscoveryChannel</channel_id>
 			<epg_id>Discovery Channel HD</epg_id>
@@ -3748,7 +4689,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Russian Travel Guide</caption>
+			<caption>RTG HD</caption>
 			<channel_id>RTG</channel_id>
 			<epg_id>RTG HD</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/rtg.png</icon_url>
@@ -4038,7 +4979,7 @@
 		<tv_channel>
 			<caption>Рыболов</caption>
 			<channel_id>Ribolov</channel_id>
-			<epg_id>Рыболов HD</epg_id>
+			<epg_id>Рыболов</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/ribolov.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>7</archive>
@@ -4298,6 +5239,190 @@
 			<icon_url>http://logo.vivamax.pro/logo/mm_megamir_hd.png</icon_url>
 			<tv_category_id>5</tv_category_id>
 			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV BRICS</caption>
+			<channel_id>TVBrics</channel_id>
+			<epg_id>TV BRICS</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/tv-brics.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Вкус</caption>
+			<channel_id>Vkus</channel_id>
+			<epg_id>Вкус</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/vkus.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FoodTime</caption>
+			<channel_id>FoodTime</channel_id>
+			<epg_id>FoodTime</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/foodtime.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Красная линия</caption>
+			<channel_id>KrasnayaLiniya</channel_id>
+			<epg_id>Красная линия</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/krasnaya-linia.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Москва Доверие</caption>
+			<channel_id>MoskvaDoverie</channel_id>
+			<epg_id>Доверие</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/doverie.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кто есть кто</caption>
+			<channel_id>kto_est_kto</channel_id>
+			<epg_id>Кто есть кто</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/kto-est-kto.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Travel XP</caption>
+			<channel_id>TravelXPHD</channel_id>
+			<epg_id>Travel XP HD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/travel-xp-hd.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Живи!</caption>
+			<channel_id>Jivi</channel_id>
+			<epg_id>Живи</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/zhivi.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Вопросы и ответы</caption>
+			<channel_id>VoprosiIotveti</channel_id>
+			<epg_id>Вопросы и ответы</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/voprosy-i-otvety.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Терра Инкогнита</caption>
+			<channel_id>TerraInkognita</channel_id>
+			<epg_id>Терра Инкогнита</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/terra-inkognita.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Аква ТВ</caption>
+			<channel_id>AkvaTV</channel_id>
+			<epg_id>Аква ТВ</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/akwatv.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Живой мир</caption>
+			<channel_id>Olsib_Zhivoy_mir</channel_id>
+			<epg_id>Olsib Живой мир FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-zhivmir.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Водный Мир</caption>
+			<channel_id>Olsib_Vodnyy_Mir</channel_id>
+			<epg_id>Olsib Водный Мир FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-vodnymir.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Мир Человека</caption>
+			<channel_id>Olsib_Mir_Cheloveka</channel_id>
+			<epg_id>Olsib Мир Человека FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-mir-chel.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Память Победы!</caption>
+			<channel_id>Olsib_Pamyat_Pobedy</channel_id>
+			<epg_id>Olsib Память Победы! FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ppob.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Документалка</caption>
+			<channel_id>Liberty_DOKUMENTALKA_FHD</channel_id>
+			<epg_id>Liberty Документалка</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-documentalka.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Наука</caption>
+			<channel_id>Liberty_NAUKA_FHD</channel_id>
+			<epg_id>Liberty Наука</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-nauka.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty BBC</caption>
+			<channel_id>Liberty_BBC</channel_id>
+			<epg_id>Liberty BBC</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-bbc.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Планета360</caption>
+			<channel_id>Liberty_planeta360</channel_id>
+			<epg_id>Liberty Планета360</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-plan360.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>RTG TV</caption>
+			<channel_id>RTG-TV</channel_id>
+			<epg_id>RTG TV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/rtg-tv.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русская история</caption>
+			<channel_id>RusskayaIstoria</channel_id>
+			<epg_id>Русская история</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/rus-istoria.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>SmartZone</caption>
+			<channel_id>SmartZoneRU</channel_id>
+			<epg_id>SmartZone</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/smartzone.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Хочу всё знать!</caption>
+			<channel_id>XochuVsyoZnat</channel_id>
+			<epg_id>Хочу всё знать!</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xochuvsyoznat.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч ТВ</caption>
@@ -4620,10 +5745,10 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Спортмастер</caption>
+			<caption>Бум</caption>
 			<channel_id>Sportmaster</channel_id>
-			<epg_id>Спортмастер ТВ</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/sportmaster.png</icon_url>
+			<epg_id>Бум</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/bumtv-tricolor.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -4742,7 +5867,7 @@
 		<tv_channel>
 			<caption>Setanta Sports 1 [UZ]</caption>
 			<channel_id>SetantaSports1UZ</channel_id>
-			<epg_id>Setanta Sports 1 UZ</epg_id>
+			<epg_id>Setanta 1 [UZ]</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/setanta1ge.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>4</archive>
@@ -4750,7 +5875,7 @@
 		<tv_channel>
 			<caption>Setanta Sports 2 [UZ]</caption>
 			<channel_id>SetantaSports2UZ</channel_id>
-			<epg_id>Setanta Sports 2 UZ</epg_id>
+			<epg_id>Setanta 2 [UZ]</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/setanta2ge.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>4</archive>
@@ -4852,22 +5977,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Xsport [UA]</caption>
-			<channel_id>XSPORT</channel_id>
-			<epg_id>Xsport</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/xsport.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Xsport+ [UA]</caption>
-			<channel_id>XSPORTplus</channel_id>
-			<epg_id>Xsport+</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/xsportplus.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Setanta Qazaqstan [KZ]</caption>
 			<channel_id>setantaqazaqstan</channel_id>
 			<epg_id>Setanta Казахстан</epg_id>
@@ -4902,7 +6011,7 @@
 		<tv_channel>
 			<caption>Q Arena [KZ]</caption>
 			<channel_id>qarena</channel_id>
-			<epg_id>Q Arena</epg_id>
+			<epg_id>Q Sport Arena [KZ]</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/qarena.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>7</archive>
@@ -5028,14 +6137,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Sport 2 Baltic</caption>
-			<channel_id>sport2</channel_id>
-			<epg_id>Sport 2 Baltic</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/sport2baltic.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Best4Sport TV [LV]</caption>
 			<channel_id>best4sport</channel_id>
 			<epg_id>LV: Best4Sport HD</epg_id>
@@ -5116,6 +6217,1150 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Матч ТВ [Orig]</caption>
+			<channel_id>MatchTVOrig</channel_id>
+			<epg_id>Матч!</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/match.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Премьер [Orig]</caption>
+			<channel_id>MatchPremiereOrig</channel_id>
+			<epg_id>Матч! Премьер</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/matchpremiere.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 1 [Orig]</caption>
+			<channel_id>MatchFootball1Orig</channel_id>
+			<epg_id>Матч! Футбол 1</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/matchfootball1.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 2 [Orig]</caption>
+			<channel_id>MatchFutbol2Orig</channel_id>
+			<epg_id>Матч! Футбол 2</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/matchfootball2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 3 [Orig]</caption>
+			<channel_id>MatchFootball3Orig</channel_id>
+			<epg_id>Матч! Футбол 3</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/matchfootball3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Арена [Orig]</caption>
+			<channel_id>MatchArenaOrig</channel_id>
+			<epg_id>Матч! Арена</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/matcharena.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Игра [Orig]</caption>
+			<channel_id>MatchIgraOrig</channel_id>
+			<epg_id>Матч! Игра</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/matchigra.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Боец [Orig]</caption>
+			<channel_id>MatchBoecOrig</channel_id>
+			<epg_id>Матч! Боец</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/matchboec.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Страна [Orig]</caption>
+			<channel_id>MatchStranaOrig</channel_id>
+			<epg_id>Матч! Страна</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/matchstrana.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Планета</caption>
+			<channel_id>MatchPlaneta</channel_id>
+			<epg_id>Матч! Планета</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/match-planeta.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju+ Sport [Orig]</caption>
+			<channel_id>VijuSportOrig</channel_id>
+			<epg_id>viju+ Sport</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/vijusport.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KHL [Orig]</caption>
+			<channel_id>KHLOrig</channel_id>
+			<epg_id>КХЛ ТВ</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/khl.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KHL Prime [Orig]</caption>
+			<channel_id>KHLPrimeOrig</channel_id>
+			<epg_id>КХЛ HD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/khlprime.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MMA-TV.COM [Orig]</caption>
+			<channel_id>MMAOrig</channel_id>
+			<epg_id>MMA-TV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mma.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Бокс ТВ [Orig]</caption>
+			<channel_id>BoxTVOrig</channel_id>
+			<epg_id>Бокс ТВ</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/boxtv.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fight Club</caption>
+			<channel_id>FightClub</channel_id>
+			<epg_id>Fight Club</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/fightclub.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fight Club [Orig]</caption>
+			<channel_id>FightClubOrig</channel_id>
+			<epg_id>Fight Club</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/fightclub.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт [Orig]</caption>
+			<channel_id>StartLiveOrig</channel_id>
+			<epg_id>Старт</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/start.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт Триумф [Orig]</caption>
+			<channel_id>StartTriumfOrig</channel_id>
+			<epg_id>Старт Триумф</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/starttriumf.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Хоккей ТВ [Orig]</caption>
+			<channel_id>HockeyOrig</channel_id>
+			<epg_id>Хоккей ТВ</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/hockey.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мир баскетбола [Orig]</caption>
+			<channel_id>MirBasketbolaOrig</channel_id>
+			<epg_id>Мир баскетбола</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mirbasketbola.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Волейбол [Orig]</caption>
+			<channel_id>VoleybolOrig</channel_id>
+			<epg_id>Волейбол</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/voleybol.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мяч [Orig]</caption>
+			<channel_id>MyachOrig</channel_id>
+			<epg_id>Мяч</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/myach.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ТВ Спорт [Orig]</caption>
+			<channel_id>TVSportOrig</channel_id>
+			<epg_id>ТВ Спорт</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/tvsport.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Мото Драйв</caption>
+			<channel_id>MotoDrive</channel_id>
+			<epg_id>Мото Драйв ТВ</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/moto-drive.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Media Sport</caption>
+			<channel_id>MediaSport</channel_id>
+			<epg_id>Media Sport</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mediasport.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dazn Fast [DE]</caption>
+			<channel_id>DaznFast</channel_id>
+			<epg_id>Dazn Fast [DE]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/dazn-fast.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dazn Rise [DE]</caption>
+			<channel_id>DaznRise</channel_id>
+			<epg_id>Dazn Rise [DE]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/dazn-rise.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Setanta Sports [MD]</caption>
+			<channel_id>SetantaSportsMoldova</channel_id>
+			<epg_id>Setanta Sports [MD]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/setantasportsmoldova.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sport Bundesliga [DE]</caption>
+			<channel_id>sksport_bundesliga_de</channel_id>
+			<epg_id>Sky Sport Bundesliga HD [DE]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sky-sport-bundesliga-de.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sport Golf [DE]</caption>
+			<channel_id>sksport_golf_de</channel_id>
+			<epg_id>Sky Sport Golf [DE]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sky-sport-golf-de.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sport Mix [DE]</caption>
+			<channel_id>sksport_mix_de</channel_id>
+			<epg_id>Sky Sport Mix [DE]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sky-sport-mix-de.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sport Premier League [DE]</caption>
+			<channel_id>sksport_premier_league_de</channel_id>
+			<epg_id>Sky Sport Premier League [DE]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sky-sport-pl-de.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sport Tennis [DE]</caption>
+			<channel_id>sksport_tennis_de</channel_id>
+			<epg_id>Sky Sport Tennis [DE]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sky-sports-tennis.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sport Top Event [DE]</caption>
+			<channel_id>sksport_top_event_de</channel_id>
+			<epg_id>Sky Sport Top Event [DE]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sky-sport-top-event-de.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sport F1 [DE]</caption>
+			<channel_id>sksport_f1_de</channel_id>
+			<epg_id>Sky Sport F1 [DE]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sky-sport-f1-de.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sports 1 UHD [UK]</caption>
+			<channel_id>SkSportBritish1UHD</channel_id>
+			<epg_id>Sky Sports 1 UHD [UK]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sky-sports-1-uhd-uk.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sports 2 UHD [UK]</caption>
+			<channel_id>SkSportBritish2UHD</channel_id>
+			<epg_id>Sky Sports 2 UHD [UK]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sky-sports-2-uhd-uk.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sports F1 UHD [UK]</caption>
+			<channel_id>SkSportF1BritishUHD</channel_id>
+			<epg_id>Sky Sports Darts / F1 [UK]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sky-sports-f1.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sports Main Event UHD [UK]</caption>
+			<channel_id>SkSportMainEventUHD</channel_id>
+			<epg_id>Sky Sports Main Event [UK]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sky-sports-maine.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sports Racing [UK]</caption>
+			<channel_id>SkSport_Racing_British</channel_id>
+			<epg_id>Sky Sports Racing [UK]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sky-sports-racing.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sky Sports Tennis [UK]</caption>
+			<channel_id>SkSport_Tennis_British</channel_id>
+			<epg_id>Sky Sports Tennis [UK]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sky-sports-tennis.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Sport [CZ]</caption>
+			<channel_id>CanalPlusSportCZ</channel_id>
+			<epg_id>Canal+ Sport [CZ]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/canal-pl-sport-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Sport [PL]</caption>
+			<channel_id>CanalPlusSportPL</channel_id>
+			<epg_id>Canal+ Sport 1 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/canal-pl-sport.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Sport 2 [CZ]</caption>
+			<channel_id>CanalPlusSport2CZ</channel_id>
+			<epg_id>Canal+ Sport 2 [CZ]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/canal-pl-sport2-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Sport 2 [PL]</caption>
+			<channel_id>CanalPlusSport2PL</channel_id>
+			<epg_id>Canal+ Sport 2 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/canal-pl-sport-2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Sport 3 [CZ]</caption>
+			<channel_id>CanalPlusSport3CZ</channel_id>
+			<epg_id>Canal+ Sport 3 [CZ]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/canal-pl-sport-3-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Sport 3 [PL]</caption>
+			<channel_id>CanalPlusSport3PL</channel_id>
+			<epg_id>Canal+ Sport 3 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/canal-pl-sport-3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Sport 4 [CZ]</caption>
+			<channel_id>CanalPlusSport4CZ</channel_id>
+			<epg_id>Canal+ Sport 4 [CZ]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/canal-pl-sport-4-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Sport 4 [PL]</caption>
+			<channel_id>CanalPlusSport4PL</channel_id>
+			<epg_id>Canal+ Sport 4 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/canal-pl-sport-4.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Sport 5 [CZ]</caption>
+			<channel_id>CanalPlusSport5CZ</channel_id>
+			<epg_id>Canal+ Sport 5 [CZ]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/canal-pl-sport-5.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ Sport 5 [PL]</caption>
+			<channel_id>CanalPlusSport5PL</channel_id>
+			<epg_id>Canal+ Sport 5 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/canal-pl-sport-5.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Canal+ 4K [PL]</caption>
+			<channel_id>CanalPlusPoland4K</channel_id>
+			<epg_id>Canal+ 4K</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/canal-pl-4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diema Sport 1</caption>
+			<channel_id>DiemaSport1</channel_id>
+			<epg_id>Diema Sport</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/diema-sport-1.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diema Sport 2</caption>
+			<channel_id>DiemaSport2</channel_id>
+			<epg_id>Diema Sport 2</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/diema-sport-2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diema Sport 2 4K</caption>
+			<channel_id>DiemaSport2_4K</channel_id>
+			<epg_id>Diema Sport 2</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/diema-sport-2-4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diema Sport 3</caption>
+			<channel_id>DiemaSport3</channel_id>
+			<epg_id>Diema Sport 3</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/diema-sport-3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Diema Sport 3 4K</caption>
+			<channel_id>DiemaSport3_4K</channel_id>
+			<epg_id>Diema Sport 3</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/diema-sport-3-4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eleven Sports 1</caption>
+			<channel_id>ElevenSports1</channel_id>
+			<epg_id>Eleven Sports 1 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eleven-sports-1.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eleven Sports 2</caption>
+			<channel_id>ElevenSports2</channel_id>
+			<epg_id>Eleven Sports 2 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eleven-sports-2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eleven Sports 3</caption>
+			<channel_id>ElevenSports3</channel_id>
+			<epg_id>Eleven Sports 3 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eleven-sports-3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eleven Sports 4</caption>
+			<channel_id>ElevenSports4</channel_id>
+			<epg_id>Eleven Sports 4 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eleven-sports-4.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eleven Sports 1 4K [PL]</caption>
+			<channel_id>ElevenSport1Poland_4K</channel_id>
+			<epg_id>Eleven Sports 1 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eleven-sports-1.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Sport 1 [SK]</caption>
+			<channel_id>arenasport1sk</channel_id>
+			<epg_id>Arena Sport 1 [SK]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-sport-1-sk.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Sport 2 [SK]</caption>
+			<channel_id>arenasport2sk</channel_id>
+			<epg_id>Arena Sport 2 [SK]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-sport-2-sk.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sport 1 [CZ]</caption>
+			<channel_id>sport1sk</channel_id>
+			<epg_id>Sport 1 [CZ]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sport-1-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sport 2 [CZ]</caption>
+			<channel_id>sport2sk</channel_id>
+			<epg_id>Sport 2 [CZ]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sport-2-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nova Sport 1</caption>
+			<channel_id>novasport1sk</channel_id>
+			<epg_id>Nova Sport 1</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/nova-sport1-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nova Sport 2</caption>
+			<channel_id>novasport2sk</channel_id>
+			<epg_id>Nova Sport 2</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/nova-sport2-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nova Sport 3</caption>
+			<channel_id>novasport3sk</channel_id>
+			<epg_id>Nova Sport 3</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/nova-sport3-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nova Sport 4</caption>
+			<channel_id>novasport4sk</channel_id>
+			<epg_id>Nova Sport 4</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/nova-sport4-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nova Sport 5</caption>
+			<channel_id>novasport5sk</channel_id>
+			<epg_id>Nova Sport 5</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/nova-sport5-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nova Sport 6</caption>
+			<channel_id>novasport6sk</channel_id>
+			<epg_id>Nova Sport 6</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/nova-sport6-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>JOJ Sport</caption>
+			<channel_id>jojsportsk</channel_id>
+			<epg_id>JOJ Sport [CZ]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/joj-sport-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>JOJ Šport 2</caption>
+			<channel_id>jojsport2sk</channel_id>
+			<epg_id>JOJ Šport 2 [CZ]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/joj-sport-2-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Max Sport 1 [HR]</caption>
+			<channel_id>MaxSport1Croatia</channel_id>
+			<epg_id>Max Sport 1 [HR]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/max-sport-1-hr.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Max Sport 2 [HR]</caption>
+			<channel_id>MaxSport2Croatia</channel_id>
+			<epg_id>Max Sport 2 [HR]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/max-sport-2-hr.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MAX Sport 1</caption>
+			<channel_id>MaxSport1</channel_id>
+			<epg_id>MAX Sport 1</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/max-sport-1.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MAX Sport 2</caption>
+			<channel_id>MaxSport2</channel_id>
+			<epg_id>MAX Sport 2</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/max-sport-2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MAX Sport 3</caption>
+			<channel_id>MaxSport3</channel_id>
+			<epg_id>MAX Sport 3</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/max-sport-3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MAX Sport 4</caption>
+			<channel_id>MaxSport4</channel_id>
+			<epg_id>MAX Sport 4</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/max-sport-4.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Auto Motor Sport Channel UHD [DE]</caption>
+			<channel_id>AutoMotorSport</channel_id>
+			<epg_id>Auto Moto Sport Channel [DE]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/auto-motor-sport-de.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 4K</caption>
+			<channel_id>Eurosport4K</channel_id>
+			<epg_id>Eurosport 4K</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eurosport-4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>5Sport 4K</caption>
+			<channel_id>5sport_4k</channel_id>
+			<epg_id>5Sport 4K</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/yes-sport-5-4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>beIN Sports 1 [FR]</caption>
+			<channel_id>BeinSports1France</channel_id>
+			<epg_id>beIN Sports 1 [FR]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/bein-sport-1-fr.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>beIN Sports 2 [FR]</caption>
+			<channel_id>BeinSports2France</channel_id>
+			<epg_id>beIN Sports 2 [FR]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/bein-sport-2-fr.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>beIN Sports 3 [FR]</caption>
+			<channel_id>BeinSports3France</channel_id>
+			<epg_id>beIN Sports 3 [FR]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/bein-sport-3-fr.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TNT Sports Ultimate UHD</caption>
+			<channel_id>TNTSportsUltimateUHD</channel_id>
+			<epg_id>UK: TNT Sports Ultimate</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/tntultimateuhd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Premium 1 [RS]</caption>
+			<channel_id>ArenaPremium1</channel_id>
+			<epg_id>Arena Premium 1 [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-premium-1.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Premium 2 [RS]</caption>
+			<channel_id>ArenaPremium2</channel_id>
+			<epg_id>Arena Premium 2 [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-premium-2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Premium 3 [RS]</caption>
+			<channel_id>ArenaPremium3</channel_id>
+			<epg_id>Arena Premium 3 [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-premium-3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Premium 4 [RS]</caption>
+			<channel_id>ArenaPremium4</channel_id>
+			<epg_id>Arena Premium 4 [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-premium-4-rs.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Premium 5 [RS]</caption>
+			<channel_id>ArenaPremium5</channel_id>
+			<epg_id>Arena Premium 5 [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-premium-5-rs.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Sport 1 [RS]</caption>
+			<channel_id>ArenaSport1Serbia</channel_id>
+			<epg_id>Arena Sport 1 HD [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-sport-1.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Sport 1x2 [RS]</caption>
+			<channel_id>ArenaSport1x2Serbia</channel_id>
+			<epg_id>Arena Sport 1x2 [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-sport-1x2-rs.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Sport 2 [RS]</caption>
+			<channel_id>ArenaSport2Serbia</channel_id>
+			<epg_id>Arena Sport 2 HD [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-sport-2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Sport 3 [RS]</caption>
+			<channel_id>ArenaSport3Serbia</channel_id>
+			<epg_id>Arena Sport 3 HD [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-sport-3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Sport 4 [RS]</caption>
+			<channel_id>ArenaSport4Serbia</channel_id>
+			<epg_id>Arena Sport 4 HD [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-sport-4.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Sport 5 [RS]</caption>
+			<channel_id>ArenaSport5Serbia</channel_id>
+			<epg_id>Arena Sport 5 HD [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-sport-5.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Sport 6 [RS]</caption>
+			<channel_id>ArenaSport6Serbia</channel_id>
+			<epg_id>Arena Sport 6 HD [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-sport-6.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Sport 7 [RS]</caption>
+			<channel_id>ArenaSport7Serbia</channel_id>
+			<epg_id>Arena Sport 7 HD [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-sport-7.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Sport 8 [RS]</caption>
+			<channel_id>ArenaSport8Serbia</channel_id>
+			<epg_id>Arena Sport 8 HD [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-sport-8.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Sport 9 [RS]</caption>
+			<channel_id>ArenaSport9Serbia</channel_id>
+			<epg_id>Arena Sport 9 HD [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-sport-9-rs.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Sport 10 [RS]</caption>
+			<channel_id>ArenaSport10Serbia</channel_id>
+			<epg_id>Arena Sport 10 [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-sport-10-rs.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Adrenalin [RS]</caption>
+			<channel_id>ArenaSportAdrenalinSerbia</channel_id>
+			<epg_id>Arena Adrenalin [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-adrenalin-rs.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Tenis [RS]</caption>
+			<channel_id>ArenaTenisSerbia</channel_id>
+			<epg_id>Arena Tenis [RS]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-tenis-rs.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Arena Fight</caption>
+			<channel_id>ArenaFight</channel_id>
+			<epg_id>Arena Fight HD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/arena-fight.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prime Fight</caption>
+			<channel_id>PrimeFight</channel_id>
+			<epg_id>Prime Fight</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/prime-fight.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TSN 1</caption>
+			<channel_id>tsnsports1</channel_id>
+			<epg_id>TSN1</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/tsn1-ca.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TSN 2</caption>
+			<channel_id>tsnsports2</channel_id>
+			<epg_id>TSN2</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/tsn2-ca.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TSN 3</caption>
+			<channel_id>tsnsports3</channel_id>
+			<epg_id>TSN3</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/tsn3-ca.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TSN 4</caption>
+			<channel_id>tsnsports4</channel_id>
+			<epg_id>TSN4</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/tsn4-ca.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TSN 5</caption>
+			<channel_id>tsnsports5</channel_id>
+			<epg_id>TSN5</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/tsn5-ca.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ESPN [US]</caption>
+			<channel_id>ESPN1USA</channel_id>
+			<epg_id>ESPN [US]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/espn-us.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ESPN2 [US]</caption>
+			<channel_id>ESPN2USA</channel_id>
+			<epg_id>ESPN2 [US]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/espn2-us.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>NFL Network</caption>
+			<channel_id>NFLNetwork</channel_id>
+			<epg_id>NFL Network</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/nfl-network.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MLB Network</caption>
+			<channel_id>MLBNetwork</channel_id>
+			<epg_id>MLB Network [US]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mlb-network-us.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>NHL Network</caption>
+			<channel_id>NHLNetwork</channel_id>
+			<epg_id>NHL Network [US]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/nhl-network-us.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>NBA TV</caption>
+			<channel_id>nbatvusa</channel_id>
+			<epg_id>NBA TV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/nba-tv.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч ТВ [50FPS]</caption>
+			<channel_id>Match50</channel_id>
+			<epg_id>Матч!</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/match.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Премьер [50FPS]</caption>
+			<channel_id>MatchPremiere50</channel_id>
+			<epg_id>Матч! Премьер</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/matchpremiere.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 1 [50FPS]</caption>
+			<channel_id>MatchFootball1_50</channel_id>
+			<epg_id>Матч! Футбол 1</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/matchfootball1.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 2 [50FPS]</caption>
+			<channel_id>MatchFootball2_50</channel_id>
+			<epg_id>Матч! Футбол 2</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/matchfootball2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Футбол 3 [50FPS]</caption>
+			<channel_id>MatchFootball3_50</channel_id>
+			<epg_id>Матч! Футбол 3</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/matchfootball3.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fussball 1 UHD</caption>
+			<channel_id>Fussball1UHD</channel_id>
+			<epg_id>Fussball 1 UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/fussball1uhd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fussball 2 UHD</caption>
+			<channel_id>Fussball2UHD</channel_id>
+			<epg_id>Fussball 2 UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/fussball2uhd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fussball 3 UHD</caption>
+			<channel_id>Fussball3UHD</channel_id>
+			<epg_id>Fussball 3 UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/fussball3uhd.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>M6 4K</caption>
+			<channel_id>M6_4K</channel_id>
+			<epg_id>M6 4K</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/m6-4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FOX 4K</caption>
+			<channel_id>Fox_4K</channel_id>
+			<epg_id>Fox 4K</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/fox4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oneplay Sport 1 [CZ]</caption>
+			<channel_id>oneplaysport1</channel_id>
+			<epg_id>Oneplay Sport 1 [CZ]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/oneplay-sport-1-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oneplay Sport 2 [CZ]</caption>
+			<channel_id>oneplaysport2</channel_id>
+			<epg_id>Oneplay Sport 2 [CZ]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/oneplay-sport-2-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oneplay Sport 3 [CZ]</caption>
+			<channel_id>oneplaysport3</channel_id>
+			<epg_id>Oneplay Sport 3 [CZ]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/oneplay-sport-3-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Oneplay Sport 4 [CZ]</caption>
+			<channel_id>oneplaysport4</channel_id>
+			<epg_id>Oneplay Sport 4 [CZ]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/oneplay-sport-4-cz.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Polsat Sport 1</caption>
+			<channel_id>polsatsport1</channel_id>
+			<epg_id>Polsat Sport 1 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/polsat-sport.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Polsat Sport 2</caption>
+			<channel_id>polsatsport2</channel_id>
+			<epg_id>Polsat Sport 2 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/polsat-sport-extra.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Polsat Sport 3</caption>
+			<channel_id>polsatsport3</channel_id>
+			<epg_id>Polsat Sport 3 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/polsat-sport-news.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Polsat Sport Premium 1</caption>
+			<channel_id>polsatsportpremium1</channel_id>
+			<epg_id>Polsat Sport Premium 1 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/polsat-sport-pr1.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Polsat Sport Premium 2</caption>
+			<channel_id>polsatsportpremium2</channel_id>
+			<epg_id>Polsat Sport Premium 2 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/polsat-sport-pr2.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Polsat Sport Fight</caption>
+			<channel_id>polsatsportfight</channel_id>
+			<epg_id>Polsat Sport Fight [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/polsat-sport-fight.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 3 [PL]</caption>
+			<channel_id>Eurosport3PL</channel_id>
+			<epg_id>Eurosport 3 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eurosport-3-pl.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eurosport 4 [PL]</caption>
+			<channel_id>Eurosport4PL</channel_id>
+			<epg_id>Eurosport 4 [PL]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eurosport-4-pl.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Prima 4K</caption>
+			<channel_id>Prima4K</channel_id>
+			<epg_id>Prima 4K</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/prima4k.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Digi 4K</caption>
+			<channel_id>Digi4K</channel_id>
+			<epg_id>Digi 4K [RO]</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/digi-4k-ro.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Карусель</caption>
 			<channel_id>Karusel</channel_id>
 			<epg_id>Карусель HD</epg_id>
@@ -5188,10 +7433,10 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>СуперГерои</caption>
+			<caption>Малыш</caption>
 			<channel_id>SuperGeroi</channel_id>
 			<epg_id>Супергерои</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/supergeroi.png</icon_url>
+			<icon_url>http://logo.vivamax.pro/logo/malysh.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -5391,7 +7636,7 @@
 			<caption>БубOkko TV</caption>
 			<channel_id>BubOk</channel_id>
 			<epg_id>БубОкко ТВ</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/bubokko.png</icon_url>
+			<icon_url>http://logo.vivamax.pro/logo/bubokko-tv.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -5552,6 +7797,254 @@
 			<channel_id>Shayan</channel_id>
 			<epg_id>Шаян ТВ</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/shayantv.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Funny Kids</caption>
+			<channel_id>FunnyKids</channel_id>
+			<epg_id>Funny Kids</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/funnykids.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Kids</caption>
+			<channel_id>VelesKids</channel_id>
+			<epg_id>VeleS Kids</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/veles-kids.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Kids</caption>
+			<channel_id>Olsib_Kids</channel_id>
+			<epg_id>Olsib Kids FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-kids.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Walt Disney</caption>
+			<channel_id>Olsib_Walt_Disney</channel_id>
+			<epg_id>Olsib Walt Disney FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-waltdisney.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Multfilm</caption>
+			<channel_id>Olsib_Multfilm</channel_id>
+			<epg_id>Olsib Multfilm FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-multfilm.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Kids</caption>
+			<channel_id>KLI_Kids</channel_id>
+			<epg_id>KLI Kids</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/KLI.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Союзмультфильм</caption>
+			<channel_id>KLI_MULTIKI</channel_id>
+			<epg_id>KLI Мультики</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/KLI.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Looney Tunes</caption>
+			<channel_id>KLI_Looney_Tunes</channel_id>
+			<epg_id>KLI Looney Tunes</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/KLI.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Tom and Jerry</caption>
+			<channel_id>KLI_Tom_and_Jerry</channel_id>
+			<epg_id>KLI Tom and Jerry</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/KLI.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Лунтик</caption>
+			<channel_id>KLI_Luntik</channel_id>
+			<epg_id>KLI ЛУНТИК</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/KLI.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Винни Пух и его друзья</caption>
+			<channel_id>KLI_Vinni_Pukh</channel_id>
+			<epg_id>KLI Винни Пух и его друзья</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/KLI.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Простоквашино</caption>
+			<channel_id>KLI_Prostokvashino</channel_id>
+			<epg_id>KLI Простоквашино</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/KLI.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Утиные Истории</caption>
+			<channel_id>KLI_DuckTales</channel_id>
+			<epg_id>KLI Утиные Истории</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/KLI.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Черепашки-Ниндзя</caption>
+			<channel_id>KLI_TMNT</channel_id>
+			<epg_id>KLI Черепашки-Ниндзя</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/KLI.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Черный Плащ</caption>
+			<channel_id>KLI_Darkwing_Duck</channel_id>
+			<epg_id>KLI Черный Плащ</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/KLI.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Чип и Дейл</caption>
+			<channel_id>KLI_Chip_n_Dale</channel_id>
+			<epg_id>KLI Чип и Дейл</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/KLI.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Pixar</caption>
+			<channel_id>Liberty_piksar</channel_id>
+			<epg_id>Liberty Pixar</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-pixar.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Disney</caption>
+			<channel_id>Liberty_disney</channel_id>
+			<epg_id>Liberty Disney</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-disney.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Бебимульт</caption>
+			<channel_id>Liberty_bebimult</channel_id>
+			<epg_id>Liberty Бебимульт</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-bebimult.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Сказки</caption>
+			<channel_id>Liberty_SKAZKI_FHD</channel_id>
+			<epg_id>Liberty Сказки</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-skazki.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Мим</caption>
+			<channel_id>Liberty_MIM_FHD</channel_id>
+			<epg_id>Liberty Мим</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-mim.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Крош</caption>
+			<channel_id>Liberty_KROSH_FHD</channel_id>
+			<epg_id>Liberty Крош</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-krosh.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Мультверсия</caption>
+			<channel_id>Liberty_MULTVERSI_FHD</channel_id>
+			<epg_id>Liberty Мультверсия FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-multiversia.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Симпсоны</caption>
+			<channel_id>Liberty_simpsony</channel_id>
+			<epg_id>Liberty Симпсоны</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-simpsons.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Планктон</caption>
+			<channel_id>Liberty_PLANKTON_FHD</channel_id>
+			<epg_id>Liberty Планктон</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-plankton.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Смотрим 100% Детское</caption>
+			<channel_id>100Detskoe</channel_id>
+			<epg_id>Смотрим 100% Детское</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/smotrim-100-detskoe.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Лёва</caption>
+			<channel_id>Lyova</channel_id>
+			<epg_id>Лёва</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liova.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoon Classics</caption>
+			<channel_id>CartoonClassicsHD</channel_id>
+			<epg_id>Cartoon Classics</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/cartoon-classics.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>ducktv plus</caption>
+			<channel_id>DuckTVPlus</channel_id>
+			<epg_id>ducktv plus</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/ducktv-plus.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VHS-ка Детский</caption>
+			<channel_id>VHSka_Detski</channel_id>
+			<epg_id>VHS-ка Детский</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/vhska-detski.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Умка</caption>
+			<channel_id>Umka</channel_id>
+			<epg_id>Умка</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/umka.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -5834,14 +8327,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Конный мир</caption>
-			<channel_id>KonniMir</channel_id>
-			<epg_id>Конный мир</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/konny-mir.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Твое ТВ</caption>
 			<channel_id>TvoeTV</channel_id>
 			<epg_id>ТВОЕ ТВ HD</epg_id>
@@ -5936,6 +8421,134 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>ТНТ4 [Orig]</caption>
+			<channel_id>TNT4Orig</channel_id>
+			<epg_id>ТНТ4 HD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/tnt4ru.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Полёт ТВ</caption>
+			<channel_id>Polyot</channel_id>
+			<epg_id>Полёт ТВ</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/poliottv.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Foodman.club</caption>
+			<channel_id>Foodman.club</channel_id>
+			<epg_id>Foodman.club</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/foodman-club.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Show</caption>
+			<channel_id>Olsib_Show</channel_id>
+			<epg_id>Olsib Show FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-show.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Knives</caption>
+			<channel_id>Olsib_Knives</channel_id>
+			<epg_id>Olsib Knives FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-knives.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Pro100 Kitchen</caption>
+			<channel_id>Olsib_Pro100_Kitchen</channel_id>
+			<epg_id>Olsib Pro100 Kitchen FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-pro100kitchen.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Конфетка</caption>
+			<channel_id>Olsib_Konfetka</channel_id>
+			<epg_id>Olsib Конфетка FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-konf.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Юмор шоу</caption>
+			<channel_id>Olsib_Yumor_shou</channel_id>
+			<epg_id>Olsib Юмор шоу FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-jumor.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Cвоя игра</caption>
+			<channel_id>NTVSvoyaIgra</channel_id>
+			<epg_id>НТВ Cвоя игра</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/svoyaigra.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НТВ Ты супер!</caption>
+			<channel_id>NTVTiSuper</channel_id>
+			<epg_id>НТВ Ты супер!</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/tisuper.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Смотрим 100% Праздник</caption>
+			<channel_id>100Prazdnik</channel_id>
+			<epg_id>Смотрим 100% Праздник</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/smotrim-100-prazdnik.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Смотрим 100% Факты</caption>
+			<channel_id>100Facts</channel_id>
+			<epg_id>Смотрим 100% Факты</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/smotrim-100-fakty.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Автогир</caption>
+			<channel_id>Liberty_AVTO_GIR_FHD</channel_id>
+			<epg_id>Liberty Автогир</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-avtogir.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Шоу</caption>
+			<channel_id>Liberty_shou</channel_id>
+			<epg_id>Liberty Шоу</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-show.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Shows</caption>
+			<channel_id>MTVShows</channel_id>
+			<epg_id>MTV Shows</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mtvshows.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>FunBox UHD</caption>
+			<channel_id>FunBoxUHD</channel_id>
+			<epg_id>FunBox UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/funbox-uhd.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Муз-ТВ</caption>
 			<channel_id>MuzTV</channel_id>
 			<epg_id>МУЗ</epg_id>
@@ -5962,7 +8575,7 @@
 		<tv_channel>
 			<caption>FON Music</caption>
 			<channel_id>TNTMusic</channel_id>
-			<epg_id>ТНТ Music HD</epg_id>
+			<epg_id>ТНТ-Music</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/fonmusic.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>7</archive>
@@ -5971,7 +8584,7 @@
 			<caption>RU.TV</caption>
 			<channel_id>RuTV</channel_id>
 			<epg_id>RU.TV</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/rutv.png</icon_url>
+			<icon_url>http://logo.vivamax.pro/logo/ru-tv.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -6373,13 +8986,6 @@
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Deluxe Rap</caption>
-			<channel_id>DeluxeRap</channel_id>
-			<epg_id>Deluxe Rap</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/dlxrap.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>NOW 70s</caption>
 			<channel_id>now70s</channel_id>
 			<epg_id>Now 70&apos;s</epg_id>
@@ -6426,13 +9032,6 @@
 			<channel_id>538TV</channel_id>
 			<epg_id>TV 538</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/538.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Trace UK</caption>
-			<channel_id>TraceUK</channel_id>
-			<epg_id>Trace UK</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/traceuk.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -6520,24 +9119,10 @@
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Polsat Music</caption>
-			<channel_id>PolsatMusic</channel_id>
-			<epg_id>Polsat Music HD</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/polsatmusic.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Oxygen Music</caption>
 			<channel_id>OxygenMusic</channel_id>
 			<epg_id>Oxygen Music</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/oxygenmusic.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Techno Dance Music Retro</caption>
-			<channel_id>TechnoDanceMusicRetro</channel_id>
-			<epg_id>Techno Dance Music Retro</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/technodancemusicretroplus.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -6548,38 +9133,10 @@
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>MCM 90&apos;S</caption>
-			<channel_id>MCM90</channel_id>
-			<epg_id>MCM 90&apos;S</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/mcm90.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>91 NRG</caption>
-			<channel_id>91NRG</channel_id>
-			<epg_id>91 NRG</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/91nrg.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Schlager Deluxe</caption>
-			<channel_id>ShlagerDeluxe</channel_id>
-			<epg_id>Schlager Deluxe</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/schlagerdeluxe.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Vevo</caption>
 			<channel_id>Vevo</channel_id>
 			<epg_id>Vevo</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/vevo.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Hits 360</caption>
-			<channel_id>Hits360</channel_id>
-			<epg_id>Hits 360</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/Hits360.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -6632,13 +9189,6 @@
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>QMusic</caption>
-			<channel_id>QMusic</channel_id>
-			<epg_id>QMusic</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/Qmusic.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Power TV</caption>
 			<channel_id>powertv</channel_id>
 			<epg_id>Power TV</epg_id>
@@ -6657,13 +9207,6 @@
 			<channel_id>powerlove</channel_id>
 			<epg_id>Power Love</epg_id>
 			<icon_url>http://logo.vivamax.pro/logo/powerlove.png</icon_url>
-			<tv_category_id>9</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Rock &amp; Roll</caption>
-			<channel_id>rocknroll</channel_id>
-			<epg_id>Rock &amp; Roll</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/rocknroll.png</icon_url>
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -7073,6 +9616,456 @@
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Music Box Classic</caption>
+			<channel_id>MusicBoxClassic</channel_id>
+			<epg_id>Music Box Classic</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/musicboxclassic.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Music Box Dance</caption>
+			<channel_id>MusicBoxDance</channel_id>
+			<epg_id>Music Box Dance</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/musicboxdance.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Music Box Hits</caption>
+			<channel_id>MusicBoxHits</channel_id>
+			<epg_id>Music Box Hits</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/musicboxhits.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Music Box Sexy</caption>
+			<channel_id>MusicBoxSexy</channel_id>
+			<epg_id>Music Box Sexy</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/musicboxsexy.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Dance</caption>
+			<channel_id>MTVDance</channel_id>
+			<epg_id>MTV Dance</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mtvdance.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV 80s</caption>
+			<channel_id>MTV80s</channel_id>
+			<epg_id>MTV 80s</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mtv80s.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV 90s</caption>
+			<channel_id>MTV90s</channel_id>
+			<epg_id>MTV 90s</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mtv90s.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV 00s</caption>
+			<channel_id>MTV00s</channel_id>
+			<epg_id>MTV 00s</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mtv00s.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Rocks</caption>
+			<channel_id>MTVRocks</channel_id>
+			<epg_id>MTV Rocks</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mtvrocks.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Brand New</caption>
+			<channel_id>MTVBrandNew</channel_id>
+			<epg_id>MTV Brand New</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/MTVBrandNew.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Classic</caption>
+			<channel_id>MTVClassic</channel_id>
+			<epg_id>MTV Classic</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mtvclassic.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Music 24</caption>
+			<channel_id>MTVMusic24</channel_id>
+			<epg_id>MTV Music 24</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mtvmusic24.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV OMG</caption>
+			<channel_id>MTVOMG</channel_id>
+			<epg_id>MTV OMG</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/MTV_OMG.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>MTV Gold</caption>
+			<channel_id>MTVgold</channel_id>
+			<epg_id>MTV Gold</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mtvgold.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>192TV</caption>
+			<channel_id>192TV</channel_id>
+			<epg_id>192TV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/192tv.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>192TV 60s</caption>
+			<channel_id>192TV60s</channel_id>
+			<epg_id>192TV 60s</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/192tv-60s.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>192TV 70s</caption>
+			<channel_id>192TV70s</channel_id>
+			<epg_id>192TV 70s</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/192tv-70s.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>192TV 80s</caption>
+			<channel_id>192TV80s</channel_id>
+			<epg_id>192TV 80s</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/192tv-80s.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Сочный Music</caption>
+			<channel_id>SochniMusic</channel_id>
+			<epg_id>Сочный Music</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sochnimusic.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib RITSA</caption>
+			<channel_id>Olsib_RITSA</channel_id>
+			<epg_id>Olsib RITSA FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ritsa.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib RU.Music</caption>
+			<channel_id>Olsib_RU_Music</channel_id>
+			<epg_id>Olsib RU.Music FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-ru-music.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Disco-80</caption>
+			<channel_id>Olsib_Disco-80</channel_id>
+			<epg_id>Olsib Disco-80 FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-disco80.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Galicia</caption>
+			<channel_id>Olsib_Galicia</channel_id>
+			<epg_id>Olsib Galicia FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-galic.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib GAlicia 2</caption>
+			<channel_id>Olsib_GAlicia_2</channel_id>
+			<epg_id>Olsib GAlicia_2 FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-galic2.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Radio</caption>
+			<channel_id>Olsib_Radio</channel_id>
+			<epg_id>Olsib Radio FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-radio.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Музыкальный Новогодний</caption>
+			<channel_id>OLSIB_Muzykalnyy_Novogodniy</channel_id>
+			<epg_id>OLSIB Музыкальный Новогодний FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-tv.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE Rock x Metal</caption>
+			<channel_id>XiteRockXMetal</channel_id>
+			<epg_id>XITE Rock x Metal</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/XiteRockXMetal.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE Hits</caption>
+			<channel_id>XiteHits</channel_id>
+			<epg_id>XITE Hits</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xitehits.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE Just Chill</caption>
+			<channel_id>XiteJustChill</channel_id>
+			<epg_id>XITE Just Chill</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xitejustchill.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE R&amp;B Classic Jams</caption>
+			<channel_id>XiteRandBClassicJams</channel_id>
+			<epg_id>XITE R&amp;B Classic Jams</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xite-rbclassicjams.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE 60s &amp; 70s Groove</caption>
+			<channel_id>XITE60s70sGroove</channel_id>
+			<epg_id>XITE 60s &amp; 70s Groove</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xite60-70.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE Celebrates</caption>
+			<channel_id>XITECelebrates</channel_id>
+			<epg_id>XITE Celebrates</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xitecelebrates.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE Christian Hits</caption>
+			<channel_id>XITEChristianHits</channel_id>
+			<epg_id>XITE Christian Hits</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xitechristianhits.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE Classic Country</caption>
+			<channel_id>XITEClassicCountry</channel_id>
+			<epg_id>XITE Classic Country</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xiteclassiccountry.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE Country Today</caption>
+			<channel_id>XITECountryToday</channel_id>
+			<epg_id>XITE Country Today</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xitecountrytoday.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE Gospel</caption>
+			<channel_id>XITEGospel</channel_id>
+			<epg_id>XITE Gospel</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xitegospel.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE Hip-Hop Evolution</caption>
+			<channel_id>XITEHip-HopEvolution</channel_id>
+			<epg_id>XITE Hip-Hop Evolution</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/XITEHip-HopEvolution.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE Nuevo Latino</caption>
+			<channel_id>XITENuevoLatino</channel_id>
+			<epg_id>XITE Nuevo Latino</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/XiteNuevoLatino.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE R&amp;B Feels</caption>
+			<channel_id>XITERandBFeels</channel_id>
+			<epg_id>XITE R&amp;B Feels</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xite-rb-feels.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE Rap Game</caption>
+			<channel_id>XITERapGame</channel_id>
+			<epg_id>XITE Rap Game</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xite-rap-game.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>XITE Siempre Latino</caption>
+			<channel_id>XITESiempreLatino</channel_id>
+			<epg_id>XITE Siempre Latino</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/XITESiempreLatino.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Trace Latina</caption>
+			<channel_id>TraceLatina</channel_id>
+			<epg_id>Trace Latina</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/tracelatina.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Trace Brazuca</caption>
+			<channel_id>TraceBrazuca</channel_id>
+			<epg_id>Trace Brazuca</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/tracebrazuca.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>KLI Retro</caption>
+			<channel_id>KLI_Retro</channel_id>
+			<epg_id>KLI Retro</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/KLI.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vevo Pop Deutschland</caption>
+			<channel_id>VEVO_Pop_Deutschland</channel_id>
+			<epg_id>Vevo Pop Deutschland</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/vevo.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vevo Rock</caption>
+			<channel_id>VevoRock</channel_id>
+			<epg_id>Vevo Rock</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/vevo.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vevo 80s</caption>
+			<channel_id>Vevo80s</channel_id>
+			<epg_id>Vevo 80s</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/vevo.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vevo 90s</caption>
+			<channel_id>Vevo90s</channel_id>
+			<epg_id>Vevo 90s</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/vevo.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vevo 2k</caption>
+			<channel_id>Vevo2k</channel_id>
+			<epg_id>Vevo 2k</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/vevo.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vevo R&amp;B</caption>
+			<channel_id>VevoHipHopRandB</channel_id>
+			<epg_id>Vevo R&amp;B</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/vevo.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Dj Set</caption>
+			<channel_id>VelesDJSet</channel_id>
+			<epg_id>VeleS Dj Set</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/veles-djset.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>VeleS Магнитофон</caption>
+			<channel_id>VelesMagnitofon</channel_id>
+			<epg_id>VeleS Магнитофон</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/veles-mafon.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BestOf DanceTV</caption>
+			<channel_id>BestOfDanceTV</channel_id>
+			<epg_id>BestOf DanceTV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/bestofdancetv.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Deep House District</caption>
+			<channel_id>DeepHouseDistrict</channel_id>
+			<epg_id>Deep House District</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/dhd-logo.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Chill AF Downtempo</caption>
+			<channel_id>ChillAFDowntempo</channel_id>
+			<epg_id>Chill AF Downtempo</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/caf-logo.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Techno Warehouse</caption>
+			<channel_id>TechnowireHouse</channel_id>
+			<epg_id>Techno Warehouse</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/tw-logo.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Tech House Terrace</caption>
+			<channel_id>TechHouseTerrace</channel_id>
+			<epg_id>Tech House Terrace</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/th-logo.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>House Floor</caption>
+			<channel_id>HouseFloor</channel_id>
+			<epg_id>House Floor</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/hf-logo.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Minimal</caption>
+			<channel_id>Minimal</channel_id>
+			<epg_id>Minimal</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/minimal.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Mainstream EDM</caption>
+			<channel_id>MainstreamEDM</channel_id>
+			<epg_id>Mainstream EDM</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mainstage-logo.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Melodic Tech</caption>
+			<channel_id>MelodicTech</channel_id>
+			<epg_id>Melodic Tech</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/melodictech.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Mafi2a</caption>
+			<channel_id>Mafi2a</channel_id>
+			<epg_id>Mafi2a</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/mafi2a.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Olsib Rock Hits</caption>
+			<channel_id>olsib_rock_hits</channel_id>
+			<epg_id>Olsib Rock Hits FHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olsib-tv.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Stingray Festival 4K</caption>
+			<channel_id>StingrayFestival4K</channel_id>
+			<epg_id>Stingray Festival 4K</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/festival-4k.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>CINEMA UHD</caption>
 			<channel_id>CINEMAUHD</channel_id>
 			<epg_id>Cinema UHD</epg_id>
@@ -7179,8 +10172,8 @@
 		<tv_channel>
 			<caption>TravelXP 4K</caption>
 			<channel_id>Travelxp4K</channel_id>
-			<epg_id>BCU Premiere Ultra 4K</epg_id>
-			<icon_url>http://logo.vivamax.pro/logo/bcupremiereultra4k.png</icon_url>
+			<epg_id>Travel XP 4K</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/travelxp.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>7</archive>
 		</tv_channel>
@@ -7207,6 +10200,1355 @@
 			<icon_url>http://logo.vivamax.pro/logo/yossosovetskiefilmi4k.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Легенда 4K</caption>
+			<channel_id>Liberty_legenda_4K</channel_id>
+			<epg_id>Liberty Легенда</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-legenda.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Мульт UKR 4K</caption>
+			<channel_id>Liberty_multukr_4K</channel_id>
+			<epg_id>Liberty Мульт UKR 4K</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-multukr4k.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Кино UKR 4K</caption>
+			<channel_id>Liberty_kinoukr_4K</channel_id>
+			<epg_id>Liberty Кино UKR 4K</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-kinoukr4k.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty РусФильм 4K</caption>
+			<channel_id>Liberty_rusfilm_4K</channel_id>
+			<epg_id>Liberty РусФильм</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-rusfilm.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Кино Микс 4K</caption>
+			<channel_id>Liberty_KINO_MIKS_4K</channel_id>
+			<epg_id>Liberty Кино Микс</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-kinomiks.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Мульт 4K</caption>
+			<channel_id>Liberty_MULT_4K</channel_id>
+			<epg_id>Liberty Мульт</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-mult.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Индия 4K</caption>
+			<channel_id>Liberty_INDI_4K</channel_id>
+			<epg_id>Liberty Индия</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-india.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Netflix 4K</caption>
+			<channel_id>Liberty_NETFLIX_4K</channel_id>
+			<epg_id>Liberty Netflix</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-netflix.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Куб 4K</caption>
+			<channel_id>Liberty_CUBE_4K</channel_id>
+			<epg_id>Liberty Куб</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-kub.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Союз 4K</caption>
+			<channel_id>Liberty_SOYUZ_4K</channel_id>
+			<epg_id>Liberty Союз</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-soyuz.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Кино ENG 4K</caption>
+			<channel_id>Liberty_KINO_ENG_4K</channel_id>
+			<epg_id>Liberty Кино ENG</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-kinoeng.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Мульт ENG 4K</caption>
+			<channel_id>Liberty_MULT_ENG_4K</channel_id>
+			<epg_id>Liberty Мульт ENG</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-multeng.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Триллеры 4K</caption>
+			<channel_id>Liberty_TRILLER_4K</channel_id>
+			<epg_id>Liberty Триллеры</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-trillery.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Сериалы 4K</caption>
+			<channel_id>Liberty_SERIALY_4K</channel_id>
+			<epg_id>Liberty Сериалы</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-serialy.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Криминал 4K</caption>
+			<channel_id>Liberty_CRIMINAL_4K</channel_id>
+			<epg_id>Liberty Криминал</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-kriminal.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty XX Век 4K</caption>
+			<channel_id>Liberty_XX_VEK_4K</channel_id>
+			<epg_id>Liberty XX Век</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-xxvek.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Аванпост 4K</caption>
+			<channel_id>Liberty_AVANPOST_4K</channel_id>
+			<epg_id>Liberty Аванпост</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-avanpost.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty ТуркФильм 4K</caption>
+			<channel_id>Liberty_TURK_FILM_4K</channel_id>
+			<epg_id>Liberty ТуркФильм</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-turkfilm.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Медивал 4K</caption>
+			<channel_id>Liberty_MEDIVAL_4K</channel_id>
+			<epg_id>Liberty Медивал 4K</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-medival-4k.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Мюзикл 4K</caption>
+			<channel_id>Liberty_MYUZIKL_4K</channel_id>
+			<epg_id>Liberty Мюзикл</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-muzikl.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Dreamworks 4K</caption>
+			<channel_id>Liberty_DREAMWORKS_4K</channel_id>
+			<epg_id>Liberty Dreamworks</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-dreamworks.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Семейный 4K</caption>
+			<channel_id>Liberty_SEMEYNYY_4k</channel_id>
+			<epg_id>Liberty Семейный</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-semejny.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Ужасы 4K</caption>
+			<channel_id>Liberty_UZHASY_4k</channel_id>
+			<epg_id>Liberty Ужасы</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-uzhasy.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>4</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV МегаКадр</caption>
+			<channel_id>BearTV_MegaKadr</channel_id>
+			<epg_id>Bear TV МегаКадр RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Золотой Экран</caption>
+			<channel_id>BearTV_ZolotoyEkran</channel_id>
+			<epg_id>Bear TV Золотой Экран RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноВремя</caption>
+			<channel_id>BearTV_KinoVremya</channel_id>
+			<epg_id>Bear TV КиноВремя RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноМир</caption>
+			<channel_id>BearTV_KinoMir</channel_id>
+			<epg_id>Bear TV КиноМир RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Хитовый Экран</caption>
+			<channel_id>BearTV_HitovyyEkran</channel_id>
+			<epg_id>Bear TV Хитовый Экран RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Фильмонавт</caption>
+			<channel_id>BearTV_Filmonavt</channel_id>
+			<epg_id>Bear TV Фильмонавт RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноГоризонт</caption>
+			<channel_id>BearTV_KinoGorizont</channel_id>
+			<epg_id>Bear TV КиноГоризонт RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Сюжет ТВ</caption>
+			<channel_id>BearTV_SyuzhetTV</channel_id>
+			<epg_id>Bear TV Сюжет ТВ RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Кадр Плюс</caption>
+			<channel_id>BearTV_KadrPlus</channel_id>
+			<epg_id>Bear TV Кадр Плюс RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноПульс</caption>
+			<channel_id>BearTV_KinoPuls</channel_id>
+			<epg_id>Bear TV КиноПульс RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Экран 24</caption>
+			<channel_id>BearTV_Ekran24</channel_id>
+			<epg_id>Bear TV Экран 24 RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Ночной Сеанс</caption>
+			<channel_id>BearTV_NochnoySeans</channel_id>
+			<epg_id>Bear TV Ночной Сеанс RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Премьера Live</caption>
+			<channel_id>BearTV_PremieraLive</channel_id>
+			<epg_id>Bear TV Премьера Live RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноМаршрут</caption>
+			<channel_id>BearTV_KinoMarshrut</channel_id>
+			<epg_id>Bear TV КиноМаршрут RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Легенды Экрана</caption>
+			<channel_id>BearTV_LegendyEkrana</channel_id>
+			<epg_id>Bear TV Легенды Экрана RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноВолна</caption>
+			<channel_id>BearTV_KinoVolna</channel_id>
+			<epg_id>Bear TV КиноВолна RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноОрбита</caption>
+			<channel_id>BearTV_KinoOrbita</channel_id>
+			<epg_id>Bear TV КиноОрбита RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Галактика Кино</caption>
+			<channel_id>BearTV_GalaktikaKino</channel_id>
+			<epg_id>Bear TV Галактика Кино RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноСфера</caption>
+			<channel_id>BearTV_KinoSfera</channel_id>
+			<epg_id>Bear TV КиноСфера RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноДрайв</caption>
+			<channel_id>BearTV_KinoDrive</channel_id>
+			<epg_id>Bear TV КиноДрайв RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Блокбастер ТВ</caption>
+			<channel_id>BearTV_BlockbusterTV</channel_id>
+			<epg_id>Bear TV Блокбастер ТВ RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Фильм Канал</caption>
+			<channel_id>BearTV_FilmKanal</channel_id>
+			<epg_id>Bear TV Фильм Канал RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноЛиния</caption>
+			<channel_id>BearTV_KinoLiniya</channel_id>
+			<epg_id>Bear TV КиноЛиния RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноЗвезда</caption>
+			<channel_id>BearTV_KinoZvezda</channel_id>
+			<epg_id>Bear TV КиноЗвезда RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноАрена</caption>
+			<channel_id>BearTV_KinoArena</channel_id>
+			<epg_id>Bear TV КиноАрена RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Экран Будущего</caption>
+			<channel_id>BearTV_EkranBudushchego</channel_id>
+			<epg_id>Bear TV Экран Будущего RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Кино Нова</caption>
+			<channel_id>BearTV_KinoNova</channel_id>
+			<epg_id>Bear TV Кино Нова RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноФокус</caption>
+			<channel_id>BearTV_KinoFocus</channel_id>
+			<epg_id>Bear TV КиноФокус RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV ФильмПоток</caption>
+			<channel_id>BearTV_FilmPotok</channel_id>
+			<epg_id>Bear TV ФильмПоток RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноМикс</caption>
+			<channel_id>BearTV_KinoMix</channel_id>
+			<epg_id>Bear TV КиноМикс RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноКлассика</caption>
+			<channel_id>BearTV_KinoKlassika</channel_id>
+			<epg_id>Bear TV КиноКлассика RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV СуперСеанс</caption>
+			<channel_id>BearTV_SuperSeans</channel_id>
+			<epg_id>Bear TV СуперСеанс RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноДом</caption>
+			<channel_id>BearTV_KinoDom</channel_id>
+			<epg_id>Bear TV КиноДом RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноПланета</caption>
+			<channel_id>BearTV_KinoPlaneta</channel_id>
+			<epg_id>Bear TV КиноПланета RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноНочь</caption>
+			<channel_id>BearTV_KinoNoch</channel_id>
+			<epg_id>Bear TV КиноНочь RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноПортал</caption>
+			<channel_id>BearTV_KinoPortal</channel_id>
+			<epg_id>Bear TV КиноПортал RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Экран Премиум</caption>
+			<channel_id>BearTV_EkranPremium</channel_id>
+			<epg_id>Bear TV Экран Премиум RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноСвет</caption>
+			<channel_id>BearTV_KinoSvet</channel_id>
+			<epg_id>Bear TV КиноСвет RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV ФильмЭкспресс</caption>
+			<channel_id>BearTV_FilmExpress</channel_id>
+			<epg_id>Bear TV ФильмЭкспресс RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Парк Кино</caption>
+			<channel_id>BearTV_ParkKino</channel_id>
+			<epg_id>Bear TV Парк Кино RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Время Кино</caption>
+			<channel_id>BearTV_VremyaKino</channel_id>
+			<epg_id>Bear TV Время Кино RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноМаяк</caption>
+			<channel_id>BearTV_KinoMayak</channel_id>
+			<epg_id>Bear TV КиноМаяк RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноБаза</caption>
+			<channel_id>BearTV_KinoBaza</channel_id>
+			<epg_id>Bear TV КиноБаза RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV ФильмЗона</caption>
+			<channel_id>BearTV_FilmZona</channel_id>
+			<epg_id>Bear TV ФильмЗона RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноИмперия</caption>
+			<channel_id>BearTV_KinoImperiya</channel_id>
+			<epg_id>Bear TV КиноИмперия RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Экран Хит</caption>
+			<channel_id>BearTV_EkranHit</channel_id>
+			<epg_id>Bear TV Экран Хит RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Линия Кино</caption>
+			<channel_id>BearTV_LiniyaKino</channel_id>
+			<epg_id>Bear TV Линия Кино RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV КиноРитм</caption>
+			<channel_id>BearTV_KinoRitm</channel_id>
+			<epg_id>Bear TV КиноРитм RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Сеанс 24/7</caption>
+			<channel_id>BearTV_Seans247</channel_id>
+			<epg_id>Bear TV Сеанс 24/7 RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Bear TV Киномания</caption>
+			<channel_id>BearTV_Kinomaniya</channel_id>
+			<epg_id>Bear TV Киномания RU UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/beartv.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>1</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Red Lips</caption>
+			<channel_id>rlips</channel_id>
+			<epg_id>Red Lips</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/redlips.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русская ночь</caption>
+			<channel_id>russkayanoch</channel_id>
+			<epg_id>Red Lips</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/russkaya-noch.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Exxxotica</caption>
+			<channel_id>exotica</channel_id>
+			<epg_id>Exxxotica HD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/exxxotica.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Playboy TV</caption>
+			<channel_id>pboy</channel_id>
+			<epg_id>Playboy TV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/playboy-tv.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dorcel</caption>
+			<channel_id>Dorcel</channel_id>
+			<epg_id>Dorcel</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/dorcel.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>French Lover</caption>
+			<channel_id>flover</channel_id>
+			<epg_id>FrenchLover</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/french-lover.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Шалун</caption>
+			<channel_id>shalun</channel_id>
+			<epg_id>Шалун</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/shalun.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Шёлк</caption>
+			<channel_id>shelk</channel_id>
+			<epg_id>Шелк</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sholk.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Hustler</caption>
+			<channel_id>hustler</channel_id>
+			<epg_id>Hustler HD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/hustler-hd.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Blue Hustler</caption>
+			<channel_id>bhustler</channel_id>
+			<epg_id>Blue Hustler</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/blue-hustler.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Babes TV</caption>
+			<channel_id>babs</channel_id>
+			<epg_id>Babes TV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/babes-tv.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Barely Legal</caption>
+			<channel_id>barlegal</channel_id>
+			<epg_id>Barely Legal</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/barely-legal.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Brazzers TV</caption>
+			<channel_id>bzzers</channel_id>
+			<epg_id>Brazzers TV Россия</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/brazzers.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Brazzers TV Europe</caption>
+			<channel_id>brazeurope</channel_id>
+			<epg_id>Brazzers TV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/brazzers.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>O-la-la</caption>
+			<channel_id>olala</channel_id>
+			<epg_id>O-la-la</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/olala.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Private TV</caption>
+			<channel_id>private</channel_id>
+			<epg_id>Private TV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/private-tv.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>OX-AX</caption>
+			<channel_id>oxax</channel_id>
+			<epg_id>OX-AX</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/oxax.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>XXL</caption>
+			<channel_id>xxl</channel_id>
+			<epg_id>XXL</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xxl-xxx.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Redlight</caption>
+			<channel_id>redlight</channel_id>
+			<epg_id>Redlight HD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/redlight-hd.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Erox</caption>
+			<channel_id>Erox</channel_id>
+			<epg_id>Erox</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/erox.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eroxxx</caption>
+			<channel_id>eroxxx</channel_id>
+			<epg_id>Eroxxx HD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroxxxhd.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Xy-Max</caption>
+			<channel_id>xy-max</channel_id>
+			<epg_id>Xy-Max</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xymax.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Xy-Plus</caption>
+			<channel_id>xy-plus</channel_id>
+			<epg_id>Xy-Plus</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xyplus.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Xy-Mix</caption>
+			<channel_id>xy-mix</channel_id>
+			<epg_id>Xy-Mix</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/xymix.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Reality Kings</caption>
+			<channel_id>RealityKings</channel_id>
+			<epg_id>REality Kings</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/reality-kings.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vivid Red</caption>
+			<channel_id>vidid-red</channel_id>
+			<epg_id>Vivid Red</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/vivid-red.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cum4K</caption>
+			<channel_id>Cum4k</channel_id>
+			<epg_id>Cum4k UHD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/cum4k.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Charm</caption>
+			<channel_id>BCU_Charm_HD</channel_id>
+			<epg_id>BCU Charm HD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/bcucharm.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>7</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Liberty Эротика</caption>
+			<channel_id>Liberty_erotika</channel_id>
+			<epg_id>Liberty Эротика</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/liberty-erotika.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>4</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Anal</caption>
+			<channel_id>eluxe_an</channel_id>
+			<epg_id>EroLuxe Anal</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-anal.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Blonde</caption>
+			<channel_id>eluxe_blonde</channel_id>
+			<epg_id>EroLuxe Blonde</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-blonde.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Blowjob</caption>
+			<channel_id>eluxe_bjob</channel_id>
+			<epg_id>EroLuxe Blowjob</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-blowjob.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Cinema</caption>
+			<channel_id>eluxe_cinema</channel_id>
+			<epg_id>EroLuxe Cinema</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-cinema.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Cosplay</caption>
+			<channel_id>eluxe_cos</channel_id>
+			<epg_id>EroLuxe Cosplay</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-cosplay.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Ebony</caption>
+			<channel_id>eluxe_ebon</channel_id>
+			<epg_id>EroLuxe Ebony</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-ebony.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Gays</caption>
+			<channel_id>eluxe_g</channel_id>
+			<epg_id>EroLuxe Gays</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-gays.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Gloryhole</caption>
+			<channel_id>eluxe_ghole</channel_id>
+			<epg_id>EroLuxe Gloryhole</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-gloryhole.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Henati</caption>
+			<channel_id>eluxe_henati</channel_id>
+			<epg_id>EroLuxe Henati</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-henati.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Japanese</caption>
+			<channel_id>eluxe_japan</channel_id>
+			<epg_id>EroLuxe Japanese</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-japanese.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Lesbians</caption>
+			<channel_id>eluxe_les</channel_id>
+			<epg_id>EroLuxe Lesbians</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-lesbians.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Massage</caption>
+			<channel_id>eluxe_massage</channel_id>
+			<epg_id>EroLuxe Massage</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-massage.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Milf</caption>
+			<channel_id>eluxe_milf</channel_id>
+			<epg_id>EroLuxe MILF</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-milf.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Orgy</caption>
+			<channel_id>eluxe_org</channel_id>
+			<epg_id>EroLuxe Orgy</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-orgy.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Pregnant</caption>
+			<channel_id>eluxe_preg</channel_id>
+			<epg_id>EroLuxe Pregnant</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-pregnant.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Russian</caption>
+			<channel_id>eluxe_russian</channel_id>
+			<epg_id>EroLuxe Russian</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-russian.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Shemale</caption>
+			<channel_id>eluxe_shem</channel_id>
+			<epg_id>EroLuxe Shemale</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-shemale.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe 60fps</caption>
+			<channel_id>eluxe_60fps</channel_id>
+			<epg_id>EroLuxe 60fps</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-60fps.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Solo</caption>
+			<channel_id>eluxe_solo</channel_id>
+			<epg_id>EroLuxe Solo</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-solo.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Step Family</caption>
+			<channel_id>eluxe_step</channel_id>
+			<epg_id>EroLuxe Stepfamily</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-stepfamily.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe CheerLeader</caption>
+			<channel_id>eluxe_cheer</channel_id>
+			<epg_id>EroLuxe Cheerleader</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-cheerleader.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Creampie</caption>
+			<channel_id>eluxe_cream</channel_id>
+			<epg_id>EroLuxe Creampie</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-creampie.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe 4K UHD</caption>
+			<channel_id>eluxe_4K_UHD</channel_id>
+			<epg_id>EroLuxe 4k</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-4k.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe VIP 4K60FPS</caption>
+			<channel_id>eluxe_vip_4k60fps</channel_id>
+			<epg_id>EroLuxe 4k60fps</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-4k60fps.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe B.B.W</caption>
+			<channel_id>eluxe_bbw</channel_id>
+			<epg_id>EroLuxe BBW</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-bbw.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe BabySitter</caption>
+			<channel_id>eluxe_babysitter</channel_id>
+			<epg_id>EroLuxe Babysitter</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-babysitter.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe B.D.S.M</caption>
+			<channel_id>eluxe_bd_s_m</channel_id>
+			<epg_id>EroLuxe BDSM</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-bdsm.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Big Cock</caption>
+			<channel_id>eluxe_big</channel_id>
+			<epg_id>EroLuxe BigCock</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-bigcock.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Brunette</caption>
+			<channel_id>eluxe_brunette</channel_id>
+			<epg_id>EroLuxe Brunette</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-brunette.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Cuckold</caption>
+			<channel_id>eluxe_cuckld</channel_id>
+			<epg_id>EroLuxe Cuckold</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-cuckold.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Fake Taxi</caption>
+			<channel_id>eluxe_faketax</channel_id>
+			<epg_id>EroLuxe FakeTaxi</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-faketaxi.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Foot Fetish</caption>
+			<channel_id>eluxe_foot</channel_id>
+			<epg_id>EroLuxe FootFetish</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-footfetish.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Fisting</caption>
+			<channel_id>eluxe_fisting</channel_id>
+			<epg_id>EroLuxe Fisting</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-fisting.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe GangBang</caption>
+			<channel_id>eluxe_gang</channel_id>
+			<epg_id>EroLuxe Gangbang</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-gangbang.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Parody</caption>
+			<channel_id>eluxe_parody</channel_id>
+			<epg_id>EroLuxe Parody</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-parody.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe P.O.V.</caption>
+			<channel_id>eluxe_pov</channel_id>
+			<epg_id>EroLuxe POV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-pov.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Public Agent</caption>
+			<channel_id>eluxe_public</channel_id>
+			<epg_id>EroLuxe PublicAgent</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-publicagent.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe RedHeads</caption>
+			<channel_id>eluxe_redheads</channel_id>
+			<epg_id>EroLuxe RedHeads</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-redheads.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Schoolgirl</caption>
+			<channel_id>eluxe_school</channel_id>
+			<epg_id>EroLuxe Schoolgirl</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-schoolgirl.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroLuxe Asian</caption>
+			<channel_id>eluxe_asian</channel_id>
+			<epg_id>EroLuxe Asian</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eroluxe-asian.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Extasy 4K</caption>
+			<channel_id>Extasy4K</channel_id>
+			<epg_id>Extasy 4K</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/extasy4k.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Eromania 4K</caption>
+			<channel_id>Eromania4K</channel_id>
+			<epg_id>Eromania 4K</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/eromania4k.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Penthouse Reality TV</caption>
+			<channel_id>Penthouse-reality</channel_id>
+			<epg_id>Penthouse Reality TV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/penthouse-quickies.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Penthouse Gold</caption>
+			<channel_id>penthouse-gold</channel_id>
+			<epg_id>Penthouse Gold HD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/penthouse-gold.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vixen</caption>
+			<channel_id>Vixen</channel_id>
+			<epg_id>Vixen</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/Vixen.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>SuperOne</caption>
+			<channel_id>SuperOne</channel_id>
+			<epg_id>Super One HD</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/super-one.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fake Taxi</caption>
+			<channel_id>faketaxi</channel_id>
+			<epg_id>Fake Taxi</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/faketaxi.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Leo TV</caption>
+			<channel_id>leotv</channel_id>
+			<epg_id>Leo TV</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/leotv.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Leo TV Gold</caption>
+			<channel_id>leogold</channel_id>
+			<epg_id>Leo TV Gold</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/leogold.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>True Amateurs</caption>
+			<channel_id>trueama</channel_id>
+			<epg_id>True Amateurs</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/trueamateurs.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>SexPrive</caption>
+			<channel_id>sxprive</channel_id>
+			<epg_id>SexPrive</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/sexprive.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Evil Angel</caption>
+			<channel_id>EvilAngel</channel_id>
+			<epg_id>Evil Angel</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/evilangel.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cineman XXX</caption>
+			<channel_id>CinemanXXX</channel_id>
+			<epg_id>Cineman XXX</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/CineManExExEx.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cineman XXX2</caption>
+			<channel_id>CinemanXXX2</channel_id>
+			<epg_id>Cineman XXX2</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/CineManExExEx2.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>YOSSO TV SEXY</caption>
+			<channel_id>YossoSexy</channel_id>
+			<epg_id>YOSSO TV SEXY</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/yosso-sexy.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кино 18+ International</caption>
+			<channel_id>kino18international</channel_id>
+			<epg_id>Кино 18+ International</epg_id>
+			<icon_url>http://logo.vivamax.pro/logo/kino18plusint-tviksel.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+			<protected>1</protected>
 		</tv_channel>
 	</tv_channels>
 </tv_info>
