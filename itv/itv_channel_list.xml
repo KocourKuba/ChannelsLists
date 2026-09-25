@@ -50,20 +50,25 @@
 			<icon_url>plugin_file://icons/categories/33HD.png</icon_url>
 		</tv_category>
 		<tv_category>
+			<id>10</id>
+			<caption>4K UHD каналы</caption>
+			<icon_url>plugin_file://icons/categories/4k.png</icon_url>
+		</tv_category>
+		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -78,7 +83,7 @@
 			<archive>10</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Россия HD</caption>
+			<caption>Россия 1 HD</caption>
 			<channel_id>ch004</channel_id>
 			<epg_id>ch004</epg_id>
 			<icon_url>http://api.01cdn.wf/icon/ch004.png</icon_url>
@@ -196,14 +201,6 @@
 			<icon_url>http://api.01cdn.wf/icon/ch310.png</icon_url>
 			<tv_category_id>1</tv_category_id>
 			<archive>10</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Bloomberg</caption>
-			<channel_id>ch358</channel_id>
-			<epg_id>ch358</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch358.png</icon_url>
-			<tv_category_id>1</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Москва 24</caption>
@@ -582,6 +579,30 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>NOW Series HD</caption>
+			<channel_id>ch200</channel_id>
+			<epg_id>ch200</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch200.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>TV XXI</caption>
+			<channel_id>ch058</channel_id>
+			<epg_id>ch058</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch058.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>НСТ</caption>
+			<channel_id>ch028</channel_id>
+			<epg_id>ch028</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch028.png</icon_url>
+			<tv_category_id>1</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>A2 HD</caption>
 			<channel_id>ch555</channel_id>
 			<epg_id>ch555</epg_id>
@@ -806,14 +827,6 @@
 			<archive>10</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>viju TV 1000 Action HD</caption>
-			<channel_id>ch033</channel_id>
-			<epg_id>ch033</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch033.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>10</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>viju TV 1000 Русское HD</caption>
 			<channel_id>ch022</channel_id>
 			<epg_id>ch022</epg_id>
@@ -948,14 +961,6 @@
 			<icon_url>http://api.01cdn.wf/icon/ch430.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>10</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Киносерия HD</caption>
-			<channel_id>ch072</channel_id>
-			<epg_id>ch072</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch072.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кинохит HD</caption>
@@ -1254,14 +1259,6 @@
 			<archive>10</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Oscar TV HD</caption>
-			<channel_id>oscartv/Mr.Nobody.Against.Putin.2025.1080p.mp4</channel_id>
-			<epg_id>oscartv/Mr.Nobody.Against.Putin.2025.1080p.mp4</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/oscartv/Mr.Nobody.Against.Putin.2025.1080p.mp4.png</icon_url>
-			<tv_category_id>2</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>4ever Cinema HD</caption>
 			<channel_id>ch894</channel_id>
 			<epg_id>ch894</epg_id>
@@ -1316,6 +1313,246 @@
 			<icon_url>http://api.01cdn.wf/icon/ch523.png</icon_url>
 			<tv_category_id>2</tv_category_id>
 			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>viju TV 1000 HD</caption>
+			<channel_id>ch053</channel_id>
+			<epg_id>ch053</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch053.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Победа HD</caption>
+			<channel_id>ch469</channel_id>
+			<epg_id>ch469</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch469.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Premium 1 HD</caption>
+			<channel_id>ch1500</channel_id>
+			<epg_id>ch1500</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1500.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Premium 2 HD</caption>
+			<channel_id>ch1502</channel_id>
+			<epg_id>ch1502</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1502.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Home Series HD</caption>
+			<channel_id>ch1539</channel_id>
+			<epg_id>ch1539</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1539.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Serial Hits HD</caption>
+			<channel_id>ch1538</channel_id>
+			<epg_id>ch1538</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1538.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Comedy Series HD</caption>
+			<channel_id>ch1542</channel_id>
+			<epg_id>ch1542</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1542.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Комеди сериалы HD</caption>
+			<channel_id>ch1541</channel_id>
+			<epg_id>ch1541</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1541.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Праздники HD</caption>
+			<channel_id>ch829</channel_id>
+			<epg_id>ch829</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch829.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Телохранители HD</caption>
+			<channel_id>ch173</channel_id>
+			<epg_id>ch173</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch173.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Полицейский HD</caption>
+			<channel_id>ch795</channel_id>
+			<epg_id>ch795</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch795.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Милиционер HD</caption>
+			<channel_id>ch794</channel_id>
+			<epg_id>ch794</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch794.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Жуки HD</caption>
+			<channel_id>ch796</channel_id>
+			<epg_id>ch796</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch796.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Отпуск HD</caption>
+			<channel_id>ch797</channel_id>
+			<epg_id>ch797</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch797.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO СашаТаня HD</caption>
+			<channel_id>ch1509</channel_id>
+			<epg_id>ch1509</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1509.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO ЧОП HD</caption>
+			<channel_id>ch1530</channel_id>
+			<epg_id>ch1530</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1530.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Универ HD</caption>
+			<channel_id>ch1531</channel_id>
+			<epg_id>ch1531</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1531.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Война семей HD</caption>
+			<channel_id>ch1532</channel_id>
+			<epg_id>ch1532</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1532.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Трёшка HD</caption>
+			<channel_id>ch1533</channel_id>
+			<epg_id>ch1533</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1533.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Физрук HD</caption>
+			<channel_id>ch1536</channel_id>
+			<epg_id>ch1536</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1536.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Реальные пацаны HD</caption>
+			<channel_id>ch1535</channel_id>
+			<epg_id>ch1535</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1535.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Игра престолов HD</caption>
+			<channel_id>ch1534</channel_id>
+			<epg_id>ch1534</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1534.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Комедии СССР HD</caption>
+			<channel_id>ch793</channel_id>
+			<epg_id>ch793</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch793.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO RuCrime HD</caption>
+			<channel_id>ch1508</channel_id>
+			<epg_id>ch1508</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1508.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>4ever Drama HD</caption>
+			<channel_id>ch124</channel_id>
+			<epg_id>ch124</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch124.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>4ever Theater HD</caption>
+			<channel_id>ch125</channel_id>
+			<epg_id>ch125</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch125.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>КиноКульт HD</caption>
+			<channel_id>ch100</channel_id>
+			<epg_id>ch100</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch100.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Еврокино</caption>
+			<channel_id>ch059</channel_id>
+			<epg_id>ch059</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch059.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Русский Бестселлер</caption>
+			<channel_id>ch090</channel_id>
+			<epg_id>ch090</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch090.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Comedy Central</caption>
+			<channel_id>ch032</channel_id>
+			<epg_id>ch032</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch032.png</icon_url>
+			<tv_category_id>2</tv_category_id>
+			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Eurosport 1 HD</caption>
@@ -1686,22 +1923,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Спорт ТВ BY</caption>
-			<channel_id>ch375</channel_id>
-			<epg_id>ch375</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch375.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Canal+ Sport HD</caption>
-			<channel_id>ch442</channel_id>
-			<epg_id>ch442</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch442.png</icon_url>
-			<tv_category_id>3</tv_category_id>
-			<archive>10</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Canal+ Sport 5 HD</caption>
 			<channel_id>ch443</channel_id>
 			<epg_id>ch443</epg_id>
@@ -1724,6 +1945,150 @@
 			<icon_url>http://api.01cdn.wf/icon/ch893.png</icon_url>
 			<tv_category_id>3</tv_category_id>
 			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Боец</caption>
+			<channel_id>ch093</channel_id>
+			<epg_id>ch093</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch093.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Спорт HD</caption>
+			<channel_id>ch1070</channel_id>
+			<epg_id>ch1070</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1070.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Футбол HD</caption>
+			<channel_id>ch1071</channel_id>
+			<epg_id>ch1071</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1071.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Окко Прайм Спорт HD</caption>
+			<channel_id>ch1072</channel_id>
+			<epg_id>ch1072</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1072.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт HD</caption>
+			<channel_id>ch1068</channel_id>
+			<epg_id>ch1068</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1068.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Старт Триумф HD</caption>
+			<channel_id>ch1067</channel_id>
+			<epg_id>ch1067</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1067.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fast Sports 1 HD</caption>
+			<channel_id>ch915</channel_id>
+			<epg_id>ch915</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch915.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fast Sports 2 HD</caption>
+			<channel_id>ch916</channel_id>
+			<epg_id>ch916</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch916.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Спорт 1 HD</caption>
+			<channel_id>ch1073</channel_id>
+			<epg_id>ch1073</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1073.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Спорт 2 HD</caption>
+			<channel_id>ch1074</channel_id>
+			<epg_id>ch1074</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1074.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Спорт 3 HD</caption>
+			<channel_id>ch1075</channel_id>
+			<epg_id>ch1075</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1075.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Спорт 4 HD</caption>
+			<channel_id>ch1076</channel_id>
+			<epg_id>ch1076</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1076.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Спорт 5 HD</caption>
+			<channel_id>ch1077</channel_id>
+			<epg_id>ch1077</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1077.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Спорт 6 HD</caption>
+			<channel_id>ch1078</channel_id>
+			<epg_id>ch1078</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1078.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Спорт 7 HD</caption>
+			<channel_id>ch1079</channel_id>
+			<epg_id>ch1079</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1079.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Спорт 8 HD</caption>
+			<channel_id>ch1080</channel_id>
+			<epg_id>ch1080</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1080.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Спорт 9 HD</caption>
+			<channel_id>ch1081</channel_id>
+			<epg_id>ch1081</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1081.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Okko Спорт 10 HD</caption>
+			<channel_id>ch1082</channel_id>
+			<epg_id>ch1082</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1082.png</icon_url>
+			<tv_category_id>3</tv_category_id>
+			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Discovery Channel HD</caption>
@@ -2078,6 +2443,22 @@
 			<archive>10</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>DUO Мир наизнанку HD</caption>
+			<channel_id>ch1537</channel_id>
+			<epg_id>ch1537</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1537.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Орел и Решка HD</caption>
+			<channel_id>ch1540</channel_id>
+			<epg_id>ch1540</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1540.png</icon_url>
+			<tv_category_id>4</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Bridge TV</caption>
 			<channel_id>ch133</channel_id>
 			<epg_id>ch133</epg_id>
@@ -2278,6 +2659,62 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>Viva TV Russia HD</caption>
+			<channel_id>ch827</channel_id>
+			<epg_id>ch827</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch827.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Beauty Music HD</caption>
+			<channel_id>ch1495</channel_id>
+			<epg_id>ch1495</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1495.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Lounge Music HD</caption>
+			<channel_id>ch1496</channel_id>
+			<epg_id>ch1496</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1496.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Relax Music HD</caption>
+			<channel_id>ch1499</channel_id>
+			<epg_id>ch1499</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1499.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Summer Vibes HD</caption>
+			<channel_id>ch1498</channel_id>
+			<epg_id>ch1498</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1498.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Sleep Music HD</caption>
+			<channel_id>ch1497</channel_id>
+			<epg_id>ch1497</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1497.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Retro Music TV</caption>
+			<channel_id>ch339</channel_id>
+			<epg_id>ch339</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch339.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>2X2</caption>
 			<channel_id>ch082</channel_id>
 			<epg_id>ch082</epg_id>
@@ -2446,6 +2883,46 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>БубOKKO ТВ HD</caption>
+			<channel_id>ch1069</channel_id>
+			<epg_id>ch1069</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1069.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Kids Smile HD</caption>
+			<channel_id>ch428</channel_id>
+			<epg_id>ch428</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch428.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO MultRu HD</caption>
+			<channel_id>ch429</channel_id>
+			<epg_id>ch429</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch429.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Nick Jr</caption>
+			<channel_id>ch329</channel_id>
+			<epg_id>ch329</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch329.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>7</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cartoon Network HD</caption>
+			<channel_id>ch460</channel_id>
+			<epg_id>ch460</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch460.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+			<archive>10</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Animal Planet HD</caption>
 			<channel_id>ch313</channel_id>
 			<epg_id>ch313</epg_id>
@@ -2530,14 +3007,6 @@
 			<channel_id>ch196</channel_id>
 			<epg_id>ch196</epg_id>
 			<icon_url>http://api.01cdn.wf/icon/ch196.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>GO3 Sport 1 HD</caption>
-			<channel_id>ch433</channel_id>
-			<epg_id>ch433</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch433.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -2758,7 +3227,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Россия HD</caption>
+			<caption>Россия 1 HD</caption>
 			<channel_id>ch199</channel_id>
 			<epg_id>ch199</epg_id>
 			<icon_url>http://api.01cdn.wf/icon/ch199.png</icon_url>
@@ -2830,14 +3299,6 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>GO3 Film HD</caption>
-			<channel_id>ch488</channel_id>
-			<epg_id>ch488</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch488.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>7</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Travel Channel HD</caption>
 			<channel_id>ch154</channel_id>
 			<epg_id>ch154</epg_id>
@@ -2874,14 +3335,6 @@
 			<channel_id>ch300</channel_id>
 			<epg_id>ch300</epg_id>
 			<icon_url>http://api.01cdn.wf/icon/ch300.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>GO3 Sport 2 HD</caption>
-			<channel_id>ch431</channel_id>
-			<epg_id>ch431</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch431.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -3022,14 +3475,6 @@
 			<archive>10</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Смотрим Честный детектив</caption>
-			<channel_id>ch914</channel_id>
-			<epg_id>ch914</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch914.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Киномикс HD</caption>
 			<channel_id>ch821</channel_id>
 			<epg_id>ch821</epg_id>
@@ -3038,26 +3483,10 @@
 			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Киносемья HD</caption>
-			<channel_id>ch807</channel_id>
-			<epg_id>ch807</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch807.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>5</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>FilmZone+ HD</caption>
 			<channel_id>ch581</channel_id>
 			<epg_id>ch581</epg_id>
 			<icon_url>http://api.01cdn.wf/icon/ch581.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>10</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>GO3 Films HD</caption>
-			<channel_id>ch583</channel_id>
-			<epg_id>ch583</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch583.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>10</archive>
 		</tv_channel>
@@ -3076,14 +3505,6 @@
 			<icon_url>http://api.01cdn.wf/icon/ch377.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Охотник и Рыболов HD</caption>
-			<channel_id>ch887</channel_id>
-			<epg_id>ch887</epg_id>
-			<icon_url>http://api.01cdn.wf/icon/ch887.png</icon_url>
-			<tv_category_id>7</tv_category_id>
-			<archive>5</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Страна FM HD</caption>
@@ -3122,6 +3543,22 @@
 			<channel_id>ch815</channel_id>
 			<epg_id>ch815</epg_id>
 			<icon_url>http://api.01cdn.wf/icon/ch815.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Музыка Первого</caption>
+			<channel_id>ch818</channel_id>
+			<epg_id>ch818</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch818.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>5</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Матч! Арена HD</caption>
+			<channel_id>ch303</channel_id>
+			<epg_id>ch303</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch303.png</icon_url>
 			<tv_category_id>7</tv_category_id>
 			<archive>5</archive>
 		</tv_channel>
@@ -3222,6 +3659,33 @@
 			<icon_url>http://api.01cdn.wf/icon/ch441.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>10</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vixen HD</caption>
+			<channel_id>ch658</channel_id>
+			<epg_id>ch658</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch658.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>5</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan XXX HD</caption>
+			<channel_id>ch659</channel_id>
+			<epg_id>ch659</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch659.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>5</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>CineMan XXX2 HD</caption>
+			<channel_id>ch660</channel_id>
+			<epg_id>ch660</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch660.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>5</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -3457,6 +3921,76 @@
 			<tv_category_id>9</tv_category_id>
 			<archive>5</archive>
 			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Erox HD</caption>
+			<channel_id>ch110</channel_id>
+			<epg_id>ch110</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch110.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>10</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>O-La-La Full</caption>
+			<channel_id>ch439</channel_id>
+			<epg_id>ch439</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch439.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>5</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Barely legal TV</caption>
+			<channel_id>ch574</channel_id>
+			<epg_id>ch574</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch574.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>5</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Intim 1 HD</caption>
+			<channel_id>ch1506</channel_id>
+			<epg_id>ch1506</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1506.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>5</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Intim 1 UHD</caption>
+			<channel_id>ch1507</channel_id>
+			<epg_id>ch1507</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1507.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>5</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Intim Premium1 HD</caption>
+			<channel_id>ch1505</channel_id>
+			<epg_id>ch1505</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1505.png</icon_url>
+			<tv_category_id>9</tv_category_id>
+			<archive>5</archive>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Cinema UHD</caption>
+			<channel_id>ch1503</channel_id>
+			<epg_id>ch1503</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1503.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUO Premium 1 UHD</caption>
+			<channel_id>ch1504</channel_id>
+			<epg_id>ch1504</epg_id>
+			<icon_url>http://api.01cdn.wf/icon/ch1504.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<archive>10</archive>
 		</tv_channel>
 	</tv_channels>
 </tv_info>

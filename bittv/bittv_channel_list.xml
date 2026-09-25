@@ -87,7 +87,7 @@
 		<tv_category>
 			<id>17</id>
 			<caption>Кинозал Velilla</caption>
-			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
+			<icon_url>plugin_file://icons/categories/velilla.png</icon_url>
 		</tv_category>
 		<tv_category>
 			<id>18</id>
@@ -101,19 +101,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -269,6 +269,7 @@
 			<epg_id>elb2904</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/obwie/sts-int.png</icon_url>
 			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Рен ТВ HD Premium+</caption>
@@ -468,6 +469,7 @@
 			<epg_id>elb377</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/obwie/sankt-peterburg.png</icon_url>
 			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Спас</caption>
@@ -491,6 +493,7 @@
 			<epg_id>elb742</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/obwie/78.png</icon_url>
 			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Москва. Доверие</caption>
@@ -506,6 +509,7 @@
 			<epg_id>elb389</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/obwie/soyuz.png</icon_url>
 			<tv_category_id>1</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>СТС HD Premium+</caption>
@@ -625,6 +629,7 @@
 			<epg_id>elb11</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/news/360-news.png</icon_url>
 			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Мир 24</caption>
@@ -656,6 +661,7 @@
 			<epg_id>579</epg_id>
 			<icon_url>https://bittv.ltd/img/logos/region/ylugansk24.png</icon_url>
 			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>ЦарьГрад</caption>
@@ -663,6 +669,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/img/logos/efir/tsargrad.png</icon_url>
 			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Russia Today HD</caption>
@@ -726,6 +733,7 @@
 			<epg_id>elb1362</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/news/echotv.png</icon_url>
 			<tv_category_id>2</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>News Front</caption>
@@ -1157,6 +1165,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/kino/kinomenu.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Советское кино</caption>
@@ -1548,6 +1557,7 @@
 			<epg_id>elb1763</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/kino/kinosezon.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Победа HD</caption>
@@ -1779,6 +1789,7 @@
 			<epg_id>elb355</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/kino/ratnik.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Патриот</caption>
@@ -1802,6 +1813,7 @@
 			<epg_id>Видеокассета VHS</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/kino/videokasetachs.png</icon_url>
 			<tv_category_id>3</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Кино и жизнь HD</caption>
@@ -2026,13 +2038,6 @@
 			<icon_url>https://bittv.ltd/images/icon/220x132/v-gostiax-u-skazkihd.png</icon_url>
 			<tv_category_id>4</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Ералаш</caption>
-			<channel_id>bigteisti10/08946985</channel_id>
-			<epg_id>Ералаш</epg_id>
-			<icon_url>https://bittv.ltd/images/icon/200x200/dets/eralash.png</icon_url>
-			<tv_category_id>4</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Капитан Фантастика HD</caption>
@@ -2408,6 +2413,7 @@
 			<epg_id>elb375</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/ryzhy.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Уникум</caption>
@@ -2567,6 +2573,7 @@
 			<epg_id>elb50</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/DaVinci.png</icon_url>
 			<tv_category_id>4</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Yosso TV Наше Детское</caption>
@@ -2857,11 +2864,12 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>#Ё</caption>
+			<caption>Planeta 4K BG</caption>
 			<channel_id>bigteisti2/M1_SAMARA</channel_id>
 			<epg_id>elb3433</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/yo.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Bridge HD</caption>
@@ -2941,6 +2949,7 @@
 			<epg_id>elb2317</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/onemuz.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Музыка Первого</caption>
@@ -2964,6 +2973,7 @@
 			<epg_id>elb3685</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/inrating.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Kronehit HD</caption>
@@ -2971,6 +2981,7 @@
 			<epg_id>elb4327</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/kronehit.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MCM Top</caption>
@@ -2986,6 +2997,7 @@
 			<epg_id>elb2240</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/mixm.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RU.TV HD</caption>
@@ -2996,11 +3008,12 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Deluxe Dance HD</caption>
+			<caption>DanceTV Techno Warehouse HD</caption>
 			<channel_id>bigteisti20/08946967</channel_id>
-			<epg_id>Deluxe Dance HD</epg_id>
-			<icon_url>https://bittv.ltd/images/icon/220x132/deluxe-dance-hd-transparent.png</icon_url>
+			<epg_id>elb2240</epg_id>
+			<icon_url>https://bittv.ltd/images/icon/200x200/music/DanceTV.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Stingray CMusic HD</caption>
@@ -3024,6 +3037,7 @@
 			<epg_id>elb47</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/classic-music.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>M1 HD UA</caption>
@@ -3031,6 +3045,7 @@
 			<epg_id>elb1906</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/m1-ua.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>M2 HD UA</caption>
@@ -3038,6 +3053,7 @@
 			<epg_id>elb1908</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/m2-ua.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>FON Music HD</caption>
@@ -3053,6 +3069,7 @@
 			<epg_id>elb2671</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/shanson-tv.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>МузСоюз</caption>
@@ -3060,6 +3077,7 @@
 			<epg_id>elb2157</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/muzsoyuz.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>SONG TV Russia HD</caption>
@@ -3091,6 +3109,7 @@
 			<epg_id>elb160</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/viva-rus1.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MusicBox Gold</caption>
@@ -3106,6 +3125,7 @@
 			<epg_id>elb2267</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/now70s.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Now 80&apos;s</caption>
@@ -3113,6 +3133,7 @@
 			<epg_id>elb2268</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/now80s.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Now Rock</caption>
@@ -3120,6 +3141,7 @@
 			<epg_id>elb2269</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/now-rock.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Metall HD</caption>
@@ -3191,6 +3213,7 @@
 			<epg_id>elb2231</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/polo-tv-pl.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Stars TV HD PL</caption>
@@ -3198,6 +3221,7 @@
 			<epg_id>elb2891</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/stars-tv.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MusicBox PL</caption>
@@ -3205,6 +3229,7 @@
 			<epg_id>elb2148</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/musicbox-pl.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Disco Polo Music HD</caption>
@@ -3212,6 +3237,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/discopolomusic.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>4Fun Dance PL</caption>
@@ -3219,6 +3245,7 @@
 			<epg_id>elb722</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/4fun-dance.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Eska TV HD</caption>
@@ -3226,6 +3253,7 @@
 			<epg_id>elb1437</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/eskatv.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>AIVA</caption>
@@ -3241,6 +3269,7 @@
 			<epg_id>elb3669</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/deluxe-music-de.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MTV DE HD</caption>
@@ -3392,6 +3421,7 @@
 			<epg_id>elb3752</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/ric-de.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Rock TV</caption>
@@ -3447,6 +3477,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/retro80hd.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Russian 90 HD</caption>
@@ -3454,6 +3485,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/russian90hd.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Eurodance 90 HD</caption>
@@ -3461,6 +3493,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/eurodance90hd.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MM Квартирник HD</caption>
@@ -3644,6 +3677,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/rtl1025it.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTL 102.5 Best HD IT</caption>
@@ -3651,6 +3685,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/rtl1025it.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTL 102.5 Bro &amp; Sis HD IT</caption>
@@ -3658,6 +3693,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/rtl1025it.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTL 102.5 Caliente HD IT</caption>
@@ -3665,6 +3701,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/rtl1025it.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTL 102.5 Disco HD IT</caption>
@@ -3672,6 +3709,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/rtl1025it.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTL 102.5 Napulé HD IT</caption>
@@ -3679,6 +3717,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/rtl1025it.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTL 102.5 affic HD IT</caption>
@@ -3686,6 +3725,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/rtl1025it.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Retro Plus TV HD</caption>
@@ -3693,6 +3733,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/music/retroplustv.png</icon_url>
 			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky High Music HD</caption>
@@ -3831,6 +3872,14 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>MuzzOne HD KZ</caption>
+			<channel_id>bigteisti6/MUZZONE_KZ</channel_id>
+			<epg_id>elb2165</epg_id>
+			<icon_url>https://bittv.ltd/images/icon/220x132/muzzone.png</icon_url>
+			<tv_category_id>5</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Viaplay Sports Ultra 4K SE</caption>
 			<channel_id>bigteisti1/18946902</channel_id>
 			<epg_id>elb3226</epg_id>
@@ -3931,6 +3980,7 @@
 			<epg_id>elb276</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/match-football1.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч! Футбол 1 HD Premium+</caption>
@@ -3946,6 +3996,7 @@
 			<epg_id>elb278</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/match-football2.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч! Футбол 2 HD Premium+</caption>
@@ -3961,6 +4012,7 @@
 			<epg_id>elb280</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/match-football3.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Матч! Футбол 3 HD Premium+</caption>
@@ -4067,7 +4119,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Беларусь 5 HD</caption>
+			<caption>Беларусь 5 HD BY</caption>
 			<channel_id>bigteisti10/BELARUS5</channel_id>
 			<epg_id>elb979</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/belarus5hd.png</icon_url>
@@ -4104,6 +4156,7 @@
 			<epg_id>elb4749</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/prime-fight.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>FightBox HD</caption>
@@ -4160,13 +4213,6 @@
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/mir-basketbola.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Мир баскетбола</caption>
-			<channel_id>bigteisti3/psi_mir_basketbola</channel_id>
-			<epg_id>elb284</epg_id>
-			<icon_url>https://bittv.ltd/images/icon/200x200/sport/mir-basketbola.png</icon_url>
-			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
 			<caption>Eurosport 1 HD Premium+</caption>
@@ -4334,6 +4380,7 @@
 			<epg_id>elb2224</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/nhl.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>NHL Network HD</caption>
@@ -4349,6 +4396,7 @@
 			<epg_id>elb2222</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/nfl-network.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>viju+ Sport HD</caption>
@@ -4380,6 +4428,7 @@
 			<epg_id>elb2215</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/nba-tv.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Canal+ Sport 1 HD PL</caption>
@@ -4475,6 +4524,7 @@
 			<epg_id>TNT Sports Ultimate 4K UK</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/bt-sport-4k.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>TNT Sports 1 HD UK</caption>
@@ -4562,6 +4612,7 @@
 			<epg_id>elb1378</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/eleven-sports-4k.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Eleven Sports 1 HD PL</caption>
@@ -5041,6 +5092,7 @@
 			<epg_id>elb4143</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/5sport-4k.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport 1 HD IL</caption>
@@ -5048,6 +5100,7 @@
 			<epg_id>elb4138</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/sport1il.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport 2 HD IL</caption>
@@ -5055,6 +5108,7 @@
 			<epg_id>elb4140</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/sport2il.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport 3 HD IL</caption>
@@ -5062,6 +5116,7 @@
 			<epg_id>elb4141</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/sport3il.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport 4 HD IL</caption>
@@ -5069,6 +5124,7 @@
 			<epg_id>elb4142</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/sport4il.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>5Sport HD IL</caption>
@@ -5076,6 +5132,7 @@
 			<epg_id>elb4145</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sport5il.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>5Sport Gold HD IL</caption>
@@ -5083,6 +5140,7 @@
 			<epg_id>elb4144</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/5gold.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>5Sport Live HD IL</caption>
@@ -5090,6 +5148,7 @@
 			<epg_id>elb4146</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/5sport-live.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>One HD IL</caption>
@@ -5097,6 +5156,7 @@
 			<epg_id>elb4123</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/one-il.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>One 2 HD IL</caption>
@@ -5104,6 +5164,7 @@
 			<epg_id>elb4124</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/one2-il.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport 1 HD NZ</caption>
@@ -5183,6 +5244,7 @@
 			<epg_id>elb2729</epg_id>
 			<icon_url>https://bittv.ltd/img/logos/sport/sky-sport-bl1.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cosmote Sport 1 HD GR</caption>
@@ -5190,6 +5252,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/cosmote-sport-1.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cosmote Sport 2 HD GR</caption>
@@ -5197,6 +5260,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/cosmote-sport-2.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cosmote Sport 3 HD GR</caption>
@@ -5204,6 +5268,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/cosmote-sport-3.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cosmote Sport 4 HD GR</caption>
@@ -5211,6 +5276,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/cosmote-sport-4.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cosmote Sport 5 HD GR</caption>
@@ -5218,6 +5284,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/cosmote-sport-5.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cosmote Sport 6 HD GR</caption>
@@ -5225,6 +5292,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/cosmote-sport-6.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Cosmote Sport 7 HD GR</caption>
@@ -5232,6 +5300,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/cosmote-sport-7.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nova Sports 1 HD GR</caption>
@@ -5415,6 +5484,7 @@
 			<epg_id>elb3637</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/auto-motor-sport-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>TVPlay ЧМ FIFA Плей-Офф HD</caption>
@@ -5446,6 +5516,7 @@
 			<epg_id>elb2735</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sports-action.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sports Mix HD UK</caption>
@@ -5461,6 +5532,7 @@
 			<epg_id>elb1145</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/cbs-sports-network-us.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Setanta Sports 3 HD GE</caption>
@@ -5484,6 +5556,7 @@
 			<epg_id>elb4239</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/qsport-kz.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Qazsport HD KZ</caption>
@@ -5491,6 +5564,7 @@
 			<epg_id>elb4243</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/kazsport.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>QSport League HD KZ</caption>
@@ -5498,6 +5572,7 @@
 			<epg_id>elb4241</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/q-sport-ext.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>CBC Sport HD AZ</caption>
@@ -5513,6 +5588,7 @@
 			<epg_id>elb1620</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/idman.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>beIN Sports 1 HD TR</caption>
@@ -5520,6 +5596,7 @@
 			<epg_id>2362</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/bein-sport-1.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>beIN Sports 4 HD TR</caption>
@@ -5527,6 +5604,7 @@
 			<epg_id>4961</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/bein-sport-4.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>beIN Sports 3 HD TR</caption>
@@ -5534,6 +5612,7 @@
 			<epg_id>5093</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/bein-sport-3.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>beIN Sports 2 HD TR</caption>
@@ -5541,6 +5620,7 @@
 			<epg_id>no_epg</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/bein-sport-2.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>TRT Spor HD TR</caption>
@@ -5548,6 +5628,7 @@
 			<epg_id>TRT Spor</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/trt-3-hd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>A Spor HD TR</caption>
@@ -5555,6 +5636,7 @@
 			<epg_id>elb760</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/a-spor-tr.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Tivibu Spor 1 HD TR</caption>
@@ -5562,6 +5644,7 @@
 			<epg_id>elb2981</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/tivibu-spor-1.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Tivibu Spor 2 HD TR</caption>
@@ -5569,6 +5652,7 @@
 			<epg_id>elb2982</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/tivibu-spor-2.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Tivibu Spor 3 HD TR</caption>
@@ -5576,6 +5660,7 @@
 			<epg_id>elb2983</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/tivibu-spor-3.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>S Sport HD TR</caption>
@@ -5583,6 +5668,7 @@
 			<epg_id>elb2621</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/s-sport-tr.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>S Sport 2 HD TR</caption>
@@ -5590,6 +5676,7 @@
 			<epg_id>elb2620</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/s-sport-2-tr.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MAX Sport 1 HD Premium+ BG</caption>
@@ -5701,6 +5788,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/hub-premier2-uhd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Nova Sports 2 HD GR</caption>
@@ -5772,6 +5860,7 @@
 			<epg_id>elb4568</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sport-f1-uhd.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport 1 HD LT</caption>
@@ -5779,6 +5868,7 @@
 			<epg_id>Sport 1 HD LT</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sport1-lt.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sports Main Event UHD UK</caption>
@@ -5786,6 +5876,7 @@
 			<epg_id>elb2743</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sports-maine.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>DAZN F1 HD ES</caption>
@@ -5809,6 +5900,7 @@
 			<epg_id>elb1282</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/dazn2-es.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport Bundesliga 6 HD DE</caption>
@@ -5816,6 +5908,7 @@
 			<epg_id>elb2708</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sport-bl6.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Canal+ Extra 1 HD PL</caption>
@@ -5855,6 +5948,7 @@
 			<epg_id>elb2703</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sport-bl1.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport Bundesliga 2 HD DE</caption>
@@ -5862,6 +5956,7 @@
 			<epg_id>elb2704</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sport-bl2.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport Bundesliga 3 HD DE</caption>
@@ -5869,6 +5964,7 @@
 			<epg_id>elb2705</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sport-bl3.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport Bundesliga 4 HD DE</caption>
@@ -5876,6 +5972,7 @@
 			<epg_id>elb2706</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sport-bl4.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport Bundesliga 5 HD DE</caption>
@@ -5883,6 +5980,7 @@
 			<epg_id>elb2707</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sport-bl5.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport Bundesliga 7 HD DE</caption>
@@ -5890,6 +5988,7 @@
 			<epg_id>elb2703</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sport-bundesliga-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport Bundesliga 8 HD DE</caption>
@@ -5897,6 +5996,7 @@
 			<epg_id>elb2703</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sport-bundesliga-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport Bundesliga 9 HD DE</caption>
@@ -5904,6 +6004,7 @@
 			<epg_id>elb2703</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sport-bundesliga-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport Bundesliga 10 HD DE</caption>
@@ -5911,6 +6012,7 @@
 			<epg_id>elb2703</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sport-bundesliga-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport F1 HD Premium+ DE</caption>
@@ -5926,6 +6028,7 @@
 			<epg_id>elb3791</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sport1-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sport1+ HD DE</caption>
@@ -5933,6 +6036,7 @@
 			<epg_id>elb3792</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sport1-plus-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Окко Прайм Спорт HD</caption>
@@ -5948,6 +6052,7 @@
 			<epg_id>elb3677</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/edgesport-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport Bundesliga HD DE</caption>
@@ -5963,6 +6068,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/dazn-event1-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>DAZN Event 2 HD DE</caption>
@@ -5970,6 +6076,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/dazn-event2-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>DAZN Event 3 HD DE</caption>
@@ -5977,6 +6084,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/dazn-event3-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>DAZN Event 4 HD DE</caption>
@@ -5984,6 +6092,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/dazn-event4-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>DAZN Event 5 HD DE</caption>
@@ -5991,6 +6100,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/dazn-event5-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>DAZN Event 6 HD DE</caption>
@@ -5998,6 +6108,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/dazn-event6-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>DAZN Event 7 HD DE</caption>
@@ -6005,6 +6116,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/dazn-event7-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>DAZN Fast HD DE</caption>
@@ -6012,6 +6124,7 @@
 			<epg_id>DAZN Fast HD DE</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/dazn-fast-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>DAZN Rise HD DE</caption>
@@ -6019,6 +6132,7 @@
 			<epg_id>DAZN Rise HD DE</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/dazn-rise-de.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>My Team TV 1 HD DE</caption>
@@ -6026,6 +6140,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/my-teamtv-1.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>My Team TV 2 HD DE</caption>
@@ -6033,6 +6148,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/my-teamtv-2.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>My Team TV 3 HD DE</caption>
@@ -6040,6 +6156,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/my-teamtv-3.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>My Team TV 4 HD DE</caption>
@@ -6047,6 +6164,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/my-teamtv-4.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>My Team TV 5 HD DE</caption>
@@ -6054,6 +6172,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/my-teamtv-5.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>My Team TV 6 HD DE</caption>
@@ -6061,6 +6180,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/my-teamtv-6.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>My Team TV 7 HD DE</caption>
@@ -6068,6 +6188,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/my-teamtv-7.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Magentasport HD DE</caption>
@@ -6075,6 +6196,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/magentasport.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTL+ Sport Event 1 HD DE</caption>
@@ -6082,6 +6204,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/rtl-plus-event1.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTL+ Sport Event 2 HD DE</caption>
@@ -6089,6 +6212,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/rtl-plus-event2.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTL+ Sport Event 3 HD DE</caption>
@@ -6096,6 +6220,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/rtl-plus-event3.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTL+ Sport Event 4 HD DE</caption>
@@ -6103,6 +6228,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/rtl-plus-event4.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTL+ Sport Event 5 HD DE</caption>
@@ -6110,6 +6236,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/rtl-plus-event5.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTL+ Sport Event 6 HD DE</caption>
@@ -6117,6 +6244,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/rtl-plus-event6.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>RTL+ Sport Event 7 HD DE</caption>
@@ -6124,6 +6252,7 @@
 			<epg_id>elb2237</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/rtl-plus-event7.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sport Top Event HD DE</caption>
@@ -6147,6 +6276,7 @@
 			<epg_id>elb3781</epg_id>
 			<icon_url>https://bittv.ltd/img/logos/DE/sky-sport-aus.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Eurosport 1 HD DE</caption>
@@ -6266,6 +6396,7 @@
 			<epg_id>elb4848</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/okko-chempionat.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Setanta Sports 1 HD KZ</caption>
@@ -6321,6 +6452,7 @@
 			<epg_id>elb3502</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/ziggo-sport1-nl.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Diema Sport 3 4K BG</caption>
@@ -6336,6 +6468,7 @@
 			<epg_id>elb961</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/bein-sports-4k.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sportsnet One 4K CA</caption>
@@ -6383,6 +6516,7 @@
 			<epg_id>elb2964</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/tennis-cnl-us.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Sky Sports Tennis HD UK</caption>
@@ -6390,6 +6524,7 @@
 			<epg_id>elb2747</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/sport/sky-sports-tennis.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Старт Баскет HD</caption>
@@ -6477,6 +6612,7 @@
 			<epg_id>elb580</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/cineman/cineman-fitnes.png</icon_url>
 			<tv_category_id>6</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Velilla TV EuroCup 1984</caption>
@@ -6956,6 +7092,7 @@
 			<epg_id>Drone TV HD</epg_id>
 			<icon_url>plugin_file://icons/channels/channel_unset.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Живая Природа HD</caption>
@@ -7123,6 +7260,7 @@
 			<epg_id>elb303</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/nano-hd.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Наука 2.0 HD</caption>
@@ -7234,6 +7372,7 @@
 			<epg_id>elb2619</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/rzhd-tv.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>H2 HD</caption>
@@ -7337,6 +7476,7 @@
 			<epg_id>elb2176</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/nadezhda.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Усадьба HD</caption>
@@ -7368,6 +7508,7 @@
 			<epg_id>elb1633</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/insight-ultra-hd.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Живая планета HD</caption>
@@ -7487,6 +7628,7 @@
 			<epg_id>elb142</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/TVMChannel.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Авто Плюс HD</caption>
@@ -7502,6 +7644,7 @@
 			<epg_id>elb1480</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/FashionBoxHD.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Загородная жизнь HD</caption>
@@ -7517,6 +7660,7 @@
 			<epg_id>elb212</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/zdorovoe-tv.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Зоо ТВ</caption>
@@ -7556,6 +7700,7 @@
 			<epg_id>elb2051</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/ministerstvo-idey.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>TLC Pan Regional HD</caption>
@@ -7683,6 +7828,7 @@
 			<epg_id>elb351</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/psixologia-21.png</icon_url>
 			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Viasat Nature CEE HD</caption>
@@ -7821,11 +7967,28 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
+			<caption>BOX Kosmo 4K</caption>
+			<channel_id>bigteisti13/op_Xeon</channel_id>
+			<epg_id>elb3580</epg_id>
+			<icon_url>https://bittv.ltd/images/icon/200x200/box/box-serial.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX History 4K</caption>
+			<channel_id>bigteisti13/kl_Frontier</channel_id>
+			<epg_id>elb3578</epg_id>
+			<icon_url>https://bittv.ltd/images/icon/200x200/box/box-history-4k.png</icon_url>
+			<tv_category_id>7</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
 			<caption>Russian Extreme UHD</caption>
 			<channel_id>bigteisti3/ultra_rex_4k</channel_id>
 			<epg_id>elb110</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/razv/russian-extreme-uhd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>CineMan Relax 4K</caption>
@@ -7833,6 +7996,7 @@
 			<epg_id>elb582</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/cineman/cineman-relax.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>BOX Relax 4K</caption>
@@ -7840,6 +8004,7 @@
 			<epg_id>elb3591</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/box/box-relax.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>HOME 4K</caption>
@@ -7863,6 +8028,7 @@
 			<epg_id>elb64</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/fashion-tv-uhd.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>MyZen 4K</caption>
@@ -7870,6 +8036,7 @@
 			<epg_id>elb2171</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/myzen-tv-4k.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Аппетитный HD</caption>
@@ -7941,6 +8108,7 @@
 			<epg_id>elb3574</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/box/box-game.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Liberty Шоу HD</caption>
@@ -8052,6 +8220,7 @@
 			<epg_id>elb437</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/centralnoye-tv.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Плюс-Минус 16 HD</caption>
@@ -8155,6 +8324,7 @@
 			<epg_id>elb749</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/razv/8kanal-eu.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Драйв HD</caption>
@@ -8194,6 +8364,7 @@
 			<epg_id>elb65</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/fashion-tv.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Ключ HD</caption>
@@ -8217,6 +8388,7 @@
 			<epg_id>elb221</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/kaleydoskop.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Балет опера HD</caption>
@@ -8224,6 +8396,7 @@
 			<epg_id>elb885</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/Balet_Opera.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Теледом</caption>
@@ -8231,6 +8404,7 @@
 			<epg_id>elb2956</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/teledom.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Твоё ТВ HD</caption>
@@ -8246,6 +8420,7 @@
 			<epg_id>elb2180</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/razv/narod-vsio-vidit.png</icon_url>
 			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
 			<caption>Арт</caption>
@@ -9604,6 +9779,30 @@
 			<channel_id>bigteisti13/xi_Tiger</channel_id>
 			<epg_id>elb3572</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/box/box-franchise.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Russian 4K</caption>
+			<channel_id>bigteisti13/hi_Flow</channel_id>
+			<epg_id>elb4711</epg_id>
+			<icon_url>https://bittv.ltd/images/icon/200x200/box/box-russian-4k.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX Serial Premiere 4K</caption>
+			<channel_id>bigteisti13/ij_Star13</channel_id>
+			<epg_id>elb3598</epg_id>
+			<icon_url>https://bittv.ltd/images/icon/200x200/box/box-serial-premiere-4k.png</icon_url>
+			<tv_category_id>12</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>BOX СССР 4K</caption>
+			<channel_id>bigteisti13/jk_Legend</channel_id>
+			<epg_id>elb3623</epg_id>
+			<icon_url>https://bittv.ltd/images/icon/200x200/box/box-sssr-4k.png</icon_url>
 			<tv_category_id>12</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -11021,6 +11220,7 @@
 			<epg_id>elb367</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/russkaya-noch.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11029,6 +11229,7 @@
 			<epg_id>elb1735</epg_id>
 			<icon_url>https://bittv.ltd/img/logos/kinoInt/Kino_18.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11037,6 +11238,7 @@
 			<epg_id>elb1736</epg_id>
 			<icon_url>https://bittv.ltd/img/logos/kinoInt/Kino_18.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11054,6 +11256,7 @@
 			<epg_id>elb29</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/BlueHustler18.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11062,6 +11265,7 @@
 			<epg_id>elb27</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/BarelyLegalTV18.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11079,10 +11283,11 @@
 			<epg_id>elb1433</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/erox.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Playboy</caption>
+			<caption>Playboy (18+)</caption>
 			<channel_id>bigteisti3/playboy</channel_id>
 			<epg_id>elb98</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/playboy-tv.png</icon_url>
@@ -11096,6 +11301,7 @@
 			<epg_id>elb1339</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/dorcel.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11104,6 +11310,7 @@
 			<epg_id>elb2356</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/penthouse-gold.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11112,6 +11319,7 @@
 			<epg_id>elb1611</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/hustler-hd.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11120,6 +11328,7 @@
 			<epg_id>elb32</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/brazzers-tv-europe-ru.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11128,6 +11337,7 @@
 			<epg_id>elb1468</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/extasy4k.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11136,6 +11346,7 @@
 			<epg_id>elb1469</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/Extasy.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11152,6 +11363,7 @@
 			<epg_id>elb2535</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/redlight.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11160,6 +11372,7 @@
 			<epg_id>elb25</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/xxx/babes-tv.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11168,6 +11381,7 @@
 			<epg_id>elb2476</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/private-tv.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11176,6 +11390,7 @@
 			<epg_id>elb100</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/RedLips.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11188,11 +11403,12 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Vivid Red HD</caption>
+			<caption>Vivid Red HD (18+)</caption>
 			<channel_id>bigteisti20/08946984</channel_id>
 			<epg_id>elb3371</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/VividRedHD.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11556,11 +11772,12 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>ALBA XXX 1 HD</caption>
+			<caption>ALBA XXX 1 HD (18+)</caption>
 			<channel_id>bigteisti19/08946971</channel_id>
-			<epg_id>ALBA XXX 1 HD</epg_id>
+			<epg_id>ALBA XXX 1 HD (18+)</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/220x132/Alba1HD.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11578,6 +11795,7 @@
 			<epg_id>CineMan ExExEx (18+)</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/cineman/CineManExExEx.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
@@ -11586,6 +11804,7 @@
 			<epg_id>CineMan ExExEx TWO (18+)</epg_id>
 			<icon_url>https://bittv.ltd/images/icon/200x200/cineman/CineManExExEx2.png</icon_url>
 			<tv_category_id>19</tv_category_id>
+			<archive>3</archive>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>

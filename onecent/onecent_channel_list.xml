@@ -56,19 +56,19 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -2019,7 +2019,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Duo 4 HD</caption>
+			<caption>Duo Drama HD</caption>
 			<channel_id>8193</channel_id>
 			<epg_id>kanal-11-ee</epg_id>
 			<tvg_id>kanal-11-ee</tvg_id>
@@ -2037,7 +2037,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Film Zone HD</caption>
+			<caption>Duo Star HD</caption>
 			<channel_id>8126</channel_id>
 			<epg_id>filmzone-lv</epg_id>
 			<tvg_id>filmzone-lv</tvg_id>
@@ -2748,7 +2748,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Наше Улюблене Кіно (UА)</caption>
+			<caption>KinoGrande HD</caption>
 			<channel_id>10673</channel_id>
 			<epg_id>no_epg</epg_id>
 			<tvg_id>no_epg</tvg_id>
@@ -3090,7 +3090,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Телеканал Среда</caption>
+			<caption>Amazon Prime Romance</caption>
 			<channel_id>11123</channel_id>
 			<epg_id>no_epg</epg_id>
 			<tvg_id>no_epg</tvg_id>
@@ -3378,7 +3378,7 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>BCU Cosmo HD</caption>
+			<caption>BCU Family HDR</caption>
 			<channel_id>7830</channel_id>
 			<epg_id>bcu-cosmo</epg_id>
 			<tvg_id>bcu-cosmo</tvg_id>
@@ -5135,7 +5135,7 @@
 		<tv_channel>
 			<caption>Cinema Fantasy HD</caption>
 			<channel_id>9854</channel_id>
-			<epg_id>no_epg</epg_id>
+			<epg_id>cinema-fantasy-ua</epg_id>
 			<tvg_id>no_epg</tvg_id>
 			<icon_url>http://1lot.tv/ch/9854.png</icon_url>
 			<tv_category_id>3</tv_category_id>
@@ -8112,15 +8112,6 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>DAZN F1</caption>
-			<channel_id>9022</channel_id>
-			<epg_id>dazn-f1-es</epg_id>
-			<tvg_id>dazn-f1-es</tvg_id>
-			<icon_url>http://1lot.tv/ch/9022.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Cars &amp; Stars TV HD</caption>
 			<channel_id>9025</channel_id>
 			<epg_id>cars-n-stars</epg_id>
@@ -8396,15 +8387,6 @@
 			<epg_id>no_epg_sport</epg_id>
 			<tvg_id>no_epg_sport</tvg_id>
 			<icon_url>http://1lot.tv/ch/10215.png</icon_url>
-			<tv_category_id>6</tv_category_id>
-			<archive>1</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>DAZN LaLiga HD</caption>
-			<channel_id>10115</channel_id>
-			<epg_id>dazn-laliga-es</epg_id>
-			<tvg_id>dazn-laliga-es</tvg_id>
-			<icon_url>http://1lot.tv/ch/10115.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 			<archive>1</archive>
 		</tv_channel>
@@ -9363,7 +9345,7 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Уникум</caption>
+			<caption>Детский</caption>
 			<channel_id>1112</channel_id>
 			<epg_id>detsky</epg_id>
 			<tvg_id>detsky</tvg_id>
@@ -10535,7 +10517,7 @@
 		<tv_channel>
 			<caption>RTG TV HD</caption>
 			<channel_id>0125</channel_id>
-			<epg_id>rtg-tv</epg_id>
+			<epg_id>rtg-hd</epg_id>
 			<tvg_id>rtg-tv</tvg_id>
 			<icon_url>http://1lot.tv/ch/0125.png</icon_url>
 			<tv_category_id>8</tv_category_id>
@@ -11550,7 +11532,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>RAZ 1 HD</caption>
+			<caption>Raz 1 HD</caption>
 			<channel_id>9831</channel_id>
 			<epg_id>raz1</epg_id>
 			<tvg_id>raz1</tvg_id>
@@ -11559,7 +11541,7 @@
 			<archive>1</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>RAZ 2 HD</caption>
+			<caption>Raz 2 HD</caption>
 			<channel_id>9832</channel_id>
 			<epg_id>raz2</epg_id>
 			<tvg_id>raz2</tvg_id>

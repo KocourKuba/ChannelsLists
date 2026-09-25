@@ -56,25 +56,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Медиатека</caption>
+			<caption>Video On Demand</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -6610,173 +6610,56 @@
 			<tv_category_id>9</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>HUSTLER HD</caption>
-			<channel_id>902</channel_id>
-			<epg_id>902</epg_id>
-			<tvg_id>902</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/902.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>REDLIGHT HD</caption>
-			<channel_id>904</channel_id>
-			<epg_id>904</epg_id>
-			<tvg_id>904</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/904.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>PENTHOUSE GOLD</caption>
-			<channel_id>909</channel_id>
-			<epg_id>909</epg_id>
-			<tvg_id>909</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/909.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>PENTHOUSE QUICKIES</caption>
-			<channel_id>903</channel_id>
-			<epg_id>903</epg_id>
-			<tvg_id>903</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/903.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pink O TV</caption>
-			<channel_id>5880</channel_id>
-			<epg_id>5880</epg_id>
-			<tvg_id>5880</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/5880.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Dorcel</caption>
-			<channel_id>5881</channel_id>
-			<epg_id>5881</epg_id>
-			<tvg_id>5881</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/5881.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Private TV</caption>
-			<channel_id>5758</channel_id>
-			<epg_id>5758</epg_id>
-			<tvg_id>5758</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/5758.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Babes</caption>
-			<channel_id>17976</channel_id>
-			<epg_id>17976</epg_id>
-			<tvg_id>17976</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/17976.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Шалун HD</caption>
-			<channel_id>22401</channel_id>
-			<epg_id>22401</epg_id>
-			<tvg_id>22401</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22401.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Playboy TV</caption>
-			<channel_id>5235</channel_id>
-			<epg_id>5235</epg_id>
-			<tvg_id>5235</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/5235.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Playboy  Plus</caption>
-			<channel_id>22414</channel_id>
-			<epg_id>22414</epg_id>
-			<tvg_id>22414</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22414.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>O-la-la</caption>
-			<channel_id>907</channel_id>
-			<epg_id>907</epg_id>
-			<tvg_id>907</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/907.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>EXXXOTICA HD</caption>
-			<channel_id>901</channel_id>
-			<epg_id>901</epg_id>
-			<tvg_id>901</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/901.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>EroXXX</caption>
-			<channel_id>22402</channel_id>
-			<epg_id>22402</epg_id>
-			<tvg_id>22402</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22402.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Reality Kings</caption>
-			<channel_id>22403</channel_id>
-			<epg_id>22403</epg_id>
-			<tvg_id>22403</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22403.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Barely legal</caption>
-			<channel_id>22404</channel_id>
-			<epg_id>22404</epg_id>
-			<tvg_id>22404</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22404.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Vivid RED HD</caption>
-			<channel_id>19180</channel_id>
-			<epg_id>19180</epg_id>
-			<tvg_id>19180</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/19180.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Bang Bros UHD</caption>
-			<channel_id>29010</channel_id>
-			<epg_id>29010</epg_id>
-			<tvg_id>29010</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29010.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>21 Sextury</caption>
 			<channel_id>29000</channel_id>
 			<epg_id>29000</epg_id>
 			<tvg_id>29000</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29000.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>A3 Bikini</caption>
+			<channel_id>29001</channel_id>
+			<epg_id>29001</epg_id>
+			<tvg_id>29001</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29001.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>ALBA XXX 1</caption>
+			<channel_id>22444</channel_id>
+			<epg_id>22444</epg_id>
+			<tvg_id>22444</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22444.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>ALBA XXX 2</caption>
+			<channel_id>22445</channel_id>
+			<epg_id>22445</epg_id>
+			<tvg_id>22445</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22445.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>AST TV</caption>
+			<channel_id>29005</channel_id>
+			<epg_id>29005</epg_id>
+			<tvg_id>29005</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29005.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>AST TV 2</caption>
+			<channel_id>29006</channel_id>
+			<epg_id>29006</epg_id>
+			<tvg_id>29006</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29006.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -6799,20 +6682,47 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>AST TV</caption>
-			<channel_id>29005</channel_id>
-			<epg_id>29005</epg_id>
-			<tvg_id>29005</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29005.png</icon_url>
+			<caption>Anal Red TV</caption>
+			<channel_id>29003</channel_id>
+			<epg_id>29003</epg_id>
+			<tvg_id>29003</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29003.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>AST TV 2</caption>
-			<channel_id>29006</channel_id>
-			<epg_id>29006</epg_id>
-			<tvg_id>29006</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29006.png</icon_url>
+			<caption>Analized HD</caption>
+			<channel_id>29004</channel_id>
+			<epg_id>29004</epg_id>
+			<tvg_id>29004</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29004.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>BCU Charm HD</caption>
+			<channel_id>20788</channel_id>
+			<epg_id>20788</epg_id>
+			<tvg_id>20788</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/20788.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>BRAZZERS</caption>
+			<channel_id>22421</channel_id>
+			<epg_id>22421</epg_id>
+			<tvg_id>22421</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22421.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Babes</caption>
+			<channel_id>17976</channel_id>
+			<epg_id>17976</epg_id>
+			<tvg_id>17976</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/17976.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -6853,6 +6763,15 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
+			<caption>Bang Bros UHD</caption>
+			<channel_id>29010</channel_id>
+			<epg_id>29010</epg_id>
+			<tvg_id>29010</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29010.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
 			<caption>Bang!</caption>
 			<channel_id>29011</channel_id>
 			<epg_id>29011</epg_id>
@@ -6862,11 +6781,65 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
+			<caption>Barely legal</caption>
+			<channel_id>22404</channel_id>
+			<epg_id>22404</epg_id>
+			<tvg_id>22404</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22404.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Big Ass Adult TV</caption>
+			<channel_id>29012</channel_id>
+			<epg_id>29012</epg_id>
+			<tvg_id>29012</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29012.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Big Dick Red TV</caption>
+			<channel_id>29013</channel_id>
+			<epg_id>29013</epg_id>
+			<tvg_id>29013</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29013.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Big Tits Adult TV</caption>
+			<channel_id>29014</channel_id>
+			<epg_id>29014</epg_id>
+			<tvg_id>29014</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29014.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
 			<caption>Blacked HD</caption>
 			<channel_id>29015</channel_id>
 			<epg_id>29015</epg_id>
 			<tvg_id>29015</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29015.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Blonde Adult TV</caption>
+			<channel_id>29016</channel_id>
+			<epg_id>29016</epg_id>
+			<tvg_id>29016</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29016.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Blowjob Red TV</caption>
+			<channel_id>29017</channel_id>
+			<epg_id>29017</epg_id>
+			<tvg_id>29017</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29017.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -6889,11 +6862,11 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>BRAZZERS</caption>
-			<channel_id>22421</channel_id>
-			<epg_id>22421</epg_id>
-			<tvg_id>22421</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22421.png</icon_url>
+			<caption>Brazzers TV</caption>
+			<channel_id>5236</channel_id>
+			<epg_id>5236</epg_id>
+			<tvg_id>5236</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/5236.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -6903,6 +6876,24 @@
 			<epg_id>29020</epg_id>
 			<tvg_id>29020</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29020.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Brunette Adult TV</caption>
+			<channel_id>29021</channel_id>
+			<epg_id>29021</epg_id>
+			<tvg_id>29021</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29021.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Candy TV</caption>
+			<channel_id>22436</channel_id>
+			<epg_id>22436</epg_id>
+			<tvg_id>22436</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22436.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -6925,29 +6916,29 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
+			<caption>Compilation Adult TV</caption>
+			<channel_id>29026</channel_id>
+			<epg_id>29026</epg_id>
+			<tvg_id>29026</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29026.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Cuckold Red TV</caption>
+			<channel_id>29027</channel_id>
+			<epg_id>29027</epg_id>
+			<tvg_id>29027</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29027.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
 			<caption>Cum Louder</caption>
 			<channel_id>29028</channel_id>
 			<epg_id>29028</epg_id>
 			<tvg_id>29028</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29028.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Dad Crush</caption>
-			<channel_id>29030</channel_id>
-			<epg_id>29030</epg_id>
-			<tvg_id>29030</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29030.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Day with a Pornstar</caption>
-			<channel_id>29032</channel_id>
-			<epg_id>29032</epg_id>
-			<tvg_id>29032</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29032.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -6966,6 +6957,42 @@
 			<epg_id>29034</epg_id>
 			<tvg_id>29034</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29034.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>DUSK! XXX</caption>
+			<channel_id>22462</channel_id>
+			<epg_id>22462</epg_id>
+			<tvg_id>22462</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22462.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Dad Crush</caption>
+			<channel_id>29030</channel_id>
+			<epg_id>29030</epg_id>
+			<tvg_id>29030</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29030.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Daughter Swap</caption>
+			<channel_id>29031</channel_id>
+			<epg_id>29031</epg_id>
+			<tvg_id>29031</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29031.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Day with a Pornstar</caption>
+			<channel_id>29032</channel_id>
+			<epg_id>29032</epg_id>
+			<tvg_id>29032</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29032.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -6997,6 +7024,15 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
+			<caption>Dorcel</caption>
+			<channel_id>5881</channel_id>
+			<epg_id>5881</epg_id>
+			<tvg_id>5881</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/5881.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
 			<caption>Dorcel Club</caption>
 			<channel_id>29038</channel_id>
 			<epg_id>29038</epg_id>
@@ -7015,11 +7051,65 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
+			<caption>EXXXOTICA HD</caption>
+			<channel_id>901</channel_id>
+			<epg_id>901</epg_id>
+			<tvg_id>901</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/901.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>EroXXX</caption>
+			<channel_id>22402</channel_id>
+			<epg_id>22402</epg_id>
+			<tvg_id>22402</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22402.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Erox HD</caption>
+			<channel_id>29040</channel_id>
+			<epg_id>29040</epg_id>
+			<tvg_id>29040</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29040.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
 			<caption>Evil Angel HD</caption>
 			<channel_id>29041</channel_id>
 			<epg_id>29041</epg_id>
 			<tvg_id>29041</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29041.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Evolved Fights</caption>
+			<channel_id>29042</channel_id>
+			<epg_id>29042</epg_id>
+			<tvg_id>29042</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29042.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Extasy HD XXX</caption>
+			<channel_id>22461</channel_id>
+			<epg_id>22461</epg_id>
+			<tvg_id>22461</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22461.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>FTV</caption>
+			<channel_id>29056</channel_id>
+			<epg_id>29056</epg_id>
+			<tvg_id>29056</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29056.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -7123,11 +7213,20 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>FTV</caption>
-			<channel_id>29056</channel_id>
-			<epg_id>29056</epg_id>
-			<tvg_id>29056</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29056.png</icon_url>
+			<caption>FemJoy</caption>
+			<channel_id>29054</channel_id>
+			<epg_id>29054</epg_id>
+			<tvg_id>29054</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29054.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Fetish Red TV</caption>
+			<channel_id>29055</channel_id>
+			<epg_id>29055</epg_id>
+			<tvg_id>29055</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29055.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -7168,6 +7267,15 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
+			<caption>HUSTLER HD</caption>
+			<channel_id>902</channel_id>
+			<epg_id>902</epg_id>
+			<tvg_id>902</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/902.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
 			<caption>Hands on Hardcore</caption>
 			<channel_id>29061</channel_id>
 			<epg_id>29061</epg_id>
@@ -7182,6 +7290,15 @@
 			<epg_id>29062</epg_id>
 			<tvg_id>29062</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29062.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Hardcore Red TV</caption>
+			<channel_id>29063</channel_id>
+			<epg_id>29063</epg_id>
+			<tvg_id>29063</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29063.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -7204,11 +7321,11 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Hot and Mean</caption>
-			<channel_id>29066</channel_id>
-			<epg_id>29066</epg_id>
-			<tvg_id>29066</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29066.png</icon_url>
+			<caption>Hot</caption>
+			<channel_id>22412</channel_id>
+			<epg_id>22412</epg_id>
+			<tvg_id>22412</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22412.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -7222,11 +7339,29 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
+			<caption>Hot and Mean</caption>
+			<channel_id>29066</channel_id>
+			<epg_id>29066</epg_id>
+			<tvg_id>29066</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29066.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
 			<caption>House of Fyre</caption>
 			<channel_id>29068</channel_id>
 			<epg_id>29068</epg_id>
 			<tvg_id>29068</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29068.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Hustler TV</caption>
+			<channel_id>19185</channel_id>
+			<epg_id>19185</epg_id>
+			<tvg_id>19185</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/19185.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -7249,6 +7384,15 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
+			<caption>JASMIN</caption>
+			<channel_id>22429</channel_id>
+			<epg_id>22429</epg_id>
+			<tvg_id>22429</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22429.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
 			<caption>Japan HDV</caption>
 			<channel_id>29071</channel_id>
 			<epg_id>29071</epg_id>
@@ -7267,6 +7411,15 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
+			<caption>Latina Red TV</caption>
+			<channel_id>29073</channel_id>
+			<epg_id>29073</epg_id>
+			<tvg_id>29073</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29073.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
 			<caption>Lesbea</caption>
 			<channel_id>29074</channel_id>
 			<epg_id>29074</epg_id>
@@ -7276,11 +7429,65 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
+			<caption>Lesbian Red TV</caption>
+			<channel_id>29075</channel_id>
+			<epg_id>29075</epg_id>
+			<tvg_id>29075</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29075.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
 			<caption>Lethal Hardcore</caption>
 			<channel_id>29076</channel_id>
 			<epg_id>29076</epg_id>
 			<tvg_id>29076</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29076.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Little Asians HD</caption>
+			<channel_id>29077</channel_id>
+			<epg_id>29077</epg_id>
+			<tvg_id>29077</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29077.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Live Cams Adult TV</caption>
+			<channel_id>29078</channel_id>
+			<epg_id>29078</epg_id>
+			<tvg_id>29078</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29078.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Lust Cinema</caption>
+			<channel_id>29079</channel_id>
+			<epg_id>29079</epg_id>
+			<tvg_id>29079</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29079.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>MILF Red TV</caption>
+			<channel_id>29082</channel_id>
+			<epg_id>29082</epg_id>
+			<tvg_id>29082</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29082.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>MYLF TV HD</caption>
+			<channel_id>29084</channel_id>
+			<epg_id>29084</epg_id>
+			<tvg_id>29084</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29084.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -7312,15 +7519,6 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>MYLF TV HD</caption>
-			<channel_id>29084</channel_id>
-			<epg_id>29084</epg_id>
-			<tvg_id>29084</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29084.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Naughty America</caption>
 			<channel_id>29085</channel_id>
 			<epg_id>29085</epg_id>
@@ -7335,6 +7533,141 @@
 			<epg_id>29086</epg_id>
 			<tvg_id>29086</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29086.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>O-la-la</caption>
+			<channel_id>907</channel_id>
+			<epg_id>907</epg_id>
+			<tvg_id>907</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/907.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>PENTHOUSE GOLD</caption>
+			<channel_id>909</channel_id>
+			<epg_id>909</epg_id>
+			<tvg_id>909</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/909.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>PENTHOUSE PASSION</caption>
+			<channel_id>19183</channel_id>
+			<epg_id>19183</epg_id>
+			<tvg_id>19183</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/19183.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>PENTHOUSE QUICKIES</caption>
+			<channel_id>903</channel_id>
+			<epg_id>903</epg_id>
+			<tvg_id>903</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/903.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>POV Adult TV</caption>
+			<channel_id>29091</channel_id>
+			<epg_id>29091</epg_id>
+			<tvg_id>29091</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29091.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Passion XXX</caption>
+			<channel_id>22431</channel_id>
+			<epg_id>22431</epg_id>
+			<tvg_id>22431</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22431.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pink Erotic 4</caption>
+			<channel_id>29089</channel_id>
+			<epg_id>29089</epg_id>
+			<tvg_id>29089</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29089.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pink O TV</caption>
+			<channel_id>5880</channel_id>
+			<epg_id>5880</epg_id>
+			<tvg_id>5880</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/5880.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Play-x Retro SEX HD</caption>
+			<channel_id>21151</channel_id>
+			<epg_id>21151</epg_id>
+			<tvg_id>21151</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/21151.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Play-x Spy Sex HD</caption>
+			<channel_id>21152</channel_id>
+			<epg_id>21152</epg_id>
+			<tvg_id>21152</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/21152.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Playboy  Plus</caption>
+			<channel_id>22414</channel_id>
+			<epg_id>22414</epg_id>
+			<tvg_id>22414</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22414.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Playboy TV</caption>
+			<channel_id>5235</channel_id>
+			<epg_id>5235</epg_id>
+			<tvg_id>5235</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/5235.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Pornstar Red TV</caption>
+			<channel_id>29090</channel_id>
+			<epg_id>29090</epg_id>
+			<tvg_id>29090</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29090.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Princess Cum</caption>
+			<channel_id>29092</channel_id>
+			<epg_id>29092</epg_id>
+			<tvg_id>29092</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29092.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Private TV</caption>
+			<channel_id>5758</channel_id>
+			<epg_id>5758</epg_id>
+			<tvg_id>5758</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/5758.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -7357,6 +7690,15 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
+			<caption>REDLIGHT HD</caption>
+			<channel_id>904</channel_id>
+			<epg_id>904</epg_id>
+			<tvg_id>904</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/904.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
 			<caption>RK Prime</caption>
 			<channel_id>29094</channel_id>
 			<epg_id>29094</epg_id>
@@ -7371,6 +7713,78 @@
 			<epg_id>29095</epg_id>
 			<tvg_id>29095</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29095.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Reality Kings</caption>
+			<channel_id>22403</channel_id>
+			<epg_id>22403</epg_id>
+			<tvg_id>22403</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22403.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Rough Adult TV</caption>
+			<channel_id>29096</channel_id>
+			<epg_id>29096</epg_id>
+			<tvg_id>29096</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29096.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Russian Adult TV</caption>
+			<channel_id>29097</channel_id>
+			<epg_id>29097</epg_id>
+			<tvg_id>29097</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29097.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>SCT</caption>
+			<channel_id>22432</channel_id>
+			<epg_id>22432</epg_id>
+			<tvg_id>22432</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22432.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>SINematica</caption>
+			<channel_id>29101</channel_id>
+			<epg_id>29101</epg_id>
+			<tvg_id>29101</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29101.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Sex With Muslims</caption>
+			<channel_id>29098</channel_id>
+			<epg_id>29098</epg_id>
+			<tvg_id>29098</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29098.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>SexArt</caption>
+			<channel_id>29099</channel_id>
+			<epg_id>29099</epg_id>
+			<tvg_id>29099</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29099.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Strawberry HD</caption>
+			<channel_id>20787</channel_id>
+			<epg_id>20787</epg_id>
+			<tvg_id>20787</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/20787.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -7393,6 +7807,15 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
+			<caption>Teen Red TV</caption>
+			<channel_id>29103</channel_id>
+			<epg_id>29103</epg_id>
+			<tvg_id>29103</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29103.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
 			<caption>The Nudie</caption>
 			<channel_id>29104</channel_id>
 			<epg_id>29104</epg_id>
@@ -7407,6 +7830,15 @@
 			<epg_id>29105</epg_id>
 			<tvg_id>29105</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29105.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Trans Angels</caption>
+			<channel_id>29107</channel_id>
+			<epg_id>29107</epg_id>
+			<tvg_id>29107</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29107.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -7434,6 +7866,33 @@
 			<epg_id>29110</epg_id>
 			<tvg_id>29110</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29110.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>U Bang</caption>
+			<channel_id>29111</channel_id>
+			<epg_id>29111</epg_id>
+			<tvg_id>29111</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29111.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Visit-X TV</caption>
+			<channel_id>29112</channel_id>
+			<epg_id>29112</epg_id>
+			<tvg_id>29112</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29112.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Vivid RED HD</caption>
+			<channel_id>19180</channel_id>
+			<epg_id>19180</epg_id>
+			<tvg_id>19180</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/19180.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -7474,6 +7933,24 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
+			<caption>XXL</caption>
+			<channel_id>19186</channel_id>
+			<epg_id>19186</epg_id>
+			<tvg_id>19186</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/19186.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>XY Max HD XXX</caption>
+			<channel_id>22459</channel_id>
+			<epg_id>22459</epg_id>
+			<tvg_id>22459</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22459.png</icon_url>
+			<tv_category_id>10</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
 			<caption>XY Mix</caption>
 			<channel_id>29118</channel_id>
 			<epg_id>29118</epg_id>
@@ -7492,92 +7969,11 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>A3 Bikini</caption>
-			<channel_id>29001</channel_id>
-			<epg_id>29001</epg_id>
-			<tvg_id>29001</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29001.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Anal Red TV</caption>
-			<channel_id>29003</channel_id>
-			<epg_id>29003</epg_id>
-			<tvg_id>29003</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29003.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Analized HD</caption>
-			<channel_id>29004</channel_id>
-			<epg_id>29004</epg_id>
-			<tvg_id>29004</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29004.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Big Ass Adult TV</caption>
-			<channel_id>29012</channel_id>
-			<epg_id>29012</epg_id>
-			<tvg_id>29012</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29012.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Big Dick Red TV</caption>
-			<channel_id>29013</channel_id>
-			<epg_id>29013</epg_id>
-			<tvg_id>29013</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29013.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Big Tits Adult TV</caption>
-			<channel_id>29014</channel_id>
-			<epg_id>29014</epg_id>
-			<tvg_id>29014</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29014.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Blonde Adult TV</caption>
-			<channel_id>29016</channel_id>
-			<epg_id>29016</epg_id>
-			<tvg_id>29016</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29016.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Blowjob Red TV</caption>
-			<channel_id>29017</channel_id>
-			<epg_id>29017</epg_id>
-			<tvg_id>29017</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29017.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Brunette Adult TV</caption>
-			<channel_id>29021</channel_id>
-			<epg_id>29021</epg_id>
-			<tvg_id>29021</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29021.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Candy TV</caption>
-			<channel_id>22436</channel_id>
-			<epg_id>22436</epg_id>
-			<tvg_id>22436</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22436.png</icon_url>
+			<caption>Xpanded TV</caption>
+			<channel_id>29117</channel_id>
+			<epg_id>29117</epg_id>
+			<tvg_id>29117</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/29117.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -7591,200 +7987,11 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Compilation Adult TV</caption>
-			<channel_id>29026</channel_id>
-			<epg_id>29026</epg_id>
-			<tvg_id>29026</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29026.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Cuckold Red TV</caption>
-			<channel_id>29027</channel_id>
-			<epg_id>29027</epg_id>
-			<tvg_id>29027</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29027.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Daughter Swap</caption>
-			<channel_id>29031</channel_id>
-			<epg_id>29031</epg_id>
-			<tvg_id>29031</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29031.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Evolved Fights</caption>
-			<channel_id>29042</channel_id>
-			<epg_id>29042</epg_id>
-			<tvg_id>29042</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29042.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Extasy HD XXX</caption>
-			<channel_id>22461</channel_id>
-			<epg_id>22461</epg_id>
-			<tvg_id>22461</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22461.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>FemJoy</caption>
-			<channel_id>29054</channel_id>
-			<epg_id>29054</epg_id>
-			<tvg_id>29054</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29054.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Fetish Red TV</caption>
-			<channel_id>29055</channel_id>
-			<epg_id>29055</epg_id>
-			<tvg_id>29055</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29055.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Hardcore Red TV</caption>
-			<channel_id>29063</channel_id>
-			<epg_id>29063</epg_id>
-			<tvg_id>29063</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29063.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>JASMIN</caption>
-			<channel_id>22429</channel_id>
-			<epg_id>22429</epg_id>
-			<tvg_id>22429</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22429.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Latina Red TV</caption>
-			<channel_id>29073</channel_id>
-			<epg_id>29073</epg_id>
-			<tvg_id>29073</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29073.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Lesbian Red TV</caption>
-			<channel_id>29075</channel_id>
-			<epg_id>29075</epg_id>
-			<tvg_id>29075</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29075.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Little Asians HD</caption>
-			<channel_id>29077</channel_id>
-			<epg_id>29077</epg_id>
-			<tvg_id>29077</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29077.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Live Cams Adult TV</caption>
-			<channel_id>29078</channel_id>
-			<epg_id>29078</epg_id>
-			<tvg_id>29078</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29078.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>MILF Red TV</caption>
-			<channel_id>29082</channel_id>
-			<epg_id>29082</epg_id>
-			<tvg_id>29082</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29082.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>ox-ax HD</caption>
 			<channel_id>29087</channel_id>
 			<epg_id>29087</epg_id>
 			<tvg_id>29087</tvg_id>
 			<icon_url>http://iptv-content.rv77.pw/220x132/29087.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pornstar Red TV</caption>
-			<channel_id>29090</channel_id>
-			<epg_id>29090</epg_id>
-			<tvg_id>29090</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29090.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>POV Adult TV</caption>
-			<channel_id>29091</channel_id>
-			<epg_id>29091</epg_id>
-			<tvg_id>29091</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29091.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Princess Cum</caption>
-			<channel_id>29092</channel_id>
-			<epg_id>29092</epg_id>
-			<tvg_id>29092</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29092.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Rough Adult TV</caption>
-			<channel_id>29096</channel_id>
-			<epg_id>29096</epg_id>
-			<tvg_id>29096</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29096.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Russian Adult TV</caption>
-			<channel_id>29097</channel_id>
-			<epg_id>29097</epg_id>
-			<tvg_id>29097</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29097.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>SCT</caption>
-			<channel_id>22432</channel_id>
-			<epg_id>22432</epg_id>
-			<tvg_id>22432</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22432.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>SexArt</caption>
-			<channel_id>29099</channel_id>
-			<epg_id>29099</epg_id>
-			<tvg_id>29099</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29099.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -7798,204 +8005,6 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>SINematica</caption>
-			<channel_id>29101</channel_id>
-			<epg_id>29101</epg_id>
-			<tvg_id>29101</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29101.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Teen Red TV</caption>
-			<channel_id>29103</channel_id>
-			<epg_id>29103</epg_id>
-			<tvg_id>29103</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29103.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Trans Angels</caption>
-			<channel_id>29107</channel_id>
-			<epg_id>29107</epg_id>
-			<tvg_id>29107</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29107.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Visit-X TV</caption>
-			<channel_id>29112</channel_id>
-			<epg_id>29112</epg_id>
-			<tvg_id>29112</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29112.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>XY Max HD XXX</caption>
-			<channel_id>22459</channel_id>
-			<epg_id>22459</epg_id>
-			<tvg_id>22459</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22459.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pink Erotic 4</caption>
-			<channel_id>29089</channel_id>
-			<epg_id>29089</epg_id>
-			<tvg_id>29089</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29089.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>XXL</caption>
-			<channel_id>19186</channel_id>
-			<epg_id>19186</epg_id>
-			<tvg_id>19186</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/19186.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Hot</caption>
-			<channel_id>22412</channel_id>
-			<epg_id>22412</epg_id>
-			<tvg_id>22412</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22412.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Brazzers TV</caption>
-			<channel_id>5236</channel_id>
-			<epg_id>5236</epg_id>
-			<tvg_id>5236</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/5236.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>ALBA XXX 1</caption>
-			<channel_id>22444</channel_id>
-			<epg_id>22444</epg_id>
-			<tvg_id>22444</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22444.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>ALBA XXX 2</caption>
-			<channel_id>22445</channel_id>
-			<epg_id>22445</epg_id>
-			<tvg_id>22445</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22445.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>PENTHOUSE PASSION</caption>
-			<channel_id>19183</channel_id>
-			<epg_id>19183</epg_id>
-			<tvg_id>19183</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/19183.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Hustler TV</caption>
-			<channel_id>19185</channel_id>
-			<epg_id>19185</epg_id>
-			<tvg_id>19185</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/19185.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>DUSK! XXX</caption>
-			<channel_id>22462</channel_id>
-			<epg_id>22462</epg_id>
-			<tvg_id>22462</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22462.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Erox HD</caption>
-			<channel_id>29040</channel_id>
-			<epg_id>29040</epg_id>
-			<tvg_id>29040</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29040.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Lust Cinema</caption>
-			<channel_id>29079</channel_id>
-			<epg_id>29079</epg_id>
-			<tvg_id>29079</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29079.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Passion XXX</caption>
-			<channel_id>22431</channel_id>
-			<epg_id>22431</epg_id>
-			<tvg_id>22431</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/22431.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Sex With Muslims</caption>
-			<channel_id>29098</channel_id>
-			<epg_id>29098</epg_id>
-			<tvg_id>29098</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29098.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>U Bang</caption>
-			<channel_id>29111</channel_id>
-			<epg_id>29111</epg_id>
-			<tvg_id>29111</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29111.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Xpanded TV</caption>
-			<channel_id>29117</channel_id>
-			<epg_id>29117</epg_id>
-			<tvg_id>29117</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/29117.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Strawberry HD</caption>
-			<channel_id>20787</channel_id>
-			<epg_id>20787</epg_id>
-			<tvg_id>20787</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/20787.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>BCU Charm HD</caption>
-			<channel_id>20788</channel_id>
-			<epg_id>20788</epg_id>
-			<tvg_id>20788</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/20788.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Русская ночь</caption>
 			<channel_id>5238</channel_id>
 			<epg_id>5238</epg_id>
@@ -8005,20 +8014,11 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Play-x Retro SEX HD</caption>
-			<channel_id>21151</channel_id>
-			<epg_id>21151</epg_id>
-			<tvg_id>21151</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/21151.png</icon_url>
-			<tv_category_id>10</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Play-x Spy Sex HD</caption>
-			<channel_id>21152</channel_id>
-			<epg_id>21152</epg_id>
-			<tvg_id>21152</tvg_id>
-			<icon_url>http://iptv-content.rv77.pw/220x132/21152.png</icon_url>
+			<caption>Шалун HD</caption>
+			<channel_id>22401</channel_id>
+			<epg_id>22401</epg_id>
+			<tvg_id>22401</tvg_id>
+			<icon_url>http://iptv-content.rv77.pw/220x132/22401.png</icon_url>
 			<tv_category_id>10</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>

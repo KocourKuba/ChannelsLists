@@ -111,25 +111,25 @@
 		</tv_category>
 		<tv_category>
 			<id>32798</id>
-			<caption>Избранное</caption>
+			<caption>Favorites</caption>
 			<icon_url>plugin_file://icons/categories/fav.png</icon_url>
 			<special_group>##favorites##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32806</id>
-			<caption>Медиатека</caption>
+			<caption>Video On Demand</caption>
 			<icon_url>plugin_file://icons/categories/vod.png</icon_url>
 			<special_group>##mediateka##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32807</id>
-			<caption>Все каналы</caption>
+			<caption>All Channels</caption>
 			<icon_url>plugin_file://icons/categories/all.png</icon_url>
 			<special_group>##all_channels##</special_group>
 		</tv_category>
 		<tv_category>
 			<id>32808</id>
-			<caption>История</caption>
+			<caption>History</caption>
 			<icon_url>plugin_file://icons/categories/history.png</icon_url>
 			<special_group>##playback_history_tv_group##</special_group>
 		</tv_category>
@@ -2782,6 +2782,14 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
+			<caption>Зал 1 (Триколор)</caption>
+			<channel_id>18126</channel_id>
+			<epg_id>6353</epg_id>
+			<tvg_id>6353</tvg_id>
+			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/6353.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
 			<caption>Зал 9 (Триколор)</caption>
 			<channel_id>18134</channel_id>
 			<epg_id>6361</epg_id>
@@ -2790,11 +2798,17 @@
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Зал 1 (Триколор)</caption>
-			<channel_id>18126</channel_id>
-			<epg_id>6353</epg_id>
-			<tvg_id>6353</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/6353.png</icon_url>
+			<caption>Зал 17 (Триколор)</caption>
+			<channel_id>32104</channel_id>
+			<epg_id>17030</epg_id>
+			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/17030.png</icon_url>
+			<tv_category_id>6</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Зал 19 (Триколор)</caption>
+			<channel_id>32106</channel_id>
+			<epg_id>17032</epg_id>
+			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/17032.png</icon_url>
 			<tv_category_id>6</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3296,33 +3310,6 @@
 			<archive>3</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Кинозал 10 (Триколор)</caption>
-			<channel_id>2577</channel_id>
-			<epg_id>2961</epg_id>
-			<tvg_id>2961</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/2961.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинозал 11 (Триколор)</caption>
-			<channel_id>2578</channel_id>
-			<epg_id>2962</epg_id>
-			<tvg_id>2962</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/2962.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
-			<caption>Кинозал 12 (Триколор)</caption>
-			<channel_id>2579</channel_id>
-			<epg_id>2963</epg_id>
-			<tvg_id>2963</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/2963.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-			<archive>3</archive>
-		</tv_channel>
-		<tv_channel>
 			<caption>Кинозал 2 (Триколор)</caption>
 			<channel_id>2569</channel_id>
 			<epg_id>2953</epg_id>
@@ -3391,6 +3378,33 @@
 			<epg_id>2960</epg_id>
 			<tvg_id>2960</tvg_id>
 			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/2960.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинозал 10 (Триколор)</caption>
+			<channel_id>2577</channel_id>
+			<epg_id>2961</epg_id>
+			<tvg_id>2961</tvg_id>
+			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/2961.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинозал 11 (Триколор)</caption>
+			<channel_id>2578</channel_id>
+			<epg_id>2962</epg_id>
+			<tvg_id>2962</tvg_id>
+			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/2962.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+			<archive>3</archive>
+		</tv_channel>
+		<tv_channel>
+			<caption>Кинозал 12 (Триколор)</caption>
+			<channel_id>2579</channel_id>
+			<epg_id>2963</epg_id>
+			<tvg_id>2963</tvg_id>
+			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/2963.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 			<archive>3</archive>
 		</tv_channel>
@@ -3530,14 +3544,6 @@
 			<archive>7</archive>
 		</tv_channel>
 		<tv_channel>
-			<caption>Зал 8 (Триколор)</caption>
-			<channel_id>18133</channel_id>
-			<epg_id>6360</epg_id>
-			<tvg_id>6360</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/6360.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
 			<caption>Зал 2 (Триколор)</caption>
 			<channel_id>18127</channel_id>
 			<epg_id>6354</epg_id>
@@ -3546,11 +3552,11 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Зал 12 (Триколор)</caption>
-			<channel_id>18137</channel_id>
-			<epg_id>6364</epg_id>
-			<tvg_id>6364</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/6364.png</icon_url>
+			<caption>Зал 3 (Триколор)</caption>
+			<channel_id>18128</channel_id>
+			<epg_id>6355</epg_id>
+			<tvg_id>6355</tvg_id>
+			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/6355.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3559,14 +3565,6 @@
 			<epg_id>6356</epg_id>
 			<tvg_id>6356</tvg_id>
 			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/6356.png</icon_url>
-			<tv_category_id>8</tv_category_id>
-		</tv_channel>
-		<tv_channel>
-			<caption>Зал 3 (Триколор)</caption>
-			<channel_id>18128</channel_id>
-			<epg_id>6355</epg_id>
-			<tvg_id>6355</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/6355.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3586,11 +3584,19 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Зал 11 (Триколор)</caption>
-			<channel_id>18136</channel_id>
-			<epg_id>6363</epg_id>
-			<tvg_id>6363</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/6363.png</icon_url>
+			<caption>Зал 7 (Триколор)</caption>
+			<channel_id>18132</channel_id>
+			<epg_id>6359</epg_id>
+			<tvg_id>6359</tvg_id>
+			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/6359.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Зал 8 (Триколор)</caption>
+			<channel_id>18133</channel_id>
+			<epg_id>6360</epg_id>
+			<tvg_id>6360</tvg_id>
+			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/6360.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -3602,11 +3608,26 @@
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
-			<caption>Зал 7 (Триколор)</caption>
-			<channel_id>18132</channel_id>
-			<epg_id>6359</epg_id>
-			<tvg_id>6359</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/6359.png</icon_url>
+			<caption>Зал 11 (Триколор)</caption>
+			<channel_id>18136</channel_id>
+			<epg_id>6363</epg_id>
+			<tvg_id>6363</tvg_id>
+			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/6363.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Зал 12 (Триколор)</caption>
+			<channel_id>18137</channel_id>
+			<epg_id>6364</epg_id>
+			<tvg_id>6364</tvg_id>
+			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/6364.png</icon_url>
+			<tv_category_id>8</tv_category_id>
+		</tv_channel>
+		<tv_channel>
+			<caption>Зал 20 (Триколор)</caption>
+			<channel_id>32107</channel_id>
+			<epg_id>11760</epg_id>
+			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/11760.png</icon_url>
 			<tv_category_id>8</tv_category_id>
 		</tv_channel>
 		<tv_channel>
@@ -8983,15 +9004,6 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Alba XXX 1</caption>
-			<channel_id>12106</channel_id>
-			<epg_id>4913</epg_id>
-			<tvg_id>4913</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/4913.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Alba XXX 1 HD</caption>
 			<channel_id>12204</channel_id>
 			<epg_id>4913</epg_id>
@@ -9127,8 +9139,8 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Babes</caption>
-			<channel_id>6172</channel_id>
+			<caption>Babes HD</caption>
+			<channel_id>6171</channel_id>
 			<epg_id>3140</epg_id>
 			<tvg_id>3140</tvg_id>
 			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/3140.png</icon_url>
@@ -9136,10 +9148,9 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Babes HD</caption>
-			<channel_id>6171</channel_id>
+			<caption>Babes TV</caption>
+			<channel_id>32315</channel_id>
 			<epg_id>3140</epg_id>
-			<tvg_id>3140</tvg_id>
 			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/3140.png</icon_url>
 			<tv_category_id>31</tv_category_id>
 			<protected>1</protected>
@@ -9195,6 +9206,14 @@
 			<epg_id>3143</epg_id>
 			<tvg_id>3143</tvg_id>
 			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/3143.png</icon_url>
+			<tv_category_id>31</tv_category_id>
+			<protected>1</protected>
+		</tv_channel>
+		<tv_channel>
+			<caption>Barely Legal TV</caption>
+			<channel_id>32231</channel_id>
+			<epg_id>7745</epg_id>
+			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/7745.png</icon_url>
 			<tv_category_id>31</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -9970,39 +9989,11 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Penthouse Reality TV HD</caption>
-			<channel_id>5012</channel_id>
-			<epg_id>2779</epg_id>
-			<tvg_id>2779</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/2779.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<archive>3</archive>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pink Erotic 1</caption>
-			<channel_id>6289</channel_id>
-			<epg_id>3258</epg_id>
-			<tvg_id>3258</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/3258.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Pink Erotic 1 HD</caption>
 			<channel_id>12146</channel_id>
 			<epg_id>4953</epg_id>
 			<tvg_id>4953</tvg_id>
 			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/4953.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pink Erotic 2</caption>
-			<channel_id>6290</channel_id>
-			<epg_id>3259</epg_id>
-			<tvg_id>3259</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/3259.png</icon_url>
 			<tv_category_id>31</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -10016,29 +10007,11 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Pink Erotic 3</caption>
-			<channel_id>6240</channel_id>
-			<epg_id>3209</epg_id>
-			<tvg_id>3209</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/3209.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Pink Erotic 3 HD</caption>
 			<channel_id>12148</channel_id>
 			<epg_id>4955</epg_id>
 			<tvg_id>4955</tvg_id>
 			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/4955.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pink Erotic 4</caption>
-			<channel_id>6241</channel_id>
-			<epg_id>3210</epg_id>
-			<tvg_id>3210</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/3210.png</icon_url>
 			<tv_category_id>31</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -10061,15 +10034,6 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Pink Erotic 6</caption>
-			<channel_id>6293</channel_id>
-			<epg_id>3262</epg_id>
-			<tvg_id>3262</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/3262.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Pink Erotic 6 HD</caption>
 			<channel_id>12151</channel_id>
 			<epg_id>4958</epg_id>
@@ -10079,29 +10043,11 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Pink Erotic 7</caption>
-			<channel_id>6294</channel_id>
-			<epg_id>3263</epg_id>
-			<tvg_id>3263</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/3263.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Pink Erotic 7 HD</caption>
 			<channel_id>12152</channel_id>
 			<epg_id>4959</epg_id>
 			<tvg_id>4959</tvg_id>
 			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/4959.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Pink Erotic 8</caption>
-			<channel_id>6295</channel_id>
-			<epg_id>3264</epg_id>
-			<tvg_id>3264</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/3264.png</icon_url>
 			<tv_category_id>31</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
@@ -10571,15 +10517,6 @@
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
-			<caption>Tushy</caption>
-			<channel_id>12188</channel_id>
-			<epg_id>3230</epg_id>
-			<tvg_id>3230</tvg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/3230.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
 			<caption>Tushy HD</caption>
 			<channel_id>6261</channel_id>
 			<epg_id>3230</epg_id>
@@ -10778,22 +10715,6 @@
 			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/2015.png</icon_url>
 			<tv_category_id>31</tv_category_id>
 			<archive>3</archive>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Barely Legal TV</caption>
-			<channel_id>32231</channel_id>
-			<epg_id>7745</epg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/7745.png</icon_url>
-			<tv_category_id>31</tv_category_id>
-			<protected>1</protected>
-		</tv_channel>
-		<tv_channel>
-			<caption>Babes TV</caption>
-			<channel_id>32315</channel_id>
-			<epg_id>3140</epg_id>
-			<icon_url>https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img2/3140.png</icon_url>
-			<tv_category_id>31</tv_category_id>
 			<protected>1</protected>
 		</tv_channel>
 		<tv_channel>
